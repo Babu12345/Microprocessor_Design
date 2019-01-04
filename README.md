@@ -12,4 +12,4 @@ The end goal of the project is to be able to communicate with a human being by t
  - I created a Graphics.py file that processes the data inputted by the Adding_info.py file, or later on by a C or python file that breaks down the data from a collection of articles, and then processed by the BlueSpec processor to create connections. Once completed the graph should display on a Plotly account provided that it has been install on the host computer and the login + APIKEY have been saved onto the configuration file.
  - One important step that I need to do in order to compare multiple nodes in parallel is to have a seperate register file that can compare data with the original register file and then initiate a NodeReq input by putting it into a buffer. The size of this new register file is still kind of uncertain, ie. whether or not it will be the size of the original register file. 
 
-By: Babu-Abel Wanyeki
+By: Babuabel Wanyeki
