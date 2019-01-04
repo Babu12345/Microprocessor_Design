@@ -7,6 +7,8 @@ The basics of this project is to be able to collect already inputted data based 
 
 The end goal of the project is to be able to communicate with a human being by taking Event and Context data and being able to respond to any input using the english language.
 
+A more detailed description of the different files will be uploaded later on.
+
 ## Extra (Personal) Notes:
  - Learn how to return interfaces. Look at the examples provided in past 6.S084 labs. I found this example to be in the lab3 folder and it allows me to be able to create the modules seperately then at the end merge them all together so that I wont have any repeating modules to have to worry about. This is also beneficial because then I also wont have to instantiate them in the seperate files but only once in some top level file.
  - I created a Graphics.py file that processes the data inputted by the Adding_info.py file, or later on by a C or python file that breaks down the data from a collection of articles, and then processed by the BlueSpec processor to create connections. Once completed the graph should display on a Plotly account provided that it has been install on the host computer and the login + APIKEY have been saved onto the configuration file.
