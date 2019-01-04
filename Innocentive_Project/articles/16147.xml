@@ -1,0 +1,46 @@
+<article>
+  <type>blog</type>
+  <title>Cyber Lessons From The Panama Papers Hack</title>
+  <author>Max Emelianov</author>
+  <date>May 23, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+    <tag>guest bloggers</tag>
+    <tag>security breach</tag>
+  </tags>
+  <abstract>By now, you've probably heard all about the so-termed Panama Papers, one of the largest data leaks in history with 11.5 million confidential documents leaked online. How did it happen—and what can we learn from it?</abstract>
+  <text>April marked one of the largest data breaches in history, with 11.5 million confidential documents leaked online. How did it happen—and what can we learn from it?  
+
+By now, you’ve probably heard all about the so-termed Panama Papers, one of the largest data leaks in history. The law firm Mossack Fonseca, a firm that specialized in helping clients create offshore financial holdings, reported that 11.5 million confidential documents leaked online, comprising more than 2 terabytes of data.
+
+Bluntly stated, it was a PR disaster of the highest caliber for the law firm, which had ironically built its brand on secrecy. To make matters worse, the leaked data, which exposes nefarious doings of some of the world’s richest and most powerful individuals, soon will become searchable. Sounds pretty catastrophic, right?
+
+Don’t feel too bad for Mossack Fonseca, though. The firm brought this on itself. Not because it provided offshore tax havens—we’re not here to talk morality–it’s because the firm’s data security practices were some of the worst anyone’s ever seen.
+
+“The story is actually about a company with third-rate security that gets exploited by a routine hack,” writes eWeek’s Wayne Rash, who refers to the firm’s network security as “astonishingly lax.”
+
+They were the victim of a spear-phishing attack. No big deal, right? After all, it's not as though it is the company to fall victim to something like that—which prompted the IRS to alert payroll and human resources professionals to beware of an emerging phishing email scheme that purports to be from company executives and requests personal information on employees.
+
+Hold your horses. It gets worse. Much worse.
+
+How the attackers accessed the firm’s files is functionally irrelevant since once they were inside the network, they had access to everything. The firm failed to segment data, impose access controls and encrypt its information. As if that show of IT incompetence wasn’t enough, officials’ had an incredibly delayed response to the leak—and the attackers were able to make off with 2 terabytes of data. That makes it clear administrators were not monitoring network traffic or conducting anything resembling intrusion detection. “Regardless of how the perpetrators breached the network, the fact is that lax security practices at Mossack Fonseca must have played a role,” Rash concludes. “Otherwise, even if hackers had managed to get in without assistance, they couldn't have downloaded so much data.”
+
+What I’m saying is, if you’re worried about something like this happening to your company, don’t be. It won’t unless you pay only the faintest lip service to security. Still, it’s in our best interest to go over a few lessons that might be learned from this fiasco:
+
+Monitor traffic: Keep a close eye on network traffic and use an automated monitoring solution for alerts to any unusual activity. That way, administrators can preemptively shut down attempts by unauthorized parties to access data.
+	Access control is your friend: Only a select few employees should have access to the most sensitive, highest-level files. If everyone has access to everything, that makes it all the more likely something will get stolen during a breach.
+	Encryption exists—use it: This one’s self-explanatory. Encrypt all data, whether it’s at rest or in transit. The more difficult for attackers to steal, the likelier they will target someone else.
+	Train the staff: Admittedly, it’s impossible to guarantee employees won’t fall for spear-phishing attacks. It just takes one moment of carelessness, after all. Plenty of training courses exist to give people needed knowledge to avoid all but the most sophisticated of phishing scams.
+	Segment the network: Again, this one’s self-explanatory. Cordon files off into sections based on how critical and sensitive the data is.
+The massive leak of Mossack Fonseca’s data sets a prime example of what happens when organizations pay little more than lip service to security. Incorporating proper best practices and security controls will avoid ending up with that much egg on your face.
+
+Consider the Panama Papers breach a cautionary tale, more than anything because it could easily happen to anyone who ignores data security.
+
+Max Emelianov started HostForWeb in 2001. In his role as HostForWeb’s CEO, he focuses on teamwork and providing the best support for customers while delivering cutting-edge web hosting services.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

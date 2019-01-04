@@ -1,0 +1,41 @@
+<article>
+  <type>article</type>
+  <title>From Months to Milliseconds in Cyber</title>
+  <author>George I. Seffers</author>
+  <date>July 21, 2016</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>2016 Homeland Security Conference</tag>
+  </tags>
+  <abstract>The Department of Homeland Security is taking steps to improve the Einstein system, which provides cyber situational awareness across government agencies.</abstract>
+  <text>The Department of Homeland Security (DHS) is taking steps to improve the Einstein system, which provides cyber situational awareness across government agencies.
+
+The Einstein system was instrumental in helping to uncover the massive breach into the Office of Personnel and Management’s (OPM) networks, according to Phyllis Schneck, deputy under secretary for cybersecurity and communications, National Protection and Programs Directorate (NPPD), DHS.
+
+“We can look at trends, and we can look at things that shouldn’t be there, and anomalies, and we can analyze that. That’s how we found a large part of the unfortunate theft from OPM,” Schneck told the audience at the 2016 AFCEA Homeland Security Conference in Washington, D.C., where she was the afternoon keynote speaker. OPM staff saw something new on their networks when they were implementing CERT-recommended improvements.
+
+“They found a new type of event, and we looked back in time at traffic from the Einstein system,” Schneck said. Her team then noticed an issue with the Department of Interior networks, and soon realized the National Park Service was a target because of the massive database it hosts.
+
+Still, Einstein needs improvements, she indicated. The DHS wants to spot anomalous activities, analyze those activities and respond much more rapidly than it is able to today. “Our mantra is from months to milliseconds,” she said.
+
+The goal is to move Einstein from a signature-based system, in part by using it as a platform for industry innovation. “Government’s role is not to build big systems and deliver them 10 years late. It’s to build a platform that supports the innovation of industry. I’m very big on buy not build. Get the biggest and latest and greatest because we’re facing an adversary that will only be beaten by that,” she declared.
+
+Although more work remains to be done, the department already has made progress. “It’s fair to say Einstein is well on its way to being beyond signatures,” Schneck offered.
+
+She compared the aging system to a vaccine. “Coming from a background in high-performance computing, and cryptography and security, and I will tell you that this is a system of vaccines. Your measles vaccine is older than the Einstein system, but you still want it,” Schneck said.
+
+Vaccines may be necessary, but she intends to take Einstein from “a system of vaccines to a full-out immune system,” that is built to “spot things we may not know yet are bad just like your body spots a cold.” The body doesn’t have a conference call or a big meeting. It detects the cold, knows it’s bad and responds. “That’s what we want our system to do,” Schneck reported.
+
+In addition to better technology, the DHS intends to populate the system with better information, including information from the private sector and academia, as well as information only the government can provide. “Data that we might get because our partners are declassifying as much as they can for us and/or finding ways for us to consume that information in ways that are uncompromising but useful to everybody else,” she added. “We are now able to take all the different sources of crowdsourced data and put that together with unique government information and turn that into a cyber threat risk score.”
+
+In the future, the system will include a dashboard with insights into the dashboards across the civil government, which will allow DHS experts to better recognize anomalous activities. “We will have what they call the federal dashboard. I call it the mother dashboard,” she said.
+
+Schneck said that when she first accepted her position in 2013, she took three weeks to analyze the Einstein system after being told it was 10 years old. She reported that it was not 10 years old, and other officials thought she was being defensive. She responded that the system was more like 25 years old.  But very, very necessary.
+
+“This thing blocks and tackles and notices and alerts on hundreds of thousands of different events over months, and I think we’re up to a few million in its  existence,” she said.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

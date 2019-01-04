@@ -1,0 +1,32 @@
+<article>
+  <type>article</type>
+  <title>Disruptive By Design: Fighting the Cyber War</title>
+  <author>Lindsay Clarke</author>
+  <date>February 1, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Disruptive by Design</tag>
+  </tags>
+  <abstract>How to best equip cyber warfighters—both at home and abroad—is an ongoing debate complicated by persistently improved and interesting tools for cyber analysis, security and ethical hacking that makes picking the “best tool,” or even “the right tool for the job,” very much a matter of opinion and preference.</abstract>
+  <text>How to best equip cyber warfighters—both at home and abroad—is an ongoing debate complicated by persistently improved and interesting tools for cyber analysis, security and ethical hacking that makes picking the “best tool,” or even “the right tool for the job,” very much a matter of opinion and preference.
+
+No one clear answer stands out as the absolute right tool for frontline warriors, but one thing players in the defense industry can agree on is that without a strong network foundation that bends and flexes at the whim of the warfighter, the technology used at the frontline of cyber war will be suboptimal, at best. If we do not provide an open network framework that can adjust as the cyber warriors’ needs change, then we are not truly equipping them to succeed. The way to achieve this state of nimbleness is quite clear: through open standards.
+
+With cyberthreats advancing and cyber criminal knowledge becoming more sophisticated, networks must nimbly adjust on the fly to meet missions’ changing needs. Proprietary technology and vendor lock-in should be a thing of the past, even if a tremendous amount of product remains that incorporates these limiting protocols. Further, there is still the so-termed FUD (fear, uncertainly and doubt) in federal circles about the risk and reward balance of using open standards and demanding them from vendors.
+
+The benefits of open standards are clear on many levels. At a high level, by utilizing non-proprietary technology and protocols, a network architect avoids the dreaded vendor lock-in, which limits choices and the ability to incorporate new technology and in turn increases costs precipitously by decreasing options and creating a mini monopoly. Using open standards also alleviates pains associated with training staff on varied technologies so they are familiar with the nuances of each operating system and command line interface. The time and cost savings at the enterprise level are significant, but the real importance of interoperability and non-proprietary technology are much more impactful in the field.
+
+For example, in a mission environment, operators might find themselves on deadline and facing complicated issues, looking at racks of gear and wondering how to get the available technologies to work together and continue the mission. The last thing the cyber warrior needs is to write customized scripts or to try to figure out half-baked vendor solutions from a joint white paper that claims tight partnership and interoperability but actually requires something short of magic to actually work. Already, departments face problems brought on because of limited financial resources. When we factor in that troops need critical solutions and need them fast, open standards, common interfaces and familiar operating systems allow for maximum agility—when it most counts.
+
+Using open standards is not just about the ability to use what is on hand to adjust the network to fit current needs. It also offers the flexibility to change the network in the future by adding new technology, tools and software—without having to change everything. Opening the door to innovation that incorporates open standards allows individual business units, field sites and even operators to choose what works best for them and their particular needs, with the confidence that they will be able to use the provided infrastructure without damaging the network or impacting its integrity. Applications will travel easily and more predictably from one platform to another, making information more accessible and searchable. Further, following known guidelines and rules for technical implementations associated with open standards decreases risk and increases ease of use.
+
+Putting open standards into practice has a number of benefits, including greater resiliency and security, lower total cost of ownership and greater customer satisfaction. Perhaps one additional benefit of open standards that is not a benefit limited to the cyber warfighter and trumps the lot: Open standards encourages innovation.
+
+When vendors are forced to compete while utilizing standard protocols and application program interfaces, everyone benefits. Vendors must develop unique features to distinguish products from others, while maintaining the integrity of systems because new features will, by default, work with legacy tools using the same open standards. Vendors begin to compete based on features and quality. Customers benefit from familiarity and interoperability. The approach leads to true innovation without the need to perform a forklift upgrade. It could be called winning on all levels.
+
+Lindsay Clarke is director of special programs at Arista Networks and the communications chief of AFCEA International’s Emerging Professionals in Intelligence Committee (EPIC). The views expressed here are hers alone.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

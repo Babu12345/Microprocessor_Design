@@ -1,0 +1,29 @@
+<article>
+  <type>blog</type>
+  <title>Virtualization of Servers: The First Step Into the Cloud</title>
+  <author>Paul Strassmann</author>
+  <date>June 16, 2010</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Migration into a cloud environment by means of virtualization of servers is extremely attractive and has instant paybacks. Compared with other software-intensive improvements, the ability to combine servers in order to increase computer utilization from  less than 20 percent to over 70 percent is the most attractive choice in the current environment, when cuts in IT budgets for FY12 and beyond are required by end of this July.</abstract>
+  <text>Migration into a cloud environment by means of virtualization of servers is extremely attractive and has instant paybacks. Compared with other software-intensive improvements, the ability to combine servers in order to increase computer utilization from  less than 20 percent to over 70 percent is the most attractive choice in the current environment, when cuts in IT budgets for FY12 and beyond are required by end of this July.
+
+Server virtualization is well understood. The technology is mature. There are a number of software vendors who can deliver server virtualization rapidly and at a fixed cost. The question is what are the potential savings that can be proposed as cost reductions?
+
+To compare, look at the number of servers in computer services. I have chosen Akamai (with IT costs of $636 million/year) and Rackspace (with IT costs of $648 million/year) as benchmarks. The combined IT costs of these two firms of $1.3 billion can be compared to the Defense Department operations and maintenance budget for FY10 of $21.7 billion, which is almost 17 times greater. Without growth, this amounts to $108 billion of Defense Department IT spending over five years.
+
+The total number of servers for Akamai and Rackspace is 104,671. Using the dollar share of total operations and maintenance spending, the Defense Department is likely to have about 180,000 servers, of which 100,000 have been already virtualized as the best case. The most complete total cost of ownership model is from Alinean. The model suggests that a reduction in the number of eligible small-scale Defense Department servers from 80,000 to 5,000 mainframe-like computers is feasible.
+
+While they would require an up-front net investment of $27 million, the net IT capital cost reductions over five years would be $3.8 billion. And the net IT operating cost reduction over that period would be $63.1 billion-a 58 percent cut. Such cost reduction is in line with results that have been so far realized by leading commercial firms. Additionally, there would be a reduction of 36,720 kW in electrical power, and space savings in the data center of 7,118 sq.ft.
+
+The cost reductions from the virtualization of servers should be seen only as the first step on the path toward a cloud environment in which the Defense Department operates its information technologies as a private and secure "platform-as-a-service." And the potential savings from virtualization are so large that a concerted effort to proceed with such migration should not be deferred.
+
+Paul A. Strassmann is a Distinguished Professor at the George Mason University. He is the former Director of Defense Information, Office of the Secretary of Defense.
+
+The views expressed by our guest bloggers are their own and do not necessarily reflect the views of AFCEA International or SIGNAL Magazine.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

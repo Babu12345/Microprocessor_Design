@@ -1,0 +1,30 @@
+<article>
+  <type>blog</type>
+  <title>Army Researchers Win Supercomputing Time for Fuel Research</title>
+  <author>Sandra Jontz</author>
+  <date>October 7, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>ARL</tag>
+  </tags>
+  <abstract>How many days equal a billion hours? Researchers from the U.S. Army Research Lab are about to find out. This week, they began modeling the engine spray mixture formation process using access to one billion hours of supercomputing time on some of the world's fastest computers.</abstract>
+  <text>How many days equal a billion hours? Researchers from the U.S. Army Research Lab (ARL) are about to find out. This week, they began modeling the engine spray mixture of turbulent fuel atomization and mixing in engines, a formation process at never-before-seen complexities that could lead to lighter and more fuel-efficient planes and combat vehicles.
+
+ARL researchers, in collaboration with Iowa State University, received a five-year, $500,000 award and access to one billion hours of supercomputing time on some of the world’s fastest computers. It is part of the Defense Department’s FRONTIER Project, a multi-institutional effort aimed at “conducting large-scale direct numerical simulations of multiphase flows at relevant engine conditions,” officials say.
+
+The team will study two key components of in-cylinder mixtures: spray atomization and liquid-solid spray interactions. 
+
+“State-of-the-art high fidelity simulations carry a significant computational overhead arising from the large-scale physical disparities in turbulent atomizing flows,” says Luis Bravo, a mechanical engineer specializing in computational and thermal sciences and the principal investigator in ARL's FRONTIER Project. “This approach will accelerate the development of next-generation internal combustion engines for aerial and ground combat vehicle applications and will feature significant increases in fuel economy and power densities.”
+
+Their work boils down to finding ways to improve engine efficiencies. “Predictive simulations can aid by seamlessly accessing mixing regions that are difficult for measurements providing unique insights into the complex physics,” Bravo says. “For calculations to be extremely precise requires access to massively parallel computing platforms with millions of hours of computing time.”
+
+This is the first time the U.S. Army has received an award under the Defense Departments’s High Performance Computing Modernization Program FRONTIER Project. Most projects last three to five years.
+
+“These simulations will provide the full four-dimensional data with sufficient spatial and temporal resolution to enable analytical investigations,” Bravo explains. “The large-scale simulations proposed will help understand the underlying physics of the turbulent atomization and mixing processes with the goal of improving energy combustion systems. This research has the potential to make aerial and ground combat vehicles lighter and more fuel-efficient further enabling the soldier with a more reliable system.”</text>
+  <imgalttext>
+    <img> Luis Bravo, mechanical engineer specialized in computational and thermal sciences at the U.S. Army Research Lab.</img>
+    <img>Chol Bum "Mike" Kweon, team leader of the engine research team at ARL.</img>
+  </imgalttext>
+</article>

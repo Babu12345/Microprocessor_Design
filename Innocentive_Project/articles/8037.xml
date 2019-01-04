@@ -1,0 +1,29 @@
+<article>
+  <type>blog</type>
+  <title>CANES Enables Seamless Sailor Access, Movement</title>
+  <author>Beverly Schaeffer</author>
+  <date>April 15, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>CANES</tag>
+    <tag>Lockheed Martin Corporation</tag>
+    <tag>NGEN</tag>
+    <tag>NMCI</tag>
+    <tag>Northrop Grumman Corporation</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>Laptop computer users access Wifi at a local cafe, or drive through a tollbooth without stopping to pay, thanks to established seamless connectivity. The U.S. Navy's CANES network aims to equip sailors with similar but secure capabilities, enhancing overall efficiency in their daily operations.</abstract>
+  <text>Just as easily as a car bearing a pre-paid sticker automatically passes through a smart-card-operated tollbooth, sailors will be able to pass from ship to shore, and vice versa-and access networks-using new U.S. Navy-developed identification (ID) technology. Daniel P. Taylor discusses this new program, known as CANES-for Consolidated Afloat Networks and Enterprise Services-in his article "Shipboard and Land Networks to Become Shipmates" in this issue of SIGNAL Magazine. CANES is slated for initial ship installation in 2012. It will be interoperable with its land-based cousin, the legacy Navy-Marine Corps Intranet (NMCI), and with the NMCI's eventual replacement this decade, the Next-Generation Enterprise Network (NGEN). The standard ID in use right now is the Defense Department-issued Common Access Card (CAC) smart card. The CAC allows access to certain computers and networks, but the Navy envisions sailors being able to plug the CAC card into both CANES and NGEN seamlessly. The sea service is holding regular meetings to make this happen, says Capt. D.J. LeGoff, USN, PM, tactical networks program office, Navy Program Executive Office for C4I. Capt LeGoff is responsible for the CANES program. One difficulty in developing interoperability between the networks is that the NMCI is operating under a continuity-of-services contract, which pushes NGEN out to mid-decade. The NMCI's contract originally expired last October; however, the Navy signed a continuity-of-services contract with manufacturer Hewlett-Packard Company to keep the 10-year-old network running until fiscal year 2014 while the Navy develops NGEN. Two corporations, Lockheed Martin and Northrop Grumman, are competing for CANES work. Mike Twyman, VP for integrated C3I systems, Northrop Grumman Information Systems, says that despite the timing, the company is working to make sure CANES will play well with other networks:
+
+	Our solution is designed to interface with the NMCI and, based on what we've been given about the plans for NGEN, we're aligned with NGEN as well. The vision we have is ... for a sailor anywhere, anytime, that they're plugged into a network. They shouldn't be able to tell if they're on a CANES network or an NMCI or NGEN network.
+Jill Kale, a Northrop Grumman VP in the company's Defense Enterprise Solutions Business unit, says the Navy has a good integration plan that takes advantage of the slow transition from the legacy NMCI to NGEN, which will make the land-based network interoperable with CANES:
+
+	We're looking forward to seeing how NGEN is going to be architected, and we'll be able to support both platforms: the current continuity-of-services and, most importantly, NGEN.
+Meanwhile, competition between the two companies continues in advance of an initial system design award this summer. Lockheed and Northrop Grumman received contracts early last year worth potentially $937 million and $775 million, respectively. The awards cover initial CANES infrastructure development. Capt. LeGoff says the contractors will need to determine how to replace five legacy shipboard networks. He says that each one of those grew up separately-has different requirements documents, different funding streams. As a result, those legacy networks will also have different hardware and software infrastructure. This creates numerous complications not just for Navy officials and commanders, but also for the individual sailors, the captain says:
+
+	It's a difficult thing to manage with all the parts and pieces on a ship, and the users are often left to fend for themselves.
+The Navy and its CANES contractors face the daunting task of pulling all pieces and capabilities together, and each organization is poised to add its expertise-with a hefty dose of collaboration-to make the system a success. In the long run, efficient interoperability is the main goal for the sea service, the Defense Department, and the sailors themselves. Are the main actors on this stage properly set to make CANES a success? Can more be done to speed up or streamline this process? Discuss your thoughts and opinions here.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

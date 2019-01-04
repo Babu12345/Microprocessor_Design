@@ -1,0 +1,22 @@
+<article>
+  <type>blog</type>
+  <title>U.S. Marines Snip the Network Wire</title>
+  <author>Beverly Schaeffer</author>
+  <date>August 17, 2012</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Cisco Wireless</tag>
+    <tag>MARFORPAC</tag>
+    <tag>Wi-Fi</tag>
+    <tag>wireless security</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>Going wireless doesn't have to be a security risk, and the nation's oldest military service is proving that there IS security in the ether.</abstract>
+  <text>Marines at U.S. Marine Corps Forces Pacific (MARFORPAC) are going wireless so they can keep perpetual track of valuable items and devices inside the command's facilities. In this issue of SIGNAL Magazine, Associate Editor Rachel Eisenhower's article, "Wireless System Tackles Tracking Challenge," explores how wireless, once seen as a security liability, has become a security asset for MARFORPAC. The wireless system also could transition out to the tactical world in the near future. This change came about as result of the Defense Information Systems Agency's Command Cyber Readiness Inspection, which identified that the command's G-6 fell short of three Defense Department requirements: a FIPS 140-2 certified wireless intrusion detection system; a method for tracking the location of removable storage and external connection technologies; and a process for tracking heat and humidity within its facilities. But MARFORPAC met these challenges head-on with an all-in-one solution developed by Cisco Wireless called the Wireless Control System. It has installed Wi-Fi radio frequency identification tags on external hard drives to provide real-time asset tracking and location identification through dashboard and email alerts. Two teams handle dashboard monitoring and data influx, and the system detects the existence of unauthorized wireless activity. Kurt Sauter, Cisco's wireless product specialist for defense, allows that using wireless for security purposes is a turning point for the Marine Corps and the Defense Department as a whole. One of the first wireless systems accredited for use in a secure area, the solution helps to counter perceptions of wireless as a liability, Sauter points out:
+
+	People always questioned the security of wireless, and here in this instance, we're actually using wireless as security.
+Can MARFORPAC's new wireless network monitoring capability transition successfully to the tactical realm? What other military commands and companies stand ready to take this next step? Read the full article and share your impressions here.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

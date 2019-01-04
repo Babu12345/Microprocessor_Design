@@ -1,0 +1,59 @@
+<article>
+  <type>article</type>
+  <title>A Big Year for Tactical Communications</title>
+  <author>George I. Seffers</author>
+  <date>August 1, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>tactical radios</tag>
+    <tag>Army</tag>
+  </tags>
+  <abstract>The U.S. Army’s tactical radio programs will meet a series of major milestones in the coming months, moving systems toward deployment into the hands of warfighters. Once fielded, the systems and their associated software will extend transmission range, provide on-demand satellite communications at the lowest levels and allow an alternative when satellite signals are degraded or denied.</abstract>
+  <text>The U.S. Army’s tactical radio programs will meet a series of major milestones in the coming months, moving systems toward deployment into the hands of warfighters. Once fielded, the systems and their associated software will extend transmission range, provide on-demand satellite communications at the lowest levels and allow an alternative when satellite signals are degraded or denied.
+
+The service has three ongoing tactical radio programs. The Handheld, Manpack and Small-form Fit (HMS) program actually provides two systems. The Rifleman Radio, a single-channel, lightweight, rugged body-worn system, transmits voice and data simultaneously; the manpack radio is a two-channel system mounted in vehicles or used for dismounted operations. The Airborne, Maritime, Fixed Station (AMF) program also includes two radios: the Small Airborne Networking Radio (SANR) and the Small Airborne Link 16 Terminal. The program will give helicopter crews the ability to link with and expand integrated tactical networks on the ground, ensuring that Army aviators can communicate with other airborne platforms and with ground troops via voice and data within all mission areas and in all combat operational environments. Lastly, the Mid-Tier Networking Vehicular Radio(MNVR—pronounced maneuver) extends data services from the upper tactical network at the brigade and battalion levels to the lower tactical network at the company and platoon levels. The advanced network waveforms rapidly distribute data and imagery with increased information assurance and automatic routing across complex terrain.
+
+“This is a big year for tactical radios,” says Col. Jim Ross, USA, project manager, tactical radios. “Rifleman just completed its contract award and is going into its initial test—that’s big. Manpack is going through the same in this calendar year. SANR will be getting its final acquisition strategy and request for proposal releases over the next year. And MNVR is going through tests right now and is on its way to operational testing. All of these areas of tactical radios are in some kind of procurement action or some kind of test.”
+
+In sum, the service is getting closer to delivering thousands of systems. “We will be fielding radios. That’s our No. 1 mission,” Col. Ross offers.
+
+Maj. Gen. Dennis Moran, USA (Ret.), vice president of government business development for Harris Corporation’s RF Communications Division, agrees the programs are hitting their stride. “I’ve said these words before, but this is really the year of the tactical radio,” Moran says.
+
+The Army already has purchased more than 21,000 Rifleman Radios under a low-rate initial production contract with General Dynamics. The service has been authorized to purchase 171,933 additional radios through full-rate production. Those radios are scheduled to begin fielding in 2017. In April, the Army awarded contracts to Harris Corporation and Thales Defense and Security Incorporated. Each vendor will produce 50 radios, which will undergo laboratory tests to determine if threshold requirements have been met. If the vendor meets qualifications, then its radios will move to the next phase: an operational evaluation.
+
+With each new generation of radios, Army officials plan to procure products with better capabilities, including faster processors, increased power and battery life and decreased weight. If one vendor’s systems do not pass muster, other companies will be allowed to compete for the Army’s business.
+
+Carried by soldiers at the platoon, squad and team levels, the Rifleman Radio transmits voice and data past terrain obstacles and beyond line of sight via the Soldier Radio Waveform (SRW). The radio uses the waveform to transmit information up and down the chain of command as well as into the network backbone provided by the Warfighter Information Network-Tactical. The Rifleman Radio also can be linked to the Nett Warrior system using a secure Android phone-type device that enables soldiers to send messages, access mission-related applications and track one another’s locations with GPS technology.
+
+Ultimately, the Rifleman Radio is fielded with the Nett Warrior device, a platform “that gives visible situational awareness to the lowest-level soldier, who can communicate via his phone by the touch of a button. Then, our Rifleman Radio acts as the transport system that sends that message up the chain to the company and further,” Col. Ross explains. “We’re going to take those now through a qualification test and some other tests so that we can start to get the authority to field the next generations to the rest of the Army.”
+
+Also in April, the Army released a draft request for proposals for the manpack radio, initiating procurement of 60,000 systems produced from 2017 to 2032. Limited initial-rate production already has fielded more than 5,000 manpacks to nine brigade combat teams. The Army will award contracts to multiple vendors, creating a “radio marketplace” where qualified vendors will compete for delivery orders as needed.
+
+The manpack is the Army’s first two-channel, software-defined radio capable of supporting advanced and current waveforms. It allows lower-echelon soldiers carrying Rifleman Radios and Nett Warrior devices to connect to the network backbone through the SRW and Single Channel Ground and Airborne Radio System (SINCGARS) waveform. It is designed to seamlessly bridge communications between soldiers who are spread out and using different channels. “We’re looking to release the final request for proposals this summer, and that will go through the same general timeline the Rifleman Radio did,” Col. Ross reports.
+
+Meanwhile, the MNVR radio underwent limited user tests in May during the most recent Network Integration Evaluation and will likely go through operational testing at another Network Integration Evaluation in about a year. The recent tests included using the MNVR system in the command post as well as mounting it on Strykers, Humvees and mine-resistant, ambush-protected vehicles. Results will be used to inform program milestone decisions leading up to MNVR fielding in 2017 and beyond.
+
+A key feature of the MNVR platform is its ability to provide terrestrial, ground-level connectivity with restricted or nonexistent satellite communications. The radio, which uses the Wideband Networking Waveform (WNW) and SRW, operates as a node in a mobile network, so information can hop from one MNVR system to another until it reaches its destination. Both waveforms allow communication without a fixed infrastructure, such as a cell tower or satellite network.
+
+“That is a midtier radio also being produced by Harris under the initial contract. We’re testing that Wideband Networking Waveform. The MNVR radio is meant to field ... at the battalion and brigade levels. It basically ties together the subnet of the Soldier Radio Waveform and Wideband Networking Waveform at the platoon and company levels to the battalion and then up through the brigade, so it provides that terrestrial backbone that we did not have up to this point,” Col. Ross states.
+
+Additionally, the Army will field about 7,000 SANRs to the entire helicopter fleet and Gray Eagle unmanned aircraft systems. The radios will be capable of using the SRW, the WNW and the SINCGARS waveform to interoperate with ground forces for seamless connectivity in combat operations.
+
+“That program has been in kind of a sleepy state in the last couple of fiscal years. The Army did put a little bit of money into it in government year 2015, our year of execution to get the lights turned on with the project management shop,” Moran says. “But they’re going to go forward with an acquisition strategy starting in government year 2016.”
+
+On the other hand, the future of the Small Airborne Link 16 Terminal, which is intended specifically for Apache helicopters, is somewhat in doubt. The Apache program office is debating whether to move forward with a solution from the tactical radio team or to accept an alternative. “The aviation community is looking at an option through Boeing, the company that provides the Apache helicopter itself. They have provided a communications platform that may be good enough for them to use for the Apache fleet, that meets the basic requirement. We’re looking at a business case analysis of what is the best thing for the Army, the taxpayers and the soldier,” Col. Ross reveals.
+
+Moran says the Army’s tactical communications efforts may dramatically affect Army operations. “The Army, in coordination with the Office of the Under Secretary of Defense for Acquisition, Technology and Logistics, has stepped out on an acquisition strategy that is going to deliver both airborne and terrestrial tactical radios that are going to revolutionize the battlefield,” he says. “By that, I mean the Army’s moving wideband information down to the tactical edge, whether that tactical edge is a mounted or dismounted squad or platoon, or whether it is a rotary wing aircraft, either an Apache or a commander in the back of a Black Hawk.”
+
+To some extent, Col. Ross disagrees with Moran about the revolutionary nature of the Army’s tactical communications plans. “I would not necessarily say it’s revolutionary. We’re using an incremental approach,” he states.
+
+He does, however, cite the promise of another waveform, the Mobile User Objective System. The waveform connects with the U.S. Navy’s new satellite communications network. “There is potential, I will say, for that waveform to somewhat change operations,” Col. Ross says.
+
+For instance, if a soldier became separated from his or her unit, or was in an area blocked by mountains or jungle foliage, the waveform still would provide the soldier with the ability to communicate, Col. Ross asserts. He describes the system as “a huge benefit to soldiers” and says the waveform will be tested over the next year. “That will give almost a cellphonelike capability for a soldier to communicate with another platform from practically any spot on the world. It gives soldiers at any level the ability for satellite communications on demand—something that’s never been provided to our soldiers to this degree,” he declares.</text>
+  <imgalttext>
+    <img>A U.S. Army AH-64 Apache fires point detonation rounds during a training exercise in South Korea. The Army intends to equip its helicopter fleet with the Small Airborne Networking Radio.</img>
+    <img>Capt. Jonathan Page, USA, uses the Rifleman Radio and Nett Warrior end-user device of the Army’s Network Capability Set 13 at Nangalam Base, Afghanistan. The Army awarded contracts to Harris Corporation and Thales Defense and Security Incorporated in April for the Rifleman Radio.</img>
+  </imgalttext>
+</article>

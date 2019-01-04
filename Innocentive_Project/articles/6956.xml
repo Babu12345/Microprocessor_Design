@@ -1,0 +1,64 @@
+<article>
+  <type>blog</type>
+  <title>Guest Blog: Gentlemen Do Not Open Attachments</title>
+  <author>Paul Strassmann</author>
+  <date>May 21, 2010</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Government 2.0</tag>
+    <tag>Information security</tag>
+    <tag>Web 2.0</tag>
+    <tag>Incoming</tag>
+  </tags>
+  <abstract>DoD policy recently opened access to Internet web pages from NIPRNET computers. This policy is unenforceable and is insecure. It allows the inadvertent inclusion of attachments for downloading of malware from where it can further propagate across DoD networks to subvert security. </abstract>
+  <text>According to the National Security Agency, in 1928, Secretary of State Henry Stimson, closed down the Department's intelligence bureau. His rationale was that "Gentlemen do not read other gentlemen's mail."
+
+We have now a comparable situation in the Department of Defense. New policies and guidance have been issued that declare, in effect, that well-behaved gentlemen and gentlewomen should abstain from reading potentially toxic attachments to social computing messages.
+
+Such policies and guidance do not promote the security of defense networks and should be therefore modified.
+
+The Deputy Secretary of Defense Memorandum
+The Deputy Secretary of Defense issued a policy for guiding the uses of Social Networking Services in a Directive-type Memorandum of February 25, 2010. The memorandum acknowledges that "... SNS capabilities as integral to operations across the Department of Defense using the Non-Classified Internet Protocol Router Network (NIPRNET)." There are at least five million computing devices connected to the Department of Defense networks.
+
+This policy is deficient in that it does not address the danger of allowing access to web services, such as social computing, that can insert malicious software attachments to any message. Such insertions from the Internet, if opened, can then compromise the security of computing devices on numerous networks.
+
+The DEPSECDEF generic policy states that: "commanders shall defend against malicious activity" and "commanders shall deny access to sites with prohibited content, such as pornography, gambling, hate crime activities." Unfortunately, none of this can be executed with the existing manpower. It cannot be enforced using the available technical means.
+
+Browsers exist in every personal computer. They can connect to millions of web pages without anyone in the DoD having the capacity to restrict access to every potential source of malware. Without enforcement there will be always web pages from where a military or civilian person can download computer code that subsequently trigger attacks that can be launched from the inside of the NIPRNET.
+
+Even with firewall and anti-virus protection, which is always imperfect, there will always be web pages capable of delivering malware to DoD. This is because the malware will always be technically superior to any institutional defenses, which are administered by overworked, understaffed and under-resourced personnel. Therefore DoD cannot and should not depend on blocking of known sites and certainly not on malware protection safeguards managed by error-prone people.
+
+The Air Force Public Affairs Agency Guidance
+In November 2009, the Air Force Public Affairs Agency released Version 2 of the guidance for using LinkedIn, YouTube, Flickr, Facebook, MySpace, and other social media sites.
+
+The Air Force offers rules for gentlemanly conduct in posting social media entries:
+Do not post classified information
+Replace all errors
+Readily admit mistakes
+Use best judgment in whatever your post
+Avoid offensive language
+Abstain from violation of privacy
+Never, but never lie.
+
+The problem with the Air Force guidelines is that they do not acknowledge the danger of picking up code that is toxic. Although an attachment may appear to be harmless, it can contain harmful code. A click will unpack a hidden program that can be lodged where it can do the greatest harm either immediately or eventually whenever it becomes unleashed.
+
+Clever "social engineering" of incoming messages will aggravate such perils. Social media reveal much information about sources. Private information makes it possible for an attacker to construct a plausible message that will be opened without further examination.
+
+The existing DoD policies that promote the use of social media may continue, but must also include enhancements that provide for the complete separation of secured NIPRNET desktops from the capacity to access the unprotected Internet without acceptable restrictions.
+
+Offering to the military and to the civilians separate but different desktops, displayed on an identical computing device by means of virtualization is now feasible and represents mature commercial practices. This approach is also affordable, especially in the case of thin clients where such approach offers opportunities for achieving quick as well as major cost reductions.
+
+There is no reason why the existing DoD policies should not be revised through the introduction of more advanced technical means that will manage automatically how the general access to social computing can be achieved with assured safety.
+
+Paul A. Strassmann is a Distinguished Professor at the George Mason University. He is the former Director of Defense Information, Office of the Secretary of Defense.
+
+To see Strassmann's recommendations for implementation of social media practices using virtual computers, see his follow-up to this post, Cases in How to Practice Safe Social Computing.
+
+
+The views expressed by our guest bloggers  are their own and do not necessarily reflect the views of AFCEA International or SIGNAL Magazine.
+
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

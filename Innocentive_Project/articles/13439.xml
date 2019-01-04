@@ -1,0 +1,50 @@
+<article>
+  <type>article</type>
+  <title>DISA to Launch First Round of JRSS Network Upgrades</title>
+  <author>Sandra Jontz</author>
+  <date>September 9, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+    <department>Cyber</department>
+    <department>Technology</department>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>JIE</tag>
+    <tag>Army network</tag>
+    <tag>Air Force Network</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The U.S. Defense Department is primed to take a first step toward the realization of JIE as it gears up information migration to the joint regional security stacks, or JRSS, a key upgrade to streamline and secure network operations.</abstract>
+  <text>The U.S. Defense Department is primed to take a first step toward the realization of the colossal concept of connecting its entire network system under the Joint Information Environment (JIE).
+
+For more than a year, the Defense Information Systems Agency (DISA), along with the Army, Air Force and defense contractor Lockheed Martin, has worked on the joint regional security stacks (JRSS), a key upgrade to streamline network operations and, officials say, improve security.
+
+“Right now, we don’t have a DOD network and we don’t have a department that is able to operate in a cyber domain,” says Danielle Metz, the JRSS program manager at DISA. “Instead of having these individual pockets of excellence that each of the services provide, we’re now creating a collaborative environment for the services to work together so that we can get security for the entire department.”
+
+The JRSS “will be the first foray in doing what is known as the Joint Information Environment,” Metz continues. “The problem we’re trying to address is that neither the DOD nor combatant commanders have adequate capabilities to effectively defend their networks, provide operational end-to-end situational awareness or execute enterprise-wide command and control.”
+
+To that end, DISA will migrate network users from their as-is infrastructure and security posture to the JRSS, beginning now at Joint Base San Antonio in Texas. “This is going to set the precedent for how we are going to do our migrations for the JRSSs that are already physically installed in [the United States] and Europe, and what will be installed in [Southwest Asia],” Metz says.
+
+In all, the Defense Department has plans for 15 JRSSs deployed across a number of regions, though no specific timeline has been set for completion of the project. “There’s no timeline for the [full] migration. I can’t say just because there is a lot of work that needs to be done,” Metz says. “We’re migrating systems within the Army and Air Force as well as DISA, so it will be a process. We’ll be able to refine that answer once we’re complete with Joint Base San Antonio.”
+
+The installation of the JRSS network devices and support for the joint management team is part of the Defense Department’s overarching Global Systems Management Operations (GSM-O) data network upgrade, a contract awarded to Lockheed Martin in 2012.
+
+The JRSS will provide multiple layers and redundancies of security controls that will protect information rather than making it more vulnerable, says Chris Kearns, director of DISA programs within Enterprise IT Solutions for Lockheed Martin. “The defense in depth concepts still apply.
+
+“It’s about a lot more than just the technology,” Kearns continues. “The technology is a key enabler, but it’s also about the concept of operations that [the services] are going to use jointly to take a look at the traffic and provide enhanced cyber analytics on the information that they’re seeing together.
+
+“It’s a suite of technologies that does things such as the routing as well as firewall functions, intrusion detection and prevention and enterprise management.”
+
+Lockheed Martin too is providing its own cyber kill chain technology used in-house to protect its own network, says Angela Heise, vice president of Enterprise IT Solutions.
+
+The kill chain technology monitors all phases of a cyber attack to understand an aggressor’s actions, ideally before they become harmful. “Our internal CIO organization put together what we call intelligence-driven defense and have centralized our own security intelligence centers,” Heise says. “And we actually apply a lot of those same techniques, the same training, the same cyber philosophy, if you will, both to what we do internally to try to protect our networks, but also to our customers, in particular DISA.
+
+“If you’re watching the news, both commercial and the DOD alike, people say cyber is the next battlefield. We take very seriously the protection of the DOD network,” Heise says.
+
+The JRSS will streamline the different existing networks throughout the Defense Department and get rid of the different levels of security, for example, that were customized for individualized networks, Metz says. “Right now, we have a lot of service intranet security. What we’re trying to do is create a standardized security network platform which the services can use … that creates this common operating picture. Right now we have seams and gaps because we have different intranets with different securities and what we’re trying to do is mitigate those seams and gaps by having a standardized platform.”
+
+The modernization effort also will upgrade the bandwidth capacity of the defense information systems network, which in turn makes processing data much quicker, adds Col. Daniel Liggins, USAF, vice director of DISA JIE implementation office.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

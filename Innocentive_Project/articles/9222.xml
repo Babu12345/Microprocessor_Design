@@ -1,0 +1,20 @@
+<article>
+  <type>blog</type>
+  <title>Computers Don Security Cloak</title>
+  <author>Maryann Lawlor</author>
+  <date>February 29, 2012</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+    <tag>DHS</tag>
+    <tag>Homeland 2012</tag>
+    <tag>Homeland Security</tag>
+    <tag>Event Coverage</tag>
+    <tag>Recent Events</tag>
+  </tags>
+  <abstract>In a time when government agencies and industry must tighten their belts, it may be a cloak that saves the security day. AFCEA International Homeland Security Conference, panelist Tim Kelleher, vice president of professional services, BlackRidge Technology, shared details about his company's approach to stopping cybermarauders in their recon tracks.</abstract>
+  <text>In a time when government agencies and industry must tighten their belts, it may be a cloak that saves the security day. While discussing best practices in securing the cloud at the AFCEA International Homeland Security Conference, panelist Tim Kelleher, vice president of professional services, BlackRidge Technology, shared details about his company's approach to stopping cybermarauders in their recon tracks. The technique is called cloaking, and Kelleher used caller ID to describe how his company's solution could improve cybersecurity not only in future environments but in current networks as well. Most cyber attacks begin with reconnaissance, he explained. Prior to the caller ID capability, when a phone rang, a person would have to pick it up to determine who was calling. The simple act of answering the phone gave the caller reconnaissance information: the phone number was valid, someone was at home and that someone was male or female. If noises could be heard in the background, the caller also may know that the person had a spouse, children, a pet or a television. Without saying a word, the call recipient had enabled the caller to obtain information. Because the Internet relies on TCP/IP-a protocol that's sacrosanct-this same recon mission takes place countless times each day within networks, Kelleher explained. A three-packet process connects the correct computers to one another. However, it is the second packet that establishes a connection similar to life without caller ID-a connection that occurs before firewalls are engaged. "We've known this is a problem, but we don't want to touch TCP/IP," he allowed. However, Kelleher's company has created a technology that enables networks to know who is "calling" before the second packet engages. As a result, hackers conducting recon operations do not even know which computer or network has been reached. "Effectively, the solution cloaks off the network," he explained. Kelleher said that this technology is designed to bring more security to the cloud environment and in general protects traditional systems on the basis of identity.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

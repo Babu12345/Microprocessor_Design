@@ -1,0 +1,27 @@
+<article>
+  <type>blog</type>
+  <title>NIST Forms International Telecommunications Alliance</title>
+  <author/>
+  <date>August 12, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>National Institute of Standards and Technology</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The 5G mmWave Channel Model Alliance will focus on 3D channel modeling at high frequencies, or millimeter wavelengths, addressing how a wireless signal would propagate in different bands of the spectrum. The alliance will also focus on directional channel sounding, which involves measuring whether signals are distorted or lost in a given channel. </abstract>
+  <text>The National Institute of Standards and Technology (NIST) has formed an international alliance with about a dozen telecommunications companies and universities to model and measure wireless channels at much higher frequencies than those used today to hasten the development of future cellphones and other devices.
+
+NIST created the group to help meet a global surge in demand for wireless data transmission and capacity. As telecommunication frequencies go higher, the behavior of wireless signals changes. Different factors, like structures in the way, affect signal loss and distortion. Accurate models based on real-world measurements are needed to design not only the optimum system hardware but to develop standards that drive the underlying protocols for handling the transmissions. The work is challenging, in part because the technologies don’t exist yet, according to a NIST statement.
+
+The 5G mmWave Channel Model Alliance will focus on 3D channel modeling at high frequencies, or millimeter wavelengths, addressing how a wireless signal would propagate in different bands of the spectrum. The alliance will also focus on directional channel sounding, which involves measuring whether signals are distorted or lost in a given channel.
+
+NIST launched the alliance with a meeting in July and plans to hold the first working group meetings this month. Intended products include: raw data measurements in key usage scenarios; measurement and calibration techniques; channel modeling techniques; and improved, comprehensive, predictive channel models that can be fed to standards organizations for the development of future mmWave wireless communication systems.
+
+Participants in the kickoff meeting included representatives from the Federal Communications Commission, Qualcomm, Samsung, Nokia, Intel, Huawei, Keysight, Rohde &amp; Schwarz, National Instruments, the University of Southern California, Georgia Tech, the University of British Columbia in Canada, the Fraunhofer Institute and the Ilmenau University of Technology in Germany.
+
+Additional companies and universities have expressed interest in joining. There is no membership fee. To support the alliance, NIST created a wiki platform to facilitate virtual collaboration among participants and publish meeting notes and outcomes. </text>
+  <imgalttext>
+  </imgalttext>
+</article>

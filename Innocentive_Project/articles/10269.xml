@@ -1,0 +1,35 @@
+<article>
+  <type>article</type>
+  <title>Defense Board Computing Recommendations Lack Strength</title>
+  <author>Paul A. Strassmann</author>
+  <date>November 1, 2012</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>cloud computing</tag>
+    <tag>data management</tag>
+    <tag>Networks</tag>
+  </tags>
+  <abstract></abstract>
+  <text> 
+The Defense Business Board is the highest-level committee advising the U.S. Secretary of Defense. Its report on “Data Center Consolidation and Cloud Computing” offers advice on what directions the Defense Department should follow.
+	 
+However, the Defense Business Board (DBB) report is incomplete. It does not offer actionable solutions; it only raises policy-level questions. As components are formulating budget requests through fiscal year 2018, they will find nothing in this report to guide them on what type of realignments are needed to advance the Defense Department toward cloud computing.
+	The department’s fiscal year 2012 budget for information technology is reported to be $38.5 billion, $24 billion of which is dedicated to infrastructure. Those numbers are incomplete because they do not include the payroll of 90,000 military and civilian employees, which is worth more than $10 billion. The numbers do not include the time expended by employees in administrative, support, training and idle time that is associated with more than 3 million online users, which amounts to at least $3,000 per capita per year, or $9 billion. In terms of potential cost reduction targets, the total direct information technology budget should be at least $50 billion. In addition, there are collateral management costs such as excessive purchasing due to long procurement cycles, high user support costs to maintain separate systems and high labor costs resulting from inefficient staff deployment.
+	The report lists more than 772 data centers in place, with a data center defined as having more than 500 square feet. Such a count understates what constitutes a data center, because the footprint of modern computer facility servers can be accommodated in less than 200 square feet. Therefore, the number of data centers eligible for consolidation is well over a thousand. Consolidating equipment represents the least expense. Most of the cost is in the realignment of personnel, files, communications and contract arrangements.
+	The DBB does not recognize that the cost of the infrastructure, which is 62 percent of the total, is broken up into thousands of separate programs. Hardly any of the programs are interoperable from a logical or physical standpoint. The biggest component of the infrastructure is $9.9 billion for telecommunications, largely managed by the Defense Information Systems Agency (DISA). These expenses are managed as an allocation of total costs rather than through transaction fees as is the generally accepted commercial practice, which originally was recommended as Defense Department policy in 1993 though Defense Management Review Decision (DMRD) 918.
+	The cost savings and benefits from streamlining defense information technology are not understood in the form of cost justifications. For example, the rewiring of cabling and the software redesign costs for data center consolidation involve a major restructuring to fit enterprise-level standards. Business cases that would support such efforts have not been completed.
+	No recommendations have been made on how to deal with loss of local operational control over applications. Dedicated staffs and contractors still remain under local control. The task of restructuring major programs does not account for a large number of subcontractors. It also does not consider the value of the upwards of 30 percent that is distributed to a multitude of small business operators.
+	The speed of cloud software migration, which will take place largely at the component level, not at the enterprise level, will determine the rate at which savings can be realized. If the migration takes too long, most likely it will not pay off.
+	Huge reductions in manpower will occur if the most efficient cloud computing policy is chosen for the Defense Department. The required skill levels, especially as employment shifts from operations to development, will make it more difficult to recruit replacements. The DBB has not addressed how this issue can be managed.
+	The Defense Department cannot use potential cost savings data as benchmarks in the absence of any details on how such efficiencies could be realized. Projected savings of 70 percent to 90 percent call for radical re-architecting of information technology. For example, in the absence of any discussion on how the reduction of application development to just four days can take place, no explanation is viable for how changes to existing acquisition policies would make such projections credible. Without an indication what type of upfront investments are necessary, return on investment forecasts are not supported.
+	While the admonitions that the Defense Department needs strong governance and leadership, a clear strategy, a well-articulated “concept of operations” and the removal of policy barriers are appropriate, they are, however, presented without actionable recommendations.
+	The four-step migration sequence, with cloud acceptance as the last phase, is not realistic. The department must start with a well-articulated cloud architecture before proceeding with incremental migration. Incremental progress without an overall plan will lead only to partial local improvements.
+	The recommendation to give the Defense Department chief information officer veto power over information technology spending while leveraging DISA to lead all implementation runs into conflict with Title 10 responsibilities. Without defining responsibilities, the DBB report is toothless.
+	Applying a sequenced approach to data center consolidation as the high-priority action proposes to proceed with the least profitable initiative. This keeps all projects in the hands of the components. The department’s strategic direction should aim toward enterprise-level cloud computing that mandates application consolidation as well as the enterprisewide adoption of virtual personal appliances.
+	Paul A. Strassmann is the distinguished professor of information sciences at George Mason University. The views expressed are his own and not necessarily those of SIGNAL Magazine.
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

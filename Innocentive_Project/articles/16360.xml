@@ -1,0 +1,46 @@
+<article>
+  <type>article</type>
+  <title>U.S. Government Program to Wipe Out Hackers Could Become Their Prime Target</title>
+  <author>Sandra Jontz</author>
+  <date>July 21, 2016</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>Information Sharing</tag>
+    <tag>DHS</tag>
+    <tag>DOJ</tag>
+    <tag>Congress</tag>
+  </tags>
+  <abstract>Now that the federal government is collecting cyberthreat intelligence from agencies and private businesses, the repository undoubtedly will be a prime target by the very threat the program seeks to wipe out. The Departments of Homeland Security and Justice have issued final guidance for the Cybersecurity Information Sharing Act of 2015, which Congress passed in December after years of industry efforts to push information sharing legislation over the finish line.</abstract>
+  <text>Now that the federal government is collecting cyberthreat intelligence from agencies and private businesses, the repository undoubtedly will be a prime target by the very threat the program seeks to wipe out.
+
+In June, the Departments of Homeland Security and Justice issued final guidance for the Cybersecurity Information Sharing Act (CISA) of 2015, which Congress passed in December after years of industry efforts to push information sharing legislation over the finish line.
+
+CISA paves the way for private companies to share cyberthreat information, not just with each other but with the government, and appointed the Department of Homeland Security (DHS) as the clearinghouse for all of that data.
+
+The DHS runs the National Cybersecurity and Communications Integration Center (NCCIC) under its mission to foster shared situational awareness of malicious cyber activity. The center operates round-the-clock and manages the data cache of cyberthreat intelligence shared by government and participating companies.
+
+“Presumably, this program will become a target,” says Jamie Brown, director of global government relations at CA Technologies. “You can just see bad actors wanting to try to a find a way to compromise this program because they expect a lot of people to use it and they expect a lot of people to prioritize cybersecurity decisions based on the information. We can expect a number of sophisticated adversaries are going to try to undermine this program.”
+
+Efforts to protect the program include having participants sign a memorandum of understanding with the DHS and receive a public key infrastructure certificate.
+
+In addition to looming threats, cybersecurity shortcomings such as the one that resulted in the massive breach of the Office of Personnel Management have some in industry feeling guarded as the DHS presides over the web portal collecting cyber threat indicators and defensive measures.
+
+Efforts to shore up vulnerabilities, such as the White House-led 30-day Cybersecurity Sprint, have introduced improvements to fix problems, Brown offers. An executive from CA Technologies joined industry representatives in June to testify before the U.S. House Homeland Security Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies to assess implementation of CISA.
+
+One protection under CISA is the use of authentication and identity management in running the program. “Authentication of the individuals who are participating but also ultimately of the data and the information that's shared is going to be very important to the long-term success,” Brown says.
+
+CISA protects participatory businesses that share cyberthreat indicators and defensive measures from civil liability, regulatory action and disclosure under the Freedom of Information Act. The measure has been lauded by some as a critical step toward securing cyberspace and criticized by others as a disguised surveillance provision.
+
+Despite the final guideline issuance, industry partners continue to voice questions, Brown says. Participation for now is low, but growing. “Ultimately, they’re going to hit a critical mass and going to see a great deal of information coming across. One of the questions we have … is, with this stream of information, what if we take an action based on a cyberthreat indicator that has come across but ends up not being accurate? And what if this action ends up creating some form of harm? If this was done under good faith, is there clarity around whether or not that's protected?
+
+“The opposite is also true: If you have a stream of information and a valid threat indicator comes through but some organizations may miss it and cannot apply defenses instantly, how is that accounted for?”
+
+Still, the web portal needs a high volume of data to be productive, and as many organizations feeding information into the program as possible, he adds. “Information sharing is not an end in itself—it's a means to protecting networks,” Brown shares. “What we are talking about sharing is cyberthreat indicators, not [personally identifiable information]. In fact, the final legislation included requirements for program participants to strip out personally identifiable information. It also requires the federal government to do a second scrub of the information to make sure that PII is removed before sharing.”
+
+Participation could prove difficult for small- and medium-sized businesses that might not have the talent or the funding to assess and analyze threat indicators and then share it, Brown points out. But he encourages participation. “This is something we pushed for as industry, and given the voluntary nature of it, I think we now have a responsibility to try to look to see how we can participate in the program and make it a success. We have a vested interest in the success of the program.”</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

@@ -1,0 +1,55 @@
+<article>
+  <type>article</type>
+  <title>PTT Technology Goes to Smartphone App</title>
+  <author>Sandra Jontz</author>
+  <date>July 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>Improved technology now can provide seamless interoperability between cellular push-to-talk and land mobile radio networks, even allowing data, video and voice communications to be shared across multiple agencies. The upgrade could prove ideal for first responders such as police officers, firefighters and EMTs as well as security personnel in schools, hospitals or shopping malls during emergencies.</abstract>
+  <text>Improved technology now can provide seamless interoperability between cellular push-to-talk and land mobile radio networks, even allowing data, video and voice communications to be shared across multiple agencies. The upgrade could prove ideal for first responders such as police officers, firefighters and EMTs as well as security personnel in schools, hospitals or shopping malls during emergencies.
+
+Push-to-talk (PTT) technology has made remarkable strides from the days in which it provided a communications platform to keep employers and employees connected without racking up cellphone charges. Now, two companies have fused their respective technologies to bear the upgrade in service—Kodiak, a provider of standards-based, clear, reliable broadband PTT with land mobile radio (LMR) interoperability over 4G LTE, Wi-Fi and 3G networks; and Mutualink Incorporated, which developed an interoperable communications platform that enables communitywide multimedia sharing in a secure environment.
+
+“A push-to-talk offering is a natural progression for Mutualink in our mission to deliver innovative, affordable communications solutions to the public safety community and business enterprise users,” says Mark Hatten, CEO of the Wallingford, Connecticut, company. “Partnering with Kodiak enables us to deliver seamless interoperability to PTT users wherever, whenever they need it.”
+
+Mutualink’s Radio Network Interface Controller (R-NIC) allows Kodiak PTT users to connect to the Interoperable Response and Preparedness Platform network, a secure Internet protocol grid that connects Mutualink gateways used by public safety departments, utility companies, transportation offices, hospitals, schools and other organizations. It lets agencies that invest in the technology share voice communications, video and data using devices they already own.
+
+“By having built out essentially a nationwide network of these agencies, an agency within a town on one type of radio system can talk to an agency within that same town on another type of radio system, or they can talk to an agency on the other side of the country on their radio systems,” Hatten attests. “There is no geographic boundary in our platform—the same with sharing video and so on.”
+
+First responders increasingly rely on mission-critical LTE-based PTT communication services that can send and receive images and video, according to the Open Mobile Alliance, a global standards development organization for the mobile phone industry.
+
+“The Kodiak partnership with Mutualink provides more options for LMR users to augment their networks,” says Bruce Lawler, co-founder and chief product officer at Kodiak. “The Mutualink R-NIC provides broadband PTT users with more choices when it comes to network gateways.”
+
+Agencies can scale their LMR networks, add users, extend coverage and access broadband data capabilities, especially since Kodiak platforms support iOS and Android handsets and tablets and ruggedized devices.
+
+“Our emphasis is about allowing these agencies to use the tools that they see fit to use, without us necessarily getting in the middle of telling them they should choose one type of radio system over another,” Hatten says.
+
+A survey of LMR users conducted by consulting firm Market in View for Kodiak showed 75 percent of them use a commercial cellular service to supplement LMR communications at work. Additionally, 84 percent of decision makers and 38 percent of end users use cellphones to access productivity applications as well as voice service, text messaging, email and the Internet. Survey respondents listed the top three most desirable attributes of broadband PTT as coverage, support for 4G LTE/3G networks and Wi-Fi, and compatibility with the latest smartphones. “The survey results clearly show LMR users are already using cellphones to augment LMR networks and that there is strong market interest in the use of broadband push-to-talk services from wireless operators,” Lawler concludes.
+
+“We had a teacher come in [during a focus group], and the teacher said, ‘Look, we’ve got four LMR radios in our school. I know how to use one of them. But we’ve got 100 teachers, and all of the teachers have smartphones.’ In times of crisis, wouldn’t it be great if everyone could be talking on that same LMR-like experience?” Lawler asks. “We could talk to the rescue, the fire, the police, whatever might be the occasion. That’s what drives us to do a better job of interconnecting with these LMR systems.”
+
+Mutualink’s products and services are deployed by numerous public and private entities worldwide, including the U.S. Department of Homeland Security, the Defense Department, NATO Special Operations Forces, police and fire departments, transit authorities, hospitals, schools, universities, shopping malls and casinos. “We share video coming off of smartphones. We share video coming off of surveillance systems. We share video coming off of drones and robots,” Hatten relates. “Essentially, if we can gain access to video, we can share it, and we can tie that video to the push-to-talk.” Imagine, he continues, if police officers could view in real time a video feed of an emergency situation unfolding in a school, mall or hospital.
+
+Kodiak’s connection with Mutualink bridges the gap between LMR radio and broadband PTT on a carrier network. “Whether it’s a very inexpensive but ruggedized feature phone like a Samsung Rugby 4 or an iPhone, you could push-to-talk directly on any of those on a carrier network,” Lawler says.
+
+Adds Hatten, “Where we come in: If that Android or that iPhone using the Kodiak push-to-talk on one of the two carriers, AT&amp;T or Verizon, wants to talk to the police radio, that happens through the Mutualink gateway. A school needs to communicate with a police department or a fire department, or maybe they have to bring in a hospital. Responses today are generally multiagency. We very quickly and efficiently allow those enterprises to come together and work as one with any type of voice, video or data device they’re using.”
+
+All of the communication and transmission of data, images or video are end-to-end encrypted using federally approved Advanced Encryption Standard ciphers and are mutually authenticated using standards-based public-key cryptography. “[This] is the same kind of encryption that you trust your bank accounts to when you’re on a Web browser. It’s very, very secure encryption,” Lawler says. However, use of old analog systems essentially decodes the communication. “That is the weak link in the chain,” Hatten adds. “There’s nothing anyone can do about it. That encrypted message at that point is decrypted because their radio system decrypts it.”
+
+For the past several years, police and public safety departments across the nation have upgraded to encrypted communications, with the Washington, D.C., police force leading the charge in 2011. “Whereas listeners used to be tied to stationary scanners, new technology has allowed people—and especially criminals—to listen to police communications on a smartphone,” Police Chief Cathy Lanier said during a D.C. Council committee hearing at the time. “When a potential criminal can evade capture and learn, ‘There’s an app for that,’ it’s time to change our practices.”
+
+“We’re all about multimedia,” Hatten adds. “We present encrypted voice, and we encrypt the video and present it to the police, fire, multiple agencies that are responding—whoever is relevant to the particular need or incident.”
+
+The need to have the full multimedia experience—the voice communications, video and data—prompted the move toward developing capabilities to accommodate LTE services, Lawler explains. Between 75 percent and 100 percent of LMR users, depending on jurisdiction, already carry a broadband device. The users sought expanded coverage and broadband services for their smartphones. “They also want to be able to run apps,” Lawler says. “Today, 38 percent of LMR end users are using a productivity app on their phone; 84 percent for business decision makers. When I say that, I’m not including text or email or Web browsing. I’m talking about location tracking, fleet management, work force management—those types of applications. And that’s why … people want to grow their networks by 47 percent. If I have 100 PTT radios, I would want to add 47 broadband push-to-talk devices. We’re seeing that.”
+
+The technology can work on any cellular network, making it deployable to other nations.
+
+“For all of us in the industry, we’re in the business of giving push-to-talk to people wherever and whenever they need [it],” Lawler says. “It’s a real change in the industry from systems that were very closed to an industry where systems are very open, and interoperability is the norm and not the exception.”
+
+Merging the technologies presented few hiccups, if any, the two offer. “There was a slight difference in how the systems behaved that had to be ironed out,” Lawler says. “But it was more like British English to American English than French and German or something like that.”</text>
+  <imgalttext>
+  </imgalttext>
+</article>

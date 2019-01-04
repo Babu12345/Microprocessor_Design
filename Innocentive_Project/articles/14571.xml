@@ -1,0 +1,48 @@
+<article>
+  <type>article</type>
+  <title>Smart Glasses To Augment Battlefield Reality For U.S. Marines</title>
+  <author>George I. Seffers</author>
+  <date>June 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Marine Corps</tag>
+    <tag>Augmented Reality</tag>
+  </tags>
+  <abstract>U.S. Navy researchers recently wrapped up development of prototypical augmented reality glasses designed to display situational awareness data for combat Marines.</abstract>
+  <text>U.S. Navy researchers recently wrapped up development of prototypical augmented reality glasses designed to display situational awareness data for combat Marines. The head-mounted display will provide warfighters a stream of relevant mission data within their field of view, allowing them to conduct operations in remote environments without taking their hands off their weapons or their eyes off the battlefield.
+
+The Office of Naval Research (ONR) funded development of the signals intelligence (SIGINT) cyber augmented reality glasses under the TechSolutions program. Warfighters today are inundated with data, only some of which is relevant to their current situation. “This project is to support the actual warfighter in the field. They have a lot of increasing data from handheld devices and manpack radios and vehicle-mounted platforms as they’re doing their missions,” explains Brian Reteneller, an assistant program manager with the TechSolutions program.
+
+“The way a lot of that data is delivered creates an environment where the user is distracted and potentially ignorant of their nearby threats and isn’t really able to focus on their situational awareness.”
+
+Fusing real-time tactical data into a heads-up display will allow Marines at the tactical edge to conduct limited cyberspace operations without overwhelming them and/or detracting from their battlespace situational awareness, allowing them to complete multiple tasks simultaneously in support of the Marine Air-Ground Task Force. Most near-body applications connect to a mobile device using commercial radio frequency-based communications, such as wireless fidelity or Bluetooth. Monitoring a mobile platform draws unwanted attention and impedes weapons handling, according to ONR documentation. But this technology will provide effective and covert display of near-body computing devices using inconspicuous augmented reality glasses or sunglasses.
+
+In addition, the user can determine where to display the data. “Because you don’t know on which side a person is dominant, you can switch back and forth from left to right, and then there’s the possibility of putting up both of them. Then it gets into how much you want in your field of view and how much is distracting or not,” Reteneller says.
+
+TechSolutions program officials teamed with Osterhout Design Group (ODG), San Francisco, to enhance the X-6 system. According to ODG, the glasses provide information at the speed of light, anytime and anywhere. They include a camera with a high frame rate for object tracking and provide an audio capability. “The biggest modification was working with the vendors and getting our particular applications on their system and then ruggedizing the glasses,” Reteneller reports, adding that ONR officials also improved the interface for Marines.
+
+Those Marine-specific applications included navigation aids such as waypoints and directional markers, buildings and the surrounding environment, friendly force tracking, alerts that go out over the network and tagging to indicate what activities individuals in the area are engaged in.
+
+Additionally, Marines require ballistic protection and glasses that will survive the toughest of environments. That, Reteneller says, is the one characteristic that sets the X-6 system apart from Google Glass. The X-6 glasses may be the bigger, badder cousin to the Google product. The latter, Reteneller explains, would be considered “extremely commercial,” meaning they are not designed for military use.
+
+Before fielding a finished product, however, the Marines may compare the X-6 glasses with other available systems, such as the Microsoft HoloLens. The HoloLens system goes beyond augmented reality and virtual reality by enabling users to interact with 3-D holograms blended with the real world, according to Microsoft. “There are still a lot of comparisons we possibly would be able to do to see how applicable other delivery systems, other glasses, are. That’s not totally outside the realm of future options,” Reteneller suggests.
+
+The ODG developed the system to accommodate the needs of many users, according to ONR documentation. The X-6s have a weapons-mounted interface, and  with the see-through optics, Marines will be able to aim and accurately fire their weapons without distraction. The system also uses the Android operating system version 4.0.X, which allows the glasses to run most current and future Android applications. Warfighters easily will be able to deploy and test apps developed for any mission requirement.
+
+The ONR TechSolutions program office finished its development of the glasses by successfully deploying prototypes during last year’s Bold Alligator exercise for a proof of concept demonstration. The glasses were paired with a wearable tablet device developed by the Massachusetts Institute of Technology Lincoln Laboratory. “The Marines were able to control their computer through the glasses with a weapon-mounted grip or with a handheld carried controller. It was pretty successful in proving we can actually do it,” Reteneller reports.
+As the Marines went out on patrol, they were able to simultaneously view tactical data along with environmental threats. “On the user level, there’s a lot of interest. A lot of Marines do not like going out on patrol and having to look down at a tablet or a phone to know what’s going on around them. Obviously, that’s pretty dangerous,” Reteneller states.
+
+It remains to be seen whether the glasses will be developed further and eventually fielded. The TechSolutions program is prepared to transition the glasses to a program of record for further development if the Marines decide to move the technology forward. “This is pretty early in the development. There’s probably several years of development that needs to be done,” Reteneller says.
+
+For example, battery life will need to be improved so Marines are not loaded down with extras, and other capabilities will need to be tweaked. “We need to make sure human factors are taken into consideration. We have to consider the colors, the contrast, the brightness of the sun. It needs to work in all different environments,” Reteneller adds.
+
+The TechSolutions program aims to rapidly develop and field technologies suggested by warfighters across the Navy and Marine Corps, and the smart glasses project resulted from a request by a deployed Marine. “We work across the naval community. We’ll work with airmen on carriers as well as ships, submariners and Marines,” Reteneller says. “When we get ideas from warfighters, we take that idea or that issue they’re having and create a program or project within the naval research enterprise, the labs and academic institutions that we work with, and we have them create a prototype.”
+
+The program aims to develop a prototype within a year and to get it to the warfighter who requested it. “Obviously with rotations and such, that does not always occur. But we always have a point of contact to ensure that when we deliver it, it will be used in the intended environment,” he indicates.</text>
+  <imgalttext>
+    <img>Marines at Camp Pendleton, California, test the new augmented reality glasses prototype in an urban combat training scenario.</img>
+    <img>U.S. Marines fire their weapons during an operation in the Helmand province of Afghanistan. A deployed Marine requested the TechSolutions program develop a smart glass solution to allow warfighters to view situational awareness data without taking their hands off their weapons or their eyes off the battlefield.</img>
+  </imgalttext>
+</article>

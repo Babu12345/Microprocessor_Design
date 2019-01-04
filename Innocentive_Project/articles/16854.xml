@@ -1,0 +1,42 @@
+<article>
+  <type>article</type>
+  <title>Augmented Reality to the Rescue</title>
+  <author>Sandra Jontz</author>
+  <date>November 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Augmented Reality</tag>
+    <tag>Internet of Things</tag>
+  </tags>
+  <abstract>A joint industry effort has produced ruggedized augmented reality glasses that securely deliver real-time multimedia information to first responders.</abstract>
+  <text>A joint industry effort has produced ruggedized augmented reality glasses that securely deliver real-time multimedia information to first responders. The solution, developers say, would shave precious minutes off response times, which could mean the difference between life or death.
+
+Such technologies are picking up traction in law enforcement and military environments as officials look to the virtual world for life-saving solutions.
+
+The Recon Jet eyewear—originally designed for endurance sports—is essentially a wearable computer with an integrated camera and networking capabilities. It can capture live video footage and stream it to ground personnel and command centers and transmit a first responder’s location and vital signs. The glasses are the second in a series of devices to emerge from an Internet of Public Safety Things (IoPST) initiative spearheaded by Mutualink. The first was last year’s Wearable Smart Gateway (WSG), a palm-size device first responders can carry or wear that securely sends data from cameras and body sensors, for example, to command posts and other agencies. “The WSG is a high-performance multimedia gateway leveraging mobility, connectivity, resiliency and cloud ecosystems for next-generation first responders,” says Michael Wengrovitz, Mutualink’s vice president of innovation.
+
+The IoPST builds on the Internet of Things (IoT) phenomenon that emerged a few years ago as the next shiny tech bauble. The idea is to better equip the next generation of first responders with interconnected technology. The IoPST leverages communications tools, incorporates emerging technologies and prepares for the rollout of FirstNet, the first nationwide high-speed wireless broadband network dedicated to public safety. 
+
+The glasses, a creation of Intel’s Recon Jet and Mutualink, were developed in the shadow of Google Glass, once considered a failed experiment. Now it is making a comeback as augmented reality eyewear hits the marketplace. The Jet glasses, which include a Global Positioning System (GPS) and Bluetooth capability, are powered by a tiny Intel Edison module. “Because the architecture is flexible and powerful, we’re able to not only get information back securely to the command center across Mutualink’s national network, but we can also turn it around and send information … to the wearable,” Wengrovitz explains.
+
+Developers sought to deliver mission-critical information at a glance—and completely hands-free. They also worked to streamline systems that otherwise did not communicate easily with one another, command and control or other agencies, Wengrovitz says. They dared to imagine that a body camera and the WSG could be integrated into the same package.
+
+First responders can send or receive text messages, images and video via the Recon Jet smart glasses. Text can overlay images to annotate special instructions or detail, for example, a floor plan. Live video streams can come from a drone circling overhead, surveillance cameras or even another head-worn camera device. For the wearer, all this information appears on a tiny screen tucked into the right corner of the glasses, minimizing distractions and avoiding the line of sight.
+
+Of course, displaying the data is only one part of the puzzle: Securely transmitting it is another. The Recon Jet eyewear carries multiple layers of encryption and authentication to ensure data is not tampered with or intercepted. Information is sent to a central hub through a secure network provided by Mutualink’s Interoperable Response and Preparedness Platform (IRAPP), which enables disparate organizations to share multimedia files. The IRAPP, which is part of the federal FirstNet initiative, connects state and local first responder agencies, emergency operations centers, hospitals and other critical infrastructure facilities for interoperable communications and information sharing.
+
+Increasingly, technologies are being combined into unified platforms “at a wearable level,” says Joseph Mazzarella, Mutualink’s senior vice president and chief legal counsel. Gone are the days of monolithic systems that tend to slow innovation. “If it’s a modular-based environment, it tends to allow for quicker innovation as people focus on different kinds of functions, such as sensors, and so forth,” Mazzarella says. 
+
+Wearables, which can carry out a variety of functions, contribute to a dynamic computing environment “with many devices, some smarter than others, but all working interactively,” he continues. “Wearables, as a concept, are really movable, intelligent computing platforms with augmented human intelligence on them. The problems and challenges we are facing are not dissimilar from what others are probably experiencing as these technologies begin to roll out into real-world environments.”
+
+Developers struggle to perfect what Mazzarella refers to as the many-to-many concept: How do devices that have separate, independent existences or purposes act with one another in a physical environment? Additionally, wearers can be challenged to interpret what is in the real world versus the virtual world. “The ability for a human being to operate in the physical world requires relatively hands-free operations as well as the ability to use your normal human senses,” he says. “When you interpose a computer system into that environment, you start challenging human resource availability for use of hands, use of eyes and all kinds of other things. Effectively, there is a command and control challenge that remains with these wearable systems, where you want to have your operator be able to use those systems without impairing their fundamental human senses and interfering with their tasks.”
+
+The Recon Jet glasses are available for commercial applications, but the software app for first responders still is being optimized.</text>
+  <imgalttext>
+    <img>SWAT teams receive a training scenario briefing during September’s Urban Shield in California.</img>
+    <img>A police SWAT team member gears up to test augmented reality glasses during Urban Shield, an annual first responder exercise and weapons exhibition in Northern California. The smart eyewear, a creation of Mutualink and Intel’s Recon Jet, provide situational awareness to users via information transmitted to the corner of the glasses.</img>
+    <img>A fully equipped police SWAT team member wears Intel’s Recon Jet eyewear. Live video from Recon Jet’s camera can be shared with a command post or other team members.</img>
+  </imgalttext>
+</article>

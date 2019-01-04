@@ -1,0 +1,27 @@
+<article>
+  <type>blog</type>
+  <title>NATO Fishes for Data with Autonomous Underwater Vehicles</title>
+  <author>George I. Seffers</author>
+  <date>October 2, 2014</date>
+  <departments>
+    <department>International</department>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>NATO</tag>
+    <tag>UUV</tag>
+    <tag>Robotics</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>Multiple autonomous underwater vehicles equipped with modern sensors relevant to NATO minehunting missions are being employed at sea during the Multinational AutoNomy Experiment (MANEX ‘14), held September 22 to October 13, 2014, along the Italian coast, between Framura and Bonassola, in the Ligurian Sea.</abstract>
+  <text>Multiple autonomous underwater vehicles equipped with modern sensors relevant to NATO minehunting missions are being employed at sea during the Multinational AutoNomy Experiment (MANEX ‘14), held September 22 to October 13, 2014, along the Italian coast, between Framura and Bonassola, in the Ligurian Sea.
+
+On board the NATO Research Vessel Alliance, operated by the NATO Science and Technology Organization's Centre for Maritime Research and Experimentation (CMRE), scientists and engineers from eight institutions and 10 nations are exercising state-of-the-art, high-resolution underwater acoustic imaging systems and autonomous vehicle behaviors. Researchers intend to collect data that will advance the state-of-the-art in the area of seabed mapping using autonomous vehicles, mainly for mine countermeasures applications. The use of robots removes the need for navy personnel to operate in a potentially dangerous area such as a minefield. Improved capabilities in seabed mapping also can lead to positive advancements in other fields such as support for environmental and archeological surveys.
+
+The CMRE has been working to transform the way mine countermeasures are conducted, from a post-Cold War approach that focuses on post-operations clearance using surface ships, to a quickly deployable, autonomous system-of-systems that is scalable and cost effective and minimizes risk to personnel. This includes developing techniques for handling the large data rates associated with modern high-resolution sonar and developing autonomous underwater systems that can adjust to preplanned routes based on data gathered.
+
+During MANEX ‘14, CMRE capabilities, autonomous underwater vehicles and sensors will be challenged in an environment where the sea bottom characteristics vary over the range of flat sand, seabed ripples and heavy clutter. Automatic target recognition algorithms—computer programs used to find and identify underwater objects in sonar imagery—will be stressed in such a high-clutter and complex environment with the objective of maximizing detection rates while minimizing false alarms. The data collected will help enhance the quality of the scientific research conducted by the alliance in this field. Overall, the multinational aspect of the MANEX ‘14 trial will also allow NATO and nations to gain experience in how autonomous systems can be used in joint mine countermeasures missions. The MANEX ’14 sea trial is funded by the Allied Command Transformation.</text>
+  <imgalttext>
+    <img>NATO deploys unmanned systems to gather data in support of counter-mine operations.</img>
+  </imgalttext>
+</article>

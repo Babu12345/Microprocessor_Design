@@ -1,0 +1,42 @@
+<article>
+  <type>article</type>
+  <title>Northrop Grumman Sets World Record with 1-Terahertz Circuit</title>
+  <author>Sandra Jontz</author>
+  <date>October 28, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>DARPA</tag>
+    <tag>Northrop Grumman Corporation</tag>
+    <tag>frequency signals</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>A five-year project funded by the Defense Department’s research arm and developed by Northrop Grumman Corporation has netted the world’s fastest integrated circuit amplifier and a place in the record books.</abstract>
+  <text>A five-year project funded by the Defense Department’s research arm and developed by Northrop Grumman Corporation has netted the world’s fastest integrated circuit amplifier and a place in the record books.
+
+"This breakthrough by the Northrop Grumman team could lead to revolutionary technologies such as high-resolution security imaging systems, improved collision-avoidance radar, communications networks with many times the capacity of current systems and spectrometers that could detect potentially dangerous chemicals and explosives with much greater sensitivity,” said Dev Palmer, program manager of the Microsystems Technology Office at the Defense Advanced Research Projects Agency, or DARPA.
+
+The amplifier uses 10 transistor stages to reach an operating speed of 1 terahertz, or 1 trillion cycles per second. The program began five years ago with a goal of creating complete transmitters and receivers that can operate in the submillimeter wave terahertz regions of the spectrum, Palmer explained during a Tuesday press conference. Targets of the three-phase program were pushed progressively higher, with goals shifting from 670 gigahertz to 850 gigahertz and finally making the “giant leap in frequency” to 1.03 terahertz.
+
+“The constant push by DARPA to create the future, that’s really what’s happening today with this terahertz technology. Where will it go? Well, it will go into things we have yet to envision,” said Dale Burton, vice president and chief technology officer of the research and technology division of Northrop Grumman.
+
+The achievement landed Northrop Grumman and DARPA in the Guinness World Records hall of fame in a new category for the world's highest frequency response from a solid-state amplifier, said Guinness adjudicator Philip Robertson. When they were asked to qualify an earlier submission for reaching the 850 gigahertz level, it was quite a fete, he said. “To then receive a follow-up application and claim for a terahertz … it blew our minds.
+
+“This will change the way the planet will look at communications in the future,” Robertson added.
+
+William Deal, program manager of Terahertz Electronics for Northrop Grumman, described their achievement in somewhat more layman terms. For example, the frequency at which a cellphone operates is about 2 gigahertz. “We’re building an amplifier that amplifies radio signals at 1,000 gigahertz—or 1 terahertz. That is 500 times faster.” He also compared the speed to that of a car on a freeway traveling at 65 mph. With the amplification, it would instead travel at 32,500 mph. (By the way, the fastest a human has ever traveled in a rocket ship 27,000 mph, Deal pointed out.)
+
+“It’s a big achievement,” Deal said. “It’s a different world.”
+
+When researchers began five years ago, the basic technology to even perform measurements at the high-end frequencies did not exist, he said. “What do you do when you’re challenged to do the impossible? First, you create everything from scratch. You create out of nothing except for what you’re able to imagine.”
+
+Terahertz on the electromagnetic spectrum lies between microwaves and infrared light waves. The technology opens the possibilities of applications to massive data rates and can be used in millimeter wave communications, phased arrays and broadband and electronic warfare systems. In optics, the very short wavelengths allow for very high-resolution imaging.
+
+Some experiments with terahertz technology include dental imaging to replace x-rays and diagnosing skin burns, Palmer said. The technology also might be applicable to spectroscopy for the identification of dangerous chemicals and materials. Additional applications could include atmospheric sensing and radio astronomy and it is expected to improve system range and reduce size, weight and power consumption of existing systems.
+
+“At this juncture, an amazing new technical capability has just been shown,” said DARPA Director Arati Prabhakar. “Today we can speculate about what might come from this kind of advance, and there are some really interesting things that might now be possible because of this work we’ve been able to do with Northrop Grumman. </text>
+  <imgalttext>
+    <img>Northrop Grumman Corporation and DARPA are recognized by Guinness World Records for developing the world's fastest integrated circuit amplifier and reaching an operating speed of 1 terahertz. Pictured from l-r are Dale Burton, Arati Prabhakar, Philip Robertson, Dev Palmer and William Deal.</img>
+  </imgalttext>
+</article>

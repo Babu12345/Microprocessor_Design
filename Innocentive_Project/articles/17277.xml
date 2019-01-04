@@ -1,0 +1,30 @@
+<article>
+  <type>blog</type>
+  <title>Lifesaving SATCOM Migrates to New U.S. Army Network</title>
+  <author>James Christophersen</author>
+  <date>March 16, 2017</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>SATCOM</tag>
+    <tag>Telemedicine</tag>
+  </tags>
+  <abstract>During the final days of November, managers for the Joint Telemedicine Network powered down the central teleport facility in Landstuhl, Germany, officially closing the network that had provided a dedicated worldwide SATCOM network to U.S. Army medical personnel treating wounded soldiers at field hospitals and forward operating bases in combat zones. Rest assured, the shuttering did not leave doctors, corpsmen and troops without a reliable SATCOM network. </abstract>
+  <text>During the final days of November, managers for the Joint Telemedicine Network (JTMN) powered down the central teleport facility in Landstuhl, Germany, officially closing the network that had provided a dedicated worldwide satellite communication (SATCOM) network to U.S. Army medical personnel treating wounded soldiers at field hospitals and forward operating bases in combat zones.
+
+But the shuttering did not leave doctors, corpsmen and troops without a reliable SATCOM network. The Product Lead Defense-Wide Transmission Systems (PL DWTS) replaced JTMN with the significantly improved DWTS Communications Network (DCN). Army Medical Command personnel worldwide will use the same Very Small Aperture Satellite Terminals (VSATs) for a number of telemedical services, including access to digital X-rays and CT scans, and consults via live video streams that directly connect specialized medical experts to surgeons and medics performing urgent and lifesaving procedures for wounded troops. Migrating communications traffic from JTMN to DCN increases network availability, reliability and security and ensures telemedicine technologies are available where they’re needed, when they’re needed.
+
+The DCN provides more comprehensive global satellite coverage to medical personnel who deploy virtually anywhere in the world for almost any mission, from humanitarian aid to combat support activities. "Through the DCN, Army medical teams will have access to a broader array of information and experts and be better enabled to save the lives of soldiers on the frontline," says Alan Thompson, assistant product manager leading the Army's transition effort. "We are all proud to play a part by enabling better front-line medical care for our soldiers."
+
+The conversion to DCN reduces the number of teleports, the Army’s fixed satellite ground stations that connect a satellite network to the terrestrial network and links military systems to the Internet. The reductions increase efficiencies because traffic is routed over a single, unified network. Closing the standalone teleport facility at Landstuhl alone results in approximately $1 million a year of avoided maintenance and sustainment costs.  
+
+"As technology has advanced, it makes sense to consolidate previous isolated facilities into a greater system-of-systems," says Col. Charles Stein, USA, project manager for Defense Communications and Army Transmission Systems (PM DCATS), which oversees PL DWTS. “The completed transition of Medical VSAT to DCN will to increase capacity and bandwidth management capability while reducing operations costs. The project underscores PM DCATS’ commitment leveraging our acquisition and program management expertise to deliver increased capabilities for Soldiers while achieving efficiencies for taxpayers.”
+
+James Christophersen is a public affairs manager supporting PM DCATS. He has supported various offices of the Army acquisition enterprise since 2014, most recently in the Office of the Assistant Secretary of the Army (Acquisition, Logistics and Technology).</text>
+  <imgalttext>
+    <img>Soldiers with the 4th Battalion, 3rd U.S. Infantry Regiment (The Old Guard) and the Alabama Army National Guard assemble a VSAT, similar to the one Army Medical Command personnel rely upon for telemedicine support when forward-deployed. </img>
+    <img>U.S. soldiers assemble a Very Small Aperture Satellite Terminal  (VSAT ) similar to the one Army Medical Command personnel rely upon for telemedicine support when forward-deployed.</img>
+    <img>The Army has replaced a satellite network with an improved one that lets Army Medical Command personnel worldwide to do  a number of telemedical services. </img>
+  </imgalttext>
+</article>

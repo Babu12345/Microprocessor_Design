@@ -1,0 +1,25 @@
+<article>
+  <type>blog</type>
+  <title>DISA Takes Defense Department High-Tech</title>
+  <author>Beverly Schaeffer</author>
+  <date>May 25, 2012</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>cloud computing</tag>
+    <tag>DISA</tag>
+    <tag>Information Sharing</tag>
+    <tag>mobility</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>Providing secure mobile devices to the warfighter-a top DISA priority-could have the potential to completely transform battlefield communications and information sharing.</abstract>
+  <text>The U.S. Defense Information Systems Agency (DISA) is helping lead the charge to bring more mobility, cloud computing and information sharing to the Defense Department. Sweeping changes ahead aim to make secure and nonsecure communications possible down to the handheld level. In this month's issue of SIGNAL Magazine, Technology Editor George I. Seffers focuses on DISA's efforts in his article, "Fostering Technology Transformation." Alongside the National Security Agency (NSA), DISA plans to provide cellphone access to its nonsecure Internet protocol router network (NIPRNET) over the next few months, and within 18 months to its secret Internet protocol router Network (SIPRNET). With easy access to department networks, mobile devices could fundamentally change the way the military does business. DISA's chief technology officer, David Mihelcic, says this will happen not just at the unclassified level, but also at the point where the Android, iPhone and other smartphones will be capable of meeting security requirements for sensitive unclassified data. According to Mihelcic:
+
+	With respect to mobility, we want to bring to the modern warfighter the same capabilities that consumers and other business users have with smartphones.
+Under the mobility effort, the first increment calls for services that support secure, unclassified use of smartphones on Defense Department networks. The next step is building the architecture, and then in the coming months focusing on cloud computing, which will offer "certain value-added services" such as attribute-based access control. Other cloud projects include Forge.mil. Mihelcic also emphasizes the importance of information sharing. He cites several examples, such as Enterprise User, which is a set of software patches applied to defense networks, allowing users to plug their Common Access Card into a Defense Department computer, where they are granted guest access on that network. Enterprise User also will play a role in the agency's efforts to make the networks more accessible from any computer anywhere in the world, according to Mihelcic:
+
+	Moving forward, we believe capabilities like the mobility effort, as well as the commercial smartphones for classified programs, will allow us to do those same activities from much smaller form factors-smartphones or tablets.
+Through DISA/NSA efforts over the next 18 months, the military hopes to see major changes in technologies available to the warfighter. Is this a reasonable amount of time to overcome security barriers and other challenges? What's your opinion? Share your ideas here.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

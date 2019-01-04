@@ -1,0 +1,52 @@
+<article>
+  <type>article</type>
+  <title>Taking Aim at Cyber Attackers </title>
+  <author>Sandra Jontz</author>
+  <date>July 6, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>big data</tag>
+    <tag>cyber</tag>
+  </tags>
+  <abstract>Cybersecurity today is less about stopping adversaries from breaching networks and more about damage control once they get in, an adjustment that has government and businesses embracing a new trend that merges security and big data. This confluence gives rise to a growing practice called threat hunting, the act of aggressively going after cyber adversaries rather than waiting to learn they have breached security perimeters.</abstract>
+  <text>Cybersecurity today is less about stopping adversaries from breaching networks and more about damage control once they get in, an adjustment that has government and businesses embracing a new trend that merges security and big data.
+
+This confluence gives rise to a growing practice called threat hunting, the act of aggressively going after cyber adversaries rather than waiting to learn they have breached security perimeters.
+
+While growing in popularity, a recent survey of security experts notes that a significant portion of threat hunting is still being performed ad hoc, negating benefits of a repeatable processes and a waste of resources in trying unverified methods that provide minimal value.
+
+Enterprises are massaging big data technologies, empowering machine learning to go on the prowl, says Ely Kahn, co-founder and vice president of business development for Sqrrl, a security analytics company that helps organizations target, hunt and disrupt advanced cyberthreats. Powered by data analytics, cyberthreat hunting enables agencies and companies to proactively hunt for and detect security threats, adding another component to basic security hygiene.
+
+“Instead of just waiting for alerts, we provide the advance analytic capabilities to go out and look for those threats before they even trigger an alert,” Kahn says. “We specialize in looking for the types of threats that have evaded your other defenses.”
+
+A SANS Institute survey of 494 participants released in April reports that 86 percent of respondents indicated their organizations are involved in threat hunting, albeit informally.
+
+“Responses indicate that organizations are still figuring out exactly what a threat-hunting program should look like, how to attract the right skills and how to automate their processes,” writes author Eric Cole. The SANS Institute is a private, for-profit company specializing in information security and cybersecurity training. Sqrrl sponsored the survey.
+
+According to the survey, 40 percent of respondents do not have a formal threat-hunting program in place. Eighty-six percent said they believe anomalies are the biggest trigger driving threat hunting, as opposed to 41 percent who hunted based on hypotheses and the 51 percent who said hunts are triggered by third-party sources, such as threat intelligence.
+
+For those on the hunt for intruders, the practice is netting results: 51 percent said threat hunting found previously undetected threats; 74 percent have reduced attack surfaces; and 59 percent enhanced speed and accuracy of response, the report details.
+
+But there are drawbacks, Cole wrote. For one, hunting is not invisible to the adversary, which could make the effort counterproductive.
+
+There are three facts to today’s cybersecurity environment, Kahn says: Companies cannot prevent every attack; organizations at some point will become compromised; and 100 percent security simply does not exist. “What this implies is that organizations, especially security conscious organizations like the Department of Defense, need an additional layer of defense to go out and look for those threats that inevitably will evade their other defenses,” Kahn shares.
+
+Threat hunting applies big data techniques that pull in very large, diverse data sets fused together into a common format. Machine-learning algorithms then look for specific kill chain behaviors, Kahn explains. “We score those behaviors in terms of risk and present them to analysts as starting points for hunts.”
+
+What makes the process innovative is the “marriage of people plus machines,” says David Bianco, Sqrrl’s lead security technologist. “We have seen over time that it is relatively easy for attackers to adapt to getting around the alerting that is in a lot of organizations,” he said. “If you're just relying on the machine to do all of the work for you you will have a losing strategy over time.”
+
+Threat hunting dovetails the best of what humans do and what machines do, Bianco says. People are really good at putting information into the proper context and finding patterns. Computers are great at repetitive tasks and digesting huge amounts of data. “A threat hunting platform that is ideal is the one where you have a human who can do the context, the pattern recognition, and the machine that can do the big data pieces, the repetitive pieces. They work in concert to adapt and find new kinds of bad activity that automated systems have missed.”
+
+Attackers are not as innovative as people like to make them out to be, says Don Maclean, chief cybersecurity technologist at DLT Solutions. “They are like everyone else and will take the path of least resistance,” he offers. “What is changing is the sheer quantity of data, and it is changing rapidly. That is particularly applicable to the Internet of Things, especially in the DOD where they have lots of sensors and devices and on board systems that spit out massive volumes of data.”
+
+While the process must be fluid enough to adapt to morphing attacker techniques, people might be surprised to learn that the threat landscape doesn’t change all that drastically, Bianco says. “You can take an incident responder from 10 years ago, and if you have a time machine, bring them to today and they would not be totally lost about what's going on,” he says. “We have substantially the same motivations for the [bad] actors, substantially the same types of techniques and tactics. Maybe 10 years ago, we would have been a little less interested or less concerned about ransomware, but it still existed.”
+
+Cybersecurity actually is a winnable endeavor, Maclean says.  “But in order to win it, we have to be as agile and innovative as the bad guys. The first step in winning the war is adapting a winning mentality. I think we have to realize that we have the tools, we have the innovation, we've got the smarts—I mean we invented this stuff that makes the Internet tick.
+
+“Yes, they've rocked us back on our heels and have gotten a jump on us, but we have a lot of smart people working on the good side of the fence as well.”</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

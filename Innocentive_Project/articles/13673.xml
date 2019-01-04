@@ -1,0 +1,36 @@
+<article>
+  <type>blog</type>
+  <title>Guest Blog: The Network of Today</title>
+  <author>Anthony Robbins</author>
+  <date>October 20, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>JIE</tag>
+    <tag>CIO</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Network modernization is becoming a priority for defense agencies—and for good reason. Much of our defense network infrastructure was conceived 20 years ago and put into place almost a decade ago. While the networks remain the same, the technologies that depend on them have advanced, and innovation can no longer be supported by outdated and ineffective infrastructure.</abstract>
+  <text>Network modernization is becoming a priority for defense agencies—and for good reason. Much of our defense network infrastructure was conceived 20 years ago and put into place almost a decade ago.
+
+While the networks remain the same, the technologies that depend on them have advanced, and innovation can no longer be supported by outdated and ineffective infrastructure. Near real-time access to data enabled by the latest technologies and Internet-connected sensors can improve situational awareness for warfighters. They also build the foundation for more advanced communication and intelligent tactical networks that are crucial to the missions of our military.
+
+As a result, defense organizations are at a critical juncture. Network infrastructure changes need to be meaningful, impactful and effective, especially as overall information technology budgets continue to decrease. While large information technology initiatives, such as the Joint Information Environment (JIE)—described by Defense Department acting Chief Information Officer Terry Halvorsen as “the largest modernization effort we have undertaken inside DOD”—are poised to revolutionize defense technology, the most meaningful changes can be achieved by an overall shift in the defense information technology environment. The ideal environment is not hardware-centric, but software-centric; not information technology-centric, but user-centric. The ideal environment is the New IP.
+
+The New IP is application-aware, allowing apps to use necessary network resources. It is supported by the network of the future, which is software-controlled and depends on approaches like software-defined networking (SDN) and network functions virtualization (NFV). This type of information technology environment is positioned to support the real-time data delivery and technology trends that can mean the difference between life and death for warfighters on the battlefield.  
+
+Another important step to make The New IP the new status quo in defense networks is to reevaluate current acquisition models. Open standards are critical to defense agencies’ ability to facilitate information technology innovation. Virtualized technologies demand an open approach to the network. While defense has made strong inroads in the fight for open standards, in many cases information technology decisions are still driven by vendors who utilize proprietary protocols.
+
+Defense agencies should make eliminating vendor lock-in and driving savings a top priority. For example, The Department of Veterans Affairs (VA) improved its acquisition process by mandating open standards through the August 2012 memo, Open Standard Protocols for VA Networks. With the increased vendor competition, the agency improved interoperability, encouraging innovation and reducing costs.
+
+The results the VA experienced are not a single case in point. A Brocade study revealed 95 percent of federal information technology professionals feel there are benefits to the use of multiple vendors in their information technology infrastructure. Respondents to the same survey estimated they could save 20 percent of their agency’s information technology budget by adding a single vendor. 
+
+An opportunity that enables cost savings, improves efficiency and drives more effective information sharing creates a proposition that defense leaders cannot and should not ignore. Defense Department information technology leaders’ instincts are right—it is time for modernization on defense networks. But to truly capture the defense network of the future, a holistic shift is required. 
+
+Anthony Robbins is vice president of federal, Brocade.
+
+The views expressed by guest bloggers are their own and do not necessarily reflect the views of AFCEA International or SIGNAL Magazine.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

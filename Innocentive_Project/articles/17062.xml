@@ -1,0 +1,46 @@
+<article>
+  <type>article</type>
+  <title>Filtering the Chaos Out Of Command And Control</title>
+  <author>Henry S. Kenyon</author>
+  <date>January 1, 2017</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>command and control</tag>
+    <tag>software</tag>
+    <tag>3-D mapping</tag>
+  </tags>
+  <abstract>A software-based fusion tool aims to ease the problem of tactical information overload by collecting and parsing incoming data, sending just the right types of intelligence to users in real time.</abstract>
+  <text>A software-based fusion tool aims to ease the problem of tactical information overload by collecting and parsing incoming data, sending just the right types of intelligence to users in real time. The system represents this data graphically on a single screen, superimposing it over satellite and 3-D map imagery showing friendly and known enemy unit locations.
+
+Cutting through the fog of war has challenged commanders for thousands of years. One potential solution is the iCommand command and control (C2) fusion engine, which has operated in the classified world for several years supporting special operations forces command centers. Developed by Austin, Texas-based Textron Systems Advanced Information Solutions, it merges multiple data streams flowing into command centers into a single, unified picture, explains Harvey Davis, director of business development. 
+
+Up to 19 individual mission command-type systems can be running simultaneously in a typical U.S. military command center—from intelligence and video feeds to geospatial tools and overlays, he notes. Add data from systems such as Blue Force Tracking and others that intend to create a comprehensive situational awareness picture, and the flow of information can be chaotic. These various feeds, programs and software tools produce operational plans, synchronization and collection matrices, operational orders and a variety of reports. Combined with communication systems such as email, web portals, telephone and radio, these platforms occupy valuable server and equipment space in a command center, limiting overall mobility, flexibility and situational awareness. The fusion tool integrates these systems into a “single pane of glass,” according to the company.
+
+Textron presented an early version of the system to an unnamed U.S. special operations customer in 2013, working hand in hand with troops for a year and a half to improve it. The company now is further evaluating and developing the system’s capabilities with the Defense Department. At October’s AUSA symposium in Washington, D.C., Textron demonstrated its iCommand version 2, a follow-on system that incorporates modifications and operational and process lessons learned from the first customer, Davis says. 
+
+ICommand is a software- and equipment-agnostic system capable of interoperating with most military and civilian government C2 and mission command systems, he explains. By combining sensor data on a single screen, command center leaders can perform a variety of operations, such as managing unmanned aerial system (UAS) missions. The map overlay can display images in three dimensions, and users can drag and drop icons to represent a range of functions, such as waypoints for UAS surveillance flights or requests for artillery and airstrikes. By displaying operational information on one screen, iCommand also streamlines the work of command center personnel by providing their job and mission tools, along with the operational picture, at their fingertips. 
+
+Flexibility and interoperability are core parts of the system. ICommand runs on laptops, desktops, tablets and dedicated servers. “Depending on where I’m getting sensor feeds, I’m going to route them to the server, and it’s going to give me whatever imagery I want on my laptop, tablet or whatever I’m using as an imagery system,” Davis says. 
+
+To maximize interoperability, Textron also builds specific web gateways managed via a company web portal. “It’s really a simple interface for a user to be able to adjust and change an IP [Internet protocol] address or a port or a password for that gateway. We use the COP [common operating picture] manager to manipulate that data to present it in a better, more cognitive format for the user,” Davis says. This lets users generate icons for specific systems and capabilities, customizing both their look and functionality, he adds.
+
+ICommand now comes in a thin client version that delivers expanded real-time situational understanding but requires no software or custom plug-ins. It includes capabilities for managing critical information in the cloud and pushing out data from sensor feeds to computers or handheld devices. 
+
+Because iCommand can reside on a variety of equipment, it is useful for supporting operations in rugged areas with little in the way of communications. Davis cites the example of a recent exercise where the system supported a coalition training network. Forces needed to access map data, but because there was no direct Internet connection, map tiles were laid with the GeoServer mapping tool. Although it was a challenge, Davis says it demonstrated that mission feeds—in this case, special operations feeds—can be pushed via iCommand to conventional Army systems. “We were able to take the system that they were using for their mission command at the soldier level and push that back. Now, the conventional forces could see where the special operators were and what they were doing, if the special operators wished them to see it,” he says.
+
+Access to data on iCommand is controlled by Microsoft Active Directory. Specific feeds are sent to specific users, allowing all or only select users on a network to receive sensor and data feeds, depending on mission requirements, Davis explains. 
+
+ICommand can support units across a range of echelons. During demonstrations, Davis notes, it operated at the battalion level. Because Army battalions typically have small servers supporting their command centers, iCommand can operate within a unit’s individual radio frequency (RF) bubble if it loses communications with higher echelons. Local geospatial and battlefield data can be collected and inserted into a battalion’s map data. A disconnected unit would not be able to see brigade, division, corps or strategic-level assets. However, that information would be restored once communications resumed.
+
+An updated version 2.5 of iCommand was scheduled for release in December. It includes modernized features such as drawing tools and a data logging capability that records every time someone uses the system—for example, to give a command or to request artillery fire. Additionally, it allows users to manually log calls, commands and texts they might send over the radio. The drawing tools let them create specialized tactical graphics and icons to represent operational needs without having to use freehand drawing tools, Davis says. A software development kit also is available for customers to build out their own applications and tools to operate in iCommand. 
+
+Civilian government agencies, law enforcement and municipal offices can use the system as well. Textron demonstrated iCommand to the U.S. Department of the Interior to control drones monitoring a fire in Idaho. The tool streamed live video to a command center managing firefighting efforts, Davis explains. ICommand also can manage and distribute intelligence and geospatial tools. Davis notes that during the demonstration with the Department of the Interior, geospatial map data was stitched together into a mosaic that was then overlaid and replaced with new imagery collected from the drones to reflect the changing situation. 
+
+Recently, Textron demonstrated iCommand to Miami-Dade County, Florida, municipal government officials. Davis says the system connected and collected data feeds from police cars, fire trucks and cameras around the county’s urban areas. While iCommand will not replace camera management systems, these legacy systems can be integrated to provide users with specific views and feeds to support their jobs. This allows the city to manage data for a range of events, such as natural disasters, fires or riots, Davis says. ICommand also was recently demonstrated to the Tampa, Florida, Port Authority and the Florida National Guard.</text>
+  <imgalttext>
+    <img>In addition to military uses, the iCommand system offers civilian governments applications for law enforcement, disaster management and transportation authorities.</img>
+    <img>The iCommand tool interoperates with other command and control systems by merging incoming information onto a single screen for viewing and streamlining command center staff workload.</img>
+  </imgalttext>
+</article>

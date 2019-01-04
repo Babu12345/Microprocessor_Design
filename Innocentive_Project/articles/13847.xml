@@ -1,0 +1,33 @@
+<article>
+  <type>article</type>
+  <title>Defense Department's Massive JRSS Effort on Track to Deliver, Halvorsen Says</title>
+  <author>Sandra Jontz</author>
+  <date>December 5, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>DISA</tag>
+    <tag>JIE</tag>
+  </tags>
+  <abstract>The first wave of testing of the U.S. Defense Department’s joint regional security stacks now underway at military bases in Texas and Europe shows the hardware and software tasked with improved protection of the department’s network, expected to deliver unprecedented cyber situational awareness, is on track to deliver as anticipated, according to the department's acting chief information officer.</abstract>
+  <text>The first wave of testing of the U.S. Defense Department’s joint regional security stacks now underway at military bases in Texas and Europe shows the hardware and software tasked with improved protection of the department’s network, expected to deliver unprecedented cyber situational awareness, is on track to deliver as anticipated, according to the department's acting chief information officer.
+
+“I have not passed live traffic yet over the [joint regional security stacks], but what I can tell you is that all of the tests show that I’m going to get the results,” says Terry Halvorsen, the Defense Department's acting chief information officer (CIO). “We will start going live with pieces of the [joint regional security stacks] before the end of [fiscal] 2016. I suspect we will start going live with some of the locations—I’m not going to give you the specific locations—right after the first of the new year, and then we will keep going live. By the end of ’16, we’ll have full capability throughout the network to do most of what we want. By [fiscal 2017], we’ll be 98 percent complete.”
+
+For more than a year, the Defense Information Systems Agency (DISA), along with the Army, Air Force and defense contractor Lockheed Martin, has worked on the joint regional security stacks, or JRSS, a key upgrade to streamline network operations and improve security. In all, the Defense Department plans for 15 joint regional security stacks to be deployed across a number of regions.
+
+The JRSS is designed to provide a more secure, defendable and responsive Defense Department integrated network, Halvorsen says. It is a collection of “servers [and] switches, with some increased bandwidth, and with a software package … that allows us to do better traffic analysis and then share that traffic analysis in a more timely, and in many cases, almost immediate way with all of the network control [centers] at the same time.”
+
+It is a cornerstone of the much larger initiative that for now has been dubbed the Joint Information Environment, or JIE. Halvorsen met Friday with military leaders during what he called a three-star review board where he provided expected final cost figures for the system. “I think everyone now is in agreement with the numbers … and that we will continue with the execution plan that we have developed” to have most of the system operational by the end of fiscal 2016. Halvorsen declined to provide those budgetary figures because he said the National Defense Authorization Act has yet to become law.
+
+“When it is done, it will reduce the access points to our network, for one thing,” Halvorsen says of JRSS. "It gives us a more limited number of control points, which immediately limits your physical footprint, which is a good thing. It has some standard software tools and server capabilities that give me better traffic analysis [and will] let the network operation centers … see through the entire network with better fidelity … and traffic analysis to know what’s going on in the network. It gets us the ability to have some sensors that will give us better tipoff, more precise and timely tipoff, about what’s going on on the network so that we can take more responsive action … when I see an anomaly on network traffic.”
+
+If all goes according to plan, the JRSS will not show fewer attacks on the Defense Department network, but more. “It will probably end up logging more attacks,” he says, and current testing reveals that the system will work as hoped when launched, according to Halvorsen, who addressed the topic with journalists during a call-in media roundtable. The initial rollout is more focused on the Army and Air Force. Later rollouts will include the Navy and Marine Corps. 
+
+Testing of JRSS is now underway at Joint Base San Antonio in Texas. “The testing revealed that we have the capacity sized right,” Halvorsen reports. “We needed to do some fine-tuning of the software set tools, but I can’t get more specific than that. Our architecture connection plan appears to be sound. Every indication we have right now … is that it is going to work as designed.” Additionally, operators need more training, says Halvorsen, who used to head the Navy's information office. His current status remains as the department's acting CIO, even though the Navy advertised for his job this week.    
+
+“The next big step for JIE is for us to develop an unclassified coalition network, which means anybody who is a current partner in any mission we’re doing … can quickly standup what will have to be a commercially based … out-of-the-box network that can operate efficiently enough that everybody who you might want to put on that network” can operate together, Halvorsen says.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

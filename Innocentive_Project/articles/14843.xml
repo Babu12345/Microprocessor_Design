@@ -1,0 +1,43 @@
+<article>
+  <type>article</type>
+  <title>Soldiers Look for Supersight</title>
+  <author>Sandra Jontz</author>
+  <date>August 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Night Vision</tag>
+    <tag>Army</tag>
+  </tags>
+  <abstract>U.S. soldiers might not have super-X-ray and heat vision to see across the full electromagnetic spectrum—yet—but recent technological strides are enhancing sight on the battlefield by leaps and bounds.</abstract>
+  <text>U.S. soldiers might not have super-X-ray and heat vision to see across the full electromagnetic spectrum—yet—but recent technological strides are enhancing sight on the battlefield by leaps and bounds. Researchers at the U.S. Army’s Communications-Electronics Research, Development and Engineering Center (CERDEC), in collaboration with industry partners, have evolved night vision and thermal imagery technology to the point where soldiers can see clearly, whether fighting in darkness or in less-than-ideal weather conditions.
+
+Tom Bowman, director of CERDEC’s Night Vision and Electronic Sensors Directorate (NVESD), Ground Combat Systems Division, explains the advances emerging from his group. “Night vision technology, when it was invented, really changed the way our soldiers fought. Today, we have a whole new paradigm for the way they conduct operations,” Bowman says of the fusion of technologies that will give troops a stream of digital images and symbols via secure wireless connections directly from their weapons systems to a head-mounted display. “It’s technology that now allows our soldiers to fight at night—and they actually prefer to fight at night—so they become more lethal. [The improvements] enable them to fight in most conditions that are experienced on the battlefield today.”
+
+New state-of-the-art goggles, expected to be fielded en masse to conventional Army troops as early as next year, overcome several limitations of the current models. Namely, the 3-D digital readout integrated circuit (DROIC) technology has been improved to give warriors the ability to see in degraded visual conditions, such as fog or heavy smoke, and to make a seamless transition from day to night and distance to close-up use. The Enhanced Night Vision Goggle (ENVG) III/Family of Weapon Sight-Individual (FWS-I) system combines two devices soldiers need on the battlefield: night vision goggles for situational awareness and thermal weapon sight. Using a wireless connection between the weapon sights and goggles, soldiers can see imagery from the weapon through the goggle display—in real time, Bowman explains.
+
+“Basic technologies we’ve been most famous for are the image-intensified technology, which is what you see at night using vision goggles—that green glow—and the thermal technology,” he says. “The soldier of the future will be able to see as well at night as he does in the daytime. Our technology has evolved to the point where we can actually provide 20/20 vision to a soldier at night, underneath some pretty dark environments.”
+
+Soldiers today operate with equipment incorporating technology developed roughly four decades ago. Night vision goggles use image-enhancement technology that collects even the smallest amount of light, such as light emitted from the stars or the moon, and light at the low portion of the infrared spectrum, often undetectable to the human eye. It amplifies that light so images can be observed. Thermal imaging captures the upper portion of the infrared light spectrum, which is emitted as heat by objects instead of reflected as light. The hotter the object, such as a warm body, the whiter the emission.
+
+The digital readout technology and upgrades allow troops to view weapon sight imagery directly through their goggles, shortening their reaction and engagement times and increasing their maneuverability, Bowman says. And the equipment weighs considerably less than earlier iterations.
+
+“Back in the ’70s … it weighed about 6 pounds and used a military-specific battery, which I believe cost about $1,000 a copy or so,” Bowman discusses. “It was a very, very expensive battery and only lasted a couple of hours before you had to replace it.” In the 1980s, improvements led to gadgets that weighed about 3 pounds and ran on six AA batteries. “Today, the things we’ve transitioned to the [program manager] … weigh 1 pound and run off two AA batteries.”
+
+BAE Systems is developing the integrated night vision and thermal targeting solution with the aim of improving soldiers’ speed and targeting accuracy in all types of weather and lighting conditions. “Supplying the U.S. Army with this new rapid target acquisition technology builds on our heritage as a longtime provider of thermal weapon sights and precision targeting solutions,” Terry Crimmins, vice president and general manager of survivability and targeting solutions at BAE Systems, says in a statement. “The ability to conduct surveillance in any light or weather condition increases mission safety and effectiveness.”
+
+The 3-D DROIC technology enables infrared focal plane arrays to achieve enhanced sensitivity and dynamic range, with low noise and power and fast frame rate, using on-chip signal processing for multifunctional capabilities. Adoption significantly enhances the performance of the Army’s Ground and Airborne Forward-Looking Infrared (FLIR) imagers and provides a leap ahead in technology for various programs, such as electro-optic/infrared sensing, hostile fire indication, persistent surveillance, passive low-light shortwave imaging and high-definition uncooled and cooled infrared imaging, Army officials report.
+
+Coupled with the head-mounted display technology, the improvements offer ground forces high-fidelity data, from icons that depict the location of suspected roadside booby traps to symbols that pinpoint the precise position of both friendly and enemy forces, Bowman explains. “It’s all about providing information up into the heads-up display as a soldier is maneuvering,” he says.
+
+The information is transmitted over a secure wireless connection, such as that of the Army’s budding Nett Warrior system, an integrated, dismounted situational awareness and mission command tool for use during combat operations that capitalizes on wearable technology. Small, portable computers and advanced electronics work while affixed to the body or clothing, leaving users’ hands free. The Nett Warrior system uses off-the-shelf Android smartphones equipped with downloaded, mission-specific apps.
+
+Redundancies and safeguard measures are built in to ensure that if the network or system goes down, soldiers still can fight. “He still has his weapon sight, still has the laser range finder, still has his goggles,” Bowman says. “He can maneuver—he can fight in the conventional way that he does today.” The system complies with the National Security Agency’s regulations and safety requirements for wireless technology, and it is meant for short-range use to connect devices and equipment that soldiers wear and carry.
+
+“It’s a fairly rapid fielding to give a brand new paradigm for how we use night vision equipment on the soldier,” Bowman concludes. “It’s actually the first time that we’ve really linked the soldier head and the weapons sight together to fight. We now use weapon sights as an offensive tool rather than just in a defensive posture.”</text>
+  <imgalttext>
+    <img>Digital sensors in the U.S. Army’s new night vision goggles let warfighters view images on helmet displays and fuse digital images with symbols.</img>
+    <img>CERDEC’s Night Vision and Electronic Sensors Directorate is developing the next generation of thermal weapon sights, which will enhance soldier situational awareness, lethality and precision while decreasing collateral damage.</img>
+  </imgalttext>
+</article>

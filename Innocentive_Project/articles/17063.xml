@@ -1,0 +1,69 @@
+<article>
+  <type>article</type>
+  <title>Preventing Big Data Pains for Precision Medicine </title>
+  <author>Stephanie Domas and Dr. Nancy McMillan </author>
+  <date>January 1, 2017</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>The Cyber Edge</tag>
+    <tag>Health IT</tag>
+    <tag>medical technology</tag>
+    <tag>big data</tag>
+  </tags>
+  <abstract>Advances in genomics, medical sensors and data-driven health care increasingly are enabling doctors and patients to make personalized and targeted care decisions.</abstract>
+  <text>Advances in genomics, medical sensors and data-driven health care increasingly are enabling doctors and patients to make personalized and targeted care decisions. But the effectiveness of these precision medicine capabilities depends on critical cybersecurity components to protect patient privacy and the integrity of patient data.  
+
+Precision medicine is an emerging approach to disease treatment and prevention that takes into account variability in genes, environment and lifestyle for each person, according to the National Institutes of Health. It is the ability to make informed health care decisions based on individual patient needs. While this often means using genetic or genomic data to target treatments, precision medicine also can help patients with specific environmental exposures or lifestyle considerations. 
+
+This personalized approach to health care is made possible by an unprecedented volume of patient data. Treatments for some cancers, including breast and prostate, now can be prescribed according to the genetic profile of the patient or of the tumor itself. Diabetes treatments can be prescribed using data from body-worn sensors as well as lifestyle data logged into mobile health (mHealth) apps to help patients better regulate blood sugar levels. For mental health problems, genetic tests have been developed to screen for genes implicated in depression and other psychiatric disorders. These tests better predict how individual patients might respond to specific medications.
+
+Information used for personalized medicine might include data gathered from bioassays and other clinical screeners, genetic sequencing data, data from body-worn sensors or home health-monitoring devices and behavioral data gathered using electronic logs or mHealth apps. Some types of data will be pulled into the patient’s official electronic health record (EHR), and some will be stored locally on devices or in cloud-based applications to complement the EHR. While this large volume of data enables patients and health care providers to make more effective and individualized health care decisions, it also creates challenges for data security. 
+
+Patient records store troves of personal information, possibly including a patient’s entire genome, which makes data privacy a significant patient concern. But data privacy risks are in general rather small. Patients might fear the implications of a hacker deliberately stealing their genetic health data, but that information is not easily monetizable, which makes it of little interest to most attackers. 
+
+Data integrity is a bigger security risk for health care than data privacy. Precision medicine depends on the reliability and accuracy of the data it is based on. If the data is corrupted, intentionally or unintentionally, doctors and patients might make erroneous decisions. In some cases, the potential for harm could be enormous if the wrong treatments are prescribed or if treatments are withheld based on corrupted data. 
+
+For example, if a woman receives bad data about her genetic risk for breast cancer, she might decide on an unnecessary preventive mastectomy, believing she is at high risk or, conversely, skip mammograms, believing she has a low risk. Other situations are more immediately life-threatening, such as a diabetic patient basing insulin dosages on corrupted data. 
+
+As applications for precision medicine grow, cybersecurity for the devices that gather, analyze and transmit data is of paramount importance. Patients need to trust that their data is protected, and both patients and clinicians need to trust the integrity of the data they are using to make critical medical decisions.
+
+Precision medicine may involve many different types of medical devices, including genetic sequencers; body-worn sensors such as pedometers, motion and position sensors, sleep monitors, heart monitors or temperature sensors; home health devices such as smart scales or blood pressure cuffs that record data and send it to health care providers; mHealth apps that patients use to self-record behavioral or biometric data; and imagers and diagnostic devices with analytical capabilities. 
+
+Increasingly, the devices that collect and analyze patient health data, including genomic and biometric data, are connected to the Internet, to hospital networks or to each other. Even devices that are not continuously connected are likely to be connected to a network or to another device, such as a laptop or a thumb drive, to transmit data or receive software updates. Each of these connections, no matter how brief, is a potential vector for a cybersecurity breach that could result in data corruption. 
+
+In most cases, hackers see limited value in breaking into a genetic sequencer or medical imaging devices, so individual devices are not specifically targeted. However, these devices can be vulnerable to software and data corruption even if they are not the primary target of an attack. Many computer viruses are designed to propagate themselves as widely as possible. These bits of malicious code will insert themselves into any device that has a software vulnerability they can exploit. The infected device may be harmed directly by the virus or simply may act as a vector as the virus attempts to infiltrate hospital networks or other devices. Malice is not a prerequisite for harm; data corruption may occur simply as a side effect of other things the virus is doing in the system as it blindly follows its programming. 
+
+Viruses that make their way into a device through a network connection or a thumb drive can cause the device to behave in unpredictable ways, including returning false or misleading data. Sometimes, the data corruption may be obvious, with the device returning nonsensical data or simply no data at all. In other cases, the effects of corrupted code may be more subtle: a sequencer returns false negatives for a particular set of genes; a device mislabels data files so patient records are swapped; or sensor data is 10 percent higher or lower than the actual value. These cases are potentially much more dangerous because, while clinicians are likely to question or ignore nonsensical data, they may take a simple false positive or a mislabeled set of records at face value and prescribe the wrong treatment. 
+
+To keep the precision medicine movement on track, medical device developers need to have a cybersecurity plan in place for smart, connected devices. Any device that relies on software to collect, analyze, store or transmit data needs to be built with data security in mind and assessed for potential cybersecurity vulnerabilities.
+
+The Food and Drug Administration has released both premarket and post-market guidance for medical device cybersecurity, which can be found using the search bar on FDA.gov. In addition, the National Institute of Standards and Technology (NIST) has developed a framework that defines 18 families of cybersecurity controls (see sidebar) that can be used to identify relevant cybersecurity vulnerabilities for medical devices or mHealth apps. These resources provide best practices for medical device development, vulnerability assessment and post-market updates. 
+
+Device developers can use these guidelines when creating a cybersecurity plan for medical devices, and their plan should include several components that span the development process. 
+
+Before device design begins, manufacturers should perform market research and analysis to identify relevant and emerging cybersecurity risks and stakeholder requirements. Many hospital purchasers now write cybersecurity requirements into purchasing contracts and expect written documentation of the cybersecurity plan. 
+
+Cybersecurity needs to be built into the design process from the beginning. This should include development of a device-specific threat assessment that characterizes, models and measures threats specific to the device, such as points of connection, methods of updating code, data storage and data transmission. The threat assessment will help developers make design decisions that minimize cybersecurity risks. 
+
+Generally, vulnerability should be assessed at the prototype or pre-launch phase. This may include penetration testing, in which security experts try to break into the device. It also may include “fuzz testing,” in which the device is flooded with massive amounts of mutated data to uncover the potential for abnormal behavior, crashes or data corruption. Vulnerability assessment can help uncover conditions that may result in the device returning bad data. 
+
+After market release, developers need to have a plan for updating the device as new security threats are identified and the software ecosystem surrounding the device changes. For example, an update to an operating system or a browser on a computer that connects to a genetic sequencer may necessitate updates to the code of the sequencer itself. Newly discovered viruses also may drive software updates. Developers must have a plan to make these updates securely, without opening up new vulnerabilities. 
+
+It also is recommended that developers have a responsible disclosure policy in place to collect and respond to vulnerabilities discovered by users or security professionals once the device is on the market.
+
+There could be some bumps in the road. After all, precision medicine is still in its infancy. As exploration continues to reveal the links between genes, environment, behavior and health outcomes, the applications for precision medicine are likely to explode. The success of that growth depends on the security and integrity of the data used to drive decisions. 
+
+If cybersecurity is not part of a company’s core expertise, a good strategy is to bring in security experts for objective third-party opinions or to assist with threat assessment, secure device development and vulnerability testing. 
+
+No device ever is 100 percent secure, but medical device developers who integrate cybersecurity throughout their development process will be well-prepared to address and mitigate potential data security risks. A comprehensive approach to cybersecurity will help protect the privacy and integrity of patient data, building trust among users and buyers and reducing liabilities. Increasing the security of medical devices creates a solid foundation of trustworthy data for precision medicine to grow on. 
+
+ 
+
+Stephanie Domas is lead security engineer for Battelle’s DeviceSecure Services. Dr. Nancy McMillan is a manager and research leader at Battelle. The views expressed here are theirs alone.  </text>
+  <imgalttext>
+    <img></img>
+    <img></img>
+  </imgalttext>
+</article>

@@ -1,0 +1,37 @@
+<article>
+  <type>article</type>
+  <title>President's Commentary: Tread Carefully With the Internet of Things</title>
+  <author>Lt. Gen. Robert M. Shea, USMC (Ret.)</author>
+  <date>March 1, 2017</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Internet of Things</tag>
+    <tag>Presidents Commentary</tag>
+  </tags>
+  <abstract>An increased reliance on the IoT offers potential liabilities, such as security challenges and availability, along with a heavy dependence on technology in what is sure to be a contested or denied future warfighting environment.</abstract>
+  <text>One of the more intriguing information technology trends sweeping the globe is the Internet of Things, or IoT. Its inevitability is clear, and the military is hoping to leverage the IoT for gains in situational awareness and logistics, among other areas. Yet an increased reliance on the IoT offers potential liabilities, such as security challenges and availability, along with a heavy dependence on technology in what is sure to be a contested or denied future warfighting environment. 
+
+Military officials must fully consider the challenges of implementation, especially at the tactical and operational levels. Often, officials introducing military operational concepts inadvertently trivialize or overlook the difficulties of emerging information technology by using PowerPoint slides. Problems often are wished away or not adequately considered. The military implementation of the IoT may be one such case. This is not to say that the Defense Department should ignore IoT capabilities, but it must carefully assess their potential benefits.
+
+Many of these benefits are indisputable: the ability to monitor service members’ vital signs; improved logistics and maintenance support and the attendant possibility of lightening loads for soldiers and Marines; and increased situational awareness and better networking of sensors, leading to improved command and control and lethality. These are just a few potential advantages.
+
+But before experts determine which IoT capabilities fit into the future tactical and operational environment, they need a well-thought-out set of assumptions and an understanding of the capabilities of future threats against which we will deploy, employ and fight. We need a holistic and realistic future warfighting perspective from the tactical level to the operational and strategic levels.
+
+We must prepare to deal with a thinking adversary that clearly has demonstrated it is developing strategies to counter our concepts. Our adversaries have learned it is a mistake to let the United States and its allies develop a major foothold in an area of operations. This has led them to mature anti-access/area denial (A2/AD) concepts and capabilities to preclude this type of buildup. The ability to fall in on a well-developed infrastructure, such as what was built over the years in the Middle East, is not likely to be the norm in the future. Consequently, evolving warfighting approaches are driving each of the services toward expeditionary concepts and all that entails.
+
+In a major conflict, U.S. and allied forces likely will confront an opponent that is prepared to attack our technological Achilles’ heel. This will impact emerging IoT capabilities. Further, our adversaries clearly have demonstrated the ability to deny, degrade or disrupt many of our space-based assets, critical to expeditionary operations. Electronic warfare (EW) likely will be used to confront air, maritime and land forces, affecting our ability to command and control warfighters as well as to collect and move information through the battlespace to deliver effects.
+
+Defense against wide-ranging cyberthreats to our networks and infrastructure clearly is going to be a challenge that will not diminish. And the means to inject these threats is expanding. Foes likely will have the ability to identify, locate and act against our network nodes, both physically and virtually. As an example, Russian forces operating in Ukraine have employed EW and signals intelligence to locate and destroy Ukrainian nodes by using mass artillery barrages. 
+
+But the challenges do not end there. Capabilities we have taken for granted may not be available to us. It takes time and top-notch command and control to build an expeditionary information infrastructure. No enemy wittingly will allow us the opportunity to establish the robust network infrastructure necessary to support strong IoT capabilities. Perhaps phased fielding of capabilities is part of the answer.
+
+The question this raises is: How does the IoT fit into future service expeditionary concepts at the operational and tactical levels? What is the effect on expeditionary forces, especially in an operation’s vulnerable early stages, when networks typically are single thread and an adversary with a modest intelligence collection capability can locate and target network information nodes, physically or otherwise? Not only is the infrastructure in an expeditionary environment extremely lean, but it also takes time to establish the needed robustness to support information flow. 
+
+What is the effect on critical command and control capabilities when the thin, underdeveloped network backbone is overwhelmed by IoT devices seeking to collect and move information? How do we effectively install, configure, operate and manage this network? 
+
+A force becoming reliant on the IoT must address many issues. We need to spend more time at the operational and tactical levels thinking about concepts, phased design of the architecture and support doctrine.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

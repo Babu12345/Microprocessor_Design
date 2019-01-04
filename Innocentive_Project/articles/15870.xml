@@ -1,0 +1,62 @@
+<article>
+  <type>article</type>
+  <title>GEOINT Moves From Stovepipes To the Cloud</title>
+  <author>Robert K. Ackerman</author>
+  <date>April 1, 2016</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>geoint</tag>
+    <tag>NGA</tag>
+  </tags>
+  <abstract>From new private-sector satellites to unclassified information extracted from open sources and social media, the ways of collecting, processing and disseminating geospatial intelligence are changing.</abstract>
+  <text>Commercial data and tools are defining the future of geospatial intelligence for the agency tasked with providing it across a growing community. From new private-sector satellites to unclassified information extracted from open sources and social media, the ways of collecting, processing and disseminating geospatial intelligence are changing.
+
+The result will be greater flexibility as the National Geospatial-Intelligence Agency (NGA) accommodates its newly acquired wealth of information by moving it to the cloud. The agency will be able to deliver different types of products based on geospatial intelligence (GEOINT) that can be customized to individual customer needs.
+
+The use of commercial products is not new for the NGA, but their employment is accelerating as new commercial systems come online. Applications featuring commercial data range from customer-specific products to baseline NGA information.
+
+Douglas P. McGovern, chief information officer and director of information technology services at the NGA, says the agency is paying close attention to the growth of the small satellite industry and the large number of companies promising to develop more unclassified data sources and services. Nontraditional sources such as social media and even text reports, financial spreadsheets or other big data elements would be of interest to the NGA if they included GEOINT data. Ultimately, McGovern offers, the NGA would consider any unclassified data that is discoverable and accessible.
+
+“I like to think of data as an iceberg,” McGovern says. “In the community, we’ve largely focused on the tip—the classified sources. But there’s a whole new world of data under the waterline in the unclassified domain.
+
+“Our ability to bring all that data to bear, whether it’s from unclassified or classified sources, really presents huge opportunities going forward and gives us an operational advantage over our adversaries,” he declares.
+
+The agency is moving from its stovepiped, system-centered approach to the cloud, McGovern continues. This will permit the NGA to take advantage of the greater variety of available data.
+
+The agency also is working on developing standards for data types and services to ensure they can be used effectively, he says. With these standards, diverse unclassified data can be exploited within the agency’s framework.
+
+The greater flexibility these commercial products will bring to the NGA will allow it to shift its focus to generating more classified and mission-specific information. The agency will be able to apply commercial data to a larger part of its mission and employ its unique assets to harder challenges.
+
+To provide customers with GEOINT-related answers to their questions, the agency must emplace the discovery tools that allow them to canvass both GEOINT knowledge as well as other sources of information. This will permit customers to expand their knowledge beyond conventional patterns.
+
+Traditionally, the NGA would establish physical libraries at customer locations, and imagery products would be delivered to those sites. But sustaining dozens of these libraries was expensive, McGovern notes. Now, the agency brings the apps and the users to the data so they can access services without needing to download excessive imagery. He compares these technologies to what smartphone and tablet users rely on at home.
+
+“We would like to get out of shipping imagery as a good and [instead] make available services where people can consume knowledge on top of the imagery and foundation products,” McGovern explains. “We still provide the raw data when required, but I think it becomes a more interesting conversation when we can provide the insights and the answers that the user actually wants.”
+
+The NGA would provide a base level of service that could be configured to produce what customers regularly want. The agency also can customize its products to suit “unique, rich or boutique GEOINT applications” for customers, McGovern allows. Although the NGA provides unique and boutique services, offering them to everyone would not be cost-effective, he adds.
+
+With its baseline platform-as-a-service approach, the NGA is seeking more higher-order analytics, McGovern says. These include analytics that would allow the agency to create models by stitching together two or more different data sets to find patterns of life or behavior that could not be gleaned from a single data set. “It’s bringing the power of the scalable cloud and big data analytics to the fight,” he explains.
+
+The agency wants to be able to apply these capabilities in a mobile environment. This would open up these products to users who are not tied to their desks, McGovern states.
+
+The NGA is transforming its information technology services directorate to provide greater agility in its business and acquisition processes to keep pace with technological innovation. McGovern emphasizes that the agency constantly pursues ways of introducing innovative capabilities smartly into operations. Efforts include technology insertion, fast-tracking and pilot and prototyping capabilities that would be quicker than a legacy acquisition.
+
+“In our acquisitions, it’s about how you deliver things in ‘sprints and spins’ that allow us to deliver minimum viable products and then improve on those [products] over time,” he continues. “The ability to deliver those in weeks or days creates a lot of potential to really get some feedback from the users on whether these tools, capabilities and services meet their needs.” 
+
+The move to the cloud will enhance the quality of this feedback, McGovern notes. Instrumentation on the infrastructure will allow the NGA to understand usage as well as user likes and dislikes. This way, the agency can focus its investments on areas in demand by users, he adds.
+
+The NGA has increased its emphasis on DevOps environments, in which information technology professionals collaborate to a greater degree both early and late in the development process. Aligning the development process with the security and accreditation processes in a DevOps approach speeds the introduction of new capabilities into operations, McGovern points out.
+
+“Getting to a DevOps agile development probably is the primary driver” for transforming the NGA information technology services directorate, he emphasizes.
+
+The NGA is partnering with the Defense Intelligence Agency in the Intelligence Community Information Technology Enterprise (ICITE) effort to deliver a common desktop. McGovern says the deployment of the common desktop has been a great success, with more than 50,000 rolled out over the past year. The desktop serves as the platform for the collaboration tools that ICITE will spawn as the intelligence community goes forward. But even with this success, the NGA must continue to improve its processes to maintain its reliability in the community, he says. 
+
+Overall, the push to the cloud and new ways of delivering NGA products are increasing the importance of cybersecurity. While the cloud helps cybersecurity efforts by minimizing available attack surfaces, the agency is pursuing a multifaceted approach to securing its cyber assets with the goal of deterrence. “If you make it harder for the bad guy to get you, he’ll go after the easier [target],” McGovern states. “The harder we can make it for them hopefully gives us the time and resources to detect their activity sooner rather than later.”
+
+He continues that the NGA is interested in cyber technology developments that would allow it to stay a step or two ahead of an adversary. For example, strong authentication controls and data tagging that allows attribute-based access decisions is key. Yet even deterrence or preventive measures will not guarantee security. “You have to assume in some circumstances that they’re already on your network,” he allows. “Being able to monitor unusual behavior [is important] to make sure people who don’t have the authorities to see the data don’t get ahold of it.” </text>
+  <imgalttext>
+    <img>An NGA map of West Africa helped in fighting last year’s Ebola outbreak by illustrating the locations of vital resources and facilities. The NGA is looking to tap other types of commercial data, including social media information, to build new products that feature more diverse information.</img>
+  </imgalttext>
+</article>

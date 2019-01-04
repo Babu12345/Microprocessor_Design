@@ -1,0 +1,50 @@
+<article>
+  <type>article</type>
+  <title>Solving the Hard Science For Future Coalition Forces</title>
+  <author>George I. Seffers</author>
+  <date>February 1, 2017</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Army Research Laboratory</tag>
+    <tag>United Kingdom</tag>
+    <tag>Coalition Operations</tag>
+  </tags>
+  <abstract>Scientists supporting the U.S. and U.K. militaries are partnering to explore information system and distributed analytics solutions for coalition warfighters of the future.</abstract>
+  <text>Scientists supporting the U.S. and U.K. militaries are partnering to explore information system and distributed analytics solutions for coalition warfighters of the future. Possible solutions include a system that will generate security policies based on its understanding of its human users and technology capable of delving into information from a variety of sources to respond rapidly to warfighter queries.
+
+Officials with the U.S. Army Research Laboratory (ARL) and the U.K.’s Defence Science and Technology Laboratory have formed the Distributed Analytics and Information Science (DAIS) International Technology Alliance (ITA), which seeks to develop the fundamental underpinning research required to enable secure, dynamic, semantically aware, distributed analytics for achieving situational understanding in coalition operations, according to the ARL website. The coalition includes academia and industry, with IBM taking a leading role.
+
+The alliance is necessary because coalition operations are becoming increasingly prevalent and complex, Army officials say. Coalitions can involve militaries from multiple countries, including nongovernmental organizations and contractors, all with their own languages, cultures, policies and technologies. Furthermore, teams must be developed quickly, and members can change. Recent coalition operations are placing significantly greater burdens on the people and technologies that are deployed. “Our missions are very complex. Our forces are in the field, at the edge, and they have to do everything. It’s very hard,” explains Greg Cirincione, the ARL’s collaborative alliance manager for the DAIS ITA. “Trying to integrate multiple technologies from multiple partners is also very difficult.”
+
+Additionally, as technology becomes less expensive, coalitions encounter adversaries that increasingly have access to advanced communications, information and analytics technologies. “All of our adversaries are using Twitter. They’re using smartphones. It’s not like it was 20 years ago, when we had all the technologies. We need to be able to move very quickly with our capabilities to have an advantage,” Cirincione says. “Of course, [warfighters] are going to do this in a congested, contested, connected and constrained environment.”
+
+The ITA is a five-year program with an option to continue for another five years. It includes both basic research, which looks far into the future, and plans for rapidly transitioning research results where possible. “We’re really trying to identify the coalition hard problems, and I mean hard problems from the science perspective. We’re looking at the science gaps that will probably be 20 years away, but most of this stuff will be applicable earlier. Once you solve the hard problems and get a fundamental understanding of the science, you can do a lot of things,” Cirincione says.
+
+The program focuses on two technical areas: dynamic, secure information infrastructures and coalition distributed analytics and situational understanding. Scientists will assess how best to develop a flexible, dynamic information infrastructure, including networking and security, with no base stations or cell towers for forces at the tactical edge. “They’re in a mobile, ad hoc kind of situation ... which is very hard in a coalition environment because you have to deal with a variety of different parties, a lot of different technology and security policies,” Cirincione points out.
+
+With the distributed analytics part of the program, researchers are looking for ways to better apply big data to battlefield operations. “We’re worrying about how to actually use the information and fuse the information specifically for the purpose of building that situational understanding,” he says.
+
+The ITA will study dynamic, adaptive, context-aware information systems that will allow warfighters to query the systems for essential information and rapidly receive an answer, regardless of who owns the information. “It would be both military sources and open sources and coalition sources of various types, and you have to find it and process it and fuse it and do it in a way that is resource-aware and understands the limits to bandwidth and storage and timeliness,” Cirincione declares. 
+
+The ultimate goal, of course, is to give troops on the ground the information they need for making rapid-fire decisions. “What we really want to do is derive situational understanding in complex situations by human users synergistically with machines and do this in a way that is not back at the Pentagon, where a bunch of people are standing around a computer, but out in the field where they’re doing things other than just trying to understand the information,” he says.
+
+The program includes several projects that could begin shortly. One involves “highly dynamic, software-defined coalition networks,” Cirincione says. Researchers envision a system that will account for all the different variables, such as multiple policies and varying degrees of trust among partners, and automatically share information with some coalition members but not with others. 
+
+Furthermore, the system needs to intuit policies from the behavior of its human users. “What we want to do here is … what we would call generative policies. We would like to have self-generating policies so that machines learn implicit policies from human behavior that we can then fuse with multiple parties, with the goal of having a secure mission, but doing it very rapidly. That is a major leap in the science,” he offers.
+
+Another project explicitly explores the distributed analytics piece of the coalition puzzle. “There’s lots of information in a distributed way: It’s all over the place, it’s moving around, it’s owned by many different parties, and you need to be able to operate on it as if it’s one data source,” Cirincione elaborates. “We’re looking at some unique ways to decide when you move code, when you move data, when you move them together in order to get the answer as quickly as possible with the least amount of resources.”
+
+The closer warfighters get to the actual decision making, the more complex the data challenge becomes, he adds. “What I just described is a complex human system once you add the human in. It’s not a machine making the decision. So, we’re looking at how complex human-machine interactions occur, what kind of collective behavior they have and whether we can understand the fundamental principles of how those elements work in different contexts based upon different missions and different information requirements.”
+
+The program also will examine what Cirincione calls instinctive analytics, which he depicts as “self-describing, self-discovering, self-allocating, self-provisioning—all the selfs” that can map those queries and distribute data. “The question is how to have this distributed information system understand enough about itself so that you can ask a question and have it find the information,” he says. 
+
+The scientists foresee an “anticipatory situational understanding” capability as well. The idea is to use machine learning and predictive modeling to dramatically enhance information fusion. Rather than pulling all the information into one place and fusing it there, the data will be fused throughout the network, and the system will “anticipate the kind of understanding you want to have,” Cirincione says. “It allows us to understand how a human operates with a machine, which of course, we could spend all of our money on because it is a very hard problem.”
+
+In some ways, he offers, the ITA will use lessons learned from the Afghan Mission Network, a fixed system established specifically for coalition warfare in Afghanistan. The technical alliance also will benefit from Cirincione’s own experience with the NATO Intelligence Fusion Centre, which uses separate databases with data from different countries. “What we’re trying to do here is a major leap ahead,” he says.</text>
+  <imgalttext>
+    <img>British troops practice attack drills during exercises in Oman. U.S. and U.K. researchers have teamed with industry and academia to develop better technologies for future coalition forces.</img>
+    <img>A U.S. paratrooper patrols as the sun rises in a village in Afghanistan’s Ghazni province. Soldiers fighting in future coalitions may benefit from more advanced information systems and distributed analytics.</img>
+  </imgalttext>
+</article>

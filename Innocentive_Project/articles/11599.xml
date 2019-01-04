@@ -1,0 +1,30 @@
+<article>
+  <type>blog</type>
+  <title>Szykman: Turning Big Data Into Big Information</title>
+  <author>Max Cacas</author>
+  <date>August 30, 2013</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>AFCEA Answers</tag>
+    <tag>big data</tag>
+  </tags>
+  <abstract></abstract>
+  <text> 
+Current efforts to deal with big data, the massive amounts of information resulting from an ever-expanding number of networked computers, storage and sensors,  go hand-in-hand with the government’s priority to sift through these huge datasets for important data.  So says Simon Szykman, chief information officer (CIO) with the U.S. Department of Commerce.
+ 
+He told a recent episode of the “AFCEA Answers” radio program that the current digital government strategy includes initiatives related to open government and sharing of government data. “We’re seeing that through increased use of government datasets, and in some cases, opening up APIs (application programming interfaces) for direct access to government data.  So, we’re hoping that some of the things we’re unable to do on the government side will be done by citizens, companies, and those in the private sector to help use the data in new ways, and in new types of products.”
+ 
+At the same time, the source of all that data is itself creating big data challenges for industry and government, according to Kapil Bakshi, chief solution architect with Cisco Public Sector in Washington, D.C.
+ 
+“We expect as many as 50 billion devices to be connected to the internet by the year 2020.  These include small sensors, control system devices, mobile telephone devices.  They will all produce some form of data that will be collected by the networks, and flow back to a big data analytics engine.”  He adds that this forthcoming “internet of things,” and the resultant datasets, will require a rethinking of how networks are configured and managed to handle all that data. 
+ 
+Bakshi also notes that there is a gap between the amount of data being collected, which is now being described in “zetabytes,” and the amount of that data which is being actively analyzed. “There are advances happening in all modes of data analytics, both in open source, and closed source areas,” he relates. 
+ 
+Bakshi goes on to say that there are numerous models now being successfully developed, and used, to help manage big data in government and industry.
+ 
+What do you think?  Do federal agencies have the tools of data analytics that they need to successfully tame big data?  </text>
+  <imgalttext>
+  </imgalttext>
+</article>

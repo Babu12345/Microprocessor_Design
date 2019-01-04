@@ -1,0 +1,40 @@
+<article>
+  <type>blog</type>
+  <title>How and Why the DOD Should Adopt SDN</title>
+  <author>Bob Fortna</author>
+  <date>September 22, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>SDN</tag>
+    <tag>JIE</tag>
+    <tag>cloud</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>The Defense Department stands at a technological and financial crossroads, writes Juniper Networks' vice president of the defense sector. The department needs to accelerate the proliferation of new networks and applications while heeding budgetary concerns. Bob Fortna offers a solution. </abstract>
+  <text>The Defense Department stands at a technological and financial crossroads, needing to accelerate the proliferation of new networks and applications while heeding budgetary concerns.
+
+As such, department officials are looking carefully at software-defined networking (SDN) and the potential the method provides as a key foundation of the Joint Information Environment (JIE). SDN lets agencies build more flexible, consolidated and efficient networks, while spinning up new applications and tools faster.
+
+“We have to embrace the software-defined mission of where we have to go with the networks,” Defense Department Chief Information Officer Terry Halvorsen said at the 2014 Federal Forum when discussing the JIE.
+
+Indeed, it appears that federal information technology professionals are heeding those words. A February survey conducted by Juniper Networks, General Dynamics IT and the research firm MeriTalk found that 37 percent of federal IT professionals have started to implement SDN while another 34 percent plan to do so. Why the spike in popularity? There are several reasons.
+
+The solution accelerates delivery of new networks and applications, making agility and speed the orders of the day. SDN serves up both. Federal information technology professionals easily can create new networks and apps through software, and this virtualized approach to network and application building eliminates inefficient procurement processes and the need to deploy physical assets—results that save time and money.
+
+With sequestration still wreaking havoc on budgets, agencies need to control spending and gain efficiencies wherever possible. SDN eliminates the need to buy, install and maintain new networks for every need that arises. Through SDN, agencies can build a scalable and agile infrastructure easily adjusted when necessary.
+
+Additionally, officials need better security. SDN accelerates network consolidation and reduces exposures to threats. The measure simplifies the network infrastructure and provides a central point of control, which makes it easier for IT professionals to monitor, control and prevent against potential threats.
+
+Despite these benefits and growing adoption, SDN remains a nascent solution within the federal space, primarily because legacy technologies still are fairly prevalent within the federal arena. New solutions call for a lot of testing and training personnel to ensure minimal disruption.
+
+The Defense Department will likely take pragmatic approaches toward SDN deployment, testing various aspects of the approach and its impact. The first areas exposed probably will be those fundamental to agency operations, such as enterprise resource planning, office applications, databases and similar solutions. Only after those are fully proven will SDN be used in the tactical world—and that will take time. During this period, officials can train staff on the complexities and nuances of SDN as employees, consultants and contractors will need to understand how to design, plan, acquire, install and maintain the SDN architecture. In some cases, agencies might hire new personnel with particular skills in the cloud and virtualization in order to successfully implement a full-fledged, working SDN environment.
+
+It won’t be easy to get there, but once the Defense Department achieves the goal, the department will have what it is has been striving for: a more agile, efficient, consolidated and secure network.
+
+Bob Fortna is vice president of the defense sector at Juniper Networks.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

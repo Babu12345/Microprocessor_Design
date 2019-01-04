@@ -1,0 +1,39 @@
+<article>
+  <type>blog</type>
+  <title>VICTORY Might Not Be a Win for Everybody</title>
+  <author>Ben Sharfi</author>
+  <date>February 27, 2017</date>
+  <departments>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>guest bloggers</tag>
+    <tag>Guest Blogs</tag>
+    <tag>U.S. Army</tag>
+    <tag>COTS</tag>
+  </tags>
+  <abstract>VICTORY is yet another government attempt to create a new specification for righteous reasons, while ignoring the fact that creating any specification that goes against commercial market momentum is unlikely to gain traction.</abstract>
+  <text>Open standards are easy to love. With a common, defined computing system, anybody can port their applications to them and the software syncs beautifully, simplifying upgrades and providing flexibility in customers’ choice of supplier. One U.S. Army crack at open standards provides a good example of the expectation, which was to correct the problems created by the bolted-on approach of field equipment on vehicles. Unfortunately, like far too many of such standards, the Vehicular Integration for C4ISR/EW Interoperability, or VICTORY, falls flat on implementation.
+
+The initiative is an attempt to save size, weight and power (SWaP) and ease the “tech refresh” upgrade process by defining interoperable, commercial-off-the-shelf (COTS) computing systems. In theory, VICTORY defines an architecture with systems, components and interfaces, a standard specification for interconnection and reference designs. It should allow tactical wheeled vehicles and ground combat systems to recover lost space while reducing weight and saving power through a “converged architecture with open interfaces.” The assumption is that VICTORY’s open architecture lets platforms integrate future technologies without the need for significant redesign. While the goal is commendable, realty paints a different picture.
+
+Anti-Competitive Standard
+
+VICTORY is another government attempt to create a new specification that goes against commercial market momentum, ignoring the fact that this approach regularly fails to gain traction. The initiative creates a new architecture and required software communications protocol and builds on other “standards” (actually specifications that interested parties hope will gain acceptance as standards) from government programs for radios and radio waveforms.
+
+The government can mandate these standards and pay vendors to implement them, but in doing so, it shatters the original premise of interoperable COTS systems that vendors freely want to develop on their own nickel. By forcing a standard rather than following technology that has already won market acceptance, the VICTORY approach is unlikely to garner many COTS vendors.
+
+The result? By defining a standard with limited appeal (the Army alone, and not joint service), the attempt creates the very vendor lock the initiative is trying to avoid.
+
+Best Technology at the Lowest Price
+
+VICTORY tosses overboard what works well in today’s COTS environment, which is vendors bringing their very best systems to bear to solve Army system problems. Those systems come in all shapes and sizes—yes, even “bolt-on”—but represent the very best technology at the very lowest price. That’s because each vendor cost-optimized what they bid in the first place and a source selection was made that met all the program’s applicable criteria.
+
+All that said, there is a way to make standards such as VICTORY work. The interested parties—including all military services and the industry that supports them—need to sit down, form a committee and define the missing pieces that make both technical and free-market business sense. If vendors see opportunity for a return on investment, they are more likely to implement a standard that benefits everyone.
+
+Ben Sharfi is CEO of General Micro Systems.</text>
+  <imgalttext>
+    <img>A Mine Resistant Ambush Protected (MRAP) vehicle tackles rough terrain during training at an air base in Southwest Asia.</img>
+    <img>A soldier fires a .50 caliber machine gun on top of a Mine Resistant Ambush Protected (MRAP) vehicle at a range to train for a deployment.</img>
+  </imgalttext>
+</article>

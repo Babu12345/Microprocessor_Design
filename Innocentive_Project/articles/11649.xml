@@ -1,0 +1,31 @@
+<article>
+  <type>article</type>
+  <title>ICITE Builds From the Desktop Up</title>
+  <author>Robert K. Ackerman</author>
+  <date>September 9, 2013</date>
+  <departments>
+    <department>Cyber</department>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>Acquisition</tag>
+    <tag>cloud computing</tag>
+    <tag>Networks</tag>
+    <tag>ICITE</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>As the intelligence community moves into the cloud, it launches the first step at the desktop level.</abstract>
+  <text>The first step toward an enterprisewide information environment is taking place on desktops belonging to personnel with the National Geospatial-Intelligence Agency (NGA) and the Defense Intelligence Agency (DIA). Deployment has begun for the Intelligence Community Information Technology Enterprise, or ICITE, which aims to provide a common computing environment based on cloud technology (see SIGNAL Magazine articles Managing Change in the? Intelligence Community and Intelligence CIOs Teaming for Change from October 2012).
+	Deployment for the ICITE baseline capability began last month with its desktop element. Different aspects of ICITE are being developed by members of the intelligence community that have particular expertise in specific areas, so the NGA and the DIA have been working as lead for the desktop. Accordingly, the two agencies have been the first to receive the introductory element of ICITE.
+	In August, a few thousand DIA and NGA users received the first iteration of the desktop. It is modeled off the work that both agencies perform internally, so its introduction suited its first users. The desktop uses commercial off-the-shelf software that is modified for security. It employs Windows 7 as its baseline with conventional office productivity and collaboration tools. Ultimately, every agency will receive the same software baseline, which will be consolidated to use centralized common services.
+	Al Tarasiuk, assistant director of national intelligence and intelligence community chief information officer, explains that many intelligence community organizations were pursuing the same goals via similar paths. ICITE aims to harmonize those architectures to establish a common information environment for the community. Instead of a single large program with many milestones and dates, ICITE comprises a series of projects that re-vector many of the efforts currently underway in the different agencies. The Central Intelligence Agency (CIA) and the National Security Agency (NSA) are working on the intelligence community cloud infrastructure, for example, and they are adapting their efforts to suit the rest of the community. The National Reconnaissance Office (NRO) is designated the network requirements and engineering service.
+	Concurrent with the baseline desktop deployment, the first iteration of the intelligence community cloud was stood up. It includes storage and data hosting, as well as virtual hosting capabilities. An applications mall also came online along with enabling services.
+	The desktop effort has taken a 60-day “strategic pause,” Tarasiuk says, so that planners can examine its progress. Later this year, the rest of the NGA and the DIA deployment will be scaled upward. Prototype activities currently underway will aim to enhance the currently deployed technologies for the next iteration. “What we don’t want to do is start down a path and then have to take a right turn and go back to transition the users already on to something different what we’ve already done,” he says.
+	In 2014, ICITE will continue scaling its presence—both for the number of desktops and the amount of data in the cloud—after its infrastructure resilience is confirmed. More agencies will transition beyond computing and data storage, and the business model will be developed further. New services and end-to-end security monitoring will appear. ICITE is scheduled to have most of its users on the infrastructure by fiscal year 2018. It also would transition production capabilities by then. Tarasiuk emphasizes that ICITE is not a program, so it will not have a full operational capability characterized by incremental evolution.
+	An in-depth article on ICITE will appear in the October 2013 issue of SIGNAL Magazine.
+	 
+ 
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

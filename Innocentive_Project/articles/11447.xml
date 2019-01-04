@@ -1,0 +1,27 @@
+<article>
+  <type>blog</type>
+  <title>SCADA Systems Face Diverse Software Attack Threats</title>
+  <author>Robert K. Ackerman</author>
+  <date>July 31, 2013</date>
+  <departments>
+    <department>Cyber</department>
+    <department>Event Coverage</department>
+    <department>Homeland Security</department>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>Security</tag>
+    <tag>Global Intelligence Forum 2013</tag>
+  </tags>
+  <abstract>Supervisory control and data acquisition (SCADA) systems face numerous threats from cybermarauders coming at them from any of a number of directions. Some systems could suffer malware attacks even though they are not the intended targets, according to a leading security expert.</abstract>
+  <text> 
+Supervisory control and data acquisition (SCADA) systems face numerous threats from cybermarauders coming at them from any of a number of directions. Some systems could suffer malware attacks even though they are not the intended targets, according to a leading security expert.
+	Eugene Kaspersky, chief executive officer and co-founder of Kaspersky Lab, described the threat to SCADA systems to the audience at the AFCEA Global Intelligence Forum in the National Press Club in Washington, D.C. Kaspersky described several SCADA attacks that already occurred and warns of new potential vulnerabilities.
+	He stated that a major blackout that affected the Northeast United States and Canada in 2003 was caused by a piece of Windows malware that unexpectedly attacked Unix servers. Similarities between the two operating systems created a vulnerability that no one knew existed.
+	Vulnerabilities need not begin at the portal to the operating system, however. Kaspersky noted that a worst case scenario would be having a company that writes SCADA software suffer a cyber espionage attack in which the SCADA code is rewritten by an outsider. That malware-infected code then would be shipped properly by the unwitting company to an unwitting customer. No one else would know about this sabotage except the cybermarauders who designed it.
+	Kaspersky provides an in-depth view of SCADA vulnerabilities in a June article in SIGNAL Magazine.
+	 
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

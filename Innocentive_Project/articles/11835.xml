@@ -1,0 +1,58 @@
+<article>
+  <type>article</type>
+  <title>How Cyber Savvy Are You?</title>
+  <author/>
+  <date>October 10, 2013</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Cyber Savvy</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>Think you know your way around the internet?  Even the most seasoned web surfer makes mistakes, and new phishing and linkjacking techniques pop up all the time. This quiz will help you identify and address your own security weaknesses.</abstract>
+  <text>Think you know your way around the internet? Even the most seasoned web surfer makes mistakes, and new phishing and linkjacking techniques pop up all the time. This quiz will help you identify and address your own security weaknesses.
+	 
+1. Mobile applications downloaded from major brand online stores are always safe.
+
+		True
+	
+		False
+2. When viewing a link to a website online or on your mobile device, the address or URL you see in the link is actually the website to which you’re being directed.
+
+		True
+	
+		False
+3. What your family does on social media could have a negative impact on your safety or your organization.
+
+		True
+	
+		False
+4. We have air-tight contracts with our manufacturers and vendors, so we don’t have to worry about counterfeit and gray market goods.
+
+		True
+	
+		False
+5. Most links to “phishing” websites–those that mirror legitimate websites but instead steal username and password information–are now sent via posts to social media websites instead of through spam emails.
+
+		True
+	
+		False
+ 
+ANSWERS
+	 
+1. Answer: False. Although major brand online stores try to vet mobile applications for malicious behavior, there is no guarantee that they’re safe. Online stores often do not assess, for example, whether a branded application is actually from a legitimate company, so bad apps can still slip through the review process. Rogue and malicious mobile applications can steal your usernames and passwords to access banking and social media accounts, or charge your account for apps that are offered for free from a legitimate business. Be sure that any mobile apps you download are from the actual business or organization you’re trying to interact with, and check reviews to see if other people have indicated they’re malicious or impersonating the real organization’s mobile app.
+	 
+2. Answer: False. Masking the real website address in links is a common means that cyber criminals use to fool unsuspecting victims into visiting malicious websites. In formatted emails or web pages, the text you see in the underlined link and the actual website you are being sent to are not always the same.  On computers with a mouse pointer (not smartphones or tablets), you can see the actual destination of the link by hovering over it with your mouse pointer without clicking on it to see where the link actually points. On mobile devices, it’s not that easy to tell, so it pays to be cautious and not click on links in emails from unknown senders or that appear to be suspicious. When in doubt, wait until you can view the link on your computer.
+	 
+3. Answer: True. Identity thieves, robbers and other criminals have been shown to be particularly adept at piecing together seemingly vague or impersonal data from Twitter posts, Facebook posts and other geo-tagged and publicly available information to plan online and physical attacks that can compromise your family’s safety, your organization or even your identity. Criminals also can compromise a family member’s social media account and use it to send messages laden with malware to your business email address, for example. Although links in messages from a compromised email or social media account appear innocuous, they can enable criminals to get into your organization’s network without your knowledge. 
+	 
+4. Answer: False. Be careful when choosing vendors and manufacturers. Ask them how they protect their networks and train their employees, as well as what kind of background checks they require. Many otherwise legitimate businesses–often as the result of rogue employees–have been found responsible for distributing gray market goods and selling goods below the suggested retail pricing as a result of theft and fraud. In addition, many manufacturers have been the victim of intellectual property theft, in which cyber criminals surreptitiously infiltrate their networks to steal plans and designs for new products in order to make counterfeit copies or virtually identical products, including clothing, pharmaceuticals, machine parts and consumer goods.
+	 
+5. Answer: True. Phishing is another favorite trick of cyber criminals. When someone clicks on a link to a phishing website instead of the real one, they are taken to a website that appears legitimate but is instead used to deliver malicious software or steal their username and password information. This in turn can enable criminals to break into banking and other accounts or otherwise compromise their victims. Fraudsters have moved from sending spam emails as their primary means for propagating phishing links to posting links on social networking sites so that they spread more quickly to thousands of unsuspecting victims.
+ 
+Cyveillance Inc. provided the information for this quiz. The company proactively identifies and eliminates threats to information, infrastructure, individuals and their interactions, enabling its customers to preserve their reputation, revenues and customer trust through continuous, comprehensive Internet monitoring and sophisticated intelligence analysis. Contact Katerina Paskaris for more information.
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,57 @@
+<article>
+  <type>article</type>
+  <title>Wonder Material Aims Beyond Silicon</title>
+  <author>Robert K. Ackerman</author>
+  <date>August 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>Researchers have demonstrated that a single-atom-thick layer of hydrogen deposited on graphene confers magnetism and opens a band gap on the two-dimensional material. This may lead to new substances that can carry charges and, ultimately, replace silicon as the basis for semiconductors when the traditional material reaches its physical limits.</abstract>
+  <text>Combining hydrogen with ultrathin graphene may be the key to producing semiconductors that pick up where silicon leaves off. Researchers have demonstrated that a single-atom-thick layer of hydrogen deposited on graphene confers magnetism and opens a band gap on the two-dimensional material. This may lead to new substances that can carry charges and, ultimately, replace silicon as the basis for semiconductors when the traditional material reaches its physical limits.
+
+Taking this process into the industrial realm could enable a host of new applications, including memory and logic storage as well as flexible displays and even smaller electronic devices. Other innovative uses may emerge as challenges are overcome and the technology becomes commercialized.
+
+Scientists describe graphene as a two-dimensional (2-D) material because it is only one atom thick. Developed about a decade ago, graphene and subsequent 2-D materials are all surface—every atom is the surface of the material. The properties of these sheets are sensitive to what takes place on the surface and tend to depend on whatever resides there.
+
+This is why placing a single-atom layer of hydrogen atop graphene confers magnetic properties, “painting magnetism on a canvas of graphene,” explains Jay Gupta, associate professor of physics at Ohio State University. This effect is unique to 2-D materials because the properties of conventional 3-D materials depend more on their makeup, not what constitutes the surface.
+
+Graphene is a semi-metal. It acts like a metal, but it has a different spectrum of electronic states—between a metal and a semiconductor, Gupta says. When graphene is hydrogenated, it opens a band gap, which allows it to serve as a semiconductor, and the process also confers magnetism. With hydrogen, graphene transitions from a semi-metal to a wide-gap semiconductor, and it changes from a zero-magnetic material to a ferromagnetic one. At room temperature, hydrogenated graphene can be a standard semiconductor as well as a magnetic semiconductor.
+
+The single-atom layer of hydrogen can be patterned for different effects, Gupta says. A spot that is magnetized would be the opposite of a spot that is not doped by hydrogen—effectively creating a binary state of ones and zeros. 
+
+Graphene is widely regarded as a 21st-century wonder material because of its seemingly endless potential applications. It has been identified in the International Technology Roadmap for Semiconductors as one of the promising materials for computing beyond silicon, Gupta adds. It has a high mobility: Carriers such as electricity move through graphene efficiently.
+
+Hydrogen’s magnetic effect on graphene was confirmed in April by a group of researchers, including Héctor González-Herrero and Ivan Brihuega of the Universidad Autónoma de Madrid. The combination of computational modeling and advanced microscopy enabled these scientists to study individual hydrogen atoms, Gupta notes. This validated previous tendencies that had been suggested but not proved.
+
+Andre Geim, who won a Nobel Prize in physics in 2010 for his research on graphene, has worked with other scientists to explore hydrogenated graphene’s properties. They discovered that heating hydrogen-doped graphene to temperatures in the range of water’s boiling point caused the material to shed its hydrogen. Gupta offers that a hydrogenated pattern written on graphene could be removed or changed to switch the state of the underlying material. This would function in the same manner as a field-programmable gate array, he notes.
+
+As with any new material, questions abound. Take the hydrogen’s bond with the graphene. A field does not need to be applied to keep hydrogen on the surface of the graphene, but some research indicates that hydrogen can move around on its own atop the material. The lightest atom on Earth does not tend to stay in one place for long, Gupta notes, so its bonding to the graphene may not be stable. Its constancy at room temperature “is one of the open questions in the field,” he says.
+
+In addition, several hurdles remain before hydrogenated graphene can be used in real-world applications. One daunting challenge involves graphene’s honeycomb lattice structure. The lattice’s carbon atoms are identical, but they fall into two different classes in terms of their electronic structure. The hydrogen must adhere to only one of the two carbon types for magnetization to occur. 
+
+Gupta explains that because the carbon atoms are the same, no thermodynamic preference exists for one atom over the other. A solution may be to couple the graphene with something else. For example, two layers of material could be oriented in a way that allows the hydrogen to stick to the preferred carbon-type sublattice, he suggests. Another option would be to combine graphene with a different 2-D material, such as boron nitride, which also has a honeycomb lattice structure. If the two materials were layered, the carbon atoms in the graphene would differ according to whether they resided over the boron or the nitrogen in the layer below.
+
+These layered materials, called heterostructures, are an active area of research. Gupta allows that no one has made significant progress yet in growing large-scale structures instead of just at the micron scale, which is the current capability. Ultimately, layered combinations of 2-D materials—such as graphene and boron nitride—may help overcome many key challenges.
+
+Gupta reports that about 20 other 2-D materials composed of different elements also are the focus of research on controlling their properties by painting their surfaces. Using a 2-D material as a canvas makes it easier for scientists to explore a material’s properties, he points out. Unlike with superconductors, which require scientists to develop new crystal growth methods for each variation, all that is necessary with a 2-D material is to expose the surface to different substances. Another approach might be to place the 2-D material on different types of substrates. The result of the latter would be a greater range of tunability with more opportunities for the process, he says. 
+
+Another key graphene challenge lies in preserving its magnetism. The hydrogenated magnetic state is sensitive to the material’s doping level, Gupta points out. The typical substrate for graphene is silicon dioxide, the surface of which tends to feature “puddles” of positive or negative charges. If the puddles absorb the hydrogen, the magnetic state is killed. For that reason, the variations in doping level produced by the substrate also must be eliminated.
+
+“It’s definitely a difficult challenge,” Gupta says. “I think the proof of principle is in place, and that is related to having the graphene interact with another lattice.” 
+
+Next up for researchers will be refining graphene-based technologies such as transistors, which have their limitations. Gupta explains that transistors must permit switching current on and off with high ratios, and a graphene transistor does not turn off very well. However, a transistor with a hydrogenated graphene channel may permit increasing the on-off ratio, he suggests. This could allow graphene to be used in conventional logic processing.
+
+Magnetic graphene may allow further miniaturization of magnetic bits in storage, Gupta offers. Instead of today’s hard disks having a small dot of magnetic metal, a layer of graphene patterned with hydrogenated regions could perform the same storage tasks. The result would be much smaller magnetic storage devices. 
+
+Another future development could be a more complex hydrogenation process for graphene. Current methods involve growing the atom-thick graphene layer first, then treating one side of it with hydrogen. The hope is to grow the graphene and its hydrogen layer together. If the thermodynamics work out, Gupta says, this approach might permit hydrogenating both sides of the graphene simultaneously. For it to be effective, the process would need to be reproducible on a scale large enough to measure magnetism or band gap using traditional methods. These might include magnetometry or electrical transport methods instead of the advanced microscopy techniques used to verify recent hydrogenation advances.
+
+This new ability to magnetize graphene or open a semiconducting gap will make applications of this technology more competitive with existing methods, Gupta predicts. He notes that Samsung already is growing 1-foot-square sheets of graphene on copper foil to serve as a transparent conductor in displays.
+
+Only a couple of proofs of principle remain before graphene begins its march to the marketplace, Gupta states. Overall, researchers are close to being able to scale up graphene applications—some may be achievable within three years. Some prototypes, such as flexible displays using graphene as the electrode, already are in hand. “There are so many different kinds of applications. There are actually a lot of incentives for industrializing this process,” he warrants.</text>
+  <imgalttext>
+    <img>Picturing graphene as a canvas, researchers are painting the honeycomb structure with hydrogen to confer magnetic and semiconducting capabilities onto the single-atom-thick material—as illustrated in this concept featuring “Mona Lisa.”</img>
+    <img>This experimental scanning tunneling microscope image shows hydrogen atoms atop graphene. Developing methods of manipulating these atoms could lead to a plethora of revolutionary electronic devices and applications.</img>
+  </imgalttext>
+</article>

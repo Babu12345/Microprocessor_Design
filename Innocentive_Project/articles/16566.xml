@@ -1,0 +1,38 @@
+<article>
+  <type>article</type>
+  <title>Taking Remote Control of Satellite Communications</title>
+  <author>by Raymond Guzman and N.A. Chu</author>
+  <date>September 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Satellites</tag>
+  </tags>
+  <abstract>Experts have developed satellite resiliency at an exponential rate, enhancing capabilities by leaps and bounds since the novel one-way signals of Sputnik were heard around the world.</abstract>
+  <text>When Russia launched the world’s first artificial satellite, Sputnik 1, nearly 59 years ago, the orb hurtled uncontrollably through space, transmitting basic broadcast radio pulses for a mere three weeks before its batteries were exhausted.
+
+How times have changed.
+
+Experts have developed satellite resiliency at an exponential rate, enhancing capabilities by leaps and bounds since the novel one-way signals of Sputnik were heard around the world.
+
+Satellites now can be controlled from Earth, carry real-time high-volume communications and far outlast their primitive predecessors thanks to advances in power sources, solar panels and energy use management. Unfortunately, satellite communications (SATCOM) remain limited by an immutable feature: the curvature of this celestial sphere we call home. The line-of-sight limitation of the geostationary communications satellites that the U.S. Army, the Defense Department and many international allies rely on poses significant problems but has a simple solution: the placement of remote-control stations around the world.
+
+In February, the Product Lead, Wideband Enterprise Satellite Systems (PL WESS) office installed and tested the Remote Monitoring and Control Equipment (RMCE) Phase 2, which brings online a private, secure wide area network. The effort seamlessly connects all SATCOM control facilities to offer more robust and reliable management of the military’s Wideband Global SATCOM (WGS) constellation of communication satellites. The result will be more reliable satellite control, no matter where satellites are in orbit.
+
+The geosynchronous orbits of WGS satellites mean that each satellite moves at the same speed and in the same direction as the Earth—effectively hovering over a carefully specified coverage area. Similar to air traffic control towers at individual airports, a Wideband Satellite Communications Operations Center (WSOC) can only monitor and control satellites visible to that particular WSOC site. RMCE Phase 2 adds three WSOCs to the initial set installed in 2012 and four remote terminals to achieve global coverage. The RMCE global terrestrial network lets the WSOCs manage any WGS satellite visible to any of the six RMCE remote terminal sites. “RMCE lays the groundwork to transform the way WGS satellites are managed today,” says Lt. Col. Joel Babbitt, USA, product director for the WESS office.
+
+For soldiers of the Army’s 53rd Signal Battalion, the RMCE network has transformed their ability to control and monitor all seven WGS satellites in orbit. With the RMCE, if one WSOC goes down anywhere in the world, regardless of the cause, another WSOC can instantaneously assume management of satellites in the downed WSOC’s coverage area. The RMCE also ensures readiness to operate four additional WGS satellites slated for launch over the next three years. 
+
+It delivers other benefits, too. The bridge of connectivity the RMCE provides will reduce the number of WSOCs the Army needs to build—at roughly $25 million per site—without constraining WGS performance. ­No additional personnel costs are incurred for operations and maintenance because the network requires minimal human intervention. 
+
+The networking capabilities that the RMCE brings to satellite control also make possible future consolidation of satellite control infrastructure. “Because RMCE enhances control without requiring additional WSOC installations, we open the door for future reduction of both physical footprint and operational costs,” Col. Babbitt says. “As we plan for the next generation of Army SATCOM, RMCE transforms the way we think about monitor and control of geostationary satellites. RMCE expands the possibilities for future SATCOM architecture to the benefit of both soldiers and taxpayers.”
+
+ 
+
+Raymond Guzman is a retired Army officer who works as a project lead for the U.S. Army’s Remote Monitoring and Control Equipment (RMCE) at Fort Belvoir in Virginia. N.A. Chu, Ph.D., works on the control segment of the Wideband Global SATCOM for the U.S. Army. The views expressed here are theirs alone and do not necessarily reflect the views of the U.S. Army or the U.S. government.</text>
+  <imgalttext>
+    <img></img>
+    <img></img>
+  </imgalttext>
+</article>

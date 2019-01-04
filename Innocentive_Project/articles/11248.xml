@@ -1,0 +1,24 @@
+<article>
+  <type>blog</type>
+  <title>DISA Eliminating Firewalls</title>
+  <author>George I. Seffers</author>
+  <date>June 26, 2013</date>
+  <departments>
+    <department>Cyber</department>
+    <department>Event Coverage</department>
+  </departments>
+  <tags>
+    <tag>DISA</tag>
+    <tag>Networks</tag>
+    <tag>Cyber Symposium 2013</tag>
+  </tags>
+  <abstract></abstract>
+  <text>The U.S. Defense Department is building a single security architecture that ultimately will eliminate firewalls in the future, according to Lt. Gen. Ronnie Hawkins Jr., USAF, Defense Information Systems Agency (DISA) director.
+	The future architecture, the plans for which are not yet set in stone and will likely change, the general cautioned, will be designed to protect data rather than networks. “In the past, we’ve all been about protecting our networks—firewall here, firewall there, firewall within a service, firewall within an organization, firewalls within DISA. We’ve got to remove those and go to protecting the data. You can move that data in a way that it doesn’t matter if you’re on a classified or unclassified network, depending on someone’s credentials and their need to know,” he declared.
+	“We want to be able to normalize our networks to where you can have the collaboration and information moving over our networks and you don’t have to have the different firewalls, the separate networks, to get those things done,” he added. Additionally, the department can realize significant savings in instrumentation—for example, by moving from “hard phones” to “soft phones,” he said.
+	Gen. Hawkins stressed the importance of getting “the information to the soldier, sailor, airman, Marine, Coast Guardsman, wherever it is they may be.”
+	The single security architecture will improve command and control capabilities, including cyber command and control, he said.
+	He also discussed the importance of cloud computing. The Defense Department is in the infant stage of deciding how to build the cloud and whether to use a private, public or Defense Department-owned cloud. “We want to do that in fiscal year 14 so that all of this can be automated, and we’re working feverishly to get that done,” he said.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

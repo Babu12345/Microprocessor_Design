@@ -1,0 +1,32 @@
+<article>
+  <type>article</type>
+  <title>Disruptive by Design: When Robots Attack, Who's Liable?</title>
+  <author>Andrew G. Watters</author>
+  <date>August 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Robotics</tag>
+  </tags>
+  <abstract>Robots in the real world are becoming more like Ultron, with once-unthinkable levels of intelligence and decision-making ability. And in the real world, any injuries or damage these robots cause will have consequences.</abstract>
+  <text>In the Marvel Universe, Tony Stark, also known as Iron Man, creates Ultron as a peacekeeping autonomous robot platform. Imbued with advanced artificial intelligence, Ultron decides that humanity is beyond saving and should be cleansed from the Earth. The slick, shiny robots in the superhero film Avengers: Age of Ultron have no regard for the consequences of breaking the law or for causing compensable injuries and property damage. Fear not, for the Avengers assemble to combat Ultron’s terrible plans and save the world.
+
+Robots in the real world are becoming more like Ultron, with once-unthinkable levels of intelligence and decision-making ability. And in the real world, any injuries or damage these robots cause will have consequences. This leads to the question of how to treat artificially intelligent beings and their operators or owners for the purposes of civil liability. The answer depends, in part, on whether robots are treated as products or as agents and on how policy makers decide to apportion responsibility for robot actions, whether accidental or intentional. If “dumb robots” are categorized as products and “smart robots” are categorized as agents, then each robot domain has an appropriate and well-known legal framework in which to evaluate liability outcomes.
+
+Most robots sold today on the civilian market are small, personal service units such as the popular Roomba vacuum cleaner, a device that is not capable of deciding whether to carry out any actions that might intentionally harm someone. It arguably ranks in the “dumb robot” category because it lacks the intelligence to autonomously deviate from preprogrammed actions, much less present an unreasonable risk of injuring people. However, the iRobot Warrior, manufactured by the same company, is a military android with software that would allow it to shoot a machine gun by itself at targets that meet certain criteria. Although not artificially intelligent in the same sense as Ultron, the Warrior robot is a smart robot because it can decide to fire its weapon, which can either intentionally or negligently cause harm to a person.
+
+It makes sense to treat a dumb robot as a product because people willingly buy these devices to help them in their daily lives. Regardless of the intentions of the buying public, dumb robots also are manufactured on a massive, generalized basis rather than for any specific customer. Such products are invited into people’s homes and workplaces without any assumption that the products might injure or kill. In the event that a product does cause harm, a well-developed body of law on product liability exists in every state and in many countries. 
+
+The law also is well-developed with respect to how to handle principals and agents—the latter are those who act on behalf of principals. In virtually all U.S. jurisdictions, the principal is liable without being personally at fault for the actions of his agent while the agent acts on behalf of the principal. There are exceptions for situations where the principal did not know about, authorize or ratify the agent’s conduct, or where the agent obviously exceeded the scope of his authority. In such cases, other rules apply, and various multifactor tests determine whether the principal should bear liability. This approach is more nuanced than strict product liability and would afford more choices for juries and courts faced with claims for robot-caused injuries.
+
+The impetus for treating smart robots differently than dumb robots is the devices’ ability to make decisions that bear a risk of harm. The risk of smart robots making bad decisions should fall on the principal who authorized them to act on the principal’s behalf. Those who benefit from working with a smart robot also must bear the burden of risk associated with operating such devices.
+
+Compounding the classification problem is that true artificial intelligence (AI) might obviate the need for a distinction between dumb and smart robots. Although society has not yet succeeded in developing AI, it appears within reach. In a world where potentially every device people interact with is intelligent and can make rational decisions, it seems possible that the AI itself would be liable for mistakes. This is because the law imposes liability for certain actions based on the mental state of the entity that caused harm. In other words, if a person set in motion a process that resulted in AI but bore no control over the contraption when it caused harm, there is no reason to presume that the person caused the harm. 
+
+This is consistent with recent scholarship on AI, which suggests that future machine life will be independent of human control and develop its own ecosystem in which machines work, live and play in their own worlds. To impose liability on a person because of actions carried out by an autonomous intelligent machine defies current legal theories, which only hold people liable for things that are within their control. However, it might be wise to consider present legal principles when developing a future body of law that appropriately balances the competing interests of control, liability, agency and other aspects of AI. In terms of law and policy, the legislative branch should take an active role in examining AI and setting forth specific guidance in a comprehensive robot code. Otherwise, the courts and the public will have to rely on old principles that do not perfectly apply to the issues AI presents.
+
+Andrew G. Watters is a litigation attorney with a side venture in research and development. He is the Young AFCEAN coordinator for the Silicon Valley Chapter of AFCEA. </text>
+  <imgalttext>
+  </imgalttext>
+</article>

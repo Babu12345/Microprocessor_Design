@@ -1,0 +1,32 @@
+<article>
+  <type>blog</type>
+  <title>Help Wanted: Machines Capable of Translating Foreign Language Data Into English</title>
+  <author/>
+  <date>January 24, 2017</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>IARPA</tag>
+    <tag>language translation software</tag>
+    <tag>Machine learning</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>U.S. intelligence community researchers need technology capable of retrieving information from a multilingual repository and converting the data into English.</abstract>
+  <text>U.S. intelligence community researchers need technology capable of retrieving information from a multilingual repository and converting the data into English.
+
+The Intelligence Advanced Research Projects Activity (IARPA) released a broad agency announcement late last week for the Machine Translation for English Retrieval of Information in Any Language (MATERIAL) program. The program aims to develop an English-in, English-out capability in which questions asked in English are answered the same way. Proposals are due March 20.
+
+Not only will the MATERIAL technology need to convert information in other languages to English, but it also will need to provide answers tailored to a specific domain. For example, users in the government and health domains searching for information on the Zika virus will receive data specific to their needs, and individuals in the science and education domains will receive different information when querying Asperger’s syndrome.
+
+Current methods to produce similar technologies require a substantial investment in training data and/or language-specific development and expertise, entailing many months or years of development, the program’s website explains. Program officials intend to drastically decrease the time and data needed to field systems capable of fulfilling an English-in, English-out task.
+
+Limited machine translation and automatic speech recognition training data will be provided from multiple low-resource languages to enable performers to learn how to quickly adapt their methods to a wide variety of materials in various genres and domains. As the program progresses, performers will apply and adapt these methods in increasingly shortened time frames to new languages. Program data will include formal and informal genres of text and speech, which will not be fully captured by the training data. Images and video are out of scope for this program.
+
+Performers will be evaluated, relative to a baseline system, on their ability to accurately retrieve materials relevant to an English domain-specific query from a database of multidomain, multigenre documents in a low-resource language, and their ability to convey the relevance of those documents through summaries presented to English speaking domain experts.
+
+To develop such an end-to-end system, large multidisciplinary teams will be required to have expertise in a number of relevant technical areas including, but not limited to, natural language processing, low-resource languages, machine translation, corpora analysis, domain adaptation, computational linguistics, speech recognition, language identification, semantics, summarization, information retrieval and machine learning. Since language-independent approaches with quick ramp-up time are sought, foreign language expertise in the languages of the program is not expected. IARPA anticipates that universities and companies from around the world will participate in this research program. Researchers will be encouraged to publish their findings in publicly available academic journals.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

@@ -1,0 +1,42 @@
+<article>
+  <type>blog</type>
+  <title>National Lab Announces 10 Advanced Manufacturing Projects </title>
+  <author>George I. Seffers</author>
+  <date>February 17, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Lawrence Livermore National Laboratory</tag>
+    <tag>High Performance Computing</tag>
+    <tag>Department of Energy</tag>
+  </tags>
+  <abstract>Advanced manufacturing projects will be supported through high-performance computing.</abstract>
+  <text>Lawrence Livermore National Laboratory (LLNL) has announced the first 10 projects under the U.S. Energy Department’s High Performance Computing for Manufacturing (HPC4Mfg) Program. In the coming weeks, the department will solicit the next round of proposals for qualified industry partners to compete for new funding this year.
+
+Each of the first-phase projects will be funded at approximately $300,000 for a total of just under $3 million. Selected companies will partner with national labs, which will provide expertise in and access to high-performance computing systems. The Energy Department created the program to advance clean energy technologies, increase the efficiency of manufacturing processes, accelerate innovation, shorten the time it takes to bring new technologies to market and improve the quality of products. The HPC4Mfg projects also support the department’s broader Clean Energy Manufacturing Initiative to increase U.S. competitiveness through manufacturing clean energy technologies, boosting energy productivity and leveraging low-cost domestic energy resources and feedstocks.
+
+Selected projects include:
+
+GLOBALFOUNDRIES will collaborate with Lawrence Berkeley National Laboratory to optimize the design of transistors under a project entitled: "Computation Design and Optimization of Ultra-Low Power Device Architectures."
+
+The Lightweight Innovations for Tomorrow Consortium in Michigan will partner with LLNL to develop, implement and validate a defect physics-based model to predict mechanical properties of Al-Li forged alloy, under a project entitled: "Integrated Computational Materials Engineering Tools for Optimizing Strength of Forged Al-Li Turbine Blades for Aircraft Engines."
+
+ZoomEssence Inc. of Kentucky will partner with LLNL to optimize the design of a new drying method using high-performance computing simulations of dryer physics, under a project entitled: "High Performance Computing Analysis for Energy Reduction of Industry Spray Drying Technology."
+
+United Technologies Research Center, located in East Hartford, Connecticut, will partner with Oak Ridge National Laboratory (ORNL) and LLNL to develop and deploy simulation tools that predict the material microstructure during the additive manufacturing process to ensure that critical aircraft parts meet design specifications for strength and fatigue resistance, under a project entitled: "Integrated Predictive Tools for Customizing Microstructure and Material Properties of Additively Manufactured Aerospace Components."
+
+Procter &amp; Gamble of Ohio will partner with LLNL to reduce paper pulp in products by 20 percent, which could result in significant cost and energy savings in one of the most energy intensive industries, under a project entitled: "Highly-Scalable Multi-Scale FEA Simulation for Efficient Paper Fiber Structure."
+
+General Electric (GE), New York, will partner with ORNL to assist in the local control of melt pool and microstructure in additive manufactured parts, under a project entitled: "Process Map for Tailoring Microstructure in Laser Powder Bed Fusion Manufacturing (LPBFAM) Process."
+
+In a separate project, GE will partner with ORNL and LLNL to improve the efficiency and component life of aircraft engines through design optimization, under a project entitled: "Massively Parallel Multi-Physics Multi-Scale Large Eddy Simulations of a Fully Integrated Aircraft Engine Combustor and High Pressure Vane."
+
+PPG Industries Inc. of North Carolina will partner with LLNL to model thermo-mechanical stresses involved in forming and solidifying glass fibers to understand fracture-failures mechanisms to significantly reduce waste, under a project entitled: "Numerical Simulation of Fiber Glass Drawing Process via a Multiple-Tip Bushing."
+
+In a separate project, PPG Industries Inc. will partner with LLNL to develop a reduced computational fluid dynamics model of a glass furnace to make informed line adjustments in hours in near real-time, under the title: "Development of Reduced Glass Furnace Model to Optimize Process Operation."
+
+The AweSim program at the Ohio Supercomputer Center and the Edison Welding Institute will partner with ORNL to deploy cloud-based advanced welding simulation tool for broad industry use, under a project entitled: "Weld Predictor App."</text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,32 @@
+<article>
+  <type>article</type>
+  <title>The New Normal of Breaches</title>
+  <author>Sandra Jontz</author>
+  <date>March 1, 2017</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Internet of Things</tag>
+  </tags>
+  <abstract>The trend of high-profile distributed denial of service, or DDoS, attacks marks the beginning of what is shaping up to be the new normal of breaches brought to us courtesy of easily exploited Internet of Things (IoT) devices.</abstract>
+  <text>The trend of high-profile distributed denial of service, or DDoS, attacks marks the beginning of what is shaping up to be the new normal of breaches brought to us courtesy of easily exploited Internet of Things (IoT) devices.
+
+A botnet made up of thousands of Internet-connected devices exploited a vulnerability in cameras to create the headline-grabbing October attack on Dyn that took down some of the biggest websites, from Airbnb to Amazon, Netflix, Spotify, Reddit and others. 
+
+There are solutions to the problem, offers Bob Stevens, vice president of federal systems at Lookout, a global cybersecurity company that provides mobile threat visibility and protection. “The way that you secure a mobile device really starts with visibility,” he says. “What apps are on the devices that my infrastructure is using? Are any of those applications malicious? If they are, how do I quarantine them from the network or keep them from accessing any network resources?”
+
+Answering those questions and others begins with creating a set of security standards for the IoT environment using guidelines on securing mobile devices from the National Institute of Standards and Technology (NIST), Stevens advises. But these guidelines should just be a start, he says, because they fall short in exploring the issue. “Quite frankly, I could write an application that would pass the NIST guidelines but be malicious,” Stevens shares. 
+
+Experts should focus on four areas—networking, vulnerabilities, risky behavior and malicious behavior—to begin identifying security solutions. 
+
+Networking: Because mobile devices automatically try to access WiFi networks, they are often unable to avoid what Stevens calls the “man in the middle attack.” This is when someone manages to intercept a request to join a WiFi network. “The man in the middle intercepts that request and poses as if it is the WiFi network, and as a result, is able to access or steal data off the phone,” he says.
+
+Vulnerabilities: These are the poor coding practices bad guys take advantage of, such as the mobile spyware product Pegasus that injected malicious code into iPhone operating systems last fall, which Apple fixed within a dozen days. Once installed, it would “jailbreak” a device, or remove software restrictions on mobile operating systems to exploit vulnerabilities, and hackers could do what they wanted—listen to calls, intercept text messages, steal data, turn on the camera and more. 
+
+Risky behavior: Users often download apps to simplify functions, but some pose risks, such as voice-calling applications that access contacts, a natural behavior. “But it also could send your contacts to a server in a foreign country,” Stevens says, noting that this poses a risk for government-owned mobile devices. “The app is not doing anything wrong, but it represents a risk to the enterprise.” 
+
+Malicious behavior: This is when nefarious actors purposely write code to steal information from devices or to access devices undetected.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,43 @@
+<article>
+  <type>article</type>
+  <title>Simplicity, Security and Reliability From Mobile Satellite Providers Benefit Government</title>
+  <author>Robert Demers</author>
+  <date>July 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Satellites</tag>
+  </tags>
+  <abstract>The need and demand for mobility in the field has led to a revolution in on-the-go communications supported by satellites.</abstract>
+  <text>Anyone who ever has switched to a new smartphone or computer knows that the transition is rarely smooth. Software never seems to load easily; printer connections need adjusting; passwords must be found; and online accounts have to be set up all over again.
+
+Magnify that experience a dozenfold and you get a sense of what military and government personnel the world over face as they continually are tasked with understanding and operating ever-more technologically advanced weapon, communication and other systems. Just as with the general public, these  government users face increasingly complex gadgetry every day. Each new electronic box or terminal has more buttons and complications than the one it replaced. These operators need simple and seamless technology that works every time, functioning as well in the dust of North Africa as in the rainy tropics of the Philippines.
+
+The mobile communications requirements of military and other government customers have evolved gradually over the past few years. The conflicts in Afghanistan and Iraq coincided with the coming of age of the digital generation. Men and women entering government and military service today have known only a world in which they could always connect with their peers using a pocket-sized device. The need and demand for mobility in the field has led to a revolution in on-the-go communications supported by satellites.
+
+Government customers using commercial satellites once were satisfied with simply buying a fixed amount of transponder service. But this new mobile world has caused a shift in what government customers need—even demand—from service providers.
+
+Overall, government customers are seeking a solution, not just equipment. A few years ago, the industry talked a lot about offering government customers commercial off-the-shelf (COTS) equipment. As devices have become more complicated, simply delivering a box of COTS technology does not work anymore. Many military units do not have personnel with the technical expertise to put a communications network together effectively. Military units around the world rely on staff contractors to maintain and update all varieties of equipment.
+
+The problem with having the equipment but not the capability was driven home most tragically by the December 28, 2014, disappearance of AirAsia Flight 8501 traveling from Indonesia to Singapore (SIGNAL, May 2015, “Pilots Face Brick Wall-Like Icing Along Equator”).
+
+Indonesian ships and airplanes had radios to communicate with one another, but they lacked the satellite connectivity essential to coordinating the overall search effort in the Java Sea from a central location. In a matter of hours, newly supplied satellite terminals were able to provide a link back to the primary coordination center in Jakarta, Indonesia, so that the radios could be used to communicate search progress and ultimately help officials find the submerged wreckage of the aircraft.
+
+This example also shows how government customers can benefit from an integrated solution. Enabling one type of information to integrate with another—such as coupling radar signals and surveillance video—has become mandatory for many government agencies charged with monitoring vast geographic areas for terrorist or other threats. Such efforts create large networks of many small devices. These networks are not unlike an iPhone being used to adjust a thermostat, turn on a TV or monitor a security system at home. But these large government-operated monitoring networks require satellites to connect devices seamlessly, especially if the devices are in motion. One example is a network recently installed for an agency with jurisdiction over a major harbor in Asia. It involved taking images of ships entering and leaving the harbor, using video surveillance in dock areas, reading auto license plates and other monitoring, all fed via satellite to a central location.
+
+In addition to the expectation of seamless connectivity, the concept of “bring your own device” has become standard. There probably is not a military in the world that allows recruits to bring their smartphones to basic training. But after that initial period, such devices are never far from hand for these young service members. Governments increasingly are looking to empower employees in the field to use their own smartphones, apps and address books for work-related purposes over satellite and other networks. These personal devices can connect to the network via local IP hot spots or through wraparound cases that convert the gadgets to satellite phones.
+
+Equipment must be small and portable. Members of the cellphone generation did not have a telephone connected by a wire to the wall at home, and they do not expect such restrictions in the field or at disaster sites. Government users anticipate satellite communications devices that can be moved easily and set up instantly. This requires small ground antennas; portable, lightweight power supplies; and ease of use. Erecting bulky satellite dishes or dragging around large electric generators is less desirable.
+
+Of course, security is critical. Any device can be hacked by a determined, knowledgeable adversary. So the focus is no longer just on the firewall, but also on the information inside the network perimeter—as well as all the devices on the outside that are connected to the network. Mobile users on their own devices have made government networks more susceptible to security breaches via the Internet. Government customers have become justifiably skittish about any connections to their networks. Commercial satellite operators providing service to governments have isolated their own networks from the Internet as much as possible to avoid security breaches.
+
+Finally, government benefits from flexible pricing and service plans. Anyone doing business with government agencies knows that price has become a major focus of contracts, to the point that the acronym LPTA—lowest price technically acceptable—often is spoken with derision among contractors, especially those losing out on a bid. But flexible pricing models are becoming the norm rather than the exception for satellite service. Customers understandably want to pay only for bandwidth actually used.
+
+The government customer also wants service plans that can be adjusted, depending on data requirements. For example, services such as asymmetric streaming allow users to select from a range of upload and download speeds. If sending a photo, a user might select the fastest upload speed. When dealing with email or other data, he or she might be satisfied with a slower speed in one direction and a faster one in the other. Companies that provide optional pricing plans to government customers will be the ones that ultimately succeed, LPTA or not.
+
+Government customers essentially benefit from simplicity of use, network security and equipment reliability—at a fair price. Electronic connections become more complex by the day, whether users are trying to figure out the new remote control for a home TV or puzzling over the settings on the latest satellite modem. Governments around the world rely on the commercial satellite industry to provide the best service at the fairest price, and it must deliver.Robert Demers is vice president, government services, Thuraya Telecommunications Co. The views expressed are his alone.</text>
+  <imgalttext>
+    <img>A U.S. Army soldier works with a power unit supplying a satellite antenna during an exercise. Military and civilian governments increasingly will benefit from future satellite network systems that are smaller, lighter and simpler and use less power.</img>
+  </imgalttext>
+</article>

@@ -1,0 +1,45 @@
+<article>
+  <type>article</type>
+  <title>Predictive Analytics Tools Confront Insider Threats</title>
+  <author>Sandra Jontz</author>
+  <date>December 1, 2015</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>insider threat</tag>
+    <tag>cyber</tag>
+  </tags>
+  <abstract>Cyber attacks once were commonly thought of as crimes perpetrated by outsiders hacking into networks. But today the enemy is just as likely to be on the inside.</abstract>
+  <text>Since the 2009 fatal shootings of 13 people at Fort Hood by a U.S. Army major and psychiatrist and the leaks of some 750,000 classified and sensitive military documents to WikiLeaks by another soldier, the U.S. Defense Department has sought technology to give analysts an advantage in finding insider threats.
+
+The need spread, and now federal agencies employ advanced analytics and cybersecurity solutions to protect against an ever-morphing landscape of breaches, from those outside firewalls to rogue or careless employees. One of those solutions is a product called Carbon.
+
+“Rather than focus on data mining and forensics, [it sorts] through hundreds of real-time information streams to identify the emerging threats … and prioritize them for analysts,” says Haystax Technology CEO William Van Vleet III of the risk-rating tool analysts use whether working from an office desktop or via a mobile response unit.
+
+Carbon uses the patented Constellation analytics platform and aggregates and analyzes large streams of real-time data to spotlight anomalies. “Carbon offers a continuous evaluation of risk due to insider threats, even in highly complex, large organizations,” Van Vleet says. “It has new enhancements that makes it even easier to use and deploy without slowing down day-to-day work.”
+
+Such technology is critical for those charged with hunting for the enemy from within. The Obama administration’s National Insider Threat Task Force, created following the WikiLeaks scandal, works to detect and deter employees who pose threats to national security. Government specialists in the areas of security, counterintelligence and information assurance assess the adequacy of insider threat programs across the government and circulate best practices to mitigate problems, often relying on continuous and automated solutions.
+
+The Defense Department also wanted continuous evaluation solutions that would flag troop behavioral changes. “The Army approached us and said look, we’ve got WikiLeaks, the shooting at Fort Hood [and] all of these veterans and soldiers coming back from the Middle East, some with PTSD [post-traumatic stress disorder]. How do we get ahead of this to predict threats and prevent incidents from happening again?” Van Vleet offers.
+
+The military certainly is not the only institution challenged by insider threats. A recent study by Intel Security titled “Grand Theft Data” indicated that internal actors were responsible for 43 percent of data loss following a breach of company networks. Perhaps surprisingly, half of these breaches were unintentional, reads the report. “Most people think that when you talk about insider threats, it’s really about the malicious intent—somebody trying to do something bad, like a Snowden or something like that,” says Van Vleet, referring to former National Security Agency contractor Edward Snowden, who leaked information on the government’s surveillance efforts to news media.
+
+Intel Security’s report gathered data from information technology and security professionals representing 1,155 organizations worldwide. Almost 70 percent of respondents noted that data loss prevention technology could have averted past data exfiltration incidents. In fact, organizations that continuously monitored networks for unusual or anomalous behavior were more likely to detect data breaches with internal resources and more likely to have zero exfiltrations, the report shares. Additionally, internal actors were more likely to use physical media instead of electronic methods, especially USB drives and laptops. Employee information such as identity and health data was the most frequently compromised, the report states, and Microsoft Office documents were most commonly stolen, most likely because they are stored on employee devices with few access controls.
+
+While no single tool or technology will solve all data security problems, automated threat analytics platforms may help. They create predictive risk profiles for organizations to determine which employees might pose a danger, looking into everything from work-related behavior, such as what files and computers employees access, to personal conduct, such as whether they have credit problems or marital or legal issues. Effectively countering insider threats requires a two-pronged approach: monitoring both cyber activity and human behavior, Van Vleet offers. “What you have to realize is that at the other end of that keyboard is a person,” he says. “To have a robust approach, you want to address the full spectrum of both human behavior and the cyber behavior.” Along that line, Carbon is not an acronym. “As we do all of this cybersecurity stuff, one thing that’s important for us is that we don’t forget what’s behind the computer. It’s a person. It’s a carbon-based life form, and that’s why we call it Carbon.”
+
+The solution does not provide instant results and requires diligence for the long haul. “You can’t just monitor at one point in time. It’s not like one alarm goes off,” Van Vleet states.
+
+Additionally, the tool prioritizes employee behaviors into a pyramid, alerting officials to those the system flagged as high risk for possible nefarious actions. “From a management standpoint, it allows you to ... use the analytics to focus on the riskiest ones,” he says. “By watching this over time, this continuous monitoring and evaluation allows you to pre-empt behavior before it reaches a catastrophe. You can do some counseling, maybe. It can match your response to the actions that you’re seeing.”
+
+Necessity pushed for a rapid maturation of the tool. In three years, Haystax Technology has moved Carbon from a prototype to an operational program that several government agencies use, Van Vleet says. “I can’t discuss specific results because that’s obviously customer-specific, but I can say we’ve gone from a pilot where we tested it on a sample size of 1,000 to [it] now [being] used on a few hundred thousand personnel on a continuous basis.”
+
+The concern over insider threats shares the stage with outsider-launched attacks rather than taking the spotlight, Van Vleet points out. In addition to insider threat mitigation technology, Haystax has deployed modified programs that officials use to predict physical or cyber attacks linked to major sporting events or civil unrest and even at public schools. For example, during the April protests in Baltimore that followed the death of a local man after police transported him to jail, predictive technology alerted authorities to the likelihood of violence during some of the demonstrations. Generally, Carbon combines data from open-source feeds such as Facebook, Twitter and news networks with information from proprietary feeds such as video surveillance and alarm systems, in real time, to prioritize threats and issue alerts for the most pressing risks. Haystax altered the basic software platform to provide a program used by public school officials to forecast incidents that require immediate attention, such as gang violence or a possible school shooting, he allows. The Los Angeles School Police Department, for example, relies on analytic technology to forecast security issues.
+
+“I founded the company on the premise that all people should have safety and security, from people in big cities like New York and Los Angeles to small cities like Newtown, Connecticut, and Killeen, Texas,” Van Vleet says. “Our purpose is to be a new kind of security company addressing the challenges of the exponential increase in data and the threats to the computing network.”</text>
+  <imgalttext>
+    <img>Analysts can use predictive analytics, such as Haystax Technology’s Carbon software, to counter inside threats by continuously monitoring and evaluating employees.</img>
+    <img>A Carbon dashboard shows how an organization might “score” an employee’s risk of becoming a threat. Higher scores denote higher risk, with scores measured on a scale from zero to 100. Organizations can tailor the program to determine the cutoff point at which a score becomes an alert. The idea of Carbon is to make it easier for organizations to focus their resources on the highest-risk individuals.</img>
+  </imgalttext>
+</article>

@@ -1,0 +1,33 @@
+<article>
+  <type>blog</type>
+  <title>FBI Issues CryptoWall Ransomware Warning</title>
+  <author>George I. Seffers</author>
+  <date>June 30, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cryptography</tag>
+    <tag>Homeland Security</tag>
+    <tag>FBI</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The FBI’s Internet Crime Complaint Center (IC3) has identified CryptoWall as the most current and significant ransomware threat targeting U.S. individuals and businesses.</abstract>
+  <text>The FBI’s Internet Crime Complaint Center (IC3) on June 23 identified CryptoWall as the most current and significant ransomware threat targeting U.S. individuals and businesses. In the 14 months since the malicious software first appeared, the IC3 received 992 CryptoWall-related complaints, with victims reporting losses totaling more than $18 million, according to the FBI warning.
+
+The financial impact to victims goes beyond the ransom fee itself, which is typically between $200 and $10,000. Many victims incur additional costs associated with network mitigation, network countermeasures, loss of productivity, legal fees, IT services and/or the purchase of credit monitoring services for employees or customers.
+
+These financial fraud schemes target both individuals and businesses, are usually very successful and have a significant impact on victims. The problem begins when someone clicks on an infected advertisement, email or attachment, or visits an infected website. Once the user’s device is infected, the victim’s files become encrypted. In most cases, once the victim pays a ransom fee, he or she regains access to the files that were encrypted. Most criminals involved in ransomware schemes demand payment in Bitcoin, which criminals prefer because it is easy to use, fast, publicly available, decentralized and provides a sense of heightened security and anonymity.
+
+Anyone who may be a victim of this type of scam should reach out to the local FBI field office. Victims also may file a complaint with the IC3 at www.IC3.gov.
+
+The FBI warning includes several protective measures, including:
+
+Always use and update antivirus software and a firewall from reputable companies.
+	Enable popup blockers.
+	Always back up the content on your computer.
+	Be skeptical and do not click on any unrecognized emails or attachments and avoid suspicious websites altogether.
+In addition, anyone who receives a ransomware popup or message should immediately disconnect from the Internet to avoid any additional infections or data losses. Alert local law enforcement and file a complaint at the IC3 site.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

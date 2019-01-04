@@ -1,0 +1,17 @@
+<article>
+  <type>blog</type>
+  <title>Cyberthreats Entering New Realm</title>
+  <author>Robert K. Ackerman</author>
+  <date>May 10, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Joint Warfighting 2011</tag>
+    <tag>Cyberspace</tag>
+    <tag>Event Coverage</tag>
+  </tags>
+  <abstract>Cyberspace is seeing the beginnings of the development of new types of destructive tools.</abstract>
+  <text>Malicious threats in cyberspace are entering a new territory that is more menacing than previously experienced, according to the deputy commander of the U.S. Cyber Command. Lt. Gen. Robert E. Schmidle, USMC, told the kickoff address audience at the Joint Warfighting Conference 2011 in Virginia Beach, Virginia, that cyberspace is seeing the beginnings of the development of new types of destructive tools. These tools are software that has no purpose other than the destruction of other software or even hardware, he explained. As an example of the potential for this type of damage, the general cited an accident that occurred recently at a Russian power plant. The facility was remotely operated and controlled via a supervisory control and data acquisition (SCADA) system. One turbine did not have a proper radio frequency identification tag, so the remote operator did not have information on it relating to its maximum speed. That operator did not know when the turbine was spinning out of control until it shredded in the turbine room, destroying much of the facility and killing more than 70 people. This was an accident caused by SCADA, and it portends the damage that could be done by a malicious hacker who broke into the network. "Almost all power systems in United States are run by SCADA networks," Gen. Schmidle said. "Just imagine what vulnerabilities are out there."</text>
+  <imgalttext>
+  </imgalttext>
+</article>

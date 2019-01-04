@@ -1,0 +1,47 @@
+<article>
+  <type>article</type>
+  <title>Full Speed Ahead For Autonomous Countermine Technologies </title>
+  <author>Sandra Jontz</author>
+  <date>February 1, 2017</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>U.S. Navy</tag>
+    <tag>autonomous systems</tag>
+    <tag>Autonomous Undersea Vehicles</tag>
+  </tags>
+  <abstract>U.S. Navy researchers hope to advance maritime countermine technology by developing fully autonomous systems that support the service’s latest ships and doctrine.</abstract>
+  <text>U.S. Navy researchers hope to advance maritime countermine technology by developing fully autonomous systems that support the service’s latest ships and doctrine. Both new threats and innovative naval systems are remaking the undersea arena in ways that render obsolete conventional countermine
+
+The Navy has come a long way from the self-propelled torpedoes of the 1860s. With processors and sensors smaller, cheaper and more powerful than ever, fully autonomous weapon systems are not far from reality. Today, as Defense Department leaders wrangle with ethics and policy aspects of this brave new world—likely a decade off—Navy engineers push full speed ahead to create platforms that take humans out of the mission loop. 
+
+Scientists are sailing toward new expeditionary defense systems that augment the Navy’s littoral combat ship (LCS) mine and antisubmarine warfare mission modules. Comparable in size to frigates, LCSs—with their technological advances—require about half the crew of their larger cousins, putting fewer sailors in harm’s way and reducing logistical support requirements.
+
+Progress in autonomous pursuits builds on the Navy’s proven track record in mine warfare (MIW) science and technology (S&amp;T) programs, which for several years have tackled a wide array of unmanned technologies for mine countermeasures (MCM), says Jason Stack, program officer in the Office of Naval Research’s (ONR’s) Ocean Battlespace Sensing Department. The Navy launched its first operational platform in 2003 in Iraq to clear harbors of mines. “These technology developments span the full spectrum of MCM, including the tactical operations of mine detection, classification, identification and neutralization as well as the operational aspects of mission planning, replanning, data analysis and mission effectiveness evaluation,” Stack says.
+
+The Navy’s mission dovetails with the call by the Defense Science Board, a key Defense Department advisory group, to incorporate unmanned technology into MCM missions. In a report released last year, the board pushed for accelerated adoption of autonomous capabilities and mission-ready technologies and indicated both substantial operational benefits as well as potential perils associated with the use of autonomy. 
+
+Autonomy could “deliver substantial operational value across an increasingly diverse array of [Defense Department] missions, but the [department] must move more rapidly to realize this value,” reads a portion of the 121-page report. “Allies and adversaries alike also have access to rapid technological advances occurring globally. In short, speed matters—in two distinct dimensions. First, autonomy can increase decision speed, enabling the U.S. to act inside an adversary’s operations cycle. Second, ongoing rapid transition of autonomy into warfighting capabilities is vital if the U.S. is to sustain military advantage.” Autonomy builds on a sound foundation of artificial intelligence and the developing capabilities of computer systems to perform tasks that normally require human cognition to carry out, according to the report. 
+
+To the Navy specifically, the board’s report highlights the need to develop autonomous and unmanned underwater vehicles (UUVs) to carry out the dull, dirty and truly dangerous jobs otherwise performed by humans. “While the Navy has kept pace in conducting foundational research and developing prototype systems in this area, there is significant value yet to be realized in operationalizing military systems,” it reads. “Currently deployed countermine applications use UUVs for persistence and protecting humans from danger, but rely on human operators at a command center to process data for target classification. This is followed by a separate mission to neutralize any mines detected. Autonomy can reduce both the time to neutralize the threat and the danger to the personnel assigned to the task.”
+
+This is precisely why the Navy’s MIW S&amp;T programs continue to work toward developing automated underwater, surface and airborne unmanned platforms to assist manned platforms and warfighters in planning, replanning and what Stack calls “data understanding.” Two strategic MIW S&amp;T program goals drive efforts to align delivery of technologies with operational needs, he says. “They are to reduce the operational timeline and reduce risk to the operating forces,” Stack states. “Everything we do contributes to these two goals, as they are the foci of the operational MCM community. Autonomy and unmanned systems are key enablers, as they allow for new capability as well as scalability to create greater warfighting capacity.”
+
+Favoring autonomy over man-in-the-middle systems, Navy programmers are making headway in the development of compatible swarm systems that are becoming a foundational part of the MCM. A driving force is that no single system can complete the full detect-to-engage sequence across the full spectrum of needs, from the surface to the seafloor to even buried in the sea sediment, Stack adds.
+
+One leading UUV Navy program came under fire when the Defense Department’s inspector general (IG) issued a critical assessment of the Knifefish surface MCM UUV. Knifefish developers failed to coordinate capability requirements with Navy LCS program managers, states the IG report from November, leading to engineering cost overruns of about $2.3 million. The Navy is pushing ahead with the platform, and testing aboard an LCS is scheduled for this year. Future improvements will focus on sensors and propulsion.
+
+Other initiatives within the Navy’s MIW program office, which falls under the Program Executive Office Littoral Combat Ships portfolio, include the Remote Multimission Vehicle (RMMV) and the Common Unmanned Surface Vehicle (CUSV), currently used for mine warfare, hunting and neutralization. Future capabilities aboard the CUSV will include communications relay and surveillance, counterpiracy and antisubmarine warfare. 
+
+A major challenge researchers face is accurate perception of broad swaths of the maritime and undersea environments, given the highly dynamic and uncertain nature of the ocean. Other challenges include developing advanced sensors, advanced machine intelligence to better understand sensor data and advanced autonomy to adapt sensor and platform behaviors to improve perception, Stack lists. 
+
+The MCM community focuses its work on sensor-related automation and autonomy in three areas: environmentally adaptive automatic target recognition, whereby a machine can adapt to changing, uncertain and challenging undersea conditions; a machine’s ability to assess its own performance and proficiency for a specific MCM mission; and the interactive perception by which machine intelligence, sensor configuration and platform behaviors can be more tightly coupled and adjusted in real time to optimize performance.
+
+“This is critical as MCM is performed by a team of unmanned and manned platforms embedded in a human warfighter-based force structure,” Stack says. “The machine must be capable of knowing when it is operating in a new or unfamiliar environment where its proficiency is degraded such that it needs human assistance.”</text>
+  <imgalttext>
+    <img>Croatian divers and U.S. sailors with Explosive Ordnance Disposal Mobile Unit (EODMU) 8 load an Iver 3 autonomous underwater vehicle (AUV) into the MK-5 Zodiac for testing.</img>
+    <img>U.S. sailors from EODMU 1 perform preoperational maintenance and checks on their Remus Mk-18 Mod 1 underwater unmanned vehicles as part of a bilateral mine countermeasure exercise involving U.S. and U.K. troops.</img>
+    <img>An unmanned rigid-hull inflatable boat operates autonomously during an Office of Naval Research (ONR)-sponsored demonstration of swarmboat technology at Virginia’s Joint Expeditionary Base Little Creek-Fort Story. During the demonstration, four boats used an ONR-sponsored system called Control Architecture for Robotic Agent Command and Sensing to run autonomously during various scenarios designed to identify, trail or track a target.</img>
+  </imgalttext>
+</article>

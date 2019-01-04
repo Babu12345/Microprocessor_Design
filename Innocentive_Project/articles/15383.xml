@@ -1,0 +1,42 @@
+<article>
+  <type>article</type>
+  <title>Incoming: The Peril and Promise of the Cables at the Bottom of the Oceans</title>
+  <author>Adm. James Stavridis, USN (Ret.)</author>
+  <date>November 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Incoming</tag>
+  </tags>
+  <abstract>As with any communications system, both risk and reward are possible. In the case of submarine cables, we should increase our ability to protect this vital portion of the global communications grid and seek innovative ways to leverage its capability.</abstract>
+  <text>Snaking around the globe on the ocean floor are the standard commercial fiber optic cables that carry 99 percent of the world’s daily international telecommunications. They move information at a brisk clip: 2 terabits of data every second, including nearly $5 trillion in financial transactions every 24 hours. About 200 cables carry the vast majority of all that vital information.
+
+As one observer recently commented, “Though often mentioned in passing, the fact that the overwhelming bulk of Internet activity travels along submarine cables fails to register with the public. High-flying satellites orbiting the crowded skies, continent-spanning microwave towers and millions of miles of old 20th-century copper phone wire all carry but a fraction of the Earth’s Internet traffic compared with deep-sea fiber optic cables.”
+
+As we consider the role they play today and what the potential might be for further enhancements, these cables hold both promise and peril.
+
+First, the peril: As strategists increasingly are aware, the cables are vulnerable. While their extreme depth protects them up to a point, advanced industrial nations—including the United States, the Russian Federation and China—all reportedly have significant ability to monitor, exploit, damage and destroy the cables. During the Cold War, both the United States and the Soviet Union were believed to have attacked antisubmarine systems and arrays at similar depths.
+
+As Steve Weintz wrote recently in the The National Interest, “If you wish to practice hybrid warfare—disruption and degradation with little overt engagement—then the ability to cut submarine cables at will and at depth gives you a very powerful weapon. Cut up undersea hydrophone networks and you deafen your adversary. Cut Internet cables and you have the ultimate denial-of-service cyber weapon.”
+
+Plenty of accidental cable cuttings and data losses have resulted from such activities. In 2006 and 2008, accidental cable destruction effectively shut down Internet services to several large countries or parts thereof, including Egypt, India, China and Pakistan, among others. Fortunately, the cables are fairly substantial; typically, they are a couple of inches thick and well-insulated with galvanic padding. But they are quite vulnerable, especially at cable heads, where they emerge from the water. In Egypt just a couple of years ago, swimmers were caught trying to cut through a major 12,500-mile cable. Internet speeds throughout Egypt plummeted by more than 60 percent.
+
+Overall, the cable system is fairly robust in facing routine challenges—accidents, anchors dragged over cables, corrosion and low-level attacks. The challenge will come as nations and transnational groups, such as criminal cartels and terrorists, find methods to disrupt cables in a massive way. Even with the 285 cables on the bottom of the ocean today and the 22 redundant or “dark” cables in reserve, the vulnerabilities are clear. Both individual nations and international organizations should be thinking collectively through disaster scenarios and considering how best to defend these cables together going forward.
+
+So much for the peril. What about the promise of this system? Are new technologies coming that can leverage and improve this capability? The good news is a resounding “Yes!”
+
+First, the information technology itself is improving, as it has to. Just a couple of years ago, the Internet moved about 5 gigabytes (GB) per capita. It will hit 14 GB per capita in 2018. And with billions more devices connecting to the Internet in the next decade, the problem is obvious. Fortunately, we are able to use new phase modulation and improve what is called submarine line terminal equipment (SLTE). This will boost capability by more than 50 times. Additionally, the prosaic ability to lay, adjust, repair and maintain the cables is improving through the use of unmanned systems, big data analysis and better materials.Increasingly creative ideas abound to leverage the cable system to improve access to high-speed Internet around the world.
+
+Satellites—at least for now—are just not the answer. Their signal capacity is severely limited by latency and bit loss, whereas underwater fiber optic cables deliver signals at nearly the speed of light—they are optic, after all. So what can we do to amp up their contribution?
+
+One idea is to create mobile networking hubs, both airborne and on the surface of the ocean. The airborne vehicles could operate at 40,000 feet to 50,000 feet in altitude, which would enable broadcasting 250 nautical miles in all directions while receiving data from as far as 500 nautical miles. The surface hubs would be a system of “risers” above the cables to move the data to the surface and make it accessible to the mobile airborne hub.
+
+Such a system could have serious commercial viability, of course. It could also be very advantageous to military planners seeking another means of moving data. The key is the relatively low cost of moving data compared with satellites. This system, even considering the added cost of the mobile airborne hubs and the risers, would be considerably less expensive than satellite systems and vastly faster. From a military perspective, this would be redundant to today’s backbone satellite systems. This also is an idea rife with public-private partnerships, as the risers could be connected via the systems that oil and gas industry platforms are using today.
+
+As with any communications system, both risk and reward are possible. In the case of submarine cables, we should increase our ability to protect this vital portion of the global communications grid and seek innovative ways to leverage its capability.
+
+Adm. James Stavridis, USN (Ret.), was the 16th Supreme Allied Commander for NATO from 2009 to 2013. He is the 12th dean of The Fletcher School of Law and Diplomacy at Tufts University, from which he holds a Ph.D. in international law, and he is chairman of the U.S. Naval Institute’s board of directors.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

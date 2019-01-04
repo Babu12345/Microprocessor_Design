@@ -1,0 +1,58 @@
+<article>
+  <type>article</type>
+  <title>Operating In the Arctic</title>
+  <author>George I. Seffers</author>
+  <date>February 1, 2016</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>U.S. Coast Guard</tag>
+    <tag>sea services</tag>
+  </tags>
+  <abstract>U.S. Coast Guard researchers are assessing a wide array of technologies capable of performing in the Arctic's harsh conditions, including unmanned vehicles, satellite communications and search and rescue systems. Those that work well in this severe environment may reshape the future of maritime operations in the region.</abstract>
+  <text>U.S. Coast Guard researchers are assessing a wide array of technologies capable of performing in the Arctic’s harsh conditions, including unmanned vehicles, satellite communications and search and rescue systems. Those that work well in this severe environment may reshape the future of maritime operations in the region.
+
+The U.S. National Strategy for the Arctic Region, released in 2013, states that the United States has “broad and fundamental interests” in the Arctic region and seeks to “meet our national security needs, protect the environment, responsibly manage resources, account for indigenous communities, support scientific research and strengthen international cooperation on a wide range of issues.” The nation’s interest in the area deepens as the sea ice diminishes, leading to increased activity there.
+
+To complement the U.S. strategy, the Coast Guard is increasing its presence in the Arctic. It is largely up to the maritime service’s research and development center to determine what systems work best and how technologies might be used most effectively to support the Coast Guard’s diverse missions, which include protecting ports and waterways, performing search and rescue missions and even coping with drunken boaters.
+
+The purpose of the research is simply determining what types of capabilities can be successfully employed in the area, rather than assessing or acquiring specific systems, stresses Scot Tripp, chief scientist for the Coast Guard’s Research and Development Center. The lessons learned from ongoing experiments, tests and exercises will help determine the concept of operations for Coast Guard forces deployed in the Arctic. “We’re looking at how the Coast Guard operates in the lower 48 states and Hawaii, and that may not necessarily apply to the Arctic because of the environment,” Tripp says.
+
+Conditions are so extreme in the Arctic that two of the Coast Guard’s 11 missions—countering drug traffickers and illegal aliens—simply do not apply in any significant way, Tripp says. Lawbreakers, it seems, prefer a certain amount of comfort.
+Winter temperatures can drop to about minus 50 degrees Fahrenheit, causing significant icing that interferes with some technological systems. Furthermore, the vast and barren terrain offers little infrastructure to support technology or Coast Guard operations. High winds also can take a toll. Coast Guard researchers in recent years have experienced winds steadily blowing at up to 35 knots (40 mph) for weeks at a time.
+
+As a result, researchers are assessing a plethora of systems almost as varied as the Coast Guard mission set. Some technologies that work well elsewhere are challenged in the Arctic. The solar- and wave-powered Wave Glider unmanned surface vehicle, for example, has proved itself around the world, but Arctic conditions are not favorable. “We’re looking at replacing tsunami buoys with [Wave Gliders], but when we got them up to the Arctic close to the ice fields, there’s very little wave action, so they didn’t have any power, and because of the weather—it’s overcast for days and weeks at a time—the solar cells couldn’t charge the batteries,” Tripp reports.
+
+Unmanned surface vessels could potentially be located around oil rigs, for example, and equipped with special sensors for detecting spills. As an alternative to solar- or wave-powered systems, the research and development team is assessing wind-powered vessels because “the winds are blowing pretty strong up there a lot,” Tripp explains. “What we’re looking for is a remote vehicle that senses an oil spill. We’re currently looking at an isotope processor, and it really sniffs on the molecular level and detects petroleum-based products. We tested it last year, and it was fairly successful.” The University of Alaska Fairbanks supplies the technology.
+
+The sensors could provide data about a spill to a ScanEagle or Puma unmanned aerial vehicle, which would transmit it to a forward operating base. The data then would go into the National Oceanic and Atmospheric Administration’s (NOAA’s) Environmental Response Management Application and onto the Internet, “where everybody who is interested can follow along with what’s going on,” Tripp states. “The oil companies are interested in this, too. If something happens, they want to know very quickly because they’re the ones who will end up cleaning it.”
+
+Tripp’s team also is working with NOAA to convert the Emergency Integrated Life Saving Lanyard, a 65-inch-long unmanned surface vessel normally used to provide hurricane data, to support the Coast Guard’s Arctic mission. Additionally, researchers have evaluated the under-ice search capabilities of an underwater system also known as Puma, which is provided by the Woods Hole Oceanographic Institution. The underwater systems perform well but still may not meet Coast Guard requirements, Tripp says. “We like the way they operate. We just haven’t found one that exactly suits all the needs yet,” he reveals. “They’re fairly complex and not something we’d have a standard Coast Guard operator run because it takes a little bit more expertise.”
+
+The Coast Guard’s Spilled Oil Recovery System also ran into challenges in the ice-filled Arctic waters during a 2012 demonstration with the Navy. The boom system collects oil alongside a vessel known as a buoy tender and pumps the oil into a large bladder.
+
+“They put out the boom ... and realized this is not going to be quite as applicable because ... they’re watching these ice chunks flow by, which could rip the boom apart and clog the pump or maybe open up the bladder,” Tripp says. Instead, the Coast Guard may use an oleophilic brush skimmer for oil cleanup.
+
+In addition, the lack of infrastructure in the area could require Coast Guard operators to establish a forward operating base at sea. “Should an incident occur in the lower 48, we’ve got no difficulties with that. We just go to the nearest town and set up a forward base. We’ve got hotels and things where people can stay, and we can start things moving,” Tripp explains. But in the Arctic, hotels are few and far between. Docks and fuel also are limited. Operators may have to use a vessel large enough to carry its own fuel and fuel for other operating vessels responding to an incident. “We’re looking at perhaps using an icebreaker like the Healy. It can hold up to 50 people, and that could be our forward operating location.”
+
+In another departure from traditional operations, Coast Guard responders may find themselves partnering with oil companies, which may be able to provide unmanned aerial vehicles or other equipment more rapidly than the maritime service.
+In a search and rescue exercise conducted last year, the Coast Guard “practiced using available resources that the oil companies possessed to conduct the operation,” Tripp notes.
+
+The exercise scenario included a downed plane in the ice fields. Once the search and rescue center in Juneau, Alaska, was notified, officials there called the oil companies to request an unmanned aircraft to search the area. “They launch it from shore, and we’re able to take control of it from the ship out in the water and conduct a search to look for the survivors,” Tripp says, adding that one oil company also provided a private helicopter to aid the search. “We may only have one or two ships up there, and those ships could be far away, but the oil companies may have boats or unmanned technologies closer.”
+
+With so little available infrastructure, communications technologies also are critically important. Tripp’s team is assessing a system that contains an acronym within an acronym. ALE stands for “automatic link establishment” and refers to high-frequency communications. GOTHAM is Geo-Diverse Over the Horizon ALE Matrix. The vision is to create a system that will operate similar to a cellphone network, with an antenna serving as a cellphone tower. The system essentially allows multiple high-frequency military radios to automatically search, locate and communicate over the best available frequency, with communications routed through the nearest tower. The radio essentially becomes a cellphone, as the user enters an ALE address, similar to dialing a phone number, and presses send.
+
+The Navy’s Mobile User Objective System (MUOS), a narrowband satellite communications tool designed to support mobile capabilities, also may be helpful for Arctic operations, complementing the Iridium satellite system. “We’re hoping MUOS offers a little bit more bandwidth. A lot of the problem we have with satellite communications is bandwidth, specifically. You can’t do a lot with streaming video or anything like that, and that’s the kind of information people are looking for these days,” Tripp offers. Decision makers no longer are satisfied with updates once a mission is complete. They want constant communication and video feeds during an operation, he adds.
+
+The Coast Guard research team also partners with the Marine Exchange of Alaska, a nonprofit established to serve the Alaska maritime community by providing information, communications and services to ensure safe, secure, efficient and environmentally responsible nautical operations. It offers an extensive Automatic Identification System (AIS) infrastructure. The AIS is used aboard maritime vessels around the world to transmit vital information, such as ship name, cargo and destination.
+
+Tripp indicates the AIS may be able to provide additional information. “We want to use that to enhance marine safety even further by having it broadcast weather reports, possibly, or restricted areas. This is just an augment to the AIS system. It gives a little better information because weather reporting up there is still under development, and this gives the mariners more information to keep them a little bit safer,” he elaborates.
+
+Although each Arctic research and development project is separate, they all are related. “They’re all under one umbrella of Coast Guard missions. The bottom line is that we’re here to develop and improve technologies for Coast Guard use,” Tripp observes.</text>
+  <imgalttext>
+    <img>The U.S. Coast Guard is increasing its presence in the Arctic region as melting ice makes the area more accessible. Researchers evaluate technologies capable of supporting the Coast Guard mission under the Arctic’s extreme conditions.</img>
+    <img>A Coast Guard test team begins deployment of an aerostat off the flight deck of the U.S. Coast Guard Cutter Healy in the Arctic region. This year, researchers are evaluating a smaller version with higher wind capabilities. The aerostat will carry a communications package that will allow contact with an unmanned aerial vehicle that has flown beyond the line of sight.</img>
+    <img>A net capture system is being evaluated to replace the need to recover unmanned aircraft, such as the Puma, from the cold Arctic waters. The aircraft encountered difficulties with maintaining GPS lock and with wind shear around the superstructure.</img>
+  </imgalttext>
+</article>

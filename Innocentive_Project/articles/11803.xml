@@ -1,0 +1,36 @@
+<article>
+  <type>article</type>
+  <title>A Longtime Tool of the Community</title>
+  <author>Lewis Shepherd</author>
+  <date>October 1, 2013</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>Point-Counterpoint</tag>
+    <tag>Viewpoint</tag>
+    <tag>October 2013</tag>
+    <tag>big data</tag>
+  </tags>
+  <abstract></abstract>
+  <text>What do modern intelligence agencies run on? They are internal combustion engines burning pipelines of data, and the more fuel they burn the better their mileage. Analysts and decision makers are the drivers of these vast engines; but to keep them from hoofing it, we need big data.
+ 
+The intelligence community necessarily has been a pioneer in big data since inception, as both were conceived during the decade after World War II. The intelligence community and big data science always have been intertwined because of their shared goal: producing and refining information describing the world around us, for important and utilitarian purposes.
+	Let’s stipulate that today’s big-data mantra is overhyped. Too many technology vendors are busily rebranding storage or analytics as “big data systems” under the gun from their marketing departments. That caricature rightly is derided by both information technology cognoscenti and non-techie analysts.
+	I personally understand the disdain for machines, as I had the archetypal humanities background and was once a leather-elbow-patched tweed-jacketed Kremlinologist, reading newspapers and human intelligence (HUMINT) for my data. I stared into space a lot, pondering the Chernenko-Gorbachev transition. Yet as Silicon Valley’s information revolution transformed modern business, media, and social behavior across the globe, I learned to keep up—and so has the intelligence community.
+	Twitter may be new, but the intelligence community is no Johnny-come-lately in big data. U.S. government funding of computing research in the 1940s and 1950s stretched from World War II’s radar/countermeasures battles to the elemental electronic intelligence (ELINT) and signals intelligence (SIGINT) research at Stanford and MIT, leading to the U-2 and OXCART (ELINT/image intelligence platforms) and the Sunnyvale roots of the National Reconnaissance Office.
+	In all this effort to analyze massive observational traces and electronic signatures, big data was the goal and the bounty.
+	War planning and peacetime collection were built on collection of ever more massive amounts of data from technical platforms. These told the United States what the Soviets could and could not do—and therefore where we should and should not fly, or aim, or collect. And all along, the development of analog and then digital computers to answer those questions, from Vannevar Bush through George Bush, was fortified by massive government investment in big data technology for military and intelligence applications.
+	In today’s parlance, big data typically encompasses just three linked computerized tasks: storing collected data, such as with Amazon’s cloud; finding and retrieving relevant data, as with Bing or Google; and analyzing connections or patterns among the relevant data using powerful web-analytic tools.
+	The benefit of intelligence community’s early adoption of big data was not just to cryptology, although decrypting enemy secrets would have been impossible without it. More broadly, computational big data horsepower was in use constantly during the Cold War and after, producing intelligence that guided U.S. defense policy and treaty negotiations or verification. Individual analysts formulated requirements for tasked big-data collection with the same intent as when they tasked HUMINT collection: to fill gaps in our knowledge of hidden or emerging patterns of adversary activities.
+	That’s the sense-making pattern that leads from data to information, to intelligence and knowledge. Humans are good at it, one by one. Murray Feshbach, a little-known U.S. Census Bureau demographic researcher, made astonishing contributions to the intelligence community’s understanding of the crumbling Soviet economy and its sociopolitical implications by studying reams of infant-mortality statistics and noticing patterns of missing data. Humans can provide that insight brilliantly, but at the speed of hand-eye coordination.
+	Machines make a passable rote attempt, but at blistering speed, and they do not balk at repetitive mind-numbing data volume. Amid the data, patterns emerge. Today’s Feshbachs want an Excel spreadsheet or Hadoop table at hand so they are not limited to the data they can carry reasonably in their mind’s eye.
+	To cite a recent joint research paper from Microsoft Research and MIT, “Big data is notable not because of its size but because of its relationality to other data. Due to efforts to mine and aggregate data, big data is fundamentally networked. Its value comes from the patterns that can be derived by making connections between pieces of data, about an individual, about individuals in relation to others, about groups of people, or simply about the structure of information itself.” That reads like a subset of core requirements for intelligence community analysis, whether social or military, tactical or strategic.
+	The synergy of human and machine for knowledge work is much like modern agricultural advances—why would a farmer today want to trudge behind an ox-pulled plow? There is no zero-sum choice to be made between technology and analysts, and the relationship between chief information officers and managers of analysts needs to be nurtured, not cleaved.
+	What is the return for big-data spending? Outside the intelligence community, I challenge humanities researchers to go a day without a search engine. The intelligence community record’s just as clear. Intelligence, surveillance, reconnaissance, targeting and warning are better because of big data; data-enabled machine translation of foreign sources opens the world; correlation of anomalies amid large-scale financial data pinpoint otherwise unseen hands behind global events. In retrospect, the Iraq weapons of mass destruction conclusion was a result of remarkably-small-data manipulation.
+Humans will never lose their edge in analyses requiring creativity, smart hunches and understanding of unique individuals or groups. If that is all we need to understand the 21st century, then put down your smartphone. But as long as humans learn by observation, and by counting or categorizing those observations, I say crank the machines for all their robotic worth.
+	 
+Lewis Shepherd is the director and general? manager of the Microsoft Institute. For another perspective on this question, see "Another Overhyped Fad" by Mark M. Lowenthal.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

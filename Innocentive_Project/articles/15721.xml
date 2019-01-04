@@ -1,0 +1,29 @@
+<article>
+  <type>blog</type>
+  <title>IARPA Reveals Opportunities</title>
+  <author>George I. Seffers</author>
+  <date>February 22, 2016</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>research and development</tag>
+    <tag>IARPA</tag>
+    <tag>biometrics</tag>
+    <tag>big data</tag>
+  </tags>
+  <abstract>IARPA releases one broad agency announcement and three requests for information and announces an upcoming Odin Proposers' Day.</abstract>
+  <text>The Intelligence Advanced Research Projects Activity (IARPA) has released a broad agency announcement (BAA) seeking proposals to develop, and experimentally test, systems that use crowdsourcing and structured analytic techniques to improve analytic reasoning. At the same time, the organization released three requests for information and announced a March 11 proposers’ day for the Odin program, which is developing methods for detecting attempts to disguise a person’s biometric identity.
+
+According to the BAA for the Crowdsourcing Evidence, Argumentation, Thinking and Evaluation (CREATE) program, proposals are due April 16. The program aims to “improve analytic thinking by combining structured reasoning techniques with crowdsourcing” and will “draw upon the strengths of academia and industry through collaborative teaming.”
+
+The requests for information are for novel training datasets and environments to advance artificial intelligence, protein sequencing for human identification, and data ingress and egress for cryogenic systems. The first will help IARPA identify future opportunities for creating novel training resources for artificial intelligence algorithms. Responses are due April 1.
+
+The second will use protein to obtain information regarding human identification in the absence of DNA. Responses are due March 4.
+
+The third seeks information on the availability and development of technology and techniques for high data rate transmission of digital signals between a room-temperature system and a cryogenic system at a temperature of approximately 4 kelvins. Respondents have until March 1 to submit brief, clear concepts to address problems associated with the technology.
+
+IARPA also provides an opportunity to submit proposals not aligned with current programs based on new ideas from the research community.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

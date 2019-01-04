@@ -1,0 +1,29 @@
+<article>
+  <type>blog</type>
+  <title>Promoting Industry Adoption of Supercomputing </title>
+  <author>George I. Seffers</author>
+  <date>September 16, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Lawrence Livermore National Laboratory</tag>
+    <tag>High Performance Computing</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>Lawrence Livermore and Rensselaer Polytechnic Institute sign a memorandum of understanding to help industry adopt supercomputing in an effort to spur the economy.</abstract>
+  <text>Lawrence Livermore National Laboratory (LLNL) and the Rensselaer Polytechnic Institute will combine decades of expertise to help American industry and businesses expand use of high performance computing (HPC) to help fuel the economy.
+
+Livermore and Rensselaer look to bridge the gap between the levels of computing conducted at their institutions and the typical levels found in industry. Scientific and engineering software applications capable of running on HPC platforms are a prime area of interest.
+
+“The lack of highly scalable codes, especially commercial ones, presents a real barrier for companies, as is the integration of such codes into existing business workflows,” Chris Carothers, director of the Rensselaer’s Center for Computational Innovations, said in a written statement. “Companies have built whole workflows around these applications, but they don’t scale to the platforms available now and they won’t scale to the newer generations of upcoming platforms. This leaves them locked in a position unable to capitalize on advanced [research and development] solutions that are there for the taking.” 
+
+Both Livermore and Rensselaer have built robust computational ecosystems equipped with the necessary resources to scale codes, including the hardware and infrastructure needed for testing and validation; tools for optimization and debugging; and the people harboring the expertise and experience required to program.
+
+The two organizations signed a memorandum of understanding that will allow LLNL and Rensselaer to better support the National Strategic Computing Initiative announced by President Barack Obama on July 29. The initiative’s guiding principles, designed to ensure continued U.S. leadership in supercomputing, include: fostering public-private collaboration; relying on the respective strengths of government, industry and academia to maximize the benefits of HPC; and applying new HPC technologies broadly for economic competitiveness and scientific discovery. 
+
+The agreement also will help support the High Performance Computing for Manufacturing Program (HPC4Mfg) announced today by the U.S. Department of Energy. HPC4Mfg is led by Lawrence Livermore, Oak Ridge and Lawrence Berkeley national labs. HPC4Mfg couples U.S. manufacturers with the national laboratories’ computational research and development expertise to address key manufacturing challenges.</text>
+  <imgalttext>
+    <img>The Lawrence Livermore-Rensselaer Polytechnic Institute agreement to promote supercomputing supports President Barack Obama's plan to spur the economy.</img>
+  </imgalttext>
+</article>

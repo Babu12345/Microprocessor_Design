@@ -1,0 +1,60 @@
+<article>
+  <type>article</type>
+  <title>Cyber Command Redefines the Art</title>
+  <author>Robert K. Ackerman</author>
+  <date>June 1, 2013</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>June 2013</tag>
+    <tag>CYBERCOM</tag>
+    <tag>DISA</tag>
+    <tag>homeland defense</tag>
+    <tag>information operations</tag>
+    <tag>mobile</tag>
+    <tag>Networks</tag>
+    <tag>Security</tag>
+    <tag>Cyber Symposium Featured</tag>
+  </tags>
+  <abstract>The U.S. Cyber Command is developing a strategy that acknowledges the convergence of network systems by empowering a similar convergence of military disciplines to help place U.S. cyberspace operators on a level field with their malevolent counterparts. This strategy acknowledges that the structure of the cyberforce has not kept pace with technology developments. As all types of information management—networking, communications and data storage—became digitized, previously disparate disciplines assumed greater commonality. With more common aspects, these disciplines share similar vulnerabilities as well as potential solutions.</abstract>
+  <text>Dealing with virtual challenges may require a meeting of different disciplines.
+The U.S. Cyber Command is developing a strategy that acknowledges the convergence of network systems by empowering a similar convergence of military disciplines to help place U.S. cyberspace operators on a level field with their malevolent counterparts. This strategy acknowledges that the structure of the cyberforce has not kept pace with technology developments. As all types of information management—networking, communications and data storage—became digitized, previously disparate disciplines assumed greater commonality. With more common aspects, these disciplines share similar vulnerabilities as well as potential solutions.
+Addressing the threats to participants in cyberspace, whether defense organizations or elements of the critical infrastructure, may require a melding of different military groups that historically have acted independently. Meeting these cyberchallenges will require an across-the-board approach. With this in mind, Gen. Keith B. Alexander, USA, director of the National Security Agency (NSA)/Central Security Service and commander of the U.S. Cyber Command, is calling for the evolution of a cyberteam concept that brings together the signal community, signals intelligence and the cyber community.
+	“They don’t operate in different spaces,” he observes. “They operate in the same space. The issue that we’re faced with is, if they operate in the same space, why do we train them as separate teams? Why don’t we train them together at the same standard?”
+	In the analog past, communications and computer networks were separate. Convergence has brought them together, and this requires a fundamental change in dealing with cyber issues. “What we used to consider separate domains [in which] we used to consider our networks unique and separate, now have become one giant network connected on a global scale,” Gen. Alexander offers.
+	The general notes that the separate community standards are different. The signal community normally trains and clears its people at the collaterally Secret level, and they are responsible for building, operating and defending. But, in exercises, the defense is weak and usually is defeated by the red team, which never uses the tools employed by offensive teams, he relates.
+	On the other hand, intelligence teams are trained at a different standard, have Top Secret clearances and always are successful, he continues. “What it tells you is that perhaps we should train everybody to the same standard as one team, one network.” Gen. Alexander analogizes it to the drawback of having a defensive air force and an offensive air force.
+	“We need one team,” he attests. “We need to think of ourselves not as signals, not as intelligence, not as cyber, but instead as some kind of a team that puts us all together.”
+	Currently, personnel in the signal community may assume the role of network defenders. But that does not work, the general offers. Defenders must know what the adversary is doing, and that can require direct intelligence of enemy activities. So combining signal, cyber and intelligence capabilities provides the operator with the necessary abilities to carry out the mission.
+	The part of the intelligence community with particular involvement in cybersecurity is the signals intelligence, or SIGINT, community. The SIGINT community and the information assurance community largely constitute the NSA. Gen. Alexander offers that this approach should be applied to the services.
+	The general notes the current military information environment is manpower intensive. The move to the Joint Information Environment (JIE) will require less manpower and will allow planners to evolve the force toward one that can operate offensively in cyberspace.
+	Also, this current environment is service-centric. The Army defends Army communications; the Navy defends Navy communications; and the Air Force defends Air Force communications. Each can engage in some joint defense with the Defense Information Systems Agency (DISA). Yet, the general points out, a key issue remains: Who defends the nation?
+	“The people [who defend cyberspace] are in the services,” he points out. “And, they are defending their own [service] networks.
+	 
+
+	Gen. Keith B. Alexander, USA, is the director of the National Security Agency (NSA)/Central Security Service and the commander of the U.S. Cyber Command.
+“The country didn’t bring us here to defend ourselves,” he continues. “They brought us here to defend the country. In cyberspace, we have to do that. Cyberspace is becoming an active area in which nations will attack us. We are going to have to defend the nation in this area—that is our role.
+	“I think we [the United States] are going to be attacked in cyberspace more and more,” Gen. Alexander declares. “It’s only going to get worse. The nation needs the Defense Department to be ready to defend this nation in cyberspace.”
+	He admits this approach can be split in different ways, but whenever that happens, someone who belongs inside ends up being left out. Each service deals with cyber differently. For example, the U.S. Navy has its information dominance corps, but the service also has communications, cryptography and intelligence. The Army has its Signal Corps and separate intelligence community along with an emerging cybercorps drawing elements from the two other groups. The Air Force has its 24th Air Force under the Space Command (see "Air Force Comes to Grips With Cyber"), its Intelligence, Surveillance and Reconnaissance Agency (AFISRA) and a communications community.
+	“I would put them together and call that ‘a series of career fields all together,’” Gen. Alexander states. “We have combined arms; we have pilots; and we have information specialists. These information specialists cross that whole domain, and what we want to do is train them to that same standard so they can operate as a team, not as independent teams.
+	“It is not in our best interest to have them operating with different training standards under different commands not tightly integrated,” the general declares.
+	Gen. Alexander allows that other technical trends are pushing this approach. The movement to the cloud, the thin virtual information technology infrastructure and the new JIE all require fewer system administrators than are needed today. He notes that the number of enclaves totals 15,000, and that number will be reduced by the migration to the cloud. This will change the entire environment into a more defensible architecture that can be patched and updated at network speed. And, secure mobile devices can be connected and brought under the same architecture for security.
+	“We really want to leverage a global Joint Information Environment and the joint access that a cryptologic agency like the NSA gives us,” the general says. “You need both to operate in cyberspace. Developing and evolving a JIE force with the intelligence community will be key to pushing around our information.
+	“Bringing those two together and that, combined at the national level, is what provides the foundation for tactical operators to start to merge what we have at the tactical level,” he concludes.
+	The general admits that “it is not as clear how you take all the pieces of intelligence.” Because no easy defining lines appear, he is opting for greater inclusion, at least at the beginning.
+	This approach will require a new transformation, Gen. Alexander offers. Nearly 200,000 people in the Defense Department are working in the information technology arena, but they need a new direction. “We have more than enough people; the problem is they are working yesterday’s tasks—not tomorrow’s,” he expresses. “So, I’d like to take those folks that were ‘yesterday,’ and get them cleared and trained for tomorrow’s task today.”
+	The first step is to stand up teams, both offensive and defensive. The offensive teams would provide a cyber counterforce against attackers. Other teams would support combatant commands’ requirements, and some would constitute cyberprotection platoons. But, Gen. Alexander emphasizes, all would be trained to the same standard as one team. “All would be operating in a space where they have to see and be able to operate with each other,” he says. He adds that he anticipates the teams will be built out in about three years.
+	Timing is critical for implementing these changes, the general states. “We need to push this hard. We are going to be attacked. They are going to test us. We have to be ready for that. Because, if we fail, they are going to see a vulnerability and they are going to go after that in ways that would hurt our nation significantly.”
+	Other changes along these same lines could benefit the force. Gen. Alexander suggests having DISA take over all theater communications as a joint task force. With one integrated team operating to one standard, DISA would provide the overlying tactical capability.
+	Some services already have taken steps toward convergence. The Navy combined its N-2 and N-6 years ago, and Gen. Alexander offers that this example should be followed. “Integrate them. We have to combine them. The question is how and when to do that.” He adds that this approach should be extended down to at least the company level, where intelligence companies and signal companies should be integrated into a single entity. “The Navy needs to take a couple more steps, and the rest of the services need to take a lot more steps to catch up,” he imparts.
+	Remaining to be determined is the most efficient way to achieve the convergence. One approach might be to integrate at the service level and push down, or alternatively begin at the bottom level and build up. Gen. Alexander offers that each approach has its advantages.
+	“Starting at the bottom and building up means those young officers now coming into these units will have learned it as a team and will go the rest of their career,” he notes. “The advantage of doing it from the top down is you can direct it—it has to happen. So, some combination of that is what I think is going to need to be done.”
+	Gen. Alexander admits the biggest challenge facing this convergence approach will be changing culture. But, it is necessary, he emphasizes. “The mission has gone far beyond what our old missions were. Everybody is looking at their old mission and saying, ‘What about that?’ But nobody is looking at the new mission and saying, ‘That’s the one the nation needs right now because nobody is doing it.’ That’s what we need to do.”
+ 
+ </text>
+  <imgalttext>
+    <img>A U.S. Air Force network administrator employs a laptop at Kandahar Airfield, Afghanistan.</img>
+    <img>The convergence of computers, communications and intelligence is impelling a move to consolidate those functions into a single cyberteam approach for ensuring cybersecurity.</img>
+  </imgalttext>
+</article>

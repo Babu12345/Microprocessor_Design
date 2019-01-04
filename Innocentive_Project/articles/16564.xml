@@ -1,0 +1,56 @@
+<article>
+  <type>article</type>
+  <title>Wearables Find Easy Fit With Police, Troops</title>
+  <author>Sandra Jontz</author>
+  <date>September 1, 2016</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>wearable computers</tag>
+  </tags>
+  <abstract>The future of wearable technologies will plug people—from head to toe—into the Internet using smart clothing embedded with sensors connected to smartphones that can relay an abundance of environmental, health and fitness information to apps that track users’ well-being.</abstract>
+  <text>The future of wearable technologies will plug people—from head to toe—into the Internet using smart clothing embedded with sensors connected to smartphones that can relay an abundance of environmental, health and fitness information to apps that track users’ well-being. Designers are even creating tattoolike devices that gather data through skin contact and transmit it wirelessly to smartphones and remote diagnostic facilities. 
+
+Beyond medical monitoring, wearables can be used to improve athletic performance, track fitness goals and help prevent dangerous falls in the elderly. They have piqued the interest of leaders at the nation’s largest federal law enforcement agency, who think uninterrupted contact between agents and a dispatch center could save lives. 
+
+Government officials are eager to tap the advancements in smart clothing used by athletes. Already, sensor-laden shirts convey key physiological data to athletes, and helmets that young baseball and football players wear can alert coaches and parents via text messages when a child takes a potentially debilitating hit to the head. With wearables tracking heart rate, measuring respiration and perspiration, approximating blood pressure, pinpointing the wearer’s location via GPS and even assessing ultraviolet levels to determine whether sunblock is necessary, it would not be a great leap for such clothing to measure the impact and caliber of a bullet striking a police officer, offers Wolf Tombe, chief technology officer for U.S. Customs and Border Protection.
+
+He sets a scene to illustrate the potential impact of the technology. While an officer clad in wearables is on patrol, the dispatch center receives an alert reporting a sharp increase in the officer’s pulse rate. 
+
+Dispatch to Unit 7. Status check.
+
+Unit 7 to dispatch. All good. Just skidded off the road, evading an animal, and nearly clipped a light post. Caused the heart to race a bit.
+
+An alternative scenario leaves a chilling effect if a downed police officer cannot verbally respond.
+
+Dispatch to Unit 7. Status check.
+
+Silence.
+
+Dispatch to Unit 7. Status check.
+
+Silence.
+
+Dispatch to Units 4, 5 and 6. Proceed to possible officer down at GPS coordinates sent to your mobile devices.
+
+Taking advantage of the lifesaving possibilities of smart clothing for troops and law enforcement presents a logical next step, Tombe says. He envisions clothing worn beneath bulletproof vests that could be used to alert authorities to potentially critical physiological changes and even determine the force of a bullet’s impact. “How cool would it be if the garment under my vest had actually sensed that I’d just been shot and sent that [information] to 911 dispatch?” Tombe asks. “Not only would they know I’d been shot, but by what caliber round, how many times and [my] condition.” Alerts sent from the wearables through mobile devices could summon backup reinforcements and stream vital medical data to emergency responders and hospitals.
+
+Although the technology exists to make this vision a reality, what agency officials lack are departmental and legal policies to avail themselves of the advancements. “We have to find that sweet spot,” says Robert Palmer, deputy chief technology officer at the Department of Homeland Security. “What is the absolute value to the mission that we have to provide our soldiers and our frontline folks in Homeland Security, and how do we then technically, from a policy perspective, make it all happen?” 
+
+Security—rather, the lack thereof—often is a key reason cited for not fielding some of these technologies. But claims of lax security are tantamount to a red herring, offers Eric Green, security strategist with the cybersecurity company Cyber adAPT. “A lot of people like to talk uncertainty and doubt about wearables, saying they’re not secure—they’re going to cause all kinds of problems and issues,” Green says. “If there is malware on a device, do I really care? Not necessarily. What I care about is that the user of that device connected to my network is who they are supposed to be. We use authentication for that.”
+
+Wearables, whether wristband fitness trackers or sensor-laden shirts, depend on mobile devices such as smartphones or tablets for communication, all of which can readily be secured, Green says. “We protect what I consider to be the conduit, which is the mobile device,” he says. The key to security success is using certificates and authenticating user identity, Green offers. “As far as the technology goes today, that’s somewhat easy to achieve.” 
+
+Because mobile devices are the hub to which wearables connect, their access, content and security are controlled in one place, says Cyber adAPT Chief Technology Officer Scott Millis. “In the future, these things may be self-connecting to a much more pervasive low-power wireless network, but that has to be five years down the road,” Millis says. “Regardless of the use case or the device, it’s about the data and traffic. Our mission is to ensure we see all this traffic and detect bad behavior indicative of compromise; it doesn’t matter if it is your wearable, computer, thermostat, wind turbine, drone or car.”
+
+The future holds even more innovation in textiles. The U.S. Defense Department earmarked $75 million for a grant to the Massachusetts Institute of Technology, which leads the Advanced Functional Fabrics of America. The alliance of 89 universities, manufacturers and nonprofits is working to transform traditional fibers, yarns and fabrics into highly sophisticated, integrated and networked devices and systems.
+
+Funding the effort fits the Defense Department’s third offset strategy aimed at confronting emerging threats by capitalizing on technology to prevail over opponents. The first strategy focused on nuclear deterrence and the second on stealth and precision airpower as well as the discipline of intelligence, surveillance and reconnaissance, or ISR.
+
+But for now, policy issues take center stage. Questions of privacy and ownership of the data collected from the wearable sensors remain unanswered, experts offer. For example, do troops and police have the right to keep biometric information from their supervisors? “Questions centering on cyber and privacy are the hard conversations we just have to have,” Palmer shares. “The IT [information technology] challenges aren’t really IT-based challenges, but policy ones.”</text>
+  <imgalttext>
+    <img>An Air Force Research Laboratory researcher holds up a sweat sensor prototype. The lab’s 711th Human Performance Wing and the University of Cincinnati conducted human trials for wearable sweat sensors that could measure biomarkers and alert users to physical exhaustion, stress or possible illness.</img>
+    <img>The Defense Advanced Research Projects Agency (DARPA) and the Rochester Institute of Technology developed the blast gauge, a small device that can measure blast exposure and cue medics for initial response.</img>
+  </imgalttext>
+</article>

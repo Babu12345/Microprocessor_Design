@@ -1,0 +1,61 @@
+<article>
+  <type>blog</type>
+  <title>Derived Credentials and The Lord of the Rings</title>
+  <author>Justin Marston</author>
+  <date>September 29, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>mobility</tag>
+    <tag>smart card</tag>
+    <tag>smartphone</tag>
+    <tag>data protection</tag>
+  </tags>
+  <abstract>If you are not a fan of The Lord of the Rings, the executive summary is that you can simplify life and improve security for derived credentials if you only distribute one authorized credential, used by a thin client to access a centralized virtual operating system that holds all the other keys, guest blogger Justin Marston writes, connecting the popular cinematic wonder to the challenge of mobile authentication.    </abstract>
+  <text>One ring to rule them all,
+One ring to find them,
+One ring to bring them all,
+And in the darkness bind them. – J.R.R. Tolkien, The Lord of the Rings
+
+If you are not a fan of The Lord of the Rings, the executive summary is that you can simplify life and improve security for derived credentials if you only distribute one authorized credential, used by a thin client to access a centralized virtual operating system that holds all the other keys. For those with an appetite for a mystical romp through Middle Earth involving magical keys and rings, I suggest you place your tongue firmly in cheek and proceed.
+
+A link between derived credentials and The Lord of the Rings? Contrived I hear you say? Perhaps, but not as much as you might think.
+
+The saga involves the dastardly villain Lord Sauron, who tricks exiled elves into forging the Rings of Power, then secretly forges the One Ring in his inhospitable crib (Mount Doom in Mordor). The One Ring has the power to dominate the other Rings of Power, and enslave those who wear it to do Sauron’s will. Enter derived credentials, the set of security keys derived from users’ pre-existing trusted credentials, such as those on government-issued smart cards.
+
+Security-conscious organizations require more than usernames and passwords to authenticate users. Security hinges on methods that are difficult to guess, such as incredibly long passwords or tokens or keys generated from suitably deep pools of entropy coupled with robust cryptographic algorithms. Multi-factor authentication addresses the problem, employing known data such as PINs or passwords and cryptographic keys and biometrics.
+
+Derived credentials are the latest attempt to address the challenge of mobile authentication and how to store and grant access to special keys. It’s been a process for the Defense Department, beginning with the use of smart cards, which have secret key rings embedded on chips accessible only to the users.
+
+This worked with Microsoft Windows and PCs with USB card readers, but as users migrated to mobile devices, there was no obvious way to plug smart cards into smartphones. The quest focused on storing and accessing a user’s primary authentication credential and application keys.
+
+An increasing number of smartphones and tablets have some type of secure element—a trusted storage area from which attackers can’t easily get data. In iOS it is called the secure enclave and in Android devices it is typically called TrustZone. iOS devices store a master key in the secure enclave that can decrypt the device keychain stored in software and used only by that vendor. Android is similar, but lets vendors store keys in special memory that is accessible only to trusted applications—the TrustZone. Once in TrustZone mode, the keys can’t be taken out again. An app can use the keys for operations such as “unencrypt this” or “sign this,” but it can’t say “give me the key.”
+
+There are several questions for derived credentials:
+
+How and where are derived credentials created?
+	How is the user identified with the physical mobile endpoint?
+	Which encryption keys should be part of the derived credentials?
+	If necessary, how are derived credentials moved to mobile devices?
+	How do apps leverage the derived credentials?
+	How often should users’ derived credentials be updated?
+	What’s the process of revoking a derived credential?
+According to National Institute of Standards and Technology special publication 800-157, credentials may be issued remotely and securely transferred or may be issued locally. Primary authentication credentials create derived credentials, typically created remotely in Department of Defense mobile system studies. Although the department examined tethering mobile devices to provision-derived credentials, the new objective is to find an over-the-air mechanism to scale the provisioning process. A favorite vendor mechanism to transfer keys is quick response (QR) codes. If devices are lost or compromised, derived credentials are revoked.
+
+Letting multiple apps from different vendors access single mobile devices to do cryptographic operations is challenging. For iOS, apps can’t share keys unless apps are from the same vendor. In Android, while apps from different vendors can have a shared key across the whole device, malware can trick users and install itself to gain access to shared keys or steal users’ identities. Android does not support an app access control list to a single shared key, so for more secure systems, shared keys are off the table. A workaround implements a key infrastructure for mobile apps, but requires the key infrastructure provider to resign applications.
+
+Why does all this matter? It involves a central question: Which encryption keys should be part of derived credentials? People lose mobile devices, and revoking an entire key ring is a real pain. What if a single derived credential on the mobile endpoint accessed only a single mobile app on the client device? The app would orchestrate the provisioning of the derived credential and association with the mobile device. The design architecture makes addressing the notion of updating and revoking user credentials much easier.
+
+Treat derived credentials more like a temporary access token, not the “Keys of Power.” These tokens should only be used for authentication, and might have varying lifetimes.
+
+One key to access them all,
+One key to find them,
+One key to use them all,
+And in the data center protect them.
+
+Justin Marston is CEO and co-founder of Hypori. He holds multiple patents, is a published author and holds a master’s degree in chemistry from Durham University. This is the second in a series of blogs Marston will pen on some key issues, uniquely paralleling movie themes in each. He already tackled attestation, and future blogs will address crypto, data at rest, mobile malware and privacy. He plans to take on entropy next.  </text>
+  <imgalttext>
+    <img>Derived credentials are the latest attempt to address the challenge of mobile authentication.</img>
+  </imgalttext>
+</article>

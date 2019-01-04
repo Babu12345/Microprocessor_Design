@@ -1,0 +1,40 @@
+<article>
+  <type>article</type>
+  <title>President's Commentary: Confronting Cyberthreats</title>
+  <author>Lt. Gen. Robert M. Shea, USMC (Ret.)</author>
+  <date>July 1, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cyberthreats</tag>
+    <tag>Cybersecurity</tag>
+    <tag>Presidents Commentary</tag>
+  </tags>
+  <abstract>Cyberthreats come from different areas—whether they represent terrorists, industrial espionage, the Islamic State of Iraq and the Levant (ISIL), organized crime, nation-states or even “hacktivists” trying to shape the political environment. Multiple sources with diverse motivations are affecting activities throughout cyberspace, and there is no one-size-fits-all remedy or “silver bullet” solution.</abstract>
+  <text>The recent hack, reportedly by Chinese sources, of the personnel files belonging to current and past U.S. government employees puts a face on the cyberthreat affecting everyone today—about 4 million faces, if Office of Personnel Management assessments are correct. Yet this hack is just one example of the looming cyberthreat, and while it offers valuable lessons to be learned, it should not serve as the exclusive template for securing networks and data.
+
+Cyberthreats come from different areas—whether they represent terrorists, industrial espionage, the Islamic State of Iraq and the Levant (ISIL), organized crime, nation-states or even “hacktivists” trying to shape the political environment. Multiple sources with diverse motivations are affecting activities throughout cyberspace, and the vulnerabilities of the Internet provide a good tool for them to seek their political, military or economic ends. Accordingly, there is no one-size-fits-all remedy or “silver bullet” solution to defend networks and their data.
+
+Currently, security experts confronting the cyberthreat tend to focus on its physical aspects. However, a holistic approach is necessary to secure data. Human factors come into play as much as technological pieces. Too much time is focused on unique technical solutions when instead collective measures can help funnel threats into an area where they are much more manageable.
+
+The causes of vulnerabilities are many. We—the public, industry and government—are not very good at providing the discipline necessary to run our networks. Accountability is lacking and individual and enterprise roles and responsibilities are not properly established; and where they are in place, they often are not enforced. Risk-management strategies tend to be fleeting, bifurcated or ignored.
+
+Many networks lack a configuration-control process. They grow haphazardly, without any logically coordinated process that takes into account the focused mission of stakeholders and security implications of the changes. Experts have begun to realize the need for this network-management process, but there still is a long way to go before it becomes an effective everyday discipline.
+
+Networks tend to be built without a strong consideration for cybersecurity. It is often a late add-on, increasing cost and delays. Ultimately, this creates gaps that can be exploited by cybermarauders.
+
+The supply chain’s cybersecurity is a growing area of concern. In many cases, the lower levels of the supply chain lack the security and discipline found at higher levels, and these lower levels often are where cybersecurity breaks down. Smaller companies frequently are reluctant to devote scarce resources to cybersecurity, and they may not understand its complexity and challenges throughout their networks. Similarly, the organizations at the upper level of the supply chain often lack the capability to assess and manage the security posture of the smaller firms at the supply-chain lower levels.
+
+In the end, network designers must remember to focus on the mission capabilities that support whatever enterprise the network serves. Any resources applied must support the mission, and they must be protected before any add-on capabilities are considered.
+
+The conflict between the traditional systems-engineering approach and the rapidly evolving user approach to cybersecurity represents a clash of cultures. The ability to provide high-level security requires a discipline that most users do not want to adhere to in our rapidly evolving and connected world. They want to operate without being hindered by any of the policies and controls that are usually needed to provide security. Technology long has outpaced policy. In addition to developing the ability to manage human factors, decision makers must recognize the impact a vulnerable cyber enterprise has on their business or mission. They must understand the cost of security relative to loss of revenue or mission failure.
+
+Much of the threat could be contained with the proper change of culture that takes risk into account. This entails looking at the network from a business perspective and from a mission-focus perspective. It requires a systematic approach to network design and management. It mandates clearly established policies, responsibilities, accountability and enforcement. The same disciplined measures taken when building a nuclear submarine or the next generation of fighter aircraft should be applied to developing and managing network security. By taking this approach as well as providing more effective education and training—because training is grossly underresourced and even overlooked—today’s cyberthreat risks would be cut significantly.
+
+This approach also would result in more efficient use of cybersecurity resources. Security experts would be able to focus on the actual art and science of defeating the cyberthreat rather than spending inordinate time policing those aspects of cybersecurity created by the lack of governance, process and discipline needed to confront the evolving cyberthreat.
+
+The cyberthreat is moving faster than policy’s ability to keep up with it. At some point, people are bound to say “enough is enough” and put pressure on the “system” to move more aggressively to provide better cybersecurity.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

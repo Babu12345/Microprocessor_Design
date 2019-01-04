@@ -1,0 +1,29 @@
+<article>
+  <type>article</type>
+  <title>Department of Commerce Releases Data Analysis R&amp;D Roadmap for Public Safety</title>
+  <author/>
+  <date/>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>National Institute of Standards and Technology</tag>
+    <tag>data analysis</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The U.S. Department of Commerce issued the "Public Safety Analytics R&amp;D Roadmap," which outlines opportunities to spur innovation and improve public safety by making data more accessible and useful for police, firefighters, emergency medical services and other first responders.</abstract>
+  <text>The U.S. Department of Commerce today issued the "Public Safety Analytics R&amp;D Roadmap," which outlines opportunities to spur innovation and improve public safety by making data more accessible and useful for police, firefighters, emergency medical services and other first responders.
+
+Published by the National Institutes of Standards and Technology (NIST), the report evaluates software, network and device technologies that could improve public safety response, communications and operations over the next 20 years. The road map will guide planning for public safety communications research, including how to allocate the $300 million NIST is to receive from the 2015 AWS-3 spectrum auction.
+
+“First responders are gaining access to large amounts of new data from diverse sources, and we need to be able to process it without overwhelming public safety,” said U.S. Deputy Secretary of Commerce Bruce Andrews in a written announcement. “This road map allows NIST to begin to chart an R&amp;D course to ensure that new data constructively transforms the way first responders carry out their missions.” 
+
+The road map outlines a number of recommended research and development opportunities in the gaps:
+
+Software: Create a public safety information sharing and analysis center similar to www.data.gov; define Internet of Things data standards and processing models for public safety; and partner with social media analytics companies to design tools to analyze physical attributes and biometrics in images.
+	Devices: Define requirements for on-device recording and storing of communications transcripts; develop an analytics framework for integrating disparate data sources across public safety devices and sensors; and define data standards and exchange protocols for responder-worn sensors.
+	Networks: Develop resiliency and prioritization services to analyze mission-critical data when the network goes down or is overloaded; develop a network-based element to discover and deliver critical content; and create a standard and/or usage scenario that indicates what information or analytical capabilities are needed during specific situations such as fires, floods and vehicle crashes.
+</text>
+  <imgalttext>
+  </imgalttext>
+</article>

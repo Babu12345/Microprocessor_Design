@@ -1,0 +1,33 @@
+<article>
+  <type>article</type>
+  <title>DARPA’s Spectrum Collaboration Challenge Is a Go</title>
+  <author>Sandra Jontz</author>
+  <date>July 20, 2016</date>
+  <departments>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>DARPA</tag>
+    <tag>Internet of Things</tag>
+    <tag>Spectrum</tag>
+    <tag>spectrum management</tag>
+    <tag>electromagnetic spectrum</tag>
+  </tags>
+  <abstract>The Defense Department’s futuristic research agency has finalized its contest plans—backed by nearly $4 million in prizes—for the creation of a radio that can withstand wireless congestion. DARPA's ambitious competition aims to expand the communications capacity of the electromagnetic spectrum.</abstract>
+  <text>The Defense Department’s futuristic research agency has finalized its contest plans—backed by nearly $4 million in prizes—for the creation of a radio that can withstand wireless congestion.
+
+It’s an ambitious competition led by the Defense Advanced Projects Research Agency (DARPA) to expand the communications capacity of the electromagnetic spectrum, especially at a time when the explosion of wireless devices and the dawning of the Internet of Things era has placed such a heavy demand for access to such a finite resource.
+
+The Spectrum Collaboration Challenge (SC2) is divided into three year-long phases beginning in 2017. The winner will walk away with a $2 million grand prize. Second and third-place runners up will earn $1 million and $750,000, respectively.
+
+“We want to radically accelerate the development of machine-learning technologies and strategies that will allow on-the-fly sharing of spectrum at machine timescales,” says program manager Paul Tilghman in a statement. The systems must autonomously adapt in real time to the ever-changing congestion woes clogging the spectrum environment.
+
+One Broad Agency Announcement (BAA) offers two tracks for potential participants: The proposal track enters successful candidates directly into a funded contract with DARPA while the open track seeks participants big and small, from commercial companies and startups to academia and “hackers in a garage,” the agency says. Those would-be competitors must “pass entrance hurdles demonstrating their prowess in software-defined radio ([radio frequency] technology that provides the necessary agility in changing waveforms) and artificial intelligence techniques (for autonomously discerning the dynamic spectrum environment and optimizing how users share it).”
+
+A second BAA provides details from the scoring methodology to scenario development for testing competitors’ collaborative strategies and tactics and how the agency will assure the integrity of the competition. Participants should be familiar with the rules document.
+
+The emerging spectrum wars prompted U.S. Army researchers also to work on a solution for an encrypted waveform designed to mask radar emissions and boost system performance. It’s called Advanced Pulse Compression Noise, or APCN, and the secure waveform can conceal its identity as noise. Concerned that spectrum management alone isn’t a viable long-term solution, researchers at the Army’s Communications-Electronics Research, Development and Engineering Center (CERDEC) began developing the APCN, which boasts an added bonus of allowing real-time programming to optimize battlefield performance. </text>
+  <imgalttext>
+    <img>DARPA's Spectrum Collaboration Challenge (SC2) aims to ensure that the exponentially growing population of military and civilian wireless devices will have full access to the increasingly crowded electromagnetic spectrum.</img>
+  </imgalttext>
+</article>

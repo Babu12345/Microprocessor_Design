@@ -1,0 +1,48 @@
+<article>
+  <type>article</type>
+  <title>Army Taps Industry and Academia to Advance Robotics</title>
+  <author>Max Cacas</author>
+  <date>October 5, 2012</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Army Technologies</tag>
+    <tag>Robotics</tag>
+  </tags>
+  <abstract> 
+ 
+ </abstract>
+  <text>A smart robot with the ability to work side-by-side with human warfighters is the goal of a new Army Research Laboratory (ARL) program involving industry and academia.
+	At the heart of ARL’s Robotics Collaborative Technology Alliance (RCTA) is $63.2 million in funding designed to advance basic research in key areas linked to the development of autonomous robots, according to Jon Bornstein, chief of ARL’s Autonomous Systems Division and manager for the RCTA.
+	“I’d like to see the paradigm by which we control unmanned systems change from one where an operator sits in front of a screen and a computer and tells the robot what to do to something where the robot has sufficient capability that it can be a subordinate team member,” he explains. “It will have the ability to do useful military functions and do it with some autonomous capability."
+	The recently announced CTA, which is one of several collaborative relationships dealing with robotics, includes companies, colleges and universities that have been at the forefront of many advances in autonomous systems:
+	 
+
+		General Dynamics Robotic Systems
+	
+		Boston Dynamics
+	
+		Carnegie-Mellon University
+	
+		California Institute of Technology
+	
+		Jet Propulsion Laboratory
+	
+		Florida A&amp;M University
+	
+		QinetiQ North America
+	
+		University of Central Florida
+	
+		University of Pennsylvania
+Bornstein says he would like the members of the consortium to push for new breakthroughs in such areas as perception, intelligence, human-robot interaction, dexterous manipulation and unique mobility. “It’s really about the capability the robot will have in its autonomous mode,” he explains. One of the ultimate benchmarks will be achieving “best value for the Army” when it comes to its investment in robots.
+	 
+The organizations involved in the alliance will focus their research into what Bornstein calls “the five fundamental building blocks of autonomy.” The first thing he says they need is a common world model, which he describes as the capability for the robot to fully understand its environment and to internally develop plans of action from what it learns. Second, Bornstein says, there is a need for what he calls “a hybrid architecture.” This concept, he explains, integrates a “metric architecture” (things that can be measured), with a more cognitive view of the world (the relationship between objects and behaviors). The third block involves learning. “I can’t develop a system in which all potential behaviors, and common knowledge of the world are built into it from the get-go, and I can’t expect engineers to go out, and constantly make updates,” Borstein explains. I’m going to have to build in some methodology for learning and changing and altering perception of the world based on experience and new contextual information which it may obtain,” including the possibility of some robots learning from one another. The fourth block delves into how to build the kind of memory needed to process and retain this information. And the fifth and final block involves adaptive behaviors, or a robot’s ability to adapt to new and unforseen situations presented to it at that particular moment.
+	This isn’t the first time Bornstein has shepherded an ARL CTA in the field of robotics. The first, which began in 2001, was part of the broader “Future Combat Systems” program for the Army. The robotics CTA that emerged from that program spurred technology development in the areas of autonomous mobility, autonomous navigation and unmanned ground vehicles during the nine-year life of that effort. Not surprisingly, Bornstein gives high marks to the military-industry-academic collaboration approach. “It offers flexibility; it allows for collaboration between the government, industry and academia. I have people who are government employees who are collaborating with colleagues in academia in particular, and others in industry [are working] on specific projects related to the robotics CTA.”
+	Acknowledging that autonomous systems technology is relentlessly advancing and the need to keep up with those advances, Bornstein says that there is potential for a five-year extension to the CTA, which could be worth an additional $66.5 million dollars in Army funding. That could bring the total value of the CTA to a possible $129.7 million to spur technology development for robotics.
+	 
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

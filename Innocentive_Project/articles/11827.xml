@@ -1,0 +1,20 @@
+<article>
+  <type>blog</type>
+  <title>Robots Cubed</title>
+  <author/>
+  <date>October 7, 2013</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Robotics</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>Massachusetts Institute of Technology (MIT) researchers have created prototypes of cube-shaped robots the size of a child’s building block, which can climb over and around one another, leap through the air, roll across the ground and move while suspended upside down from metallic surfaces.</abstract>
+  <text>Massachusetts Institute of Technology (MIT) researchers have created prototypes of cube-shaped robots the size of a child’s building block, which can climb over and around one another, leap through the air, roll across the ground and move while suspended upside down from metallic surfaces. Built without external moving parts, the M-Block robots feature an internal flywheel that can reach speeds of up to 20,000 revolutions per minute. The edges and surfaces of the M-Block include magnets that enable cubes to attach to each other. Designed with beveled edges, a slight gap forms between their magnets when the blocks near each other. As a result, when one cube flips on top of another, the magnets touch, increasing the connection strength and anchoring the pivot. In addition, each face of a cube includes four pairs of smaller magnets, which help snap moving cubes into place.
+	One goal is to reduce the dimensions of the modular robots so that hordes of swarming microbots can self-assemble. The researchers also imagine that among the mobile cubes could be special-purpose cubes containing cameras, lights, battery packs or other equipment that the mobile cubes could transport. They believe the simplicity of the cubes’ design would facilitate miniaturization.
+	In ongoing work, the MIT researchers are building an army of 100 cubes, each of which can move in any direction. They want build hundreds of cubes and scatter them randomly across the floor so they can identify each other, coalesce and autonomously transform into a chair, ladder or desk on demand.MIT researchers discuss the design of the next generation of M-Block prototypes in the video below:
+</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

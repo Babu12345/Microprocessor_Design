@@ -1,0 +1,35 @@
+<article>
+  <type>blog</type>
+  <title>Financial Sector Offers Model for Cybersecurity Sharing</title>
+  <author>J. Wayne Lloyd</author>
+  <date>September 15, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>guest bloggers</tag>
+    <tag>Guest Blogs</tag>
+    <tag>SDN</tag>
+  </tags>
+  <abstract>When it comes to cybersecurity, many people express consternation and wonderment as to why the government cannot protect the Internet. It boils down to two things: No authorization, and officials only have visibility into a scant number of networks under their control.</abstract>
+  <text>When it comes to cybersecurity, I have heard many people express consternation and wonderment as to why the government cannot protect the Internet. It boils down to two things: No authorization, and officials only have visibility into a scant number of networks under their control. 
+
+A senior Defense Department official stated during a recent briefing that the government controls roughly 10 percent of the Internet within the continental United States. Big corporations, Internet service providers, small businesses, mom and pop shops and individuals control the rest. Why is the 10 percent number so meaningful? By law, the government cannot control the remaining 90 percent, the official stated. It is up to us to defend the networks. While the government can’t defend the 90 percent, it is willing to help. We just have to let them.
+
+Citizens and industry leaders cringe at the idea of government assistance or intervention. The leaks carried out by former National Security Agency contractor Edward Snowden, for example, perpetuated the public’s perception that the government harbors ulterior motives when offering assistance. Regarding cybersecurity, we face the decision of whether to turn safeguarding responsibilities over to the government or do it ourselves.
+
+So what can we do to defend the networks? Aside from the many excellent technical solutions available from Silicon Valley and other high-tech firms around the country, the industry should forge cooperation agreements that mirror what the financial industry has done. Years ago, the financial sector began to compete more fully in the market place. But when it comes to cybersecurity, cooperation is the name of the game. Executives now have agreed it is in their best interest to cooperate and share information regarding attacks. This cooperation took time to fully develop as leaders ironed out details on how they would share data pertaining to network attacks, but the result is the formation of the Financial Services–Information Sharing Center, or FS-ISAC.
+
+"FS-ISAC is the global financial industry's go-to resource for cyber and physical threat intelligence analysis and sharing,” according to its executive overview. “FS-ISAC is unique in that it was created by and for members and operates as a member-owned nonprofit entity.”
+
+The financial institutions did this at the request of the U.S. government, however the rest of what was considered critical infrastructure—such as energy, water and emergency operations—chose not to forge such a partnership at the time. The financial sector is the only group of competitors the critical infrastructure arena to agree to cooperate as one entity in defending its networks, and do it without much government involvement. Sure, sometimes the government feeds information the group might otherwise not be privy to, but the meddling doesn't extend much beyond that. It is a model worth duplicating.
+
+While industry created other ISACs, many of these groups lag the financial sector in the amount of engagement and involvement dedicated to cooperation. The FS-ISAC is the only one working outside government control.
+
+Still, there is a lot we can do for ourselves that takes very little, if any, help from the government to achieve success. As the senior representative from the DOD stated, it’s pretty much up to us. The remaining critical infrastructure lines of business need to band together similar to FS-ISAC and say we will continue to compete, but not when it comes to the security of our overall business and the well-being and security of the nation.
+
+J. Wayne Lloyd is the federal chief technology officer for RedSeal.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

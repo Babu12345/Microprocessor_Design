@@ -1,0 +1,22 @@
+<article>
+  <type>article</type>
+  <title>Information Technology Users and Managers Continue to Lag on Security</title>
+  <author>Robert K. Ackerman</author>
+  <date>November 14, 2012</date>
+  <departments>
+    <department>Event Coverage</department>
+  </departments>
+  <tags>
+    <tag>Asia-Pacific</tag>
+    <tag>Security</tag>
+    <tag>TechNet Asia-Pacific 2012 Coverage</tag>
+  </tags>
+  <abstract>Either complacency or innovative attackers have lessened the effectiveness of conventional computer and network security measures.</abstract>
+  <text>Relatively conventional means are allowing hackers, spies and criminals to penetrate computer networks in spite of longstanding security measures. Some of this success stems from new ways of entering networks, but most of it represents simple efforts that exploit lax security attitudes.
+Marcus H. Sachs, vice president, national security policy for Verizon, reported to the audience at TechNet Asia-Pacific 2012 in Honolulu, Hawaii, about the findings of a 2012 data breach investigations report put together by a multinational team under his company’s aegis. He noted that the top breach threat approach is from keylogger/form-grabber/spyware malware, which accounts for nearly half of all breaches. This form of malware usually gains access when a non-vigilant user opens an unknown email attachment, Sachs pointed out.
+	But the second greatest threat comes from the exploitation of default or guessable credentials. Again, the ease of this endeavor can be laid directly at the feet of the user. In the same category is the third item on the list: the use of stolen login credentials.
+	Even greater failures can be found in detection and response. On average, 75 percent of computer or network attackers take advantage of their breach within minutes of their initial attack. Conversely, the average time frame from the initial breach to its discovery by a network user or manager runs several months. Worse still, Sachs pointed out, is that the time span from breach discovery to containment or restoration largely runs days or weeks, instead of minutes or even seconds. By that time, the original marauder probably has accomplished his/her original goal and has moved on.
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

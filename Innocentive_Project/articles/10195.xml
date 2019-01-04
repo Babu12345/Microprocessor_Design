@@ -1,0 +1,47 @@
+<article>
+  <type>article</type>
+  <title>Managing Change in the? Intelligence Community</title>
+  <author>Max Cacas</author>
+  <date>October 1, 2012</date>
+  <departments>
+    <department>Cyber</department>
+    <department>Homeland Security</department>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>Acquisition</tag>
+    <tag>business</tag>
+    <tag>cloud computing</tag>
+    <tag>data management</tag>
+    <tag>mobile</tag>
+    <tag>Networks</tag>
+    <tag>research and development</tag>
+    <tag>Security</tag>
+    <tag>sensors</tag>
+    <tag>October 2012</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract></abstract>
+  <text>A new computing architecture emphasizes shared resources.
+The nation’s intelligence community has embarked on a path toward a common computer desktop and a cloud computing environment designed to facilitate both timely sharing of information and cost savings. The implementation could result in budget savings of 20 to 25 percent over existing information technology spending within six years, but the ramifications could include large cultural changes that result both in lost jobs and business for industry partners.
+Al Tarasiuk, chief intelligence officer for the Office of the Director of National Intelligence (ODNI), explains that the changes will be difficult. Agency employees, and the vendors who help operate and manage information technology for the 17 agencies composing the nation’s intelligence apparatus, will feel the effects of the cost cuts.
+	“Right now, technology is not our biggest risk. The culture change is our biggest risk, and that extends to our industry partners. We have a lot of industry employed in the community through service contracts and other things. They could help, or they could choose not to help,” Tarasiuk emphasizes, candidly describing the pivotal role of these firms in a transition that could spell the loss of both business and jobs. “They know, and I’ve been very open with them, that we’re not going to need the pool of resources of people that we have today to manage what we have in the future.”
+	The idea behind shared information technology platforms, which has been a trend in other parts of the federal government and private industry for nearly a decade, is to drive down labor costs, Tarasiuk acknowledges. “What I’ve said to industry is that we need help in figuring out how to get there; we need their cooperation, even though they know that at the end of this, they may not have as much business with us as they have in the past.”
+	He warns that, “Those who choose not to support us here, who choose not to deal with the cultural changes within their own organizations, or the people who are deployed in their own organizations that might cause issues for us, they may not get the business in the future.”
+	The change that Tarasiuk and his colleagues have been mapping out includes a number of information technology initiatives designed to facilitate data sharing more readily and to reduce costs drastically. They include providing a standard, thin-client desktop for most users in the intelligence community; integrating cloud computing technologies and architecture that allow interoperability with other clouds; streamlining networks and simplifying existing software applications; consolidating supporting infrastructures; and finally, designing a consolidated back-office and desktop environment to support the new architecture.
+	The initiative, known as the Intelligence Community Information Technology Enterprise (ICITE), was announced in fall 2011, several days after Director of National Intelligence James Clapper announced budget cuts of more than $10 billion to the intelligence agencies. As much as half of those savings are to come from information technology budget items.The idea behind shared information technology platforms, which has been a trend in other parts of the federal government and private industry for nearly a decade, is to drive down labor costs, Tarasiuk acknowledges. His previous job as chief information officer at the Central Intelligence Agency (CIA) has given him perspective on how much can be saved through consolidation. “Having come from the agency, I knew already how much cost we have driven out by virtualizing, by going to standard desktops, and I knew that other agencies had done similar things.”
+	The concept of the new intelligence community computing environment is “build it once, and share among all of us.” Cloud computing, which will be the foundation on which most of the new environment is being built, is the technology of the day. All the agencies either have moved in that direction or are positioned to move in that direction because of the work they have done in virtualization, Tarasiuk explains.
+	However, this project is not about cloud computing, per se, Tarasiuk points out. Rather, it is about “consolidating and creating shared capabilities and services that we can all use, and by using them, we can drive out costs, and we can also integrate better.” In addition, he sees this as an opportunity to make needed changes to the intelligence community’s security architecture, but he offers no details on the nature of those changes.
+	There is “no secret sauce” to a common desktop or a consolidated computing infrastructure, Tarasiuk states. Such architecture is based on similar off-the-shelf hardware, obtained through standard contracts, and in some cases, customized for the special needs of specific agencies. “At the end of the day, there’s no reason why we couldn’t do it together,” he says, explaining the rationale behind all the intelligence community agencies designing a shared computing environment. “We came up with some common principles, and one of those principles is to do in common those things that are commonly done.”
+	The primary thrust of the shared computing environment that is being designed is to create mission agility and flexibility at the application, or software layer, of the environment. “The CIA and the DIA [Defense Intelligence Agency] need certain types of technology and tools. There’s no reason why they can’t have their own for their specific operational needs. They need to optimize those.”
+	Another benefit of the ICITE architecture, Tarasiuk notes, is that it is scalable and expandable to accommodate emerging and future requirements. For example, one of the latest concerns among Tarasiuk and his colleagues is how to handle big data, a term describing the voluminous amounts of information coming from satellites, unmanned aerial vehicles, underwater recorders and the whole range of electronic sensors gathering information around the world.
+	“I don’t believe any one agency will ever have the resources to deal with the volume problem on its own. But in a shared environment, resources can be pooled and put into a shared infrastructure that can expand and contract. It is easier to expand and contract computing resources in a cloud environment,” he explains.
+	Mindful of the missions carried out by his clients in the intelligence community, Tarasiuk says that another challenge in designing ICITE is in managing the information in a timely way. “We have to determine almost in real time, in a streaming format, whether that information is tipping and cueing information that needs to be sent out immediately. Or, is it information that can be sent back for deeper analysis?” The solution comes in being able to tag information quickly and properly, using such protocols as Extensible Markup Language, or XML, a spin-off of the same types of computer tags and coding that make possible the World Wide Web, Tarasiuk explains.
+	When information is tagged properly, it is clear where it is coming from and to determine its classification. Also key is “tagging at ingestion,” he says. “You have to figure out a way to tag these to standard formats and let the automation behind the scenes do a lot of that work for you.” Tagged in this way, Tarasiuk explains, “We can associate information with the people who need to have the information. There will be more assurance over time that the right people are seeing the information.”
+	The intelligence community chief information officers have adopted a service provider approach from among their number in parceling out the development and future management of the ICITE. The CIA and the National Security Agency (NSA) will design the integrated hosting environment, so jointly, they will provide cloud computing services to the community, including data, utility and storage clouds. The National Geospatial-Intelligence Agency (NGA) and the DIA will work together to be the lead for the desktop design.
+	The new architecture will be deployed to the intelligence community agencies in three increments. The first increment is scheduled for completion by the end of March 2013. At that point, one of the cloud environments, hosted by the NSA, is slated to be operational, along with the initial version of the common desktop environment. Tarasiuk adds that the DIA and the NGA will be the first agencies to deploy the common desktop.
+	 
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

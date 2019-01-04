@@ -1,0 +1,25 @@
+<article>
+  <type>blog</type>
+  <title>AFCEA Answers: GSA’s McClure  Cites Two Factors for Security in the Cloud</title>
+  <author>Max Cacas</author>
+  <date>August 5, 2013</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>AFCEA Answers</tag>
+    <tag>cloud computing</tag>
+  </tags>
+  <abstract></abstract>
+  <text>When it comes to cloud computing, there are two items that are top of mind for Dave McClure, Associate Administrator with the General Services Administration (GSA) in Washington, D.C.
+	 
+“One is boundaries. Where does a cloud service provider’s authorization and control begin and end?” he noted on a recent edition of the “AFCEA Answers” radio show. McClure goes on to explain that while an infrastructure provider might have a given set of controls and responsibilities, there are software applications that, as he puts it, “sit on top of that infrastructure. Who owns the apps, and who is responsible for security in the application space?”
+	 
+McClure, who has had a long career in information technology in both the private sector and government, suggests that the other challenging security area in today’s cloud computing environment deals with defining the business side of cloud. “There’s some confusion between security controls and contractual terms that deal with access issues, location issues, and usage, some of which are contract, more than straight security concerns. Getting all of that right—the boundaries, the authentication piece, the contract piece—there’s definitely a lot to pay attention to in the cloud space.”
+	 
+Edwin Elmore, Cloud Computing Business Development Manager with Cisco Systems in Washington, sees the challenge of security in the cloud as one of “taking the physical world and moving it to the virtualized world. When you look at cloud computing, it’s a heavily virtualized environment, so the same controls you have around a physical perimeter in your physical data center, now you have to extend it to the virtualized world.” And that, he says, includes applying the same security protocols when it comes to virtual machines exchanging data with each other.
+	 
+Got a question? Got an answer? AFCEA Answers wants to hear from you – join in the conversation!</text>
+  <imgalttext>
+  </imgalttext>
+</article>

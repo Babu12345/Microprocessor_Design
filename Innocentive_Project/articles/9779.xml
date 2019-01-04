@@ -1,0 +1,46 @@
+<article>
+  <type>blog</type>
+  <title>Government Adapts to Meet Mobile Demands</title>
+  <author>Rachel Eisenhower</author>
+  <date>July 6, 2012</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>General Services Administration</tag>
+    <tag>HTML 5</tag>
+    <tag>Mobile Government</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>Forget about the standard "iPhone vs. Android" debate--the U.S. government is pushing to make sure it meets mobile demand no matter what the platform. While HTML 5 looks like a promising solution for multiplatform needs, it might not solve the challenges for every federal agency.</abstract>
+  <text>Forget about the standard "iPhone vs. Android" debate-the U.S. government is pushing to make sure it meets mobile demand no matter what the platform. While HTML 5 looks like a promising solution for multiplatform needs, it might not solve the challenges for every federal agency.
+
+The motivation to improve mobile delivery came in part from the Digital Government Strategy, released by the White House in mid May. Defense Editor Max Cacas delves into the plan and its implications in his SIGNAL Magazine article, "Government Charts a Mobile Course."
+
+Among a number of objectives, the strategy includes:
+A mandate for federal agencies to adapt online resources to reflect the growing use of mobile computing devices
+A mandate that all agencies take steps to release government data using application programming interfaces (APIs)
+Improvements in the secure delivery of government data to all platforms
+A freeze on new .gov websites and consolidation of redundant existing sites
+
+A portion of the strategy also called for the establishment of a Digital Services Innovation Center (DSIC) within the General Services Administration. Gwynne Kostin, director of the new center, witnessed a shift in the government's mobile mindset over the last several years. A culture once dominated by BlackBerry now includes a wide range of devices and needs.
+
+
+
+"In the past few months, we've seen agencies trying to determine how they're going to deliver anytime, anywhere, any device, information and services to the public."
+
+
+
+But federal agencies must decide whether to program an app for each mobile operating system or to seek out a more cost-effective solution. HTML 5, a hypertext markup language still under development, could solve this dilemma. It is the basic underlying computer code for every website and document on the Web, and HTML 5 could allow sites to instantly optimize information based on the device requesting the data. However, it currently does not support apps that use a device's camera, Global Positioning System or accelerometer.
+
+No matter what mobile course agencies decide to take, the main focus remains on security, relates Kostin.
+
+
+
+"We need to make sure that the applications and the tools that we are providing to the public are not leaving them open and vulnerable"
+
+
+
+With the rapidly changing nature of technology and the ever-present threats from hackers, the government needs to make sure its quest for a mobile course doesn't open up security holes.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

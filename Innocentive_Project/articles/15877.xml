@@ -1,0 +1,44 @@
+<article>
+  <type>blog</type>
+  <title>IT Modernization and Foreign Governments Pose Cybersecurity Challenges, Survey Shows</title>
+  <author>Joel Dolisy</author>
+  <date>March 31, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>defense information technology</tag>
+  </tags>
+  <abstract>As government agencies continue their IT modernization initiatives, administrators find themselves in precarious positions when it comes to security. A recent cybersecurity survey by SolarWinds found that efforts to build more modern, consolidated and secure information technology environment networks increase security challenges, but management tools offer a potential antidote to the threats.</abstract>
+  <text>As government agencies continue their IT modernization initiatives, administrators find themselves in precarious positions when it comes to security. That’s the overall sentiment expressed in a recent cybersecurity survey issued by SolarWinds. The report found that efforts to build more modern, consolidated and secure information technology environment networks increase security challenges, but management tools offer a potential antidote to the threats.
+
+For a third consecutive year, we worked with Market Connections to survey 200 IT security professionals in U.S. federal civilian and defense agencies to gauge perspective on the state of cybersecurity. Here are some of the highlights from the 2016 Federal Cybersecurity Survey:
+
+Modernization increased IT security challenges.
+
+Federal administrators managing the transition from legacy to modernized infrastructure face enormous challenges. The transition creates a large amount of IT complexities that burden administrators who must manage old and new systems that are very different from one another.
+
+According to respondents, the awkward phase creates greater vulnerabilities, with many administrators noting that consolidation and modernization efforts increase security challenges due to incomplete transitions (48 percent), overly complex enterprise management tools (46 percent) and a lack of familiarity with new systems (44 percent). Other factors included cloud services adoption (35 percent), increased compliance reporting (31 percent) and, interestingly, too much consolidation (29 percent).
+
+However, 20 percent believe the transition toward more modern and consolidated infrastructures ultimately will net more streamlined and secure networks. They said replacing legacy software (55 percent) and equipment (52 percent), the adoption of simplified administration and management systems (42 percent), and having fewer configurations to manage and support (40 percent) will help secure networks once the arduous transition phase is complete.
+
+Foreign governments tie internal threats as chief concerns.
+
+For the first time, respondents said that foreign governments are just as much of a cybersecurity threat as untrained internal workers. In fact, 48 percent called out foreign governments as their top threat—an increase of 10 percentage points over our 2015 survey. This result ties careless or untrained insiders as respondents’ number one concern.
+
+That’s not to say that insider threats have been minimized. On the contrary, the number of people who feel insiders pose a major threat is still higher than it was just two years ago. And while 29 percent cited budget concerns as the top inhibitor to improving IT security, 12 percent mentioned inadequate collaboration with other teams—indicating that internal discrepancies can be a major cause of security vulnerabilities.
+
+Investing in the right security tools can help mitigate threats.
+
+It’s not just about investing in security tools, it’s about investing in the right security tools, respondents noted. It is important that administrators wisely use funds and invest in the best tools for the job. Patch management software is among the solutions administrators invest in and use to great effect, with 62 percent indicating their agencies partake in the practice. Of those, 45 percent noted a decrease in the time required to detect a security breach, while 44 percent experienced a decrease in the amount of time it takes them to respond to a breach.
+
+Respondents noted security information and event management (SIEM) solutions as highly effective in combating threats. While only 36 percent stated their agencies had such tools in place, administrators who use SIEM tools felt significantly more equipped to detect just about any potential threats.
+
+While threats remain prevalent, the survey indicated progress is trending in the right direction. While a majority of respondents still feel their agencies are just as vulnerable to attacks now as a year ago, it is good to see an increase in the number of respondents who feel agencies have become less vulnerable. This is likely due to the fact that administrators have become highly cognizant about the potential threats and are using the proper solutions to fight them.
+
+The Federal Cybersecurity Summary Report contains more statistics and is available for free. You might empathize with some of the findings and be surprised by others.
+
+Joel Dolisy is chief information officer at IT management software provider SolarWinds in Austin, Texas.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

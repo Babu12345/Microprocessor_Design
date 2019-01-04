@@ -1,0 +1,29 @@
+<article>
+  <type>blog</type>
+  <title>Tech Transfer Revisited--Saving Lives On/Off the Battlefield</title>
+  <author>Beverly Schaeffer</author>
+  <date>February 3, 2012</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>cancer research</tag>
+    <tag>DARPA</tag>
+    <tag>FARSIGHT Program</tag>
+    <tag>mine-hunting technology</tag>
+    <tag>NIH</tag>
+    <tag>Office of Naval Research</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>A U.S. Navy mine-hunting robot can locate a mine, so why not build a commercial robot with the same ability to detect cancer and other diseased cells in the human body? An Office of Naval Research effort is doing just that.</abstract>
+  <text>Technology transfer-a big buzzword some decades ago-is where companies found commercial uses for military technologies. Over the years, military and industry continue to share new ideas, programs and systems, and just about any otherwise awesome products that benefit both arenas. It's perhaps another anchor in the military-industrial complex. But when military technology is found to possibly fight cancer-that is welcoming news, as reported by George I. Seffers in his article,"Mine-Hunting Technology Learns to Fight Cancer," in this issue of SIGNAL Magazine. Seffers speaks to the Office of Naval Research's Jason Stack, program officer in charge of the effort. The ONR is developing active-learning software for identifying undersea mines. The goal is to make underwater mine-hunting robots smarter, eliminating the need for divers to risk their lives, according to Stack:
+
+	Within the world of naval mine countermeasures, our overarching goals are to find mines faster and get the man out of the minefield. That's what we try to do. The active learning algorithms work with humans to help identify mines.
+Doctors also face a similar problem: identifying specific cells in human tissue. Physicians must view hundreds of microscopic images containing millions of cells, which can take weeks for a pathologist to manually pinpoint cells in 100 images.
+To aid in identifying cells, doctors commonly use an open-source computer program known as Fluorescence Association Rules for Quantitative Insight (FARSIGHT). Developed with funding provided by the Defense Advanced Research Projects Agency and the National Institutes of Health, FARSIGHT identifies cells based on a subset of examples initially labeled by a physician.
+Doctors up until now, for example, have not been studying endothelial cells because of time constraints. With FARSIGHT's integrated active learning, however, the process is now automated and "highly accurate." The enhanced FARSIGHT can accomplish in a few hours what once would have taken days or weeks.
+Badri Roysam is chairman of the Electrical and Computer Engineering Department at the University of Houston in Texas. He is also the program investigator for FARSIGHT and says the technology also is being used to benefit the Defense Department's research into neuroprosthetic devices-robotic arms and legs connected directly to the brain for more natural control and movement.
+Right now, the state of the art in active-learning technology is software that asks simple questions requesting that the user label a piece of data, such as whether or not an image is a mine, Stack explains. The final version will feature a prototype that is able to ask many more questions and learn more quickly.
+Can FARSIGHT be integrated seamlessly into the medical field, and what impact will this have on peoples' lives and budgets? Share you opinions and suggestions here.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

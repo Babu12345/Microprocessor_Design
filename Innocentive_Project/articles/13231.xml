@@ -1,0 +1,20 @@
+<article>
+  <type>blog</type>
+  <title>Government Adopting Software-Defined Networking</title>
+  <author>George I. Seffers</author>
+  <date>July 31, 2014</date>
+  <departments>
+    <department>Other</department>
+  </departments>
+  <tags>
+    <tag>Networks</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>Government information technology experts see benefits and challenges to software-defined networking.</abstract>
+  <text>A recently announced study by Juniper Networks found that 51 percent of government information technology decision makers plan to adopt software-defined networking (SDN) within the next two years. Twenty-five percent of government respondents to the Software-Defined Networking Progress Report said improved performance and more efficient networks will be the primary benefit, while 18 percent cited simplified network operations.
+SDN is not without its challenges, however. Government respondents see cost, integration with existing systems and employee skills gaps as top hurdles. Nearly two-thirds foresee hybrid SDN and traditional networks as the predominant deployments.
+	On the commercial side, there are two distinct camps when it comes to adoption of SDN technology. The study indicates more than half of U.S. businesses surveyed (52.5 percent) plan to adopt SDN, while the other half (47.5 percent) said they still have no plans to implement the technology.
+	Of the surveyed companies that have plans to adopt SDN, 74 percent said they plan to do so within the next year, with 30 percent indicating they plan to make the move in just one month.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

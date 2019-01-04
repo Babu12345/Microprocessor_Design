@@ -1,0 +1,19 @@
+<article>
+  <type>blog</type>
+  <title>Researchers to Mirror Brain in Developing Better Computers</title>
+  <author>Sandra Jontz</author>
+  <date>May 15, 2014</date>
+  <departments>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>data management</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>Sandia National Laboratories researchers are developing “neuro-inspired” computing systems to work basically like human brains.</abstract>
+  <text>Researchers are working on a computer that just could soon do the thinking for humans. Computers today, while advanced, still mostly perform calculating functions using a central processing unit and memory that stores both a program and data, taking direction from the program and data from memory to function. Sandia National Laboratories researchers are developing “neuro-inspired” computing systems to work basically like human brains. They could detect patterns and anomalies to computing solutions.
+	“Today’s computers are wonderful at bookkeeping and solving scientific problems often described by partial differential equations, but they’re horrible at just using common sense, seeing new patterns, dealing with ambiguity and making smart decisions,” says John Wagner, Sandia’s cognitive sciences manager. The nascent neuro-inspired computing idea and long-term research project seeks to develop algorithms that would run on computers that function more like a brain than a conventional computer and could be used for systems such as unmanned aerial vehicles, robots and remote sensors, and solving big data problems. Unlike today’s computers, neuro-inspired computers would inherently use the critical notion of time and could wade through and analyze enormous amounts of data to point a human analyst in the right direction.
+	“If you do conventional computing, you are doing exact computations and exact computations only. If you’re looking at neurocomputation, you are looking at history, or memories in your sort of innate way of looking at them, then making predictions on what’s going to happen next,” says Sandia microsystems researcher Murat Okandan. “That’s a very different realm.”</text>
+  <imgalttext>
+  </imgalttext>
+</article>

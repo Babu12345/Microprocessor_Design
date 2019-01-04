@@ -1,0 +1,41 @@
+<article>
+  <type>article</type>
+  <title>SDN Could Anchor Security for IoT, Federal Network Modernization</title>
+  <author>Sandra Jontz</author>
+  <date>April 5, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>big data</tag>
+    <tag>Internet of Things</tag>
+    <tag>SDN</tag>
+  </tags>
+  <abstract>Government conversations related to safeguarding cyberspace spin around policy as much as technology, particularly when it comes to sluggish efforts to modernize networks. Federal information assurance security policies and procedures were penned long before today's threats rendered them obsolete. The New IP approach to modernize networks could help change that.</abstract>
+  <text>Government conversations related to safeguarding cyberspace spin around policy as much as technology, particularly when it comes to sluggish efforts to modernize networks.
+
+Federal information assurance security policies and standard operating procedures (SOPs) were penned in the late 1990s and early 2000s, long before today’s threats rendered them obsolete, not to speak of the challenges posed by the emerging Internet of Things (IoT) influence.
+
+“Based on the evolution of connected devices, the security SOPs need to adjust along with the technologies and evolutions that we’re talking about,” says Judson Walker, systems engineering director at Brocade Federal, which for at least five years has called for a governmentwide network modernization effort, particularly within the Defense Department.
+
+“The network that serves the warfighter of tomorrow will be multi-vendor, open standard, simplified, software-enabled and potentially acquired as a service,” says Anthony Robbins, vice president of federal sales at Brocade. “That’s not a statement about Cisco, Juniper, Brocade, HP or Dell. That’s a statement about what the network should look like. As the government moves in that direction, there will be plenty of opportunities for Brocade and Juniper and Cisco to compete to serve them.”
+
+Layered security for defense-in-depth is enhanced significantly with the “New IP,” the architecture sweeping the public-private partnership toward network modernization that will also address security concerns posed by the IoT and government data migration to the cloud.
+
+Bolstering its resolve to galvanize the New IP approach, Brocade announced Monday its plans to buy Ruckus Wireless, an investment that expands Brocade’s Wi-Fi offerings to address the increasing insecurities introduced by the IoT. “The network infrastructure is about wired and wireless and we bought one of the leading providers of wireless connectivity,” Robbins offered. “We just strengthened our position relative to wired and wireless infrastructure providers for network modernization.”
+
+The closed-source infrastructure that powers government networks has not had an overhaul modernization in at least two decades, a limitation that means the government is losing out on $7 billion a year, over the next five years, in savings, Robbins says.
+
+In addition to thought leadership and compelling ideas for the path forward relative to network modernization—the subject for the 2016 Federal Forum on June 14 in Washington, D.C.—solutions must address the sheer number of connected devices elevating the cyberspace security conversation. In 1995, commercially, there were about 100 million devices connected to networks. “Twenty years later, we are now north of 7 billion,” Walker says. “By 2020, we’re looking at numbers around 20 billion. You’ve now provided attack vectors for people to compromise government networks on a scale we haven’t seen before.” 
+
+The software-defined networking (SDN) prong of the modernization effort promises to provide a security strategy from the device to the data center, including integrated solutions into a unified end-to-end strategy to protect IoT data, he said. Software tools provide automation to various security products, from firewalls to deep packet inspection tools, and cyber offensive and defensive measures. “With the software-defined overlay on top, I have a set of tools that can bring all of those individual point products together to build that true end-to-end strategy from the device to the data center, where the information resides,” Walker shares.
+
+“That’s the nirvana we’re trying to get to from a security in cyberspace perspective.”
+
+The Defense Department increasingly relies on industry in its search for commercial best practices in this field, from the usual cast of defense characters to the newly formed Defense Innovation Unit Experimental (DIUx), in California’s Silicon Valley, created to link non-traditional companies operating at the bleeding edge with the Defense Department.
+
+“With the new IP and modernization effort, from a securing the cyberspace perspective, is that the solution is to provide performance as well as security in a cooperative effort,” Walker says. “We can have our cake and eat it too.”</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

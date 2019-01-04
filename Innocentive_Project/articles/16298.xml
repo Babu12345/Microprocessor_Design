@@ -1,0 +1,54 @@
+<article>
+  <type>article</type>
+  <title>New Analytics Research Could Help Thwart the Insider Threat</title>
+  <author>Dan Velez</author>
+  <date>July 1, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cyberthreats</tag>
+    <tag>insider threat</tag>
+  </tags>
+  <abstract>Researchers in government and industry are combining advanced analytics with traditional detective work to quash dangerous cyberthreats from within. Instead of focusing on a silver-bullet solution to stop the insider threat, they are adopting an approach that consolidates information from multiple events to provide greater advanced warning of problems.</abstract>
+  <text>Researchers in government and industry are combining advanced analytics with traditional detective work to quash dangerous cyberthreats from within. Instead of focusing on a silver-bullet solution to stop the insider threat, they are adopting an approach that consolidates information from multiple events to provide greater advanced warning of problems.
+
+For roughly a decade, the U.S. Defense Department and related agencies have struggled to contain insider cyberthreats. A few watershed breaches have happened in recent years, but they are far from isolated. As a result, defense leaders have attempted to institute policies that incorporate oversight principles while recognizing user privacy concerns. But progress toward a complete, proactive and robust program has remained slow.
+
+Overall, the federal government has approached this problem in a relatively piecemeal fashion. In 2012, the White House established the National Insider Threat Policy and Minimum Standards for Executive Branch Insider Threat Programs, which outlined agency requirements as dictated by the National Industrial Security Program Operating Manual (NISPOM). Among the requirements were designating an insider threat senior official; conducting self-assessments of internal threat programs; training program personnel and raising general threat awareness; and monitoring network activity.
+
+The military has deployed its own protective measures. The U.S. Navy, for example, in March launched the Random Counterintelligence Polygraph Program, which subjects privileged users and higher risk personnel to random polygraph tests. The idea is to deter individuals with malicious intent who are authorized to access classified information, networks and systems.
+
+Unfortunately, the silver-bullet solution remains elusive. The scope and complex dynamics of insider attacks demand a far more intricate and comprehensive response. The limitations of the policies and programs described here make this clear. These policies and programs represent steps in the right direction, but they reflect a check-box approach that can lead to complacency. Agencies can lapse into a “policy blindness” mindset that deceives them into a false sense of security.
+
+Take the random polygraph program, which is based on technology that is far from foolproof. Its lack of context fails to address the phenomenon of “accidental insiders.” These are users who are entirely unaware of how their risky behaviors—sharing passwords, leaving laptops open in plain view in public places and clicking on links sent by suspicious parties—place their networks in jeopardy. Negligent employees account for 52 percent of data loss issues, while malicious employees cause just 22 percent, according to the SANS Institute.
+
+Another hindrance involves reliance on traditional, narrowly focused user behavior analytics (UBA). Security teams create baselines for normal user behavior and then apply algorithms and statistical analysis to distinguish anomalies from what is “normal”; anomalies suggest potential threats. The problem with this approach is that UBA only alerts security teams to a single threat-related event: for example, an employee’s unauthorized access of sensitive data.
+
+Fortunately, a more holistic strategy—one that combines the human capacity for gumshoe-type inquiry with the science of analytics—is beginning to take hold. Today, through continuing research, organizations are examining numerous data sets well beyond those related to single events and turning to expanded analytics to better manage threats. They are becoming better positioned to counter insider threats through the four D’s: defend, detect, decide and defeat.
+
+Consider this scenario with hypothetical employee “Joe.” He was once a rising star at a Defense Department agency, a senior information technology manager with privileged user credentials and a security clearance. He started routinely abusing alcohol, which resulted in absenteeism and blown work assignments. He grew antagonistic with supervisors and colleagues to the point where he was removed from a key project. Convinced he eventually would be fired, Joe tried to get hired for other positions at sister agencies, but with no success. Increasingly bitter, he wrote simple script to wipe out key, confidential databases once he left, especially if his departure was the outcome of a termination.
+
+Traditional UBA would have alerted security teams when Joe launched the destructive script. (“Joe doesn’t write or schedule scripts, does he?”) However, new approaches are being developed to go beyond this two-dimensional view. Cross-channel analytics would help security teams identify the entire chain of events—alcohol abuse, work performance issues and hostility—and flag risk indicators. This approach yields a context-rich “four D” posture by combining technology and human inquiry to assess several insider threat components for optimal prevention, detection, investigation and response.
+
+Security teams would start by identifying a user’s predispositions. Applying behavioral science, they would characterize the user’s personal habits and note unmet expectations. UBA improvements allow security teams to account for work performance shifts, including personality conflicts and declining annual reviews. UBA can outline the hunt for warning signs and events that may lead to the discovery of an attack vector.
+
+Then comes the attack itself. At this point, UBA reports on all anomalies to detect attempts to steal, destroy or disrupt, including cover-up attempts. Improvements to UBA will reveal a direct connection between any damage from an attack and the user who caused it.
+
+Many more advancements in analytics are expected thanks to considerable support for research in this realm. Initiatives such as the Defense Advanced Research Projects Agency’s (DARPA’s) Anomaly Detection at Multiple Scales (ADAMS) are encouraging. DARPA is designing, adapting and applying technology to characterize and detect insider threats in massive data sets. ADAMS promises to track common user online activity—including emails, instant messages, browsing history and file management—to distinguish ordinary behavior from suspect conduct before a breach occurs. ADAMS also seeks to determine how trusted users become radicalized. This is an ambitious objective that would require mastery of massive data sets.
+
+Such work will pay off. The Software Engineering Institute at Carnegie Mellon University—widely considered to be at the forefront of academic research on cybersecurity—reported on recent findings that more than half of security risks can be linked to insiders and that the average cost of a successful attack is $445,000. “The effective detection of insider threats and events, especially in cyber domains, is an emerging discipline,” according to a recent paper published by the institute. To protect their data and systems, organizations should deploy analytics-based strategies to monitor information technology asset management; data or access patterns; changes in time or locality of access; social interactions and communications; human resources information about personal and work events, such as a bad review, a significant accumulation of debt or a restraining order, that may trigger nefarious behavior; modification or deletion of audit logs; and other details, according to the paper.
+
+These types of analytics can reach far and wide. Through automated analytics, for example, security teams immediately can identify failed authentication incidents or attempts to access unauthorized data, then follow up to determine whether a user was seeking data unrelated to his or her work role. Analytics can extend even to social-based factors, such as an employee’s disregard for authority, poor stress tolerance or ties to suspect individuals or groups, according to the institute.
+
+In May, the Software Engineering Institute, in cooperation with DARPA and the FBI, published another paper, “An Insider Threat Indicator Ontology,” which presented a detailed examination of insider threat indicators. Carnegie Mellon’s Management and Education of Risks of Insider Threat, or MERIT, database played a leading role in developing the ontology, enabling researchers to compile a top 10 list of insider incident types. These include modification of critical data; disgruntled employee-related activity; excessive access privilege; unauthorized exportation of data; compromised passwords; and emails or chats with external competitors or adversaries.
+
+Such research, signifying a progression to a more advanced state of insider threat detection and prevention, will allow the military and government agencies to implement a comprehensive science- and people-driven methodology. The “people” part is key. Analytics amount to little without proper training of security teams using these tools. They must know what to look for and how to react while adhering to internal governance standards related to user privacy and appropriate monitoring. An organization needs team members who bring a dogged shoe-leather quality to the table. Not only do they need to be skilled at using analytics tools, but also they must be resourceful, thorough and intuitive detectives who realize that technology accounts for just one part of a much broader package.
+
+A growing sense of readiness and eagerness is emerging within private industry and the public sector to rise above the check-box mentality that can come from sweeping policies and procedures. Before long, organizations will maximize the value of their analytics technologies and human capital to create a “watchful eye” that pinpoints possible threats before they can do harm. Ultimately, each one can cultivate lasting and powerful vigilance throughout the enterprise to ensure that data, and the mission, remain protected.
+
+Dan Velez is senior manager, insider threat operations, Forcepoint.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

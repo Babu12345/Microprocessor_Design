@@ -1,0 +1,45 @@
+<article>
+  <type>blog</type>
+  <title>Information Assurance Under Attack: How Commercial Space Can Help  </title>
+  <author>Lesley M. Rahman</author>
+  <date>December 30, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Air Force Space Command</tag>
+    <tag>satellite</tag>
+    <tag>WGS</tag>
+  </tags>
+  <abstract>Satellite communications have never been more vital to the security of our nation, or under such assault. Recent increases in aggressive and targeted interference have put the continuous connectivity of government satellite communications in question. Guest blogger Lesley M. Rahman offers a solution.</abstract>
+  <text>Satellite communications have never been more vital to the security of our nation, or under such assault. Recent increases in aggressive and targeted interference have put the continuous connectivity of government satellite communications in question. As an example, slightly more than a year ago, the Chinese accessed a National Oceanic and Atmospheric Administration data systems for more than 12 hours—imagine how damaging this could have been if they controlled a more critical mission asset.  
+
+The U.S. Director of National Intelligence has called cyber crime the number one security threat the United States faces, usurping terrorism, espionage and weapons of mass destruction. These threats demand that the Defense Department become more nimble in its response. “The big difference in cyber that we’re having to react to is it moves faster than any other warfare,” DOD Chief Information Officer Terry Halvorsen recently told reporters. “That’s a challenge. The things we do today in cyber probably won’t be the same things we do tomorrow. It’s accelerated change, and we’re generally not good at accelerated change.”
+
+This dangerous new reality calls for a broader understanding of information assurance (IA). Anything that threatens the continuous connectivity of space-based government communication is a threat to IA, and the United States needs to be as innovative as its adversaries to better defend end points and operational centers. 
+
+Additionally, the new budget reality means the DOD needs to find more effective, yet less costly ways of securing networks. Commercializing flight and ground operations is the best way to save money while upgrading security.   
+
+Stated plainly, the DOD can stop flying its own satellites without compromising on security. The core mission is not the infrastructure, but the data and communications that keep forces safe and meet objectives. Commercial operators can perform the tracking, telemetry and command (TT&amp;C) for government satellite networks, freeing up uniformed personnel to focus on critical missions. 
+
+Defense networks would be completely segmented from any other network, increasing security. Expert operators could manage the consoles 24/7, releasing commands from an endless cycle of training and removing network management from political tangles. Increased automation and constant monitoring reduces the chance for human error without sacrificing any oversight. These processes are well proven and ready to be transferred to DOD satellite networks.
+
+This is far from a novel concept. The DOD is well down the road of determining how to turn over the operation of both the Air Force Satellite Control Network (AFSCN) and the Wideband Global satellite communications (WGS) system to commercial industry.
+
+“In the long term, the Air Force intends to leverage satellite control services available through industry,” reads a portion of the Air Force’s report, “Satellite Control Modernization Plan,” released in 2014. “Initial planning is currently underway, via the AFSCN Commercial Provisioning Assessment, to determine cost savings associated with off-loading some AFSCN contacts.”
+
+Gen. John Hyten, USAF, commander of Air Force Space Command, has publicly stated his support of this approach. He issued a memorandum dated July 29 to have the service begin using commercial capacity immediately with an eventual goal of using commercial networks for a fully redundant backup for AFSCN to ensure continuous connectivity.
+
+He wants to outsource routine command and control of the WGS. “WGS offers an immediate opportunity to leverage commercial operations of the satellite constellations while maintaining uniformed execution of mission payloads,” Gen. Hyten penned in the memo. “As previously directed, we should move WGS satellite bus operations to commercial operators performing satellite control (possibly from commercial facilities and with the commercial satellite control network), as soon as possible within contract constraints.”
+
+Commercial support for the WGS could begin as soon as 2016. David Madden, former executive director of the Air Force’s Space and Missile Systems Center in Los Angeles, laid out that potential timeline for a transfer in a Space News article. “I’m hoping 2016 is going to be the year we finally take the command and control for WGS and move it over to a commercial service,” Madden said.
+
+It’s past time for a deeper level of government and commercial collaboration in space. For the first time, space has become a contested theater of operations. Our nation must be innovative and nimble in response to new challenges and new adversaries. 
+
+That response will be stronger and our space communications more secure when the military outsources operation of satellite infrastructure to proven commercial partners. As has been the case for the past 25 years, we’re here to serve those that defend our country.
+
+Lesley M. Rahman is senior manager of systems engineering at Intelsat General Corporation.</text>
+  <imgalttext>
+    <img>Airmen from the 920th Rescue Wing at Patrick Air Force Base in Florida clear and secure the Eastern Range for the 2013 United Launch Alliance-built Delta IV Heavy liftoff from nearby Cape Canaveral Air Force Station. The rocket was carrying the sixth WGS satellite for the U.S. military.</img>
+  </imgalttext>
+</article>

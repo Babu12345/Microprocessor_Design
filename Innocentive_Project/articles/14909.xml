@@ -1,0 +1,31 @@
+<article>
+  <type>article</type>
+  <title>Wireless Firewalls Needed to Protect Vulnerable Federal Branch Offices  </title>
+  <author>Sandra Jontz</author>
+  <date>August 4, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>wireless</tag>
+  </tags>
+  <abstract>As if cyber breaches of key federal networks haven’t been problematic enough for experts, hackers increasingly target smaller branch offices that present a weak link in cybersecurity. </abstract>
+  <text>As if cyber breaches of key federal networks haven’t been problematic enough for experts, hackers increasingly target smaller branch offices that present a weak link in cybersecurity. Wireless connectivity at remote locations leave networks vulnerable because they are not hardened with the latest firewall protections and traditionally do not have a lot of tech support, one expert says.
+
+“Small branch offices are becoming a greater point of attack,” says Paul Christman, executive director of federal sales for Dell Software. “We don’t need to storm the castle anymore to gain access to valuable information or access into the networks.”
+
+Gone are the days of all “wired” systems, he adds. “Small offices, branch offices, remote offices, field offices— they all demand wireless today. A lot of places you go to now, they’ll have a guest wireless facility. That means wireless has to be protected just like wired in order to deliver the functionality that people want.”
+
+Next-generation firewalls are one part of the of the White House's Office of Management and Budget "30-day cybersecurity sprint,” launched in June after the hacks on Office of Personnel Management (OPM) compromised the personal data of more than 20 million current and former federal workers. Agencies had to patch critical vulnerabilities and strengthen networks.
+
+“Malicious actors take advantage of relatively inexpensive and easily accessible tools to attack systems and infrastructure—targeting applications and computing environments that weren’t designed to withstand the diversity and severity of the cyber threats we face today,” federal CIO Tony Scott wrote in a blog post on the initiative. “Nowhere is this problem more acute than in government, where antiquated systems and processes are still pervasive.”
+
+Outdated firewalls and intrusion detection systems fail to identify modern encrypted threats. “One of the things we’re trying to impress upon folks is that patches and patch management to the cybersecurity sprint … the idea of patches and virus signatures and keeping that information up-to-date, is imperative,” Christman says. Dell recently launched SonicWALL TZ, a firewall solution to secure wireless networks by performing deep packet inspections on all traffic to and from the networks and flagging potential malware.
+
+“One of the things that we discovered is that there is an increase in malware that is encrypted,” Christman says. “That seems a little bit strange. So what’s happening now, when we add the malware that’s being encrypted, we have to have next generation firewalls to inspect that.”
+
+Businesses and agencies rely on enhanced wireless performance levels to support the bandwidth-intensive mobile applications such as high-definition video and voice over IP attributes in order to do business. “But you can’t sacrifice security for speed,” he adds. “The speed is catching up on the wireless and that’s good … but you can’t just say ‘OK, I’m just going to open up a wider pipe to take advantage of my connection to the Internet without having the appropriate security.’” </text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

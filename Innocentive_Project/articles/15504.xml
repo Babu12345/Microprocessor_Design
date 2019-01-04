@@ -1,0 +1,84 @@
+<article>
+  <type>article</type>
+  <title>Marines Strive for Holistic Network Improvements</title>
+  <author>Robert K. Ackerman</author>
+  <date>December 1, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Marines</tag>
+  </tags>
+  <abstract>The U.S. Marine Corps is working to network its force for connectivity on the move in all domains—land, sea, air, space and cyberspace.</abstract>
+  <text>The U.S. Marine Corps is working to network its force for connectivity on the move in all domains—land, sea, air, space and cyberspace. With all these elements required to work together during operations, the Corps is tasked with establishing this networking en masse instead of piecemeal. Information elements and capabilities as diverse as streaming video and cybersecurity must be integrated so that no weak links hamper operations anywhere in the battlespace.
+
+The prime focal point for these capabilities is the Marine Air-Ground Task Force (MAGTF) and its ability to respond to changing conditions during any operation. “It is all about command and control [C2],” says Brig. Gen. Dennis A. Crall, USMC, director, command, control, communications and computers (C4) and chief information officer (CIO), U.S. Marine Corps. “If commanders lose the ability to command and control, the Marine Corps does not operate as the fighting force the MAGTF brings to bear.”
+
+The goal of Marine C4 is to provide the same services available at the base to Marines on the tactical edge. The commander must be able to exercise C2 at the tactical edge, Gen. Crall offers. His term is “seamless MCEN” for the Marine Corps Enterprise Network. “Gone are the days of thinking in terms of deployed versus garrison networks,” he emphasizes. “Rather, we’re thinking of one network that stays in a state of readiness to support the warfighter at a moment’s notice.”
+
+The MAGTF Information Technology Support Centers (MITSCs) provide zero-hour capabilities to support Marine operations, especially amphibious operations, Gen. Crall observes. But new capability requirements are emerging for feeding information on the move.
+
+The Corps expects new capabilities to come up in the future, and it is well-positioned to incorporate these.
+
+In one traditionally soft area—the procurement cycle and its timeline—the Corps is beginning to make headway. The general cautions against sacrificing effectiveness for speed of acquisition, saying, “You may end up with something that can’t be integrated, isn’t well-designed, isn’t well thought through, but is delivered quickly. There has to be a balance and a level of discipline in that process.” Good communication and standards are key to success, he adds.
+
+A mainstay of Marine Corps mobility is the MV-22 Osprey. Tasked with transporting Marines great distances over sea and land, the Osprey also is being adapted to serve as a mobile network link. Putting this capability in an aircraft takes longer than conventional networking, Gen. Crall points out, noting that some Blue Force Tracking and Iridium antennas have been installed on MV-22s for beyond-line-of-sight capability. Concurrent with this effort are other activities, such as installing hatch-mounted antennas on C-130s and other individual endeavors that are in the testing phase.
+
+In terms of priorities, the Marine Corps has focused on its Special-Purpose MAGTF Crisis Response and tactical recovery of aircraft and personnel (TRAP) missions. These missions have the greatest need for mobile networking while on the move, and the Corps can provide a rudimentary capability of full-motion video, nonvoice and imagery. When troops disembark from the aircraft, however, is the phase where the Corps must focus on implementing new capabilities, the general offers.
+
+He continues that although all aircraft will have a rudimentary networking ability, some will be designated as satellite communications gateways with enhanced capabilities. Ultimately, all aircraft will be brought up to the enhanced standard of connectivity.
+
+That connectivity must continue after Marines have disembarked from their transport and entered the field of battle. The information Marines carry to the battlefield must be updated and supplied continuously when they are engaged on land—the concept of a seamless MCEN, the general explains.
+
+Space will play a major role in connectivity on the move, Gen. Crall attests. As Marines deploy small units over long distances, their equipment must be more tactical, lighter and increasingly depend on satellites to communicate. Relying on space will be necessary for extending the network, he emphasizes.
+
+One key technology will be the Mobile User Objective System, or MUOS. The general says it appears to solve many of the bandwidth challenges the Corps faces. Commercial space assets also may come into play, depending on the mission and available security.
+
+The Marines are introducing the F-35B to their air fleet as well. Although the strike fighter brings a host of air-to-air and air-to-ground capabilities, its use as a sensor node in a battlespace network could be a game changer for the Corps. The general notes that the aircraft will be undergoing a series of incremental changes through 2019. Its sensor and information-exchange capabilities “are only going to grow,” he says.
+
+Yet the Marine Corps network and its ability to command and control with that sensor information must match, Gen. Crall emphasizes. As of now, the information integration and the way the Marines plan to use it appear adequate. But by 2019, the Corps must make changes to its network to accept, distribute, route and process that information, or it could find itself behind the capability curve. “How ironic that would be … if our networks don’t keep pace with the F-35B and other sensors coming on the battlefield. We’ll experience denial [of service] in a different way, and that will be our inadequacy to push information around,” he warns.
+
+To keep pace, the Corps must continue to invest in beyond-line-of-sight capabilities along with networking on the move, he states. Currently, Marine networking on the move entails “entry-level investments on the ground side of the house,” Gen. Crall says, adding that the Corps is striving to do that on the aviation side as well. It is making great strides in testing and evaluation, but these technologies likely are just stepping stones to a greater capability that will be required.
+
+In addition to technologies that must be implemented, the Corps must determine the information architecture and how information is parsed to users—and who those users are. Some information may not need to go through a handler but instead directly to an end user, the general offers.
+
+Still, Gen. Crall notes that the amount of information the F-35B provides poses a challenge, saying “to have a sensor so capable that my biggest challenge is to determine how to parse and pick through [its information] rather than have something that underdelivers and our need is greater” is an enviable challenge to have.
+
+The Joint Information Environment (JIE) will provide good opportunities for the Corps to leverage, the general maintains. These include network normalization, data center consolidation, joint regional security stacks (JRSS) and enterprise operations centers. The Marine Corps has had input into the JIE requirements document that currently represents the requirements for the way the Corps fights, but much remains to be seen and done.
+
+Gen. Crall emphasizes that the Corps is striving to ensure that JIE developments serve the requirements facing Marines in the future, particularly in terms of bringing capabilities to the tactical edge. “We’re working very hard to make sure it is shaped in that direction, and where it doesn’t, we’re trying to move it to that or to look for other ways to achieve those same results,” he states.
+
+He cites the JRSS as an example. With security built in from the start, these stacks could be good if they allow the Corps the type of control and mission set that it must have to perform. Ultimately, it comes down to concept of operations (CONOPS). “While the equipment design looks pretty promising, what we’re allowed to do in that stack—how we fight in that stack—comes down to CONOPS, and that CONOPS has not been written yet,” he says.
+
+While the JIE serves the Marine Corps as a joint program, the Corps has its own service-specific needs. Funding is a problem, as the existing congressional continuing resolution does not allow the Corps to “proceed in a way that does not have uninterrupted service,” the general allows. As a result, the Corps must do business in segmented pieces until Congress works out a more long-term funding strategy. A deployable MCEN will require innovation, which will come in the form of new equipment and new ideas. Any degradation in its critical nodes will push back an effective, efficient deployable MCEN, he states.
+
+As with the other services, cyber permeates virtually all aspects of Marine Corps operations. Gen. Crall offers that the Corps has done “an admirable job” of cyber defense, adding that the service is well-organized for cybersecurity, from initial network design to cyber personnel training. Modernization remains an issue, as the general allows that the Corps “is definitely not where we need to be.
+
+“Each time we take that next step of organizing, we go back and look at the environment, and we’re never quite there yet,” he admits. Also, the Corps is not as advanced as it needs to be in offensive cyber operations, and this is a broad-based challenge. “We have ideas on where the Marine Corps would fit and what an offensive toolkit or toolbox might look like, but that is far more challenging for a host of reasons,” he offers. These reasons include authorities, training, toolsets and capabilities.
+
+The Corps is heavily involved in supporting the U.S. Cyber Command (CYBERCOM), and it expects to learn a great deal that can be applied to Marine-specific cyber activities, the general says. And, as with the joint community, offensive and defensive cyber are melding into a single capability. Gen. Crall likens cyber operations to dispatching a patrol: Whether the patrol is offensive or defensive in nature depends on with whom it interacts.
+
+Cybersecurity may be the biggest challenge facing the Corps, the general suggests. “I’ve never heard any CIO or anyone involved in C2 claim that they have all the network security they need,” he relates. “Our biggest challenge is staying ahead of the threat, not meeting it.
+
+“We have some very competent adversaries,” he continues. “They don’t take days or nights off, and our networks are always vulnerable. We just have to continue to reduce that threat surface.”
+
+Gen. Crall emphasizes several points when discussing industry’s role in helping the Marine Corps advance its networking. A seamless MCEN comprises both technological capabilities and a discipline, he maintains. This discipline entails processes and tactics, techniques and procedures that solutions must conform to so the MCEN can operate in the desired manner. Integration is the key to whatever solution is sought. “Gone are the days of building stovepiped, single-operated, built-in-a-small-dark-room solutions that can perform a narrow mission,” the general declares, adding that every problem solved in that manner creates several more problems.
+
+Security is another issue. All systems the Corps employs—along with the practices it will adopt—must have security considered at the start, he warrants. The Navy’s CYBERSAFE program is a good example of how early requirements are examined for security to ensure that products operate safely in the domain. This improves the ease of accreditation and network integration while reducing the threat surface. The Marine Corps is adopting some of that work into how it designs its own systems, the general states.
+
+The Marine Corps prefers commercial off-the-shelf (COTS) technologies, Gen. Crall says, eschewing “tailored, one-off solutions that make standardization and integration more difficult.” However, the Corps needs to operate in a disconnected, intermittent, low-bandwidth environment, and COTS does not always offer that, he points out. So some unique solutions may be necessary to meet Marine Corps requirements.
+
+Among the areas where the Corps is seeking innovative solutions are cloud computing strategy and network security, such as comply to connect. It especially needs solutions that ensure only proper users can join the network. And technologies to extend applications to the network edge also are useful. The Corps is looking to determine a viable developer’s toolkit for application design. This would help attract vendors to an area by allowing them to design familiar applications to ride on the Marine Corps network.
+
+Above all, the Corps wants industry compliance with commercial solutions for classified programs. It asks vendors to seek validation through the National Information Assurance Partnership. That compliance makes it easier for the Corps to implement these solutions, Gen. Crall says.
+
+In a related vein, the Corps is looking to improve its business systems. The general cites recruiting, which comprises business systems for selling, tracking applicants, advertising and dot-com services offered through the Marine Corps Community Services program. These endeavors are separate, and they could be integrated into a single entity in the same manner as warfighting information technologies. The benefits would include cost savings, greater efficiencies and potentially better quality personnel.
+
+For example, the Marine Corps faces the same challenge confronted by the other services in recruiting and retaining skilled cyber professionals. Gen. Crall points out that the Corps can obtain the cyber experts it needs by bringing them in as uniformed Marines, hiring them for its civilian work force or tapping them for contracted services. Competition is fierce in all three approaches, he notes. The Corps needs to take a hard look at refining its retention efforts and emplace the right incentives to maintain a quality cyber force.
+
+And Gen. Crall is well-versed in Marine Corps personnel traditions. Sitting in his office is a pair of photographs in a hinged frame: One is an old photo of a Marine wearing an old-style wide brim hat; the other is a new picture of a young Marine in his dress-blue uniform. The older picture is of Gen. Crall’s father, and the newer picture shows the general’s son, who is an active-duty Marine. As the general sees it, the photo of his father reminds him of the tradition that he must uphold, while the photo of his son represents the current crop of Marines he serves daily that determine the success of the Corps.</text>
+  <imgalttext>
+    <img>A Marine Corps F-35B taxis during night flight operations at Marine Corps Air Station Yuma in Arizona. With its advanced sensor suite, the F-35B may assume an additional role serving warfighters on the ground as an information source for the Marine Corps Enterprise Network.</img>
+    <img>A U.S. Marine Corps MV-22 Osprey lands during an exercise in Southwest Asia in July. Central to the Corps mission of being able to move troops great distances for immediate action on the battlefield, the Osprey also may become a key node in networking the force. Gen. Dennis A. Crall, USMC, is the director, C4, and CIO, U.S. Marine Corps.</img>
+  </imgalttext>
+</article>

@@ -1,0 +1,56 @@
+<article>
+  <type>article</type>
+  <title>Defense Department Awakens to Internet of Things</title>
+  <author>George I. Seffers</author>
+  <date>January 1, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>DARPA</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>For the U.S. Defense Department, the Internet of Things means that everything—battlefield uniforms, office thermostats and major weapon systems, for example—are networked, providing tremendous amounts of data for situational awareness while also preventing challenges for cybersecurity and data storage and analysis.</abstract>
+  <text>For the U.S. Defense Department, the Internet of Things means that everything—battlefield uniforms, office thermostats and major weapon systems, for example—are networked, providing tremendous amounts of data for situational awareness while also preventing challenges for cybersecurity and data storage and analysis.
+
+Mention the Internet of Things (IoT), and many people immediately picture smart refrigerators ordering milk from the grocery store when supplies run low. But the Defense Department’s IoT likely will be far different. The Army now uses helmets with built-in sensors to help diagnose brain injuries. The Defense Advanced Research Projects Agency (DARPA) funds research into robotic limbs for those injured on the battlefield. Every military service invests in remotely controlled unmanned systems, whether for air, ground or sea missions. Wearable computer technologies may one day be built into combat uniforms.
+
+The IoT is in its infancy, and in many ways, so are the Defense Department’s efforts to understand it and prepare for it. The Defense Information Systems Agency (DISA) includes IoT on its list of technologies to watch. The agency’s strategic plan for 2014-19 says the rapid growth of technologies and products will “result in an explosion of capabilities on our sensitive unclassified and classified networks.” The strategic plan adds, “From improved logistics tracking to optimized building security and environmental controls to health monitoring of individual soldiers, the Internet of Things will impact everything we do.”
+
+Lt. Gen. Ronnie Hawkins Jr., USAF, DISA director, indicates the IoT will greatly benefit warfighters but also present some challenges. “For the Defense Department, the implications are vast,” Gen. Hawkins says. “IoT helps because the more information you have being provided, the better situational awareness you have.”
+
+He points out that greater data access already has reaped huge benefits. “We’ve reduced the war casualty result tremendously just as a result of being able to get information from the field all the way back to where doctors might be,” Gen. Hawkins reports.
+
+But the IoT also epitomizes the proverbial double-edged sword. “Everything is connected to the Internet, so the security piece of that is vital, both from the perspective of making sure we keep information secure and making sure people who would want to create havoc are not allowed to do so,” Gen. Hawkins states. “Everything becomes a sensor. And when I say everything, I do mean everything, from appliances to the clothes you’re wearing and the applications that you carry.”
+
+And in this case, applications are not confined to smartphones. “When we think of applications, most of us just think of cellphones, but if you think of the way cellphones transmit information as you move from cell tower to cell tower, the Internet of Things is the same way,” Gen. Hawkins observes.
+
+In some ways, military officials and researchers already are taking action to cope with the need to secure the exponential explosion of networked devices. DARPA’s High-Assurance Cyber Military Systems program seeks to increase cybersecurity for unmanned or robotic systems. The Navy last year initiated the Task Force Cyber Awakening to gain a holistic view of cybersecurity threats across the service. Navy sources report that officials from the other services may use the task force as a model for their own efforts.
+
+While technologists already are acutely aware of the cyber vulnerabilities of networked systems, others only recently are awakening to the issue, Navy officials indicate. Rear Adm. CJ Jaynes, program executive officer for air antisubmarine warfare, assault and special mission programs, exemplifies that assertion. Adm. Jaynes oversees a wide range of aircraft programs, including the V-22 Osprey, presidential and executive lift helicopters and strategic command, control and communications aircraft. “Cybersecurity has become pretty big on the forefront for us. Even though, when you think about a platform that flies through the air not connected to anything while it’s in its mission, there’s still an awful lot of connectivity that’s going on that we truly don’t fully understand yet. We’re spending more time understanding the cyber aspect of our platforms,” Adm. Jaynes reveals.
+
+To do that, she has sought help from others. “We’re relying on a lot of outside experts right now to come help us do our analysis. You’ve got some think tanks that have expertise there. We’ve got Cyber Command, and we have the National Security Agency where the expertise resides. We’re spending a lot of time with them right now learning what it is they do and where we can train our own subject matter experts to get them up to speed. We’re definitely in a build-up process right now for that expertise,” Adm. Jaynes adds.
+
+Efforts to define and plan for the Defense Department’s IoT are so far ad hoc, with no one yet taking a holistic approach across the department. “We have people, particularly within our Chief Technology Office, who are looking at what is going on with the Internet of Things, but to begin to say we’re trying to define lanes in the road, the answer to that would be no. And quite candidly, it would be premature for us to do that,” Gen. Hawkins asserts. “Industry is still out trying to determine what the Internet of Things consists of.”
+
+He notes that the IoT is becoming a topic of conversation within the department, especially in the realms of cloud computing and big data analytics. “Those would be the two categories that I would use to begin to encapsulate what we’re talking about when we speak of the Internet of Things,” Gen. Hawkins offers.
+
+When every device becomes a data-providing sensor, data storage and analysis could become problematic. “The storage of all of that information and the analysis of all that information is the next big challenge,” Gen. Hawkins asserts. “How is it that we do that? Who is it that has the roles and responsibilities for maintaining this information? If you don’t have the right roles and responsibilities for maintaining it, how can you get access to it? All of those issues become a challenge to the Department of Defense.”
+
+DISA likely will work with the Defense Department’s chief information officer and the acquisition community to define the IoT and to acquire the technologies best suited to take advantage of it. “Being the premier information technology service provider and cyberspace provider for the department, how is it that we would manage that information, store it, analyze it, distribute that information, secure that information? All of those things become challenges for the agency,” he adds.
+
+It is too early to even define what types of devices or platforms will play a part in the Defense Department’s IoT, the general indicates. “Is it going to be refrigerators, or is it going to be telephones? Is it going to be TVs, or is it going to be the clothes you wear? I would think the department is going to be more focused on information that enables the warfighter to accomplish his or her mission more efficiently, more effectively and as quickly as possible,” the general states. “We haven’t begun to do that yet. There’s a lot of work and analysis yet to be done on the Internet of Things and how it will be employed within the Department of Defense at large.”
+
+The IoT could add to the effect of data overload as well. “The potential negative is that vital information begins to fall on the floor. In other words, you miss it because it is not something you’ve been looking at. But to be able to have access to that type of information, that is a benefit all the way around. The more information, the better,” Gen. Hawkins states, emphasizing that the IoT is “the way to go.”
+
+He stresses that industry is a vital partner in defining the IoT and resolving any issues it presents. “Already industry is helping us with both cloud and analytics. We use what our industry partners currently use, so as long as we stay in lockstep with our industry partners and on the leading edge of what is out there in industry, I think we’re OK,” he offers.
+
+The general predicts the IoT will lead to an explosion in the amount of classified data that, ultimately, could strain existing infrastructure. “We still believe that there is going to be an increase in the classified environment of information that’s tied to the Internet of Things, so we will be watching that and looking forward. Is our current architecture postured for that type of explosion in the future? The answer to that is no, we’ve got to build that out.”
+
+But it is not just the Defense Department that needs to understand the implications of the IoT. “Everybody’s got a thermostat in their house—when it’s tied into the Internet, how do you make sure your thermostat is secure and somebody can’t just go in there and turn your thermostat down in the middle of the winter? Individuals are going to have to be much more conscious of what the Internet of Things means to them. What about your car? How do you keep it secure? We’re all going to have to learn to be much more security conscious in what we allow to be available to the outside world,” Gen. Hawkins warns. “As much as it is a military and department issue, it’s a personal issue.”</text>
+  <imgalttext>
+    <img>The U.S. Navy program executive office that supports the V-22 and myriad other aircraft is learning to cope with the cyber vulnerabilities of its networked platforms.</img>
+    <img>No one knows yet what devices or platforms will be a part of the Defense Department Internet of Things, but unmanned vehicles almost certainly will be. For example, driverless vehicles, networked and capable of convoying, could one day deliver supplies without putting personnel in harm’s way.</img>
+    <img>DARPA’s Mining and Understanding Software Enclaves program seeks to leverage deep program analyses and big data analytics to create a public database containing mined inferences about salient properties, behaviors and vulnerabilities of software. Data storage and analysis capabilities will be critical for the Defense Department to take advantage of the Internet of Things.</img>
+  </imgalttext>
+</article>

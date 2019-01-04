@@ -1,0 +1,43 @@
+<article>
+  <type>article</type>
+  <title>Army Envisions Network of 2040 </title>
+  <author>Bill Lemons</author>
+  <date>January 1, 2017</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>The Cyber Edge</tag>
+    <tag>US Army</tag>
+  </tags>
+  <abstract>The U.S. Army has outlined its vision for an effective, modern enterprise network in the strategic document “Shaping the Army Network: 2025-2040.”</abstract>
+  <text>What will you be doing in 20 years? Have you planned that far ahead? As anyone who thought floppy disks or landlines would stand the test of time knows, predicting that far out is a challenge, especially when it comes to technology. But the U.S. Army has done just that, outlining its vision for an effective, modern enterprise network in the strategic document “Shaping the Army Network: 2025-2040.” 
+
+It might seem foolish to create plans now, knowing the hardware and software of today hardly will resemble their successors in a few short years. Yet that is precisely why government leaders must strategize now. The Army recognizes that waiting until 2025 to design its network would be far too late. In this highly dynamic environment, change is the only constant, and organizations must embrace rather than resist it. The Army’s approach will let soldiers fight in joint, interagency and multinational environments. Its vision identifies five areas where the service needs leap-ahead technologies and network capabilities: dynamic transport, computing and edge sensors; data to decisive action; human cognitive enhancement; robotics and autonomous operations; and cybersecurity and resiliency. It seeks to provide resilient decision-making capabilities and knits together every aspect of the military sphere—from individual soldiers on the battlefield to leaders half a world away.
+
+While it is unlikely that businesses will be able to foster each and every one of the innovation needs listed, at least the Army’s document sets in motion an ambitious and worthwhile goal for a “unified field theory” that gives industry a start. It is a call to action for the service, the federal government and the information technology industry to develop a system that meets or beats the challenges of the future.
+
+Among those challenges will be moving network security front and center. One reason today’s networks are vulnerable to attack is because during the early days of the Internet, before anyone really knew what it could become, security was not an issue. If pioneering scientists and engineers had known how the Internet would evolve, they likely would have “baked in” security and used networking components to build and enforce security policies. Much of the present conversation about security revolves around protecting data integrity and ownership. Some say that as long as data is encrypted, systems are secure. But, as threats become more sophisticated, a new approach to security is critical—and it starts with leveraging the network itself as a point of enforcement.
+
+As networking has evolved, platforms have been stitched together to accommodate the increasing use of applications. While applications have become more complex and interdependent, platforms also have expanded their functionality and are now programmable, delivering services and adapting to requirements. The emergence of software-defined networking accompanied by virtualization means that open source, standardization and network automation in a multi-vendor, multinational environment are essential building blocks for the Army’s effort toward “dynamic transport.” But what will these transport methods be? Will they rely on wires and fiber or new and emerging technologies?
+
+Achieving dynamic transport requires a seamless combination of many transit methods. Some may be in use now, including transmission technologies such as radio frequency, satellite, fiber, microwave and Wi-Fi. Others include the much-anticipated fifth-generation (5G) mobile networks, which are still in the planning stages, as well as undeveloped technologies. Many transit methods will have enduring relevance, while others will be migrated to next-generation technologies.
+
+The use of a wide variety of transport methods will provide one level of security—fallback options that offer added protection if one form of communication transport is attacked. But achieving this level of security, and dynamic transport itself, requires automation that shifts among transit modes instantaneously, in response to fluctuating network demand, connectivity challenges and changing user locations. The most productive way to enable the Army’s network of the future is to have an infrastructure that provides the secure, programmable access necessary to make these instantaneous shifts a reality. The infrastructure architecture must incorporate a high-level orchestration system—an authoritative source that “knows” everything across the network and “tells” the environment how, where and when to forward needed information.
+
+This need for coordination means the Army should avail itself to open, compatible software solutions instead of closed, proprietary firmware. Moving forward, the Defense Department should commit to leveraging open solutions that support interoperability among multiple vendors and take advantage of best-of-breed solutions. Some proprietary elements will remain. After all, the Army’s mission is unlike any in the private sector, and select specialty systems and solutions are the only way to maintain a tactical advantage. But the Army must fully embrace the foundational tenets of openness and programmability to get the flexibility it needs. That essential versatility will support the ever-increasing number of connected devices as part of the Internet of Things. As they proliferate, these devices and sensors—often challenged by limited battery life, obstructed transmission frequencies, interrupted one-way and two-way transmission and unverified data—introduce new volatility to the system that could strain the performance of a less-flexible network.
+
+Furthermore, once data begins to flow, dynamic computing transforms it into useful information for actionable intelligence. For that kind of added value, the data sent by the sensors—whether biometric, location-based or something else—must have context.
+
+Above all, cybersecurity cannot be an afterthought. It must become inherent to the network. As the Army network evolves, security applications and network security functions will have to work seamlessly with network components and their built-in security capabilities.
+
+Certainly, industry can aid in getting the service to that streamlined state. For now, the Army should be applauded for issuing its strategic plan and sharing its long-term vision for the role of technology. Publishing this vision challenges organizations to address upcoming issues and develop a new system that can help ease difficulties. Companies can help execute this vision by developing technologies and embracing the role of trusted adviser. Vendors must educate government customers while listening closely to their unique needs and concerns and championing the movement toward open and interoperable standards.
+
+As it always has in the federal space, the political climate and status of policy also influence technology adoption and implementation. However, with a continued appetite for change and architecture that is flexible, programmable and open, the Army’s network of the future will be better equipped to weather constant shifts in politics, policy and technology in the coming decades.
+
+Bill Lemons is the director of federal systems engineering at Juniper Networks. The views expressed here are his alone.</text>
+  <imgalttext>
+    <img>Juniper Networks operates Proof of Concept labs, testing facilities that provide open environments to ensure that customers can access the best demonstration resources possible.</img>
+    <img>A U.S. Army soldier with the 101st Airborne Division (Air Assault) pauses before ascending a ridgeline near the Afghan village of Kote Khel.</img>
+  </imgalttext>
+</article>

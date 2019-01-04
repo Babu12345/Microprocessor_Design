@@ -1,0 +1,51 @@
+<article>
+  <type>article</type>
+  <title>When Computers Know You By Your Keystrokes</title>
+  <author>Sandra Jontz</author>
+  <date>September 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>biometrics</tag>
+  </tags>
+  <abstract>The latest methods of identity verification might border on intrusive as behavioral biometrics continues to evolve. Tactics range from what some might consider simple measurements of keystroke dynamics to cutting-edge future solutions that could constantly monitor a user’s breathing or eye movements.</abstract>
+  <text>The latest methods of identity verification might border on intrusive as behavioral biometrics continues to evolve. Tactics range from what some might consider simple measurements of keystroke dynamics to cutting-edge future solutions that could constantly monitor a user’s breathing or eye movements.
+
+The ever-growing amount of sensitive data being generated, punctuated by recent breaches showing just how vulnerable that information is to attacks, spurred both federal agencies and the private sector to find ways to safeguard their networks better. But superior security also might mean better insight into users, leaving even more telling information vulnerable to theft or espionage.
+
+“As humans, we’re all creatures of habit,” says Mark Testoni, president and CEO of SAP National Security Services, an independent U.S. subsidiary of the global enterprise software company SAP. “That applies to our interactions with our families, when we go to the gym or our actions online. We need to be able to look inside of our networks and inside of our systems to see if people who appear to be authorized users are behaving like they normally do. And when they’re not, it should throw up some flags.”
+
+Behavioral biometrics can identify users by a number of measures, from computer mouse habits to Internet navigation paths, keystrokes and device swipe patterns. Those metrics, coupled with the use of physical biometrics such as fingerprints, iris scans, voice recognition and even body odor, round out protection measures that place cybersecurity efforts on surer footing to safeguard networks adequately, experts say.
+
+“Credit card companies used the technology [behavioral biometrics] in a very narrow sense to detect fraudulent activity,” Testoni says. “Now that it’s being brought into this world [cybersecurity], it’s becoming part of the defense-in-depth concept that we really need to have to secure our cyberspace. This is an emerging capability, and pieces of it are coming along. We’re hoping to use people’s behavior patterns and what they do inside of the networks to help us identify potential threats.”
+
+With this technology, users no longer would have to solely “tell” systems who they are by using passwords or answering security questions. Instead, a mechanism would allow users to “show” that they are who they say they are through constant, and automated, monitoring of their unique behavioral traits—as exclusive to individuals as fingerprints or iris scans.
+
+“You’re going to see large-scale adoption of the technology when systems can truly understand what makes you you, with permanence,” offers John Suit, chief technology officer of Xceedium Incorporated, a network security company. The permanence he refers to is the capability of automated and continuous checks and balances the technology would employ to verify a user’s identity.
+
+“People are very good at writing software based on time to reauthenticate identity,” Suit says. “After so much time goes by, you’re asked for your password again. But it’s not behavioral. It’s not saying, ‘Hey, you’re not acting like you anymore. I want you to verify it’s you again.’”
+
+Effective behavioral biometrics provide automated protection, constantly monitor user sessions, and when anomalies arise, automatically terminate the sessions and limit access to the network, he says. “Mass adoption of these systems will happen when they can continually monitor or sample at their own defined intervals and determine that John is still John,” Suit says.
+
+To that end, the Defense Advanced Research Projects Agency (DARPA), the U.S. Military Academy and engineers with the U.S. Army’s Communications-Electronics Research, Development and Engineering Center (CERDEC) teamed with industry a few years ago to begin developing a behavior-based system to replace the need for traditional passwords altogether. “The current standard method for validating a user’s identity for authentication on an information system requires humans to do something that is inherently unnatural: create, remember and manage long, complex passwords,” Angelos Keromytis, program manager for DARPA’s Active Authentication program, says in a statement. “Moreover, as long as the session remains active, typical systems incorporate no mechanisms to verify that the user originally authenticated is the user still in control of the keyboard. Thus, unauthorized individuals may improperly obtain extended access to information system resources if a password is compromised or if a user does not exercise adequate vigilance after initially authenticating at the console.”
+
+Researchers want to develop what Keromytis termed “cognitive fingerprint” algorithms, which will learn the distinct ways in which users swipe smartphone apps or manipulate a computer mouse, and from there create a behavioral road map or template unique to each user. The work is being done through the Intelligence and Information Warfare Directorate (I2WD).
+
+“Think of a password as a one-time thing,” explains Keith Riser, a computer scientist and identity intelligence science and technology lead at CERDEC. Even if authorized users share passwords with others, the technology can differentiate between the users and shut them out if necessary. “You log into your system, and once you put your password in, you have full access to anything that that password allows. But with Active Authentication, it will be constantly checking to make sure that you are who the system expects you to be. If not, it can deny services or inform other people that you might not be using your system.”
+
+Program goals include eliminating the need to remember complicated passwords or connect to systems via access cards, says Karsten Reis, a forensic biologist at CERDEC. “Eventually, we want to get to the point where we’ll eliminate the need to remember passwords because passwords are fairly unsecured,” he says. “Everyone has many passwords, and you need to remember them all. And a lot of times, people will use the same passwords for different systems, and that’s a security risk. By using multiple modalities, if the confidence for one modality decreases ... [you can] still be assured that the person is still who they say they are when they walked in. It’s not an on-off switch where you either have access or you don’t.”
+
+The technology propelling the popularity of behavioral biometrics, however, does not provide the panacea for cybersecurity vulnerabilities or insider threats, says Joseph DiZinno, vice president of identity operations for American Systems and an assistant professor of forensic science at George Mason University. No single mode of biometric identification is more important than another. “The more modalities that you use, the better chance you have of identifying an individual. [Behavioral biometrics] is one of many areas of developing forensic modalities where we’re looking at things today that we wouldn’t have considered years ago, whether it be behavior or video analysis … or other modalities that are used all over the world.”
+
+Biometrics, in general, focuses on accurate and timely delivery of key security information, adds DiZinno, who spent 22 years at the FBI Laboratory. “Better, faster and, of course, cheaper also helps.”
+
+The emerging technology is hard to spoof and could prove more cost-effective than systems that require physical biometrics to access networks, such as laptops introduced several years ago that capitalized on thumbprint scans, Suit explains. Some solutions provide administrators with key information, such as road maps that detail exactly what information users accessed during their sessions. But safeguards do not end with just knowing who accessed what, he reminds. “It’s not just what information did John access; I need to make sure the data is useless to anybody but John and the individuals who are supposed to use it,” DiZinno says. That is achieved through data encryption.
+
+Still, cybersecurity is a risk-management game, and strong perimeter defenses are needed to ward off threats, Testoni says. “It’s a big data problem,” he says. “We’ve got to be able to very rapidly ingest a lot of information about what’s going on inside of our systems and networks and rapidly identify those potential flags.”
+
+While some security answers will be found in technologies aimed at safeguarding networks and systems, true reform will not happen until policy and legal changes allow governments to leverage tangible repercussions against threat actors, Testoni adds. “Over time, what’s more important than just being able to identify and shut down these bad actors is a system that will be able to punish them for doing the action,” he says. “Ultimately, in a cyber world, if we’re going to slow this stuff down, we’ve got to have consequences beyond ‘we caught you.’ That gets to the issue of offensive [cyber operations] and policies. Even outside of government, do we want our companies doing offensive operations against these actors?”</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

@@ -1,0 +1,37 @@
+<article>
+  <type>article</type>
+  <title>Researchers Develop One-of-a-Kind Nanocomputer</title>
+  <author>George I. Seffers</author>
+  <date>January 31, 2014</date>
+  <departments>
+    <department>Cyber</department>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Nanotechnology</tag>
+    <tag>research and development</tag>
+    <tag>Robotics</tag>
+    <tag>sensors</tag>
+    <tag>surveillance and reconnaissance</tag>
+    <tag>unmanned systems</tag>
+    <tag>MITRE</tag>
+    <tag>Harvard University</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>Scientists and engineers from MITRE Corporation and Harvard University published a paper this week revealing the development of what they call the most dense nanoelectronic system ever built. The ultra-small, ultra-low-power processor could be used for tiny robotics, unmanned vehicles and a broad range of commercial applications, including medical sensors.</abstract>
+  <text>Scientists and engineers from MITRE Corporation and Harvard University published a paper this week revealing the development of what they call the most dense nanoelectronic system ever built. The ultra-small, ultra-low-power processor could be used for tiny robotics, unmanned vehicles and a broad range of commercial applications, including medical sensors.
+	The control processor—termed a nanoelectronic finite-state machine or nanoFSM—is smaller than a human nerve cell. It is composed of hundreds of nanowire transistors, each of which is a switch about ten-thousand times thinner than a human hair. The nanowire transistors use very little power because they remember whether they are on or off, even when no power is supplied to them.
+	Shamik Das, chief architect of the nanocomputer and group leader of MITRE’s Nanosystems Group, says the technology could have broad applications across the command and control, communications, computers, intelligence, surveillance and reconnaissance arena. “The technology could have applications anywhere that you need to reduce the size, weight, power consumption or costs of a system,” Das states. “Some examples would be very miniscule sensors, such as might be used by the Defense Department or in health care applications. Very small autonomous systems, such as robots or micro unmanned aerial vehicles, would benefit from this type of technology.”
+	Essentially, the nanoprocessors could be used anywhere low-power, embedded microcontrollers are used. And, although they go largely unnoticed by the general public, microcontrollers are everywhere. Most cell phones have at least one, and modern cars can have hundreds controlling windows, dashboard electronics and even drive trains. Das and his team emphasize that they are not really focused on mobile devices, but they acknowledge the technology could benefit those platforms as well. “The technology has special import in the low-power area. We believe we have a technology that can leapfrog what is available in terms of really low power and small form factor electronics,” Das states. “Systems like smartphones are heavily dominated by their battery life. This goes without saying for warfighter platforms, too. Energy is a huge concern for those platforms.” He adds that improving the power consumption of platforms extends the system lifetime, capabilities and mission endurance.
+	Jim Klemic, MITRE’s nanotechnology laboratory director, suggests other potential uses. “Another application would be environmental monitoring where you want to have distributed sensors out there after an environmental disaster or a natural disaster,” he posits. “Other applications could be industrial process monitoring, which could yield much more green manufacturing techniques, more efficient manufacturing techniques, less wasteful manufacturing techniques. These are all things that can be enabled by developing improved sensors that can be put in places we can’t put them right now.”
+	In 2011, the MITRE-Harvard team demonstrated a single such tiny tile capable of performing simple logic operations. In their recent collaboration they combined several tiles on a single chip to produce a first-of-its-kind complex, programmable nanocomputer, proving the technology is scalable. The accomplishment was enabled in large part through advances made by a three-person Harvard team led by Charles Lieber, a renowned nanotechnology investigator.
+	The nanocontroller was manufactured using essentially a two-step process. First, the semiconducting nanowires were grown off-chip. “They were grown like fur on a carpet or Velcro on a Velcro strip,” Klemic explains. “Through a transfer printing or transfer lithography technique developed in Lieber’s lab at Harvard, we were able to take these nanowires and deposit them in defined spots on a substrate and parallel on a substrate.” He emphasizes that the nanocircuitry is placed on the chip uniformly rather than “clumped in twos and threes and randomly distributed,” which he describes as “a major fabrication breakthrough” that “allows us to build these very complex circuits.” Until now, this could be done using expensive, top-down lithographic manufacturing methods, but not with bottom-up assembly. It also might allow the number of devices packed into a small area to increase by one, two or eventually more orders of magnitude.
+	Although the process is a bottom-up construction using lithographic techniques, it is fundamentally different from 3-D printing. “The key thing is that instead of printing, you might consider the nanowires to be brushed or combed onto the target chip,” Das reports.
+	The next step is actually twofold. Firstly, the team intends simply to build in further functionality. But they also are moving forward with plans to integrate the technology into a simple sensor. James Ellenbogen, MITRE’s chief scientist for nanotechnology, describes three possible types of sensors. “The key thing at the moment, since the processor is relatively simple, is to have it be simple sensor. The possibilities at the moment are either a vibrational sensor of some sort, or possibly a chemical sensor, or a tag to make a smart tag,” Ellenbogen says.
+	The project is currently funded through MITRE’s internal research and development budget, but government or industry partners could potentially help with the sensor integration. “We are moving ahead, but we certainly would welcome any specific interest. If there’s a particular sensor, for example, that any entity wanted to integrate with, that’s certainly something we could explore,” Das offers.
+	 
+VIDEO: The Wasp Micro Air Vehicle, a small, portable, unmanned aerial platform designed for front-line day and night reconnaissance and surveillance is a result of a multi-year joint development effort between industry and the Defense Advanced Research Projects Agency. Although not targeted to a specific system, nanocomputing technology developed by the MITRE Corporation could benefit micro unmanned systems and a wide range of electronics on and off the battlefield.
+</text>
+  <imgalttext>
+  </imgalttext>
+</article>

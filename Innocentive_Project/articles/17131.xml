@@ -1,0 +1,71 @@
+<article>
+  <type>article</type>
+  <title>Shifting Winds Steer Government's Approach to the Cloud</title>
+  <author>Robert K. Ackerman</author>
+  <date>February 1, 2017</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cloud computing</tag>
+  </tags>
+  <abstract>As the U.S. federal government overcomes the challenges of moving data to the cloud, disruptive changes in research, development and operations may emerge.</abstract>
+  <text>As the U.S. federal government overcomes the challenges of moving data to the cloud, disruptive changes in research, development and operations may emerge. Military and civil government organizations are seeking similar outcomes as they attempt to migrate their data services to the cloud. The federal government, specifically, is counting on the cloud to help clear up the fog of acquisition and the morass of inefficiency. Experts believe that growing data storage on the cloud can be achieved without complex and costly procurements, and new capabilities and security measures can be deployed much faster when needed. 
+
+Even with shared goals, federal security and civil government agencies face very different challenges in moving data to the cloud. One defense organization, in particular, is encountering and addressing many cloud migration obstacles as it moves aggressively to exploit the new technology to its full potential.
+
+“We’re on the cusp of really embracing some great technology that private industry has been exploiting for years—with some different drivers from a government perspective,” states Leonel Garciga, J-6/chief technology officer (CTO) of the Joint Improvised-Threat Defeat Organization (JIDO). 
+
+On the national security side, the federal government and JIDO are confronting similar difficulties in moving data to the cloud, Garciga offers. Outside of the national security community, government organizations can move more easily and more robustly to the cloud. While some law enforcement organizations face similar challenges as the Defense Department, many government organizations have been successful with their cloud migrations, especially with business systems.
+
+Reasons for moving to the cloud are many. At the top of the list of expectations for government are efficiencies, Garciga says. One of the key advantages of the cloud is scalability, which is important with infrastructure as a service. Information can be moved into an environment in which capabilities can be scaled as needed quickly and easily. A system that needs increased capacity to handle a surge in usage or new requirements cannot easily be adjusted using the current acquisition process. “It really is difficult for us to go out and turn a 50-node cluster into a 100-node cluster in a day,” Garciga observes. 
+
+But platforms such as Amazon Web Services (AWS) give the government the flexibility to quickly obtain the infrastructure required to scale out as a mission dictates, he continues. These types of private industry models, which allow scalability without a 12- to 18-month process to procure and install new hardware and power sources, afford government customers the speed and agility they need.
+
+“Moving to mature cloud services should alleviate some of the deployment and procurement challenges within acquisition,” Garciga offers. “You shorten that front-end tail to get capability out.”
+
+Another government goal is the ability to implement vital capabilities more rapidly. Containerization allows customers to develop capabilities anytime, anywhere and push them out to the cloud service more quickly. Being able to deploy capabilities for an already deployed service enables faster improvements.
+
+Cost savings can be realized across the board. Government need not replicate an entire server room at another location at a significant price. Cloud services tend to have a robust backup capability baked in, Garciga notes, which significantly reduces costs over time.
+
+Despite such benefits, not everyone in government is ready for the cloud. Foremost among the concerns is security. Garciga notes that off-premises data management generates trust challenges, although the government could adopt the commercial sector’s hybrid security approach to serve its needs. Lightweight services and capabilities that are business- or mission-oriented can be pushed out to the cloud, while more sensitive data and services can be kept under more secure conditions.
+
+Garciga says JIDO is examining the hybrid cloud approach for the long term. After recent talks with the Defense Information Systems Agency (DISA), JIDO officials may move some core mission capabilities to a DISA facility under infrastructure as a service. The cost framework has improved, and the move makes more sense now, he says.
+
+With JIDO’s primary network being classified, having some of its data available to the joint force on the Secret Internet Protocol Router Network (SIPRNet) is a key goal. Some JIDO enterprise capabilities, such as lightweight applications, will be moved to Defense Department cloud offerings, Garciga offers. This will take place more on the business side than the mission side. 
+
+The organization has made progress in using capabilities such as AWS for some of its development work, he adds. JIDO also has made room for small companies or startups to integrate their capabilities. “That’s where we have seen a lot of bang for our buck from a cloud perspective, and we have been pushing out very hard on that,” Garciga states.
+
+Small capabilities are fairly easy to move to the cloud, he continues. Larger ones such as data analytics pose a more significant challenge, often requiring financial calculus around costs and savings.
+
+Garciga shares an example. He relates that on JIDO’s network is a big data platform based on open source Apache software foundation capabilities. Describing this configuration as robust, he notes that it has a large amount of traffic. Pushing it out to AWS or even to internal Defense Department cloud offerings would require accommodating several factors. For example, planning the bandwidth needed for contingency operations would be difficult, and this is a variable cost that cannot be baked in or accounted for in a program objective memorandum (POM). 
+
+Also, he continues, until the Defense Department and the intelligence community develop and articulate a realistic cost model based on scalability and surge capability, planners hesitate to commit to a move to the cloud. They will need these cost figures on a year-to-year basis. JIDO is in a slightly different realm because it is a quick reaction capability (QRC) organization supported mostly by the Overseas Contingency Operations fund, so it has not been through the POM process over the years, Garciga points out. However, JIDO’s transition to the Defense Threat Reduction Agency may require setting up a POM, mandating a framework for moving a large mission system to the cloud.
+
+The personnel factor is another change stemming from the cloud. The private sector has shown that migrating significant amounts of capabilities to the cloud allows organizations to shift their standard, day-to-day enterprise information technology work force to a mission work force, Garciga points out. Instead of concentrating on everyday network support, this work force can focus on deploying new and emerging technologies as well as building an innovation-oriented staff. “That is a pretty tough organizational change to go through,” he says. “It means shifting skill sets and working the human capital piece to ensure that existing and new personnel are ready for the shift.” This might entail an 18- to 24-month process for retraining and retooling the work force, he adds.
+
+JIDO has been going through that process over the past three years to provide a big data cloud platform in its own building, Garciga notes. The organization spent 18 months changing its culture and shifting skill sets to handle the task. With moving to the cloud, “When you look at why folks are hesitant—there is a lot of hesitancy there—it affects your human capital,” he states.
+
+JIDO considers new technologies carefully. Garciga relates that he has traveled to Silicon Valley with JIDO’s director to examine technologies and capabilities. While allowing that “there is a lot of great stuff that would be awesome to implement in the Defense Department,” Garciga says that much of it would not make as much sense for his organization to implement. Outsourcing financial activities to a cloud provider is very different from outsourcing defense or intelligence functions, he adds. 
+
+The transition to the cloud tends to be less taxing for civil government because it does not face the same stringent requirements as the defense or intelligence communities. Garciga offers that the differences boil down to two main areas: security and recovery. Maintaining data integrity is essential for defense and intelligence operations. Also, both the defense and intelligence communities must be able to restore their information technology capabilities quickly if they are shut down by internal problems or external actions. “If you have a critical incident against an infrastructure that you are not currently hosting as a command—one that has critical national security implications—and you are not able to bring it back up and are dependent on a vendor, that is a significant challenge,” he declares.
+
+The cloud does offer civil government some security advantages, especially with its standardization aspects. But that same standardization may limit agility, Garciga offers. Also, a single vulnerability point could provide an intruder with access to all the data in the cloud, so some segmentation would be necessary.
+
+For civil or federal government, moving to commercial clouds calls for a closer relationship with industry. As cloud providers, industry has two key roles, Garciga says. The first is education. Industry must use government input to standardize language so that customers and providers are on the same page. This is vital for effective government acquisition and industry support.
+
+Industry’s second key role is to determine how its best practices and emerging capabilities can serve as enablers for the Defense Department. Because JIDO is a QRC organization, it has been able to exploit that effectively, Garciga relates.
+
+Basic challenges persist for industry. Work remains to be done on security models and how they exist in different environments as well as how they are standardized. Also, small companies need to understand the Defense Department security model. The big cloud integrators need to be teachers in industry, Garciga states.
+
+And industry as a whole must package its capabilities in ways that make them more easily deployable on Defense Department networks, he emphasizes. This is even more important when dealing with big data capabilities. This area needs more refinement, as some models are difficult for the government to deal with—especially when they are proprietary and lack flexibility, he offers.
+
+Garciga continues with predictions about the future of the cloud. The next five years may see an aggressive move of business-type systems that will resemble more of a hybrid model than a full-bore move to the cloud, he says. Mission systems may be part of more private clouds, especially within the defense and intelligence communities. These systems within the Defense Department likely will be hybrid. While business systems will continue to move to the cloud, areas such as health care will face challenges.
+
+Garciga believes that some development activities also will move to the cloud. Software and capability development, from research to production, likely will leverage the cloud extensively. This will take place in both the defense and intelligence communities, he offers. Speed and time to delivery will benefit.
+
+Moving to the cloud will have its most disruptive effect in the development and operations (DevOps) model, Garciga says. JIDO is pushing hard in this area, especially in risk management for cybersecurity. This would entail implementing a fully automated, continuous authorization pipeline to push out capabilities. “That will have huge long-term ramifications,” he declares, adding that it will lead to substantial cost savings and efficiencies.</text>
+  <imgalttext>
+    <img>U.S. Marines in Afghanistan stand watch in a mine-resistant ambush-protected (MRAP) vehicle. The Joint Improvised-Threat Defeat Organization (JIDO) is considering factors such as security and reliability as it carefully weighs which types of data it will move to the cloud.</img>
+  </imgalttext>
+</article>

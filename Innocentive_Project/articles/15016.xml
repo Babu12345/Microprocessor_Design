@@ -1,0 +1,47 @@
+<article>
+  <type>blog</type>
+  <title>Cybersecurity Is About Much More Than Conventional Information Sharing</title>
+  <author>Robert B. Dix Jr.</author>
+  <date>August 28, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>The United States needs to adopt an information sharing model based on those of the National Weather Service and the Centers for Disease Control to address the changing nature of the cyberthreat.</abstract>
+  <text>It is important for Congress to pass meaningful legislation to improve cybersecurity information sharing and provide sufficient liability protection for entities that share sensitive information with the government, along with ensuring appropriate privacy protections. Yet, much more needs to be done quickly to address cybersecurity preparedness and resilience in the United States and around the world.
+
+The Cybersecurity Information Sharing Act (CISA) of 2015 (S.754) is a vital measure that certainly will address some of the current challenges to the exchange of relevant cybersecurity information between industry and government. However, it is important to recognize that information sharing itself is not new and, in fact, has been going on between industry and government as well as within and across industry for quite some time. The significant gap that remains and is largely unaddressed by CISA or any other current proposal is the ongoing reluctance of government to share timely and actionable cyber threat information and threat intelligence with the private sector.
+
+That type of information, when available, often is withheld by government because of classification concerns. Some people offer that too much information is classified and over-classified to the detriment of effective bi-directional information sharing. Such information is a key ingredient to protection, preparedness, and resilience in cyberspace. Similar to physical security, it is not possible to protect everything all of the time in cyber. And, for many companies and organizations, security is about assessing and managing risk and making informed risk management decisions to the greatest extent possible.
+
+Additionally—and regrettably—some people seem to believe that passage of CISA will solve the evolving and increasingly perilous cybersecurity challenge. While information sharing is important, it is just a tool to achieving the real objective; which is timely, reliable and actionable situational awareness during steady state operations and throughout thresholds of incident escalation. Actually achieving a national capability will require establishing a credible early warning mechanism for cyber that relies on the ability not only to share information but also to correlate and analyze the information to identify patterns and trends of abnormal, anomalous or even malicious behavior. This will prompt the issuance of alerts and warnings and even recommended protective measures. This information then would be shared broadly with stakeholders to raise awareness and provoke risk management actions.
+
+Currently, too much effort, energy and resources are spent on response and recovery. An operational capability with an early warning mechanism would allow the United States to improve detection, prevention, mitigation and response to cyber events that may become incidents of national or even global consequence. By flipping the equation, not only does the United States improve its overall cyber protection profile, but also it makes it more difficult and more costly for the adversaries no matter their level of sophistication.
+
+This model is not without precedent. Through leveraging technology to gather, correlate and analyze data streams related to climate and weather, the United States has been able significantly to improve the ability to predict serious weather events; and by issuing early alerts and warnings, along with recommended protective measures, it has reduced the impact of such events and saved lives.
+
+Similarly, through leveraging technology to gather, correlate and analyze health data streams with the appropriate privacy protections, the United States has been able significantly to improve the ability to predict serious health events such as measles outbreaks and the H1N1 virus—with successes similar to hazardous weather forecasts.
+
+In the same way, the United States can create a comprehensive and sustained national capability to improve detection, prevention, mitigation and response to potentially dangerous cyber events. Again, deleterious effects are reduced and lives might be saved, especially with regard to the critical infrastructure.
+
+The improved sharing of threat indicators between industry and government—remember, such indicators are not personal information but instead include items such as IP addresses and file hashes—is an important step, but it is not the only step that is necessary to improve our ability to protect, defend and respond to vital cyber events. Creating a truly functioning operational capability, not just the push and pull of information but instead the necessary analysis to identify troubling behavior and issue early warnings to stakeholders, is critical.
+
+Another important information sharing step that does not require legislation should be implemented immediately. When large-scale cyber intrusions occur, the government often is engaged not just to assist with mitigation and remediation but also from a role in law enforcement and investigation. Such a process typically will identify the tactics, techniques and procedures utilized by the intruder. It also may also identify the protective measures that, had they been in place, might have reduced the effect or prevented the event altogether. An after-action report often will identify findings and recommendations resulting from the investigation.
+
+It would be useful to prepare an unclassified version of an after action report that would be an effective tool to practitioners across the stakeholder community. This should be done where and when appropriate, and without unnecessarily or inappropriately revealing or exposing proprietary information or other findings that may be classified or otherwise not appropriate for public dissemination. This type of report would include information about the tactics, techniques, and procedures utilized by the adversary and what missing protective measures might have helped.
+
+Learning from real-life experience is a powerful tool to assist in informing cyber risk management plans and practices. Leveraging the tremendous capabilities of the FBI, the Secret Service and other components of the government to provide useful lessons learned to the stakeholder community not only would raise awareness but also would contribute to informing users and practitioners about priority approaches for managing risk across their own environments.
+
+The 2015 CISA, along with other pending legislative measures, are important arrows in the quiver of cybersecurity protection and preparedness. Learning from the functional and operational capabilities employed every day by the National Weather Service and the Centers for Disease Control, and applying those lessons to building a comprehensive and scalable national operational capability, will enhance our national cyber protection profile and make it more difficult for the bad guys to achieve success.
+
+Working together in a collaborative manner among all stakeholders—public sector, private sector, academia, non-profits, and many more—can make a difference in addressing the evolving cybersecurity challenge. It’s time to get to it.
+
+Robert B. Dix Jr. is vice president, Global Government Affairs and Public Policy, Juniper Networks
+
+ 
+
+Can an enhanced information sharing effort address the greatest needs for cybersecurity??</text>
+  <imgalttext>
+  </imgalttext>
+</article>

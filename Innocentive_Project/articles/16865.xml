@@ -1,0 +1,49 @@
+<article>
+  <type>blog</type>
+  <title>Securing the Infrastructure Within the Nation's Critical Infrastructures</title>
+  <author>David Young</author>
+  <date>October 31, 2016</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>critical infrastructure</tag>
+  </tags>
+  <abstract>November marks the Critical Infrastructure Security and Resilience month. The strongest assembled securities available today can't fully safeguard the nation's critical infrastructure assets. But the good news is that these vulnerabilities are front and center on official radars and primed for increased attention. </abstract>
+  <text>The strongest assembled securities available today can’t fully safeguard the nation’s critical infrastructure assets. But the good news is that these vulnerabilities are front and center on official radars and primed for increased attention. For starters, the Department of Homeland Security (DHS) has designated November as Critical Infrastructure Security and Resilience (CISR) month.
+
+Many residents might take for granted the importance of critical infrastructure, such as communications, financial service systems, dams, transportation and information technology. How many have given much consideration to what would happen if a power grid were hacked? CISR month devotes attention to the issues the nation faces and boosts awareness of the functions—and vulnerabilities—of the 16 critical infrastructure sectors, “essential services that underpin American society and serve as the backbone to our nation’s economy, security and health,” according to the DHS. Incapacitation or destruction of any of these sectors “would have a debilitating effect on security, national economic security, national public health or safety, or any combination thereof,” agency states.
+
+Put that way, it’s a terrifying idea and no wonder we’re hearing more and more about the government’s digital transformation. This focus has been on the “infrastructure within the infrastructure,” so to speak—the underlying networks that connect everything. Funding and focus seek to get government systems caught up with those in the private sector to more efficiently operate and protect these vast critical infrastructures. 
+
+No organization is immune
+
+All organizations are vulnerable to cyber attacks, with government agencies of late a favorite target. Between 2006 and 2015, the number of cyber attacks increased from 5,500 a year to more than 77,000 a year, according to a study by the Government Accountability Office (GAO). That’s a staggering 1,300 percent increase, but not a big surprise given that cyber criminals release nearly 400,000 new malicious programs every day. Level 3 Communications monitors approximately 1.3 billion security events daily. The statistics might leave some wondering if it’s even worth it to go online anymore. The short answer is yes, but we must be more vigilant than ever in safe cyber practices. 
+
+What can be done? 
+
+A successful security program is a combination of people, processes and technology. Here are three areas to consider when instituting or revising your program.
+
+Training: One of the biggest reasons for a security breach or cyber attack is a lack of internal oversight and protection. Government agencies, and private sector businesses for that matter, can have strong perimeter controls, but often the genesis of an attack starts with something as simple as an employee clicking on a malicious link in an innocuous-looking email. 
+
+This is why it is critical agencies implement a comprehensive employee training program that not only explains security policies but also outlines potential threats and what they can look like. We are all human, and humans are fallible, but adequate training and retraining can help mitigate careless errors. 
+
+A significant oversight often noted is that agencies fail to perform analysis to understand normal user behavior versus non-normal behavior, nor do they monitor how much data an employee downloads on a day-to-day basis. This lets bad actors get into a machine, perform reconnaissance, determine passwords and then slowly download data to an internal system—fooling firewalls by hiding in regular user traffic. Alternatively, this lack of understanding “normal” lets bad actors act with impunity, whether exfiltrating data to file sharing platforms or accessing systems they would not typically access.
+
+Governance: Agencies also need to set up a governance framework to guide how they’ll implement and monitor internal operations (including data and applications) for risk factors. The U.S. government uses Risk Management Framework (RMF), a standard created by the National Institute of Standards and Technology and an integral part of the Federal Information Security Management Act.
+
+Technology: Once agencies understand what their most valuable assets are, they can take the right steps and invest in the right technology to protect them. However, it’s important for agencies to keep in mind buying the security product or service is only half the battle. Implementation and continued oversight/maintenance must be in place. If you don’t have the manpower to do that, you should look at a managed services approach (also referred to as a government-owned, contractor-operated (GOCO) model). The time savings benefit of this approach is significant, plus it’s incumbent on the contractor to ensure the technology is up-to-date and compliant. What’s also valuable about managed services is the contractor can make changes/updates with greater ease, which is critical given how much the security landscape can change overnight. 
+
+We can’t do it by ourselves
+
+Agencies are beginning to recognize the value of collaboration. At this year’s AFCEA Defense Cyber Operations Symposium, the overwhelming message was the need for government and industry to work together to share data and best practices. It’s not just a nice idea—it’s necessary given the proliferation and increasing sophistication of cyber attacks. And it’s necessary for ALL government organizations, not just the larger agencies. According to a report by Keeper Security and Ponemon Institute, 50 percent of small- to medium-sized businesses have been breached in the past 12 months. Given the sensitive information government agencies possess, we can only assume an even higher risk than SMBs. 
+
+It is abundantly clear we can no longer consider cybersecurity “everyone else’s problem.” Every agency must take a proactive approach to its security and work in lockstep with security partners to track and mitigate sources of malicious activity such as malware, phishing, command and control servers, botnets and hijacked domains. Our critical infrastructures are facing an onslaught of assaults from every direction, a volume of attacks that increases by the day. The best way to combat these threats isn’t just about having the latest and greatest security technology – we must work together to continually share data, insights, technology and best practices, because we can’t afford to be a step behind.
+
+David Young is the regional vice president of the government markets group at Level 3 Communications.
+
+This is the first in a series of blogs this month addressing DHS’ Critical Infrastructure Security and Resilience month.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

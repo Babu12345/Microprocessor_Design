@@ -1,0 +1,52 @@
+<article>
+  <type>blog</type>
+  <title>Embracing Data Center Consolidation with Holistic, Integrated Monitoring</title>
+  <author>Chris LaPoint</author>
+  <date>March 27, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>data centers</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Just when you thought consolidation was a good thing. Guest blogger Chris LaPoint addresses the issue caused by consolidation of federal data centers and the added workload for administrators of the remaining centers who must manage the growing infrastructure—and all of the problems that brings—while still meeting service levels required by end users. </abstract>
+  <text>Data center consolidation has been a priority for federal information technology teams since 2010 when the government launched the Federal Data Center Consolidation Initiative (FDCCI). The goal was to close or consolidate 40 percent of government data centers by 2015 to combat server sprawl, centralize and standardize storage, and streamline application management and establish shared services across multiple agencies.
+
+The FDCCI has changed many things about how federal information technology (IT) is set up and created many challenges for federal IT professionals, including:
+
+Managing the consolidation of facilities without an increase in IT staff or a drop in responsibility
+	Adapting to the mandate of utilizing private sector best practices like shared services and cloud computing
+	Shifting focus to optimizing IT through more efficient computing platforms
+Whether all agencies have finished the consolidation mandated by the FDCCI or not, federal IT pros have definitely felt the impact of the change. But now what? How do administrators of the remaining data centers manage the growing infrastructure—and all of the problems that brings—while still meeting service levels required by end users?
+
+One way data center administrators can stay on top of all the change is to implement a holistic, integrated monitoring system. Considering all the individual pieces of the infrastructure together—physical hardware, applications, systems, virtual infrastructure, storage, servers, networks, etc.—will provide better visibility, enable more effective communication with everyone supported by the data center, increase efficiency and provide time to research and implement new technology.
+
+The Value of Implementing Holistic Monitoring
+
+A holistic approach to monitoring provides visibility into both the operations of a whole IT infrastructure and how each individual component is running and impacting the environment as a whole. When implemented correctly, holistic monitoring can bridge the common gap that exists between the IT team and the missions of specific agencies through connected visibility.
+
+Responsibility
+Data center consolidation brings the IT infrastructure for many different departments and agencies under one roof. But who is responsible for what? This notion of shared services, which has long been used in the private sector and steadily is being adopted in the public sector, is one of the cornerstones of the FDCCI. But it initially can be hard to navigate.
+
+The data center team now owns the infrastructure and application operations, but agency employees still need visibility and have a responsibility to their end users—whether they are other employees or individuals—to ensure application performance. By establishing each data center as a shared service with a common console populated with information gathered from the whole infrastructure, both the teams will have visibility into performance with a single point of truth, which streamlines communication, establishes the roles of a shared service and ensures that end users still have access to their mission critical applications.
+
+Application Performance
+Application performance is critical to keeping agencies’ doors open and ensuring they execute their missions, whether providing images of what is waiting on the other side of a hill for soldiers in combat zones or ensuring tax payers can access the IRS website. So when users provide feedback that the application is slow, it is up to data center administrators to find the problem and fix it—or escalate it—quickly.
+
+Individually checking each component of the IT infrastructure—the app itself, servers, storage, database or a virtualized environment—can be tedious, time consuming and difficult. An end-to-end perspective provides visibility into how each component of the environment is performing, and interacting, saving precious time and allowing for quick identification of exactly where a bottleneck originates so remediation can begin immediately.
+
+Virtualization
+Virtualization is here, and it brings many advantages, including high availability and consolidation. But it can also introduce complexities and management challenges. In a virtual environment, virtual machines can be cloned and moved around so easily and often that the impact on the entire environment can be missed, especially in a dynamically changing infrastructure.
+
+In addition, as IT departments continue to consolidate resources to save both capital and operational expenditures, the silos that were established when each agency ran its own data center might come down; but the tribal knowledge in each silo might not translate as efficiently to the new core. For example, consolidating all IT infrastructure management to one team saves money, but that team still needs visibility into how each of the layers is connected to the agency’s business objective. This context allows for quick remediation because the team will see resource bottlenecks and can understand if they are symptomatic of larger performance or design issues that will have lingering impact on end users. Consolidated monitoring and comprehensive awareness of the end-to-end virtual environment is the answer to effective change management in the virtualized environment.
+
+Efficiency
+Efficiency was a key driver behind the FDCCI. Federal data centers grew from 432 in 1998 to more than 1,100 in 2009 and saw a surge in redundant infrastructure that was costly, inefficient and unsustainable. For administrators in the remaining data centers with the task of managing the dynamically growing infrastructure, efficiency can seem near impossible. But with holistic and integrated monitoring that provides end-to-end visibility, data center administrators can troubleshoot issues in seconds instead of hours or days and proactively manage their IT. With this additional visibility and empowerment to proactively monitor each component of the data center, administrators will not only provide end-users with high service levels but also have time to learn, deploy and optimize complex new technology like SDN and SSD storage.
+
+Consolidation is part of the new reality for data center administrators. Holistic, integrated monitoring and management of their dynamically changing IT environment will help to refine the new responsibilities of being a shared service, ensure mission-critical applications are optimized and improve visibility into virtualized environments all while aligning with the FDCCI goals of efficiency through new technology.
+
+Chris LaPoint is vice president of product management at IT management software provider SolarWinds, based on Austin, Texas.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

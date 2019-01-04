@@ -1,0 +1,29 @@
+<article>
+  <type>blog</type>
+  <title>Ambiguities Cloud New Version of Cyber Defense Clause</title>
+  <author>Al Krachman, Esq.</author>
+  <date>April 6, 2016</date>
+  <departments>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>The Defense Department is striving mightily to improve cyber defense, but its new DFARS clause threatens to sow confusion in the acquisition process. So how does the department fix the problem without sacrificing cybersecurity?</abstract>
+  <text>Recently, the Defense Department began incorporating the December 2015 version of DFARS § 252.204–7012, titled “Safeguarding Covered Defense Information and Cyber Incident Reporting” in solicitations and contracts. Unfortunately, the revised clause contains some ambiguities that will make implementation more difficult.
+
+In its broadest sense, the DFARS Cyber Security Clause requires contractors to: (1) provide adequate security of information systems in accordance with certain published standards; (2) investigate and report actual or apparent cyber breaches; (3) preserve affected media and systems; and (4) grant the Defense Department access to facilities and data for investigation and possible damage assessment. The clause contains multiple definitions of terms that specify to which data and systems the rules apply. The clause is dense and challenging to administer.
+
+The December 2015 version has an enhanced reach. Under the prior version of the clause, the cybersecurity requirements had to be flowed down to any firm that provided services or supplies for the performance of the prime contract. But under the December 2015 version, the clause must also be flowed down to two new groups: parties with whom the contractor has a contractual instrument similar to a subcontract for operationally critical support or if its performance of the subcontract will involve a “covered contractor information system.”
+
+What is a contractual instrument similar to a subcontract? The clause does not define the term. Does this mean a license, a transportation tariff, a lease, a promissory note, a grant, a teaming agreement, an LLC operating agreement or something else? This is a very vague formulation that needs clarification.
+
+Another issue is that the government has the right to designate whether a particular company falls within the “operationally critical support” definition. This group is defined in DFARS § 252.204-7012(a) to include companies in the transportation and logistical sectors essential to contingency operations. This also could prove challenging to administer. What if the counterparty does not agree?
+
+Active offerors should check their solicitations to see which version of the clause has been incorporated in their contracts. If the December 2015 version is in the contract, they should use the solicitation Q&amp;A process to gain clarification. Alternatively, contractors might have success in obtaining government agreement to confine the clause’s reach to a narrowly defined list of vendors and/or to approve “best efforts” language. It also might be prudent to send the clause to potentially affected vendors and ask them to comment on compliance and to provide information on the how their prices and/or terms of service would change to account for the compliance burden.
+
+Cyber defense is a high priority, and there is no question that the Defense Department is in a rush to expand the pool of protected companies as far down the supply chain as possible. But in its zeal to spread best practices, it has promulgated a poorly conceived clause that suffers from ambiguities. Hopefully, the next version will correct the problem.
+
+Al Krachman is a Partner at Blank Rome, LLP and may be reached at krachman@blankrome.com.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

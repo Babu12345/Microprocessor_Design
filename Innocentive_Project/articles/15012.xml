@@ -1,0 +1,54 @@
+<article>
+  <type>article</type>
+  <title>Robotics and Autonomous Systems Need Information Interoperability</title>
+  <author>Steven Litwiller and Brian S. Talicuran</author>
+  <date>September 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>unmanned systems</tag>
+  </tags>
+  <abstract>Despite substantial increases in capability and applications, U.S. and multinational robotics and autonomous systems have limited information interoperability, convoluting an already complex data-sharing environment. The U.S. Defense Department finds itself in a predicament created by rapid and independent fielding of systems over the past 10 to 15 years along with the use of proprietary software and payload and bandwidth restrictions.</abstract>
+  <text>Despite substantial increases in capability and applications, U.S. and multinational robotics and autonomous systems have limited information interoperability, convoluting an already complex data-sharing environment. The U.S. Defense Department finds itself in a predicament created by rapid and independent fielding of systems over the past 10 to 15 years along with the use of proprietary software and payload and bandwidth restrictions.
+
+The degree of improved information sharing with robotics and autonomous systems (RAS) varies, depending on the system mission and the type of information. But experts can focus on advancing three general areas of interoperability: within a specific unmanned system, including between a vehicle and its control station; between different unmanned systems, including multiple vehicles and control stations; and between unmanned systems and command and control networks.
+
+A few fixes exist that improve RAS information interoperability, but they come with limitations. For example, a point-to-point solution is not a cost-effective option because it typically is not scalable or reusable. Enterprise-level sharing that allows different systems to access and provide or extract information accommodates an increased number of RAS users, but it is not a comprehensive approach.
+
+Information-sharing shortfalls can lead managers to seek a datacentric strategy. Data is to information as sand is to silicon. Data must be managed properly before critical sensor or control information can be shared within or between unmanned systems. Effective data management enables rapid and accurate automated machine-to-machine information sharing between disparate unmanned systems.
+
+Ongoing work by the Joint Staff’s Command, Control, Communications and Computers/Cyber (J-6) team to implement a datacentric approach is enabling improved information interoperability throughout different systems and across functional areas, including air, maritime and ground. Experts leverage two key elements: Extensible Markup Language (XML) as the common interface between different information systems and the National Information Exchange Model (NIEM) to implement a consistent design and framework for building standardized data exchanges.
+
+XML is a widely available language uniquely built for information sharing between different systems. XML-based data exchanges perform the interchange function through a common schema tailored to the needs of the information-sharing partners.
+
+Meanwhile, NIEM is a community-driven, standards-based framework that provides a template to create data exchanges that can be extended to new participants and repeated for different users. Key elements that ensure repeatability are consistent naming and design rules for schema construction; a known process through which users develop and implement data interface agreements; managed repositories where the agreements are stored and available for reuse; and an organizational management framework to maintain quality control and logical groupings of information-exchange users.
+
+Within the NIEM framework, the military operations (MilOps) domain provides a Defense Department-focused venue for organizations and functional communities of interest to implement data exchanges. A domain is a collection of partners with information-sharing needs. Under the auspices of NIEM and domain rules, users specify the data elements within their prospective exchanges that enable the desired information-sharing requirements. The domain retains a repository of data schema components, reusable as needed for new users, giving them access to either an existing exchange or a new one. Data schema parameters in the domain include warfighter concepts and definitions from doctrinal publications, military standards, industry specifications and community vocabularies.
+
+NIEM hosts users from a broad range of U.S. government agencies and nongovernment organizations and is aligned with a whole-of-government approach. The availability of standardized XML schema language in the NIEM core and domain repositories enables rapid access to and reuse of existing data exchange formats and reduces development time and cost for new exchanges. XML is compatible with common programming languages such as Java, C#, C++, Ruby, Simple API for XML, and Python. Of note, XML will translate other XML-based languages, such as KML or UML. Finally, NIEM’s federated design supports the implementation of automated, machine-to-machine information exchanges without the need for a central controlling function between systems.
+
+A number of implementation concerns and advantages are specific to RAS, beginning with flexible adaptation. RAS data exchanges might involve operational control signals between the platform and control station; sensor reporting from the platform; or transmission of data between operational command and control networks. The system and its program managers determine the utility of XML for these data exchanges. While some exchanges will be more effective without an XML interface, the ubiquitous presence of XML-based data exchanges creates broader opportunities for improving information sharing.
+
+The RAS operational environment imposes constraints, however. Payload and bandwidth limitations restrict the utility of XML, which uses a large amount of coding to perform data exchanges. As a result, the RAS community views XML as a suboptimal choice for information sharing within specific multirobot systems. But binary XML generated with Efficient XML Interchange has been shown to exceed the efficiency of many binary formats.
+
+XML-based data exchanges provide a data-layer solution to the broader problem of stovepiped RAS information. Once implemented, the exchanges offer an option for sharing information at different levels, but they do not address shortcomings such as poor global connectivity, interruptions in satellite communications or insufficient enterprise-level gateways. Managers of specific robotic systems must determine the use of XML-based data exchange.
+
+NIEM uniquely supports data-exchange needs between the U.S. military and its mission partners. It is freely accessible and not constrained by export or proprietary restrictions. Industry and international militaries already use XML, and it is expected to be the basis of standardized data exchanges in future mission networks with coalition partners. Experts continue work to synchronize NIEM MilOps domain-exchange documentation and military data standards, such as STANAG 4586, which relates to unmanned airborne systems, and the Joint Architecture for Unmanned Systems (JAUS), which relates to unmanned ground systems.
+
+A key advantage of XML-based data exchanges is that partners needing to share information do not have to change data stores or standards. Some effort and resources are required to create or manage each exchange, but a wholesale system change is not necessary.
+
+More good news is that NIEM-conformant XML-based data exchanges fit within the Defense Department’s overarching intent. “[The Defense Department] will adopt the National Information Exchange Model (NIEM) as the best-suited option for standards-based data exchanges,” reads a March 2013 chief information officer memorandum on the issue. “This adoption will involve a series of phased implementations by components [and] programs using NIEM content, guidance and tools in an integrated effort to transition current [Defense Department] data exchange standards, specifications and policies to a NIEM-based approach.”
+
+The transition to XML-based data exchanges that conform to NIEM is expected to occur incrementally throughout the Defense Department as systems, capabilities and networks are modernized. Use of the NIEM approach and MilOps domain will generate developmental efficiencies as the Defense Department increasingly uses the model’s life cycle best practices, enterprise standards, policies, shared semantics and common representation.
+
+The Joint Staff J-6 Integration deputy directorate promotes increased standardization of XML data exchanges using the NIEM approach, including experimentation with binary format XML; assists with RAS capability upgrades to XML-based data exchanges; and engages with multinational partners.
+
+Steven Litwiller is assigned to the J-6 data services division as a senior planner and helps implement standardized data exchanges to improve operational information-sharing capabilities. He recently completed two one-year assignments in Afghanistan, working on the country’s biometric identity program and human resources information-management system.
+
+Brian S. Talicuran is employed at Booz Allen Hamilton in Norfolk, Virginia, and supports the J-6 deputy director for C4/Cyber Integration, Data and Services Division. He helps implement information-sharing capabilities across the Defense Department.
+
+The views expressed here are theirs alone and do not represent the views and opinions of the Defense Department.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

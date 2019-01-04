@@ -1,0 +1,26 @@
+<article>
+  <type>blog</type>
+  <title>What If GPS Fails? </title>
+  <author>Robert K. Ackerman</author>
+  <date>September 20, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>News Briefs</tag>
+    <tag>National Institute of Standards and Technology</tag>
+  </tags>
+  <abstract>What happens if the Global Positioning System (GPS) that controls precision time signals goes down? The National Institute of Standards and Technology (NIST) and the U.S. Naval Observatory (USNO), which operate U.S. civilian and military time standards, respectively, have worked with two companies to identify commercial fiber optic telecommunications networks as a practical backup possibility.</abstract>
+  <text>What happens if the Global Positioning System (GPS) that controls precision time signals goes down? The National Institute of Standards and Technology (NIST) and the U.S. Naval Observatory (USNO), which operate U.S. civilian and military time standards, respectively, have worked with two companies—CenturyLink and Microsemi—to identify commercial fiber optic telecommunications networks as a practical backup possibility.
+
+Federal agencies have long recognized the need to back up GPS in case of interference or system failure. GPS transmissions can be disrupted unintentionally by radio interference or weather in space, for instance. Various types of intentional interference also are possible.
+
+To test the idea, an ongoing experiment connects the NIST time scales in Boulder, Colorado, with the USNO alternate time scale at Schriever Air Force Base in Colorado Springs, Colorado, via CenturyLink’s fiber optic cables. The federal time scales, 93 miles apart, are ensembles of clocks that generate versions of the international standard for time, known as Coordinated Universal Time (UTC), in real time.
+
+In this experiment, time signals were sent at regular intervals in both directions between the two locations. Researchers measured the differences between the remote (transmitted) and local time.
+The results showed that UTC could be transferred with a stability of less than 100 nanoseconds—meeting the project’s original goal—as long as the connection was unbroken. This stability level is “good enough to meet a new telecommunication standard,” says lead author Marc Weiss, a NIST physicist.
+
+The project, which was scheduled to end this year, has been extended to January 2017 and may test the technique in a national time-transfer experiment.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

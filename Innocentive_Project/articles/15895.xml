@@ -1,0 +1,53 @@
+<article>
+  <type>article</type>
+  <title>DARPA Christens New Sea Robot Vessel Sea Hunter</title>
+  <author>Sandra Jontz</author>
+  <date>April 7, 2016</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>DARPA</tag>
+    <tag>unmanned systems</tag>
+    <tag>ONR</tag>
+    <tag>Navy</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>The Defense Department's futuristic research agency reached a huge milestone in its robot sea vessel program Thursday, christening its unmanned prototype ACTUV "Sea Hunter" and entering a two-year extended test phase in collaboration with the Office of Naval Research. </abstract>
+  <text>The Defense Department's futuristic research agency reached a huge milestone in its robot sea vessel program Thursday, christening the unmanned prototype "Sea Hunter" and entering a two-year extended test phase.
+
+While the Defense Advanced Research Projects Agency (DARPA) conceived the Anti-Submarine Warfare (ASW) Continuous Trail Unmanned Vessel (ACTUV) program primarily to track enemy submarines, its plug-and-play design makes it versatile enough to be deployed for other missions. “We don't want ACTUV to be a one-trick pony,” said Scott Littlefield, program manager for ACTUV in DARPA’s Tactical Technology Office. “We really want to build a [vessel] that is versatile to carry lots of different kinds of payloads. Because it's big, it's got the space and weight carrying capacity and electrical power needed to host a lot of different things.”
+
+As part of a cooperative program with the Office of Naval Research (ONR), developers are looking at mine countermeasures options, in particular mine sweeping payloads.
+
+The full load displacement of Sea Hunter is about 140 tons when hauling 40 tons of diesel fuel. The composite vessel is powered by two diesel engines that can reach a top speed of 27 knots (31 mph) and is designed for a notional 70-day mission.
+
+The program aim was to develop a sea vessel with a high degree of autonomy. “We didn't want to simply build a remote controlled boat,” Littlefield said during a phone-in press conference. “We actually wanted something that could behave appropriately and do complicated missions under what we call sparse supervisory control. That means there is still a human being in control, but the human being is not joysticking the vessel around.”
+
+During its maiden sea trials, however, Sea Hunter will have an operator at the helm in a removable cockpit, in part because the vessel is unable to recognize bell, whistle and gong signals from other seafaring vessels. “We have done some experimentation on a separate test platform to show that that is technically feasible,” Littlefield said. “But up until now, we have not implemented that on ACTUV. That's something that's in our plans going forward.”
+
+Test runs using a surrogate 40-foot work boat showed the onboard technology can reliably obey the “rules of the road at sea,” or the International Maritime Organization's Collision Regulations (COLREGS) for safe navigation, he said. ACTUV is equipped with the same software, computing plan and sensors as the surrogate. Additionally, bridge-to-bridge communications with other vessels, if needed, can be done by patching a radio through a satellite communications link to a remote human operator.
+
+
+
+Though christened Thursday, the vessel actually launched January 27. Sea Hunter will sail in a few months from Portland, Oregon, where it was built by subcontractor Vigor Industrial, to San Diego to undergo sea trials in collaboration with the ONR. DARPA is slated to hand over program lead and the vessel title to the ONR by the end of this calendar year. Leidos served as the prime contractor, responsible for developing the software and building the full-scale prototype.
+
+“One of the things we want to start exploring with the Navy is how do we use it cooperatively, both with other unmanned vessels but also, and maybe even more importantly, with manned vessels,” Littlefield said. “This whole concept of manned-unmanned teaming is a place that the Department of Defense is trying to go, and I think ACTUV is a great platform for learning how to do that.”
+
+For at least a couple of decades, the Navy has experimented with smaller unmanned undersea and surface vehicles, relatively small variants launched and recovered from another ship. ACTUV differs in its endurance and range. “What we are doing in this program is building something that is substantially larger, that's actually designed to go directly from [dock] out to an objective area and come back, and has enough range and endurance that it can get anywhere in the world from U.S. territories,” Littlefield said. “It doesn't rely on a host ship to launch and recover it.”
+
+Another benefit is diminished survivability requirements to protect crews on manned vessels. “[W]hen you put people on a ship and send them into harm's way you have to do a lot to protect them,” Littlefield said. ACTUV is smaller, less costly and can be put “in situations where you would not be willing to put a manned vessel.”
+
+The construction cost for Sea Hunter is roughly $23 million and DARPA’s cost model to operate ranges between $15,000 and $20,000 a day.
+
+The vessel is not designed to carry weapons but because of its collision avoidance software, will alter course if another vessel approaches. “In effect, it will run away from anybody that's trying to get too close. If some people were able to get on board ACTUV, once we get to a fully operational system, there are no human operable controls for anybody to grab on to and use. It's more likely to see that somebody could disable the vessel than … take it over and drive it into a foreign port.”
+
+Cybersecurity vulnerabilities pose a worry, he said. “It's not only a concern with unmanned systems, it's really a concern with any software-intensive system that DOD operates. I don't know that we're doing anything beyond what the rest of DOD is doing for that. Certainly it's an area we have got to focus on a lot in the future.”</text>
+  <imgalttext>
+    <img>DARPA's Anti-Submarine Warfare (ASW) Continuous Trail Unmanned Vessel (ACTUV) prototype makes a dry run in Portland, Oregon. Officials christened Sea Hunter on Thursday. </img>
+    <img>Portland, Oregon-based Vigor Industrial built DARPA's unmanned sea vessel prototype. Leidos served as the prime contractor.</img>
+    <img>The construction cost for DARPA's Sea Hunter unmanned prototype is roughly $23 million, and will cost $15,000 to $20,000 a day to operate.</img>
+    <img>The unmanned vessel Sea Hunter was conceived to hunt enemy submarines and can be outfitted for countermine missions.</img>
+    <img>DARPA conceived the ACTUV program primarily to track enemy submarines, but its plug-and-play design makes it more versatile.</img>
+  </imgalttext>
+</article>

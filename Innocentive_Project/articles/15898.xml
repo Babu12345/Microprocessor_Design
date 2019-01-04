@@ -1,0 +1,23 @@
+<article>
+  <type>blog</type>
+  <title>DHS Deploys New Information Sharing Technology</title>
+  <author/>
+  <date>April 7, 2016</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>Department of Homeland Security</tag>
+    <tag>Information Sharing</tag>
+    <tag>interoperability</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The Department of Homeland Security Science and Technology Directorate announced today implementation of a new technology to streamline and improve secure information sharing between the DHS and its partners.</abstract>
+  <text>The Department of Homeland Security (DHS) Science and Technology (S&amp;T) Directorate announced today the implementation of a new technology to streamline and improve secure information sharing between the DHS and its partners. The Backend Attribute Exchange will simplify user identification and verification between different organizations for the Homeland Security Information Network (HSIN) by eliminating redundancies while ensuring proper security.
+
+Using the Backend Attribute Exchange, a person’s credentials would be kept at their workplace, and be accessible should they visit another organization. Rather than sending credentials between the locations insecurely, the Backend Attribute Exchange supplies a more efficient, more secure way for the visiting agency to verify the necessary information, according to the announcement.
+
+Developed by Maryland-based Johns Hopkins University Applied Physics Laboratory and Connecticut-based Queralt Inc., with funding from DHS S&amp;T, this system will be utilized as a tangible technology by the HSIN, the department’s own information sharing and collaboration infrastructure, which supports collaboration among federal, state, local, territorial, tribal, private sector and international partners.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

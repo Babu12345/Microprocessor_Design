@@ -1,0 +1,60 @@
+<article>
+  <type>article</type>
+  <title>Elections at Risk in Cyberspace, Part II: Variety is the Spice of Hacking for Voting Machines</title>
+  <author>Robert K. Ackerman</author>
+  <date>October 12, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>Election Cyber Risks</tag>
+  </tags>
+  <abstract>The wide variety of voting machines used across the United States, rather than deterring hackers, actually helps empower them if they want to change the outcome of people’s votes, say many cybersecurity experts.</abstract>
+  <text>
+
+Second in a four-part series on election cyber vulnerabilities.
+
+Election-day activities center on polling places and their voting machines, and this is where the public interest in vote security is most acute. Each state is in charge of acquiring and managing voting machines, and many states have different types of machines within their borders. The wide variety of voting machines used across the United States, rather than deterring hackers, actually helps empower them if they want to change the outcome of people’s votes, say many cybersecurity experts.
+
+Many voting machines are so old that modern security has not yet caught up to them. The differences among voting machines also mean that no single tactic could be employed to cause them to give misleading vote totals. Any coordinated effort to use the machines to affect voting outcomes would have to be tailored to each type of machine and would require an extensive network of operatives to be effective on a large scale.
+
+Some electronic voting machines still in use in the United States date back to the last millennium, according to a report by the Brennan Center for Justice, a liberal nonpartisan policy and law institute connected with New York University School of Law. The oldest machines have all the security of an ATM—which is to say, very little. Newer machines still are vulnerable because they provide access points for cybermarauders to inject malware that could change votes outright.
+
+Direct-reporting voting machines that offer no paper backup are the most vulnerable, states Chuck Brooks, vice president of government relations and marketing for Sutherland Government Solutions. Also, the diversity of electronic voting machines precludes any easy security fix. Few have had software updates, he says.
+
+Touchscreen machines without paper ballot backup can be reprogrammed without any means of auditing the results. In some elections, touchscreens have malfunctioned by displaying incorrect entries to voters just prior to the individual authorization point, Brooks reports. These voters fortunately were able to alert officials at the moment of change, but the vulnerability of unauditable touchscreen machines was demonstrated before their eyes.
+
+Maj. Gen. Jennifer L. Napper, USA (Ret.), group vice president, defense and intelligence, Unisys Federal Systems, and former director of plans and policy for the U.S. Cyber Command, says, “You have everything you can imagine out there in generations of machines.” That in itself is a form of defense, she offers. Even though older voting machines are considered more vulnerable because their security is less sophisticated, one asset they possess is that they never were designed to be connected to the Internet. That cyber threat never will manifest itself to them. And implementing a large-scale onslaught on the voting machine system would take substantial resources of money and power, Napper declares.
+
+Newer voting machines have much better security than their predecessors, says Ron Bandes, network security analyst in the CERT division of the Software Engineering Institute of Carnegie Mellon University. He also is president of VoteAllegheny, a nonpartisan election integrity organization. But even if older ones are not connected to the Internet, they may sit around a polling place for days before an election, which increases their vulnerability to an insider threat. A person with access to the machine could replace its chips or hook up a USB device if the machine is USB-capable.
+
+Many districts conduct a logic and accuracy test on their machines. If a piece of malware were embedded in the activation device used in that test, it could conceivably infect each machine even if they are not networked, Bandes allows. “The fact that the machines are not networked is not necessarily an impediment to a widespread attack,” he says.
+
+He continues that the vastness and diversity of a presidential election is not complete protection. Even a limited but organized effort targeted at changing votes in key districts in swing states could change the outcome in the Electoral College.
+
+Above all, experts agree, the greatest threat to voting machine fidelity comes from insiders. Brooks cites the insider threat as having the greatest potential for affecting voting machine counts. Local officials or even volunteers have access to the machines or their monitoring, and only direct oversight can counter their efforts.
+
+This insider threat even can be inadvertent. In many cases, at least one official in each election jurisdiction—town, city, county or state—is tasked with verifying the machines before an election, and this often is done through a central workstation. A phishing scam directed at that election administrator might help lead to that person’s password for accessing the system. Then, the hacker responsible would have access to all the voting devices under the control of that official, and specific malware could be inserted into all the machines through this backdoor. Similarly, a piece of malware could be injected Stuxnet-style by a jump drive inserted into the computer that accesses the voting machines. Brooks notes that many of these malicious tools are available on the dark web and are well circulated.
+
+Brian Calkin, vice president of operations, Center for Internet Security, agrees that the threat to voting machine fidelity is more of a physical threat than a cyberspace one. The devices are vulnerable largely when they are in storage, in transit or sitting at the polling place waiting to be used, he says.
+
+A cyber system penetration expert who spoke on background notes that red teams hired by state governments have intruded successfully into voting machines. In one case, they effectively demonstrated that they could do whatever they wanted, he claims.
+
+Some teams used parasitic devices—such as those currently plaguing ATMs—that allowed them to manipulate machine results. Again, these would work most effectively if employed by an insider. Hands-on access to a machine can allow an individual to install circuitry that would affect votes beyond the individual machine. Many voting machines in a precinct are daisy-chained, the cyber expert says. If they are hooked up directly into a central system, a virus placed in a data storage card could infect every vote cast during tabulation.
+
+Sabotaging an election through voting machines might not involve altering votes. Simple vandalism could accomplish one goal. Bandes notes that many machines are secured only by a zip tie that defines them as tamper-free. If a polling place’s machines all show broken zip ties on election day, then the local election official must choose between reporting the breaches and facing the possibility of having no available voting machines, or even using the machines despite the possibility they have been altered internally. Just cutting the zip ties in large numbers of machines without tampering with the internal works could throw an election day into chaos, although Bandes suggests that officials might decide it is just a case of vandalism and not a security threat, thus allowing the voting to go on unhindered.
+
+One concern about voting machine tampering focuses on the supply chain. Brooks says it would be difficult to insert malware in the machine supply chain. And, the nationwide voting system’s fragmentation would not permit taking over an election that way.
+
+Napper notes that the National Institute for Standards and Technology (NIST) has published guidelines—which have been updated at least three times in the past eight years—on how to publicly test and certify machines. After they are certified, the machines are secured. The notion that malware already is embedded when a machine leaves the factory is highly unlikely, she says.
+
+Yet even software verification certificates are not foolproof forms of validating the supply chain, Bandes states. The certificate is not a statement of the quality of the software. Some election officials check the firmware by verifying samples of the digital fingerprint against known software.
+
+Calkin relates one story in which a software developer allowed that he could modify machines’ software to alter their results. No indications have emerged yet that it has been done for an election, but “anything is possible,” he says.
+
+Coming tomorrow: Part III, Tabulating the Vote</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

@@ -1,0 +1,64 @@
+<article>
+  <type>blog</type>
+  <title>Guest Blog: Finding the Bug in Your Appstack</title>
+  <author>Chris LaPoint</author>
+  <date>November 4, 2014</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Sixty million malware programs are written annually, according to McAfee President Dave DeWalt. That is up from 3 million in 2007. With attacks aimed at virtually anything connected to the Internet and coming at networks from all entry points, finding the bug in an agency's appstack can prove quite difficult. Guest blogger Chris LaPoint outlines how taking a holistic view of the appstack and optimizing visibility into the entire information technology environment is key to running a healthy organization.</abstract>
+  <text>When a mission-critical application experiences an outage or severe performance degradation, the pressure on the agency and its information technology (IT) contractors to find and fix the problem quickly can be immense. Limited holistic visibility into the status of the underlying IT infrastructure in a high-stakes situation can result in interdepartmental finger-pointing and delay in resolution, so narrowing down the root cause of the problem wherever it exists within the application stack (appstack) and enabling the appropriate IT specialists to quickly address the underlying problem is essential.
+
+Made up of all the components of an IT infrastructure that affect the functionality and performance of an application, the appstack inherently is vulnerable to attacks from countless sources. Further, the impact of an attack in one area can have a chain reaction, ultimately impacting the app’s end user and thus demanding a resolution from IT professionals who are challenged with finding the bug somewhere in the appstack.
+
+This post outlines how taking a holistic view of the appstack and optimizing visibility into the entire IT environment—applications, storage, virtual machines, databases and more—is the key to maintaining healthy applications, and how the right policies and monitoring tools can be useful in quickly identifying and tackling the bugs within it before they become serious performance and security threats.
+
+Know the impact
+
+As an agency IT professional, you know that your IT infrastructure is made up of a complex web of servers, networks and databases, among other things. But an end user with a problem only knows that he or she can’t accomplish his or her task. Like a mechanic finding the problem with a car that’s “making a funny noise,” an agency IT professional is responsible for resolving the problem effectively—and quickly; downtime for mission-critical applications owned by the government can have an impact on military operations, citizen services or services for businesses.
+
+Take a holistic view of monitoring
+
+If you’ve ever sat in an interdepartmental meeting with a team troubleshooting an application problem, you know how much time is lost while people check their individual monitoring tools for issues. Rounds of finger pointing negatively impact morale, waste time and foster an inefficient and unpleasant environment. Wouldn’t it be more effective if you already had a narrowed-down area in which to look for a problem?
+
+Holistic monitoring prevents the “where’s the bug?” issue by keeping an eye on the entire appstack, pulling information from each individual monitoring tool for a high-level view of your systems’ health. This high-level monitoring has several advantages. It:
+
+Gives a high-level performance view that can be checked quickly and efficiently without diving into individual tools
+	Prevents wasted time checking specialized tools that aren’t relevant to a particular problem
+	Allows IT professionals to identify problems not in their areas of expertise (for example, a database administrator could find a problem with a network security setting)
+	Ties together data from in-depth tools to reach conclusions and identify problems across multiple areas (for example, a multipronged cyber attack)
+By providing broader high-level visibility of the status of all layers of the appstack, IT professionals can quickly get an interdisciplinary look at different aspects of the infrastructure and how those various components have changed their configuration and/or performance recently.
+
+Extend the view to security
+
+Another advantage of holistic application monitoring is that it gives visibility into both performance and security. For example, if your agency’s systems are running well from an IT operations standpoint, but an ongoing attack is threatening your servers, the same tools you use for performance monitoring will alert you to the security issues.
+
+A good holistic monitoring tool talks to all your different firewalls, intrusion detection systems and security-focused monitoring tools. It collects log data and correlates and analyzes it to give you visibility into performance and security issues as they’re happening.
+
+For example, an intruder might be trying to log in with a root password and being denied. At the same time, a network switch is seeing attempted logins with the same password. It could be a coordinated attack by a robot trying to log in with standard passwords. A holistic monitoring tool that combines data from these disparate systems will flag this unusual behavior and alert you.
+
+Prioritize monitoring for maximum security
+
+1. Understand what you’re trying to secure. The starting point in every system prioritization is to choose an end goal. What aspect of your appstack is the most important to secure?
+
+For example, if data at rest is the most important to your agency, consider these questions: Does it include personally identifiable information? Where is it stored? Look at your database configuration—is it secure? Also, check your security controls (e.g., encryption) and plan how to monitor them.
+
+Come up with a prioritized list and find out how each priority area is being secured, the technologies being used and the existing monitoring.
+
+2. Use best practices for monitoring policies. If your agency is operating five or six security products, are they being checked regularly? Monitoring tools are only as good as their results, and if no one’s checking in, performance and security issues could be slipping past you.
+
+This is especially the case in agencies with high IT staff turnover. As contractors come and go, tools can fall off the radar. New contractors might not even realize the previous group had been running a particular security scan for years.
+
+Be sure to set up alerts in each monitoring tool as well as running a holistic monitoring tool. This ensures that your IT pros are immediately made aware of issues with individual components of your appstack in addition to the overall insights offered by the holistic tool.
+
+3. Don’t sacrifice your deep-dive specialized tools. Keep in mind that holistic monitoring doesn’t eliminate the need for your existing, individual monitoring tools. No one tool can do it all. It’s good to have a holistic tool with overall visibility, but you’ll also need the more in-depth tools for deeper dives when identifying problem areas. Ideally, your deep-dive specialized tools can automatically provide data to the holistic monitoring tools.
+
+What’s been your experience with deep-dive and holistic monitoring tools? Has either type helped identify, prevent or mitigate a major performance or security issue at your agency? Share your stories in the comments.
+
+Chris LaPoint is vice president of product management at information technology management software provider SolarWinds, based in Austin, Texas.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

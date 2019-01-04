@@ -1,0 +1,21 @@
+<article>
+  <type>blog</type>
+  <title>Georgia Tech to Research Big Data Solutions</title>
+  <author>George I. Seffers</author>
+  <date>December 3, 2012</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Georgia Tech</tag>
+    <tag>DARPA</tag>
+    <tag>big data</tag>
+    <tag>XDATA</tag>
+    <tag>Contract Awards</tag>
+  </tags>
+  <abstract></abstract>
+  <text> 
+A research team at the Georgia Institute of Technology has received a $2.7 million award from the Defense Advanced Research Projects Agency (DARPA) to develop technology intended to help address the challenges of big data—data sets that are both massive and complex. The contract is part of DARPA’s XDATA program, a four-year research effort to develop new computational techniques and open-source software tools for processing and analyzing data, motivated by defense needs. Georgia Tech has been selected by DARPA to perform research in the area of scalable analytics and data-processing technology. The Georgia Tech team will focus on producing novel machine-learning approaches capable of analyzing very large-scale data. In addition, team members will pursue development of distributed computing methods that can process data-analytics algorithms very rapidly by simultaneously utilizing a variety of systems, including supercomputers, parallel-processing environments and networked distributed computing systems. </text>
+  <imgalttext>
+  </imgalttext>
+</article>

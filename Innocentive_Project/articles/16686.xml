@@ -1,0 +1,51 @@
+<article>
+  <type>article</type>
+  <title>U.S. Army Creates Cybersecurity Strategy For a New Normal </title>
+  <author>Sandra Jontz</author>
+  <date>October 1, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>The Cyber Edge</tag>
+    <tag>U.S. Army</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>With cyberspace emerging as a critical warfare domain, U.S. military leaders have been forced to dump both old habits and doctrine in the name of network security.</abstract>
+  <text>With cyberspace emerging as a critical warfare domain, U.S. military leaders have been forced to dump both old habits and doctrine in the name of network security. These arduous tasks are part of adapting to the new normal of the digital age, which can include contorting Army policies and actions to win modern wars and address global crises, says Essye Miller, the Army’s director of cybersecurity.
+
+The service faces a confluence of challenges associated with executing cyber solutions and policies. It must acquire the right tools from a parade of new technologies on the market and draft sweeping changes to strengthen its strategic posture, Miller says. For now, soldiers toil in an ad hoc cyber world that lacks clear definitions and a unified legal framework as leaders work to effectively mitigate cyber risks and minimize damage from attacks—all difficult missions in an era of fiscal constraints.
+
+As the Army creates its cybersecurity strategy, leaders are modifying several industry frameworks to align policies, processes, people and technologies to achieve the service’s goals, Miller notes. “It is of strategic concern because, obviously, we have adversaries who are looking for opportunities to disrupt business or execute an attack,” she says. “We have to be more diligent across the board.”
+
+A suite of new strategic documents guides the Army as it embraces cutting-edge disruptive technologies, cloud services and mobile devices and strives to educate its work force on proper cyber hygiene—still an issue after years of trying to promote it.
+
+“Our new secretary of the Army even recently emphasized the importance of accelerating our cyber capabilities and the protection of our networks because we know the global threat will continue to evolve,” says Miller, echoing the priorities of Army Secretary Eric Fanning. “Bottom line—it is a major focus area for key leaders across the Army.”
+
+The Army is aligning its dollars to meet new cyber priorities, Miller says, as the Defense Department seeks to put its money where its mouth is. The fiscal year 2017 defense budget calls for $6.7 billion for cyber operations, an increase of $900 million compared with the fiscal year 2016 enacted base budget. The suite includes an overhaul of Army Regulation 25-2—which had been the master document for information assurance—to focus on cybersecurity and how officials should protect the Defense Department’s information technology systems, Miller adds. “We are more focused on how we identify potential risks, how we detect potential risks and how we respond and recover should something happen,” she remarks. “We always need to assume there is some level of risk or activity already taking place on the network.”
+
+Another critical policy change involves the migration from a focus on compliance to a risk management framework that streamlines network protections and lets experts address cyber risks, Miller says. “For example, we used to focus on the Department of Defense Information Assurance Certification and Accreditation Process, DIACAP, which was pretty much a checklist of documents and things we had to have in order to get a system certified and accredited to go on the network,” she says. “As we move to the risk management framework, there is a series of security controls that we will look to to identify where we have vulnerabilities. And then we will look to mitigate or determine how much of a risk it poses to us before we put a system on the network.”
+
+The Army’s new cybersecurity strategy aligns with the National Institute of Standards and Technology (NIST) framework for improving critical infrastructure cybersecurity and the Defense Department’s assurances to identify, detect, protect, respond and recover, Miller offers. Additionally, the service has undertaken the mammoth task of converging its networks, integrating distinct staffs and systems into a unified whole to achieve decisive results, she says. It has collapsed the Reserve networks into the Army Enterprise Network and now is folding in the Corps of Engineers and National Guard networks. Next, it will do the same with the medical and materiel communities. “We have to develop the ability to better see ourselves across the enterprise,” Miller says. “Am I properly configured and patched across the network? Do I know what items are patched to the network? Do I know who my user population is so that I can detect behavior? How do I see myself across the enterprise from a compliance perspective: hardware, software, the full gamut?
+
+“It’s a major push for us to get Windows 10 out across the Army. That too will help increase our security posture,” she says of the operating system the Defense Department is investing in for a secure host baseline. Although it is making progress, the Army will fall short of meeting the Defense Department’s early 2017 implementation deadline, she notes. The rollout has been complicated in part by the number of legacy systems that are not compatible with the operating system. “We expect it will take us a little bit longer, given the size and magnitude of the Army infrastructure, but the key is that we are moving.”
+
+Another major challenge Miller faces is addressing cybersecurity hygiene and educating the work force to be more safety-conscious. Cybersecurity is not just an information technology worker’s responsibility. “It really is everybody’s,” Miller submits. “If we are operating on the network, we have a responsibility. Cyber hygiene is a big focus area for us. We are educating everybody, from the senior leaders to the service providers, so that we all understand the role that we play in cybersecurity.”
+
+Despite experts preaching a mantra of good cybersecurity hygiene for years, security lapses remain a problem. The government has pushed documents, plans, regulations and actions in fragmented attempts to quash mounting attacks. Since 2004, October has been observed as National Cybersecurity Awareness Month. These patchwork efforts might have contributed to problems of complacency, Miller offers. “We have focused on this as a once-a-year deal for so long,” she discusses. “We focus on the information, we take a test and we’re good. But the environment has changed so that there has to be a level of focus every day, and we have to be more diligent. That is the key. People know what to do—we just need to make sure folks are diligent in their actions.”
+
+Another part of the Army’s cyber overhaul involves increased reliance on and partnerships with industry and government agencies, Miller says. She offers as an example the closely watched hybrid cloud pilot program at Redstone Arsenal in Alabama, which leverages an on-premises commercially owned, commercially operated cloud model. Redstone has 11 Army data center facilities that will be consolidated to host the pilot. If successful, the scheme could pave the way for additional cloud migration efforts.
+
+As the Army braces itself for the big data assault from the Internet of Things (IoT), the service also is searching for ways to capitalize on potential benefits from analytics while safeguarding its networks. “This is crucial for maintaining a technological edge over our adversaries,” Miller says. “It’s one of those things I’m sure we’ve only scratched the surface to the level that we need to. We have a tendency to collect a lot of data, and in collecting the data, we have to know exactly what we are looking for [to extract anomalous information that might indicate a problem]. How do I capture patterns and correlations to understand what’s going on?”
+
+Adapting to the materializing IoT environment requires cultural and mindset changes, not just the adoption of technical solutions, Miller points out. “Traditionally, we’ve not looked at how we do a risk assessment on an air conditioning system in a building,” she cites as an example. “But if it’s connected to the network, that’s something we need to do. It’s one of those areas that we’re looking at from a facilities perspective and from a network perspective.”
+
+Still, these endeavors could all be for naught if the Army fails to properly build its civilian cyber work force. The service is working to mirror progress made in developing its fleet of active-duty cyber warriors at a time when the private sector tends to lure talent with higher salaries, Miller says. “We need to strike a good balance between what I need from industry versus organic capabilities,” she remarks. “What does an Army cyber civilian look like? How do we recruit, train and retain that force?
+
+“It comes down to the individual and what the individual is looking for,” she continues. “There are things that someone working for the Department of Defense will be able to do that our industry partners don’t. Those will be the key things that we use in recruiting: that desire to serve, that function to protect and the desire to use their highly technical skills in an environment that they probably wouldn’t get exposed to on a normal basis.”</text>
+  <imgalttext>
+    <img>U.S. Army cyber warriors defend the network at the tactical operations center for the 2nd Armored Brigade Combat Team, 1st Armored Division, during a Network Integration Evaluation in fall 2015.</img>
+    <img>U.S. soldiers from Fort Campbell, Kentucky, participate in a live, virtual, constructive integrated training environment, which offers more realistic and effective instruction compared with traditional methods and reduces the cost of exercises and rehearsal drills.</img>
+    <img>U.S. Army staff go through a mission command training exercise in June 2011.</img>
+  </imgalttext>
+</article>

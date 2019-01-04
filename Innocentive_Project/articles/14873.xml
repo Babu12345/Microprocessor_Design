@@ -1,0 +1,41 @@
+<article>
+  <type>blog</type>
+  <title>Military Networks Embracing SDN to Gain Visibility and Control</title>
+  <author>Bob Kimball</author>
+  <date>July 29, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Virtualization</tag>
+    <tag>automation</tag>
+    <tag>SDN</tag>
+    <tag>COTS</tag>
+    <tag>Department of Defense</tag>
+  </tags>
+  <abstract>The Department of Defense plans to leverage open source solutions and services to meet mission requirements, no matter where the tactical edge lies. Guest blogger Bob Kimball highlights how providing connectivity that enables high-performance, assured networking is not only critical, but the reason why defense and civilian agencies are closely examining software-defined networking as a solution. </abstract>
+  <text>The Department of Defense (DOD) plans to leverage open source solutions and services to meet mission requirements, no matter where the tactical edge lies. Providing connectivity that enables high-performance, assured networking is critical, and is why defense and civilian agencies closely examine software-defined networking (SDN) as a solution. 
+
+SDN quickly is becoming the preferred method for organizations to achieve greater network situational awareness, a centralized point of control and the ability to roll out new applications and services—all while lowering operational costs.
+
+In the military arena, SDN enhances network situational awareness, or the ability to scan environments and identify threats, challenges and opportunities without upsetting activities. Virtualization and automation aid military consolidation and cost-reduction efforts by letting administrators migrate features formerly designed in hardware over to software, and improving visibility into network operations. To keep pace with growing bandwidth requirements, along with ongoing consolidation goals, the DOD is tapping into more resilient SDN network infrastructures to migrate from traditional networks. Industry observers also predict widespread SDN acceptance; Infonetics Research, in Campbell, California, projects the global service provider SDN and network function virtualization (NFV) market to reach $11 billion in 2018, a dramatic increase from less than $500 million in 2013.
+
+By leveraging SDN, the DOD can meet consolidation and energy efficiency goals, reduce power consumption, streamline space requirements and lower complexity in data centers. Because SDN is software-based, the technology absorbs networking tasks previously locked inside traditional routers and switches. In conventional networks, the network control plane, which determines how data travels, along with the data plane, which transmits the data, were located in hardware. In an SDN infrastructure, the control plane is a software function that operates independently of network hardware. This logical separation of the network and data control planes enables SDN to support advanced applications and services, including big data analytics, while keeping pace with ever-increasing network service demands.
+
+Through decoupling of network control and forwarding functions, SDN lets network control become programmable, and the underlying infrastructure be abstracted from applications and network services. SDN makes networks more flexible and easier to manage, simplifying and automating labor-intensive network management functions. Distinct advantages for the DOD include:
+
+SDN helps the military rethink how to size networks. There is no need to strand together idle network capacity to meet peak demand, so any excess capacity can be repurposed for other services or applications. 
+	By leveraging commercial off-the-shelf (COTS) technology rather than traditional, the department mitigates being locked in by proprietary network solutions and can trim costs.
+	Information technology professionals can reduce ongoing management headaches and focus on mission-critical tasks with automated network management functions.
+	SDN lets programmers write a common interface and manage multiple devices without learning the intricate features of every type of device on the network. For example, Ciena demonstrated important interoperability features working with Brocade TopRX switches in recent demonstrations. The open architecture that SDN provides can host best-of-breed network applications and services from a number of industry suppliers. And the OpenDaylight SDN controller framework exploits open source innovation, extensibility and openness.
+An early caveat to SDN implementation across the DOD stemmed from initial development in academia, with little initial regard for fully secured network operations. But organizations find SDN delivers stronger-than-anticipated security protections that aid response to ever-evolving threats. Security standards evolve quickly, prompting organizations such as the Open Networking Foundation (ONF) to work on standards. SDN can help the DOD unify network management as opposed to using multiple, fragmented management platforms. Improved visibility also helps deter unauthorized users from transmitting or downloading information.
+
+Security appliances placed in key locations would allow for continuous monitoring to check information flow and detect any anomalous behavior on the network. Ciena demonstrated the integration of multiple COTS solutions to secure SDN and ensure operator authentication, machine-to-machine authentication and encryption of sensitive information, without negatively impacting the network’s flexibility or performance.
+
+The future of networking will rely increasingly on software, and SDN quickly is evolving to resolve crucial challenges for the federal government, particularly the DOD, and keep pace with growing service and security demands. SDN promises to transform military networking.
+
+Bob Kimball is the chief technology officer of Ciena Government Solutions, where he is responsible for technology direction and product positioning for sales of Ciena optical networking products to the Department of Defense, civilian government and the research and education market. </text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

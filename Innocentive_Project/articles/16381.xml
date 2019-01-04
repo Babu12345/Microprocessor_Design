@@ -1,0 +1,60 @@
+<article>
+  <type>article</type>
+  <title>Readily Accessible Encryption Tools Proliferate</title>
+  <author>Paul A. Strassmann</author>
+  <date>August 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Encryption</tag>
+  </tags>
+  <abstract>Privately operated encrypted messaging has become a known unknown. Mission planners now must consider both the increased capability of widely dispersed organizations to operate anywhere under cover and the increased difficulty of penetrating these groups.</abstract>
+  <text>Encryption software that performs many of the functions supporting military command and control networks now is easily available to the public. Not only does it match what U.S. forces use, but also it includes end-to-end encryption and can be downloaded by anyone with Internet access. At the end of 2015, estimates show that was 3.2 billion people globally. 
+
+This development brings a number of consequences. Among them, privately operated encrypted messaging has become a known unknown. Mission planners now must consider both the increased capability of widely dispersed organizations to operate anywhere under cover and the increased difficulty of penetrating these groups. 
+
+Encryption services and solutions are wide-ranging. Internet-based applications, for example, can be obtained from several sources, including mobile phones, for the delivery of end-to-end encryption. Capabilities can include chats, group conversations, proprietary applications, images, videos, phone messages and text files, all available in more than 50 languages. These are offered on demand and without development costs or capital investments. Typically included are safeguards against decryption and unauthorized access to files if removable media are lost or misused.
+
+The cost of a downloaded encryption service is negligible, and the service can be put to use quickly. Personnel with minimal technical training can deploy it instantly for improvised missions. Such services prevent third-party access to communications both at points of origin and at destinations. If encryption keys from a user’s device are captured, transmitted messages cannot be traced or reconstructed.
+
+With end-to-end encryption applications, files can be exchanged between authorized people. Eavesdroppers cannot access the keys needed to decrypt any part of the traffic. Telecommunications and encryption service providers also cannot gain access and are excluded completely by an unbreakable 256-bit encryption. 
+
+End-to-end protection is crucial. An organization cannot afford to lose data because of hacking or compatibility issues with encryption solutions. For truly enterprise-ready security and privacy, data must be individually wrapped in a sealed software enclosure that is completely independent of any software through which it passes. That means as an encrypted document moves in multiple hops from its origin to its destination, protection is never compromised.
+
+International business is embracing encryption on an unprecedented scale. It has become the underpinning for the installation of security safeguards by private organizations as well as government agencies. Because of recent incidents, encryption protection has become a strategic policy issue at the presidential level involving intergovernmental cooperation. To prevent damaging disclosures, top security policy makers want to be certain that data will be protected. Consequently, end-to-end encryption has become a new requirement for all communications that seek delivery privacy.
+
+Increasingly, consumers desire such protection for their own information. Many are turning to WhatsApp, a messaging service owned by Facebook that boasts more than a billion users. The app has an end-to-end embedded encryption option for handling messages, photos, videos and documents. It prevents calls and emails from going to the wrong recipients. People globally connect to WhatsApp an estimated 4.2 million times every minute, making the detection of new users difficult. 
+
+WhatsApp depends on an open-source solution from Open Whisper Systems, which allows users to create custom versions of the app. Local modifications make detecting versions of encrypted algorithms exceptionally difficult. It is noteworthy that Open Whisper Systems has received contributions from open-source contributors and private funds. Financing has included grants from the Open Technology Fund provided by the U.S. government. Open Whisper Systems’ own encryption tools have been downloaded to more than a million mobile phones and integrated into several other messaging applications that offer customized encryption services. 
+
+Other encrypted messaging apps include Viber, which is bringing its service to more than 700 million people, and Telegram, which has more than 100 million monthly users. The two are employed mostly in Middle Eastern and Pacific countries. Both have developed their encryption algorithms as proprietary software that blocks any modifications by developers, which limits their vulnerability to hacking. An encrypted voice call is required to verify a financial transaction.
+
+For email encryption, ZixGateway is an on-site appliance that delivers ZixCorp encryption services. It operates a dedicated server placed at the edge of the local enterprise network to inspect all outbound email. With full content scanning, ZixGateway can encrypt, route or block outbound email. It ensures compliance with company security policies automatically, without requiring special training or procedures for employees. However, this is an example of a proprietary encryption solution that calls for capital expenditures, configuration management and software maintenance. 
+
+The proprietary service Silent Circle (SIGNAL Magazine, December 2014, page 32, “Securing Communications ...”) offers a unique combination of custom-made Blackphone hardware and Silent Suite applications. The end-to-end encryption service allows the deployment of enterprise-level privacy via a private network of mobile phones. Silent Circle requires the purchase of its phones from a limited source of supply and is not a low-cost application. 
+
+Encrypted communications also are available from Cryptocat, Folder Lock, Secure IT, Kruptos 2, CryptoForge, SafeHouse, SensiGuard and Privacy Drive. Overall, the number of encryption applications and their features is growing constantly.
+
+Data backups are the weak link with encryption providers. Files backed up to Apple’s iCloud servers or to Google Drive, for example, are unprotected. That leaves messages open to hackers or to any organization that can force those companies to turn over backed-up data. Decrypted messages should not be backed up to centrally managed clouds. The downside to turning off backups is that data cannot be recovered if it is lost or destroyed. 
+
+The cloud, however, offers another option for end-to-end encryption. Although the adoption of cloud services has been gradual, according to the RightScale 2015 State of the Cloud Report, 93 percent of enterprises are using cloud services to store files that require special safeguards. Google Drive Virtru integrates military-grade encryption with Google Apps to protect users’ information. In this case, data security, particularly the custody of encryption, is delegated to the cloud provider. One of the biggest advantages Google offers is its size and resources. Hosting encrypted files on Google’s servers means they are protected by around-the-clock surveillance, redundancy in case of an outage and compliance with a number of important security standards, including ISO 27001 certification and SOC 3 Type II audits. That transfers the burden of powering, securing and supporting a data center to Google, which provides important security features, such as multifactor authentication. 
+
+Central to Virtru’s encryption philosophy is the idea that data can be locked down independent of its location. Files are accessible only to their recipients and are protected on every Google server. Only the sender owns the keys to encrypted files, which can be accessed anytime or anywhere they are needed. 
+
+End-to-end encryption does have its drawbacks. Although the technology has made secure online payments possible, it also could provide a cover for cyber criminals in developing countries such as Pakistan, for example, in which 14 percent of the population—27 million people—have access to the Internet. With an annual per capita income of $1,400, Pakistanis could have an incentive to shift to Internet commerce for quick gains. Add other countries in which millions of capable youths are unemployed, ambitious and easily subordinated to criminal groups, and the overall incentive is high to gain from money-rich, Internet-based economies by whatever means are available. 
+
+In addition, confrontations can occur when the U.S. government attempts to regulate encryption practices. Reliance on security countermeasures by cyber-defense agencies appears to be the preferred recourse for examining plain text data. This approach is labor-intensive and depends on an extremely limited supply of trained analysts. Unfortunately, attackers greatly outnumber defenders. Defending against an attacker that employs end-to-end encryption is difficult and time-consuming and involves elaborate interagency procedures. 
+
+Key recovery and storage also are tricky issues. In the future, authorized users who want to access restricted government data will be required to use only software in which the government can recover all keys. The best method of storage still is being debated. Whether private keys should be stored at trusted sites or centrally is an enormously complex issue because the diversity of open source applications makes any enforcement of this security unmanageable. Even if central key management infrastructures could be built, there would be other problems, such as constitutional limits, restrictions on the legal authority of agencies and other risks and costs that would make this security approach unacceptable. Identical limits also would apply to any attempts to force the adoption of key recovery encryption through export controls, import restrictions or efforts to establish international standards by bodies such as the International Telecommunication Union or the United Nations. Current governance institutions do not have the scope or the enforcement power to try to control encryption.
+
+All key recovery systems require a sensitive and highly available secret key or collection of keys that must be maintained in a secure manner over an extended period of time. These systems must make decryption information quickly accessible to law enforcement agencies without notice to the key owners. These basic requirements make the problem of general key recovery difficult and expensive for many applications and users.
+
+Clearly, an encrypted future raises many complex questions and challenges. Overall, intercepting and decoding end-to-end encryption will remain one of the most grueling obstacles in managing the collateral effects of national information insecurity. Now, only an authoritative state can be forced to control the proliferations of end-to-end encryption. When that happens, it would become a domain of cyber warfare and not merely one of cybersecurity.
+
+ 
+
+Paul A. Strassmann is a leading researcher on cybersecurity for the International Data Corporation. He formerly served as director of defense information, Office of the Secretary of Defense.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

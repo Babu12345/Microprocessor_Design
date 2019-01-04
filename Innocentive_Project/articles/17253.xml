@@ -1,0 +1,57 @@
+<article>
+  <type>article</type>
+  <title>Clouding the Vision Of the Internet of Things</title>
+  <author>Sandra Jontz</author>
+  <date>March 1, 2017</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Internet of Things</tag>
+    <tag>cloud computing</tag>
+  </tags>
+  <abstract>The move to cloud computing is daunting enough for corporations and governments, but add in the advancing Internet of Things, and any hopes of simple solutions to challenges vanish.</abstract>
+  <text>The move to cloud computing is daunting enough for corporations and governments, but add in the advancing Internet of Things, and any hopes of simple solutions to challenges vanish. The exponential growth of networked devices increases the magnitude of uncertainty about the role the cloud will play in delivering this ubiquitous connectivity.
+
+Whenever just two devices communicate via an Internet connection, a path is created by which a hacker can access and compromise a network. Now multiply these potential attack vectors by what could be 30 billion devices that could fall prey to hacks, and it is easy to grasp why some experts express trepidation about this brave new world of the Internet of Things (IoT). Information technology administrators will have to manage not only the deluge of data but also the multiplication of paths that inevitably will threaten network stability and functionality.
+
+“As you think about the intertwining network webs that go from a [military] headquarters to the farthest edges of the environment, for example, it only takes one strand to compromise the whole network,” says Judson Walker, chief technology officer for federal at Brocade Communications Systems. “That is the scary part about the Internet of Things.”
+
+Add to the precarious equation the protracted migration of U.S. government data to cloud environments, and the result is that security teams require more agile and proactive monitoring tools to safeguard networks than ever before, Walker says. The cloud plays an increasingly important role in the deployment of the complex IoT ecosystem. Manufacturers, telecommunications carriers and application developers all must integrate security solutions within IoT devices to protect data in the cloud. 
+
+The Defense Department is pursuing a hybrid cloud environment that includes on-premise government-controlled services and a mix of on- and off-premise commercially provided services, says Terry Halvorsen, the department’s former chief information officer (CIO). Halvorsen retired February 28 after a 37-year government career.
+
+“It’s not by accident that we are looking at more and more commercial services,” he says. “They can operate generally at less cost than we can.”
+
+The department’s cloud solution, modeled after commercial services, will provide basic enterprise services such as email, chat, video and file sharing, Halvorsen says. Already, a less complex and more agile environment supports Defense Department operations. But leaders want more.
+
+And the department’s hybrid cloud solutions will give them that. They will increase wireless mobility, virtualization and integration of virtual services into strategic defense environments. The department has set a near-term goal to establish an on-premise managed service capability by the second quarter of this fiscal year and highlights some of its plans in the information technology and cybersecurity road map it unveiled in August. The document, “Department of Defense Information Technology Environment—Way Forward to Tomorrow’s Strategic Landscape,” outlines the department’s information technology backbone and cyber defense posture. It plans for a number of efforts, from the crawl to a departmentwide uniform operating system to the elimination of the Common Access Card and consolidation and virtualization of data centers.
+
+No single solution will secure both cloud and IoT environments, Halvorsen says. “It is going to be a combination of factors,” he states, adding that machine learning, or artificial intelligence, will be the next major step in improving cybersecurity. “Do I think the cloud has a role in improving security overall, and can it help with the Internet of Things? Yes. That said, the cloud also brings some of its own security challenges that we have to work through.”
+
+The cyber world on all fronts became more dangerous during Halvorsen’s tenure as first the Navy’s chief information officer, then the Defense Department’s CIO for nearly two years. “The nation-state cyberthreat has grown,” he says. “The criminal cyberthreat has grown. The individual cyberthreat has grown. Almost every form of cyberthreat you can imagine has grown.”
+
+The reason is that committing cyber crimes is easier to do, Halvorsen adds. “There are lots of tools out there on the Internet you can use,” he points out.
+
+Meanwhile, as threats have worsened, the department’s defenses have improved, Halvorsen offers. “Lessons learned had a lot to do with it [as well as] improved technology that gives us better alerts and, frankly, a better view of all of the data across the networks.
+
+“Obviously, the threats will continue to grow,” he continues. “We have to continue to be more agile and continue to explain to everybody that what we put today in this environment is going to have a shorter shelf life than it did even last year. The dynamic threats, the changes in technology, the things that are available ... on the darknet—they’re just there, and we’re going to have to respond to those.” 
+
+The department is doing so by seeking a handful of security tools that would help authenticate network user identities. Pilot programs are underway to test new technologies in the fields of biometrics, behavior analytics and multifactor authentication, with significant input provided by the Defense Innovation Unit Experimental (DIUx). The innovation hub strives to build better connections with technology companies that historically resisted working with the government. Anywhere from eight to 12 different technology solutions could be used at any given time to authenticate users’ identities, Halvorsen says. These controls would be randomly employed to throw off hackers. “We’re getting better and better [at] understanding what the combination of answers will be,” he says.
+
+Cloud security also can be attained, in part, from the process of data tagging. But the volume of data produced by the Defense Department makes the proposition an expensive one, Halvorsen says. “We’ve got to crack the cost nut on that,” he says.
+
+Certain technology could make data tagging easier. “There are some other ways to do [it] that we’ll look at,” Halvorsen says. “[We will couple] that with better ways to monitor what is happening on the network, to include individual behavior—all those things that you build a baseline on to help you identify outliers.” 
+
+Ultimately, the security puzzle must be solved to ensure a smooth transition to the cloud and make way for the IoT. “Leveraging the cloud is critical if the federal government wants to fully embrace the promise of the Internet of Things and the massive amount of data produced by those devices,” says Jamie Brown, director of global government relations for software company CA Technologies in Herndon, Virginia.
+
+In a way, agencies had little choice in migrating to the cloud. In 2011, the government launched the Federal Cloud Computing Strategy, better known as the Cloud First initiative, which issued the mandate.
+
+“Having that cloud familiarity and background will be good as IoT grows in the federal landscape,” Brown says.
+
+ </text>
+  <imgalttext>
+    <img></img>
+    <img>Data, data everywhere, but is the federal government ready? Its move to the cloud coincides with the explosive growth of the Internet of Things (IoT) and impending deluge of data. The cloud will play an increasingly important role in the complex new IoT ecosystem.</img>
+  </imgalttext>
+</article>

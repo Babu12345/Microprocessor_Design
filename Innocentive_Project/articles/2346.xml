@@ -1,0 +1,16 @@
+<article>
+  <type>article</type>
+  <title>Mining Social Networks for Clues </title>
+  <author>George I. Seffers, SIGNAL Online Exclusive</author>
+  <date>July 9, 2010</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>SIGNAL Online Exclusives</tag>
+    <tag>July 2010</tag>
+  </tags>
+  <abstract>An ultra-fast search algorithm that finds patterns in social networks could impact national security, businesses and individuals. A team of University of Maryland researchers developed the computer program, which can be used to uncover covert agents and terrorist groups communicating via social media sites such as Facebook, Flickr, YouTube and Twitter.</abstract>
+  <text>An ultra-fast search algorithm that finds patterns in social networks could impact national security, businesses and individuals.A team of university researchers has developed a computer program that can be used to uncover covert agents and terrorist groups communicating via social media sites such as Facebook, Flickr, YouTube and Twitter.Graduate student Matthias Bröecheler and professor V.S. Subrahmanian, both of the University of Maryland, along with professor Andrea Pugliese from the University of Calabria, Italy, developed the Cloud Oriented Subgraph Identification (COSI) algorithm, which they say will lead to a host of new applications for social networking sites, including applications affecting national security.“COSI is likely to help national security analysts with appropriate court authorization search for patterns of terrorist activities in large networks, given the analysts’ knowledge of what those terrorist cells or activities should look like,” says Subrahmanian.COSI allows for far greater pattern searching on large networks than was previously possible, in part by breaking down the large network into smaller networks called “subgraphs” and storing them on cloud computers. The program also searches large numbers of “edges.” On Facebook, for example, if one person posts a comment on another’s wall, the relationship between those two people is an edge, and the relationship between the comment itself and the person posting it is another edge.Thanks to the innovations of Broecheler, COSI is already capable of searching more than one billion edges in barely more than a second, and the research team envisions pushing that over the next year to 5-10 billion within less than one second.Covert agents, whether spies or terrorists, have two opposing needs—to communicate with one another and to remain hidden, which makes it likely they will turn increasingly to existing social networks. And on those networks, they are likely to display certain patterns of activity and common interests. Dutch researchers had already detailed how such cells would be organized, and the COSI team built on their research and that of other scientists.“The Dutch scientists showed what these cells should look like. We found a very clever way of finding them,” says Subrahmanian. The implications reach beyond national security, however. For individuals, search engines could better differentiate “friends” and suggest groups with more closely matched interests or concerns, while businesses could search allowed information to offer products or services better matched to customers.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

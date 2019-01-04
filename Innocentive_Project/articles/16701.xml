@@ -1,0 +1,50 @@
+<article>
+  <type>article</type>
+  <title>Mission Command From Afar</title>
+  <author>George I. Seffers</author>
+  <date>October 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>U.S. Army</tag>
+  </tags>
+  <abstract>A new system being installed at U.S. Army posts enhances the ability of commanders in garrison to lead forces deployed potentially thousands of miles away.</abstract>
+  <text>A new system being installed at U.S. Army posts enhances the ability of commanders in garrison to lead forces deployed potentially thousands of miles away. It provides seamless communication for remote mission command with no loss of a unit’s warfighting capability.
+
+Army officials in July began installing the Home Station Mission Command Center (HSMCC). The first two units to receive the system are the 4th Infantry Division in Fort Carson, Colorado, and the 25th Infantry Division in Hawaii. This month, the service intends to begin installing the HSMCC for the 1st Infantry Division at Fort Riley, Kansas, and the 3rd Infantry Division at Fort Stewart, Georgia.
+
+Mission command systems provide command and control, distributed planning and situational awareness, key components to success on the battlefield, officials say. The ultimate goal is to enhance the units’ command posts to enable the warfighting functions to be performed while at home station. The HSMCC initiative will accelerate a standardized, efficient command post design for future forces, Army documents state.
+
+That documentation goes on to explain that the service faces a complex world that calls for expeditionary forces deployable on demand to austere locations and capable of executing operations immediately upon arrival. Those forces must, in turn, conduct expeditionary maneuvers to win against increasingly capable and elusive enemies. Therefore, the Army needs to achieve expeditionary, uninterrupted mission command “through a network comprised of intuitive, secured, standards-based capabilities adapted to commanders’ requirements and integrated into a common operating environment,” according to the documents. 
+
+Commanding missions from home stations has been common during the conflicts in Iraq and Afghanistan, but it has been done largely with commercial equipment the units purchased on their own or acquired through base realignments. Much of that equipment now is outdated and expiring. “HSMCC creates a standardized corps-, division- and theater-level home-station command-post capability that supports expeditionary command through an Army field enterprise solution,” explains Lt. Col. Gus Muller, USA, outgoing product director for the Installation Information Infrastructure Modernization Program within the Program Executive Office-Enterprise Information Systems. “That’s important because it really gives commanders increased flexibility in the employment of their forces globally to tailor force structure based on our mission requirements without hindering ... the capabilities of the unit.”
+
+According to Army officials and documentation, the HSMCC provides multiple benefits. It allows the service’s tactical and strategic mission command capabilities to be connected to the garrison information technology infrastructure. The system implements the Army’s emerging operational concepts to support expeditionary mission command throughout all phases of military action. And, in conjunction with an en route mission command capability, the HSMCC provides continuous situational awareness through all operational phases. So, the primary command post remains in garrison while a fraction, or a slice, of the command post deploys as a tactical operations center, Col. Muller explains.
+
+Furthermore, the system reduces the unit’s forward footprint by allowing some routine warfighting functions to be performed from the home station. That is especially important when the service is directed to limit the number of forces in the combat theater. “This enables commanders to enhance the capabilities of those forces in theater without exceeding the force caps,” the colonel elaborates.
+
+The Army began with a site survey to learn what systems and capabilities units have now. That survey has included about 20 sites so far. The information from that study has allowed the service to move into what Col. Muller refers to as the program execution phase. “The first part of our effort is to do a technical refresh of identified unit command posts across the Army. This Home Station Mission Command Center delivers a common baseline for all units and allows a technical hardware refresh of all those existing capabilities that units have effectively brought home,” he says. 
+
+Some of the benefits gained will be through the use of common technology across the service. “The commonality will give us a greater number of display systems for increased situational awareness, enhanced interoperability and increased resolution to display more of the area of operations,” he adds.
+
+The technical refresh includes the audio-video infrastructure within garrison command centers. The audio-video equipment is connected through the Installation as a Docking Station (IADS) to the Army’s mission command capabilities. The IADS system allows access while at base to the same information technology systems and software used on the battlefield. 
+
+The units also will receive a common controller. All the components work together via a local control system configured on a dedicated briefing and display control network. “Every piece of equipment will be controlled by touch-panel systems, like an iPad, in each of the rooms, which will be user-friendly,” Col. Muller reports.
+
+Officials envision completing installation in fiscal year 2020. The next year will begin another technical refresh through an upgrade program that will occur every five years. 
+
+The use of common technology could result in cost savings through a Communications-Electronics Command sustainment plan. “For a lot of these capabilities, the unit funds the sustainment out of pocket, but the strategy going forward is a common funding line to sustain these capabilities,” Col. Muller reveals. 
+
+His office also will support an effort to achieve distributed mission command. The intent is to develop a persistent mission command capability across the centers. The pilot begins with the 1st Infantry Division. “It is the integration and delivery of tactical mission command capabilities from the enterprise,” Col. Muller says. “In other words, it is going to be virtualizing capabilities that currently reside in the ... physical servers and switches that comprise the tactical mission command capabilities and intelligence capabilities that are delivered to units.”
+
+Virtualization in garrison essentially will untether the HSMCC from the mission command components that deploy along with the unit. “By virtualizing those tactical mission command servers, units then can keep those systems ready for deployment and still execute home station mission command through the virtualized enterprise capability,” the colonel adds.
+
+Remaining challenges for the program include refining the HSMCC requirement and gaining approval for a funding strategy. “I would say within the next two budget cycles, we’ll get an Army decision on a formal requirement and a formal program status,” he says.
+
+The HSMCC project provides Col. Muller’s team an unusual opportunity to support deployed forces. “Much of our mission is tied to installation infrastructure, which indirectly benefits soldiers in the execution of their duties, but this builds a direct relationship between our product office and the soldiers who will be using it. What excites me about HSMCC is the opportunity for us to directly support soldier execution of their mission command duties and responsibilities,” he says.</text>
+  <imgalttext>
+    <img>Soldiers fire a simulated tube-launched, optically tracked missile at an M1A1 Abrams battle tank at the Fort Irwin National Training Center in California. The Home Station Mission Command Center now being delivered to select units will enhance the ability of commanders in garrison to lead deployed forces.</img>
+    <img>Soldiers from the 25th Infantry Division in Hawaii provide security while Iraqi soldiers offer humanitarian aid in Shuzayf, Iraq. The 25th Infantry Division is among the first to receive the Home Station Mission Command Center.</img>
+  </imgalttext>
+</article>

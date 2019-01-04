@@ -1,0 +1,52 @@
+<article>
+  <type>article</type>
+  <title>Researchers All EARS for Spectrum Solutions</title>
+  <author>George I. Seffers</author>
+  <date>May 1, 2016</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Spectrum</tag>
+    <tag>research and development</tag>
+  </tags>
+  <abstract>National Science Foundation officials are awarding several grants in the coming months earmarked for research on enhancing access to the electromagnetic spectrum. The grants are part of an effort to identify bold new concepts that could significantly improve the efficiency of radio spectrum usage for all consumers, including the military, government agencies and industry.</abstract>
+  <text>National Science Foundation officials are awarding several grants in the coming months earmarked for research on enhancing access to the electromagnetic spectrum. The grants are part of an effort to identify bold new concepts that could significantly improve the efficiency of radio spectrum usage for all consumers, including the military, government agencies and industry.
+
+The foundation aims to award grants for its Grand Challenge, which falls under the Enhancing Access to the Radio Spectrum (EARS) program, by the end of September, reveals Thyaga Nandagopal, the EARS program manager. Officials expect up to eight awards totaling $10 million. Each grant will have a limit of $1.5 million for three years.
+
+The radio frequency spectrum is a finite and critical natural resource that facilitates a tremendous variety of applications and services, according to the National Science Foundation’s (NSF’s) Grand Challenge documentation. Some of the most prevalent examples include radio and TV broadcasting; cellphones; Wi-Fi; Bluetooth; broadband wireless Internet access; GPS; radar; solar flares forecasting; weather satellites; near-Earth asteroid monitoring; and military, government and public safety communications. 
+
+During the past two decades, use of the radio spectrum has grown dramatically. Wireless systems have proved to be a major productivity tool for every sector of the national economy and have become integrated into the fabric of society. As wireless systems proliferate and new applications emerge, spectrum resources are in ever-greater demand.
+
+Nandagopal says the intent of the competition is to challenge the spectrum community to develop novel solutions “that will allow for unlimited ways of utilizing spectrum,” including methods of “maximizing the number of bits we can send.”
+
+Participants in a 2015 EARS workshop identified four topics of interest for the Grand Challenge. The first area is titled Innovative Radio Hardware and Access Architectures to Enable Spectrum Sharing. Under this effort, the NSF seeks solutions that offer a holistic view combining radio electronics, signal processing, communications and networking to enable spectrum sharing among large numbers of users and devices. “In the future, we are not going to have just one band to share. We may have multiple bands to share with multiple sets of users,” Nandagopal says. He adds that those sharing spectrum may have entirely different uses for it. “This is not just the Department of Defense or federal agencies sharing their spectrum. It may be that commercial users are sharing spectrum when they are not using it.”
+
+The second Grand Challenge topic, Harmonious Co-Existence of Heterogeneous Wireless Technologies, is intended to address interference caused by newer and older technologies designed for different purposes but co-existing in the same frequency, time and space. The intersystem interference may result in significantly degraded performance of one system in the presence of another. Innovative hardware design, network protocols and architecture support are among the developments needed to handle such interference. “If everybody is ready and willing to share their spectrum with everyone else, but they all have different incentives to operate in those different bands, how do we ensure the system doesn’t collapse with everyone stepping on everyone else’s toes?” Nandagopal asks, summarizing the problem.
+
+Development of Automated Detection Mechanisms and Compliance Certification Methods, the third topic area, is “of great interest to everybody involved,” Nandagopal says. The idea is to develop low-cost verification techniques to assure users that those sharing the same spectrum are not pulling a fast one. “I’m giving up my spectrum for sharing. I would like to know the person who is claiming to use it is indeed the rightful licensee,” Nandagopal explains. “If they are misusing it, I should be able to detect the level of misuse, and I should have a documented way of proving it.”
+
+The fourth topic, Spectrum Access for Science Services, is important to scientists, such as those at the NSF and NASA. Physical science researchers often passively observe frequency ranges to sense characteristics of the Earth, the solar system and the universe. Radio astronomy and Earth remote sensing research detects weak, noiselike signals with high sensitivity both inside and outside allocated bands. Other active transmitters can interfere easily with the passive receivers. As a result, spectral bands should be reserved temporarily for passive services. “These are extremely weak signals—a million times, even a billion times weaker than what your average cellphone emits out into the world. Interference can drown these very fast,” Nandagopal elaborates. 
+
+In the Grand Challenge, researchers also can make the case for other areas that are worthy of study. “It’s an open call. We make it very clear there are other grant areas that could be of interest to us,” Nandagopal says.
+
+Clearly, the challenges with spectrum allocation are many. Nandagopal notes that the traditional process for apportioning the resource has been the biggest obstacle to efficient usage and sharing. He compares it to the process for claiming mineral rights. “The person who places a claim to the land gets the claim, regardless of whether they are the right person to exploit or extract the maximum potential from that particular piece of land. Spectrum allocation has always been done in a similar fashion,” he asserts. “The first agency or utility or company that laid claim to a particular swath of spectrum got it, and then once they had a few thousand or millions of dollars invested, it was very hard to encourage them to move out. The federal agencies would love to push them out for various reasons—logistical, financial and other reasons.”
+
+This practice has led to a “huge fragmentation of spectrum,” Nandagopal observes. “Even though we have 6 gigahertz of usable spectrum, the amount of spectrum actually used for transmitting data is less than 1 gigahertz. The other parts of the spectrum are unusable in many ways ... [and] not all of the spectrum is being used at all times,” he says.
+
+The EARS program, which began in 2011, offers two primary benefits, Nandagopal suggests. The first is finding novel solutions for using spectrum. For example, NSF grants fund the Illinois Institute of Technology Spectrum Observatory in Chicago. The observatory gathers data on the “spatial, temporal and spectral characteristics” of radar signals in the Chicago area, he offers. That data is provided to the Federal Communications Commission. “The goal is to identify … whether there are patterns when these [spectrum] bands are not being used and, therefore, to use those empty time slots to best share spectrum with other potential users—wireless broadband networks, for example,” he states.
+
+The other chief benefit of the EARS program is that it helps meet a shortage of spectrum expertise. “It is an immediate concern. That expertise is lacking because most people are gravitating toward computer science, and it is very hard to get trained engineers,” Nandagopal reports.
+
+The shortage of expertise is expected to grow. The average spectrum-related engineer is about 50 years old and will retire at about the same time that fifth-generation mobile networks and wireless systems proliferate, requiring significant spectrum-sharing enhancements. “We expect this program to create this work force that will be capable of handling the next generation of requirements,” he says.
+
+The program already is affecting the work force, Nandagopal adds. He cites the Defense Department-funded National Spectrum Consortium, which works to satisfy the vastly increasing demand for the use of electromagnetic spectrum; stimulate innovation and economic growth; and remove obstacles to U.S. military operations. The consortium includes many academics who have EARS experience. “These academic partners were trained by participation [in EARS], have been inculcated in the values of spectrum sharing, are looking at advanced concepts already and are now contributing to helping the Defense Department in its mission by participating in the National Spectrum Consortium,” Nandagopal points out. He adds that many of the academics as well as small business officials continue to develop the EARS technologies so they can transition to the Defense Department and other departments and agencies. 
+
+Initial efforts under the EARS program focused on specific use-case scenarios and smaller incremental improvements, but the time is right, in Nandagopal’s view, to aim higher. “It is time for the community to come together and dream big to address the bigger challenges that we face right now,” he says.
+
+Technology has come a long way since the rabbit ear antennas of a bygone era, but with new advances come new obstacles. The National Science Foundation (NSF) aims to address those issues through a spectrum Grand Challenge with grants to be awarded this fall.</text>
+  <imgalttext>
+    <img>A U.S. Army soldier with the 101st Airborne Division sets up radio communications inside an abandoned fortress in Afghanistan’s Parwan province. Warfighters’ lives often depend on adequate access to radio spectrum. An NSF effort to improve spectrum access will benefit all users, including military, government and industry.</img>
+  </imgalttext>
+</article>

@@ -1,0 +1,35 @@
+<article>
+  <type>blog</type>
+  <title>Pursuing Cyber Active Defense for Corporations</title>
+  <author>Robert Clark</author>
+  <date>July 27, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>Strong legal issues must be addressed before companies take cyber active defense into their own hands.</abstract>
+  <text>Be careful now, remain calm. The title can excite everyone, and having a conversation on cyber active defense over a few beers can turn fascinating in a heartbleed—I mean heartbeat.
+
+This is a topic that covers computer network defense (cybersecurity/cyberdefense) by looking at the legal aspects of, yes, going farther than “passive defense” and into active defense. Various legal issues arise in each area, and I can offer two active defense case-histories to share and their legal ramifications. One includes the computer fraud and abuse act, CFAA, against the “active-defense” perpetrator.
+
+Now, for my disclaimer. I am not your attorney. Nothing in this or subsequent blogs and/or articles should be considered legal advice. Seek advice solely from your attorney or counsel on all matters. In this business, you do not want to become a “good friend” with your attorney. Don’t take me wrong—I think we attorneys are great people; just make friends with us in a non-work related way.
+
+This brings me to “Clark’s Law.” I know you’ve heard about Moore’s Law and Metcalfe’s Law; now you learn of Clark’s Law: Get your lawyers involved early and often and explain the technology to your attorneys at a third grade level, because we attorneys are going to turn around and have to explain this to senior leaders—and /or judges and juries—at a first-grade level. Moreover, we attorneys are interested in the technology and what you are doing. We have been trained to ask questions and dig in deeper so we can understand. And if your attorneys cannot ask the right questions, well then you should fire them and find some who can.
+
+This is a very important factor if you are a cybersecurity professional or any corporation with cybersecurity responsibilities—and who isn't. I would now say it is negligence not to have an attorney on your staff solely dedicated to these issues. You must have a dedicated “technology” attorney on your staff—not one that just knows intellectual property and patent law or technology law. What is needed is an attorney that understands the law as it relates to computer network operations.
+
+Computer network defense, and active defense, follow the same legal principles as securing and defending property that exists in the physical world. A lot of things must be done before jumping outside of one’s network into the active defense world.
+
+Legal precedent exists. “Property in its nature is an unrestricted and exclusive right. Hence it comprises in itself the right to dispose of the substance of the thing in every legal way, to possess it, to use it, and to exclude every other person from interfering with it.” (Mackeldey, Roman Law § 265 [1883].) Moreover, “[P]roperty is the free use, enjoyment, and disposal of all his acquisitions, without any control or diminution, save only by the laws of the land.” (George J. Siedel, Real Estate Law 21 (1979), citing, W. Blackstone, Commentaries 138.)
+
+Self-defense and defense of property are long-recognized legal doctrines, traditionally protected by the common law. Defending life and liberty and protecting property, 21 state constitutions expressly tell us, are constitutional rights, generally inalienable, though in some constitutions merely inherent or natural and God-given.
+
+However, the right to exclude people from one’s personal property is not unlimited. Using self-defense to protect and secure personal property, one must prove that he or she was in a place he or she had a right to be, acted without fault and used reasonable force the person reasonably believed was necessary to immediately prevent or terminate the other person's trespass or interference with property lawfully in his or her possession. (See Moore v. State, 634 N.E.2d 825 (Ind. App. 1994) and Pointer v. State, 585 N.E. 2d 33, 36 (Ind. App. 1992).) More specifically, this is the common law doctrine of trespass to chattel. And in these cases, the law favors prevention over post-trespass recovery, as it is permissible to use reasonable force to retain possession of chattel but not to recover it after possession has been lost. (See Intel v. Hamidi, 71 P.3d. 296 (Cal. Sp. Ct. June 30, 2003).
+
+The word “reasonableness” is the jumping off point. One must use “reasonable force” to retain possession. Before anyone can jump out of the network and “smack” somebody, that person must take several steps—several reasonable steps—to secure and defend the network.
+
+Robert Clark is an Army Cyber Institute fellow for cyber law at West Point, the U.S. Military Academy.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

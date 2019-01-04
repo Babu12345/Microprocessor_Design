@@ -1,0 +1,53 @@
+<article>
+  <type>article</type>
+  <title>Is Cybersecurity for the Nation's Critical Infrastructure Rooted In the Past?</title>
+  <author>Sandra Jontz</author>
+  <date>October 28, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>critical infrastructure</tag>
+    <tag>DHS</tag>
+    <tag>Industry</tag>
+    <tag>AFCEA</tag>
+  </tags>
+  <abstract>Efforts to increasingly digitize networks that run the nation’s critical infrastructure enterprises also are boosting attack surfaces and vulnerabilities in an enduring cybersecurity contest in which hackers target those weaknesses with an elevated furor, experts admonished during a panel discussion on the issue. What can industry, government and academia contribute to shore up the weaknesses that could bring the United States to its knees?</abstract>
+  <text>Efforts to increasingly digitize networks that run the nation’s critical infrastructure enterprises also are boosting attack surfaces and vulnerabilities in an enduring cybersecurity contest in which hackers target those weaknesses with an elevated furor, experts admonished during a panel discussion on the issue.
+
+In spite of the technological improvements aimed at making systems more efficient and the work easier for employees, the push away from manual and analog systems, even as backups, is ill-advised, said Marty Edwards, director of the Industrial Control Systems Cyber Emergency Response Team (ICS-CERT) for the Department of Homeland Security (DHS). “It is alarming the number of critical infrastructure control systems that are accessible via the Internet,” Edwards said.
+
+Maybe the answers lie in the re-engineering of some of the most critical components into efficient analog systems, keeping offline those networks that could bring the nation to its knees if disrupted by a cyber attack, he said during the inaugural Critical Infrastructure Protection Roundtable, presented Thursday by the AFCEA Cyber Committee.
+
+It is not a “dumbing down of the smart grid,” as he has heard. 
+
+However, the answer might not be abandoning digital to revert to analog systems, offered Dan Elmore, director of Critical Infrastructure Protection at the Idaho National Laboratory. “We’re not going the roll back to an analog stage, at least not intentionally,” Elmore said. Rather, it should be about “engineering out the cyber vulnerabilities.” 
+
+Even though critical infrastructure has been a primary cyber target for several years, it remains one of the most vulnerable. 
+
+Among the 16 critical infrastructure sectors, energy has had the highest number of attacks. The sectors are chemical; commercial facilities; communications; critical manufacturing; dams; defense industrial base; emergency services; energy; financial services; food and agriculture; government facilities; health care and public health; information technology; nuclear reactors, materials and waste; transportation systems; and water and wastewater systems.
+
+Many in the field understand and prepare for threats such as storms or earthquakes, but have yet to fully embrace the cyber risks, offered Marcus Sachs, chief security officer for the North American Electric Reliability Corporation.
+
+Securing infrastructure means a shift in the way officials approach cybersecurity, said Brig. Gen. Gregory Touhill, USAF (Ret.), the U.S. government’s first chief information security officer. “It’s a risk management issue, and not just a technology issue,” Touhill said. Risk might never be eliminated, but it can be managed, he said. 
+
+Better cybersecurity begins with everyone getting better at assessing risk, said Bob Kolasky, deputy assistant secretary for infrastructure protection at the DHS. Additionally, everyone involved must establish trust and relationships—between the critical infrastructure domain, governments, law makers and  private industry. “We’re still making this all up, still writing the rules,” Kolasky quipped.
+
+Several of the safeguarding recommendations offered by the panelists of industry and government leaders are fairly routine but are worth repeating.
+
+Even within the critical structure arena, it is wise to “know yourself and know your adversary,” advised Dennis Gilbert, director of cyber and information security, Corporate and Information Security Services, at Exelon Corporation. If possible, invest in intelligence analysts to ferret out adversaries and their possible motivations.
+	Conduct routine cyber breach drills, Gilbert recommended. Some companies are not doing any exercises, and training once a year no longer is good enough.
+	Take a detailed inventory of all company assets, know what are the “golden nuggets” that need additional protections and invest in safeguarding and segmentation techniques, shared Barbara Humpton, president and CEO of Siemens Government Technologies.
+	Information sharing becomes critical—and not just sharing data regarding threats—but developed and consistent solutions across the board, said Jeff Brueggeman, vice president for Global Public Policy at AT&amp;T.
+“We have to harden the work force,” Touhill said. “The greatest asset is also weakest link.”
+
+Additionally, a cultural shift is taking shape, as organizations train employees through positive reinforcement and rewarding them for good security practices, Brueggeman said.
+
+It’s no understatement that cybersecurity has reached a national security threat level, said Leslie Thornton, senior vice president and general counsel and corporate secretary at Washington Gas. “As you know, there are really bad people trying to penetrate SCADA systems and trying to make bad things happen,” she said of the supervisory control and data acquisition system for remote monitoring and control.</text>
+  <imgalttext>
+    <img>Better cybersecurity begins with everyone getting better at assessing risk, said Bob Kolasky (c), deputy assistant secretary for infrastructure protection at the Department of Homeland Security.</img>
+    <img>Brig. Gen. Gregory Touhill, USAF (Ret.), serves as the U.S. government’s first chief information security officer.</img>
+    <img>Industry, government and critical infrastructure personnel attend the inaugural Critical Infrastructure Protection Roundtable, presented Thursday by the AFCEA Cyber Committee.</img>
+    <img>Several representatives from industry and government address the risks of cyber attacks on the nation's vulnerable critical infrastructures during a session presented by the AFCEA Cyber Committee.</img>
+  </imgalttext>
+</article>

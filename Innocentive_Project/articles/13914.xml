@@ -1,0 +1,28 @@
+<article>
+  <type>blog</type>
+  <title>DISA Issues Draft of Revised Cloud Security Requirements, Seeks Industry Input</title>
+  <author>Sandra Jontz</author>
+  <date>December 15, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>DISA</tag>
+    <tag>cloud</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>The Defense Information Systems Agency (DISA) has released a draft of suggestions and recommended revisions to its cloud computing security requirements guide (SRG), which documents the agency’s cloud security requirements for the Defense Department. When accepted, the new SRG would supersede and rescind the previously published cloud security model.</abstract>
+  <text>The Defense Information Systems Agency (DISA) has released a draft of suggestions and recommended revisions to its cloud computing security requirements guide (SRG), which documents the agency’s cloud security requirements for the Defense Department. When accepted, the new SRG would supersede and rescind the previously published cloud security model.
+
+While DISA no longer will serve as the department’s sole broker of cloud computing services, it continues a key role in providing and maintaining stringent security guidelines for the U.S. military. One of DISA’s key responsibilities is securing the Department of Defense Information Networks (DODIN) by addressing cybersecurity challenges associated with outsourcing Defense Department information technology and data to commercial and non-Defense Department clouds, according to the requirements guide.
+
+The Federal Risk and Authorization Management Program (FedRAMP) is a governmentwide program agencies use to assess and authorize cloud computing products and services for use by the federal government, and it relies on security controls spelled out by the National Institute of Standards and Technology. However, the Defense Department has set standards that go beyond those listed in the FedRAMP, with unique information protection requirements, necessitating controls and additional steps outlined in the drafted SRG.
+
+The SRG will provide the security requirements and guidance ?that non-Defense-Department-owned-and-operated cloud service providers will need to follow if they want to have service offerings included in the Defense Department cloud service catalog. The guide will define the policies, requirements and architectures for the use and implementation of commercial cloud services by the department.
+
+Commercial cloud providers seeking to offer goods and services to the Defense Department will have to comply with the new SRG once it's adopted.
+
+Commercial entities and others interested in making comments to the suggested new guidelines can do so via an email to DISA. Comments are due by December 29. The deadline was extended past December 26, which has been declared a federal holiday.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

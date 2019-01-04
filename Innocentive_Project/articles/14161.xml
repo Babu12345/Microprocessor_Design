@@ -1,0 +1,43 @@
+<article>
+  <type>article</type>
+  <title>Social Engineering Scams Puncture Global Cybersecurity Efforts </title>
+  <author>Sandra Jontz</author>
+  <date>February 25, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Europe</tag>
+    <tag>phishing</tag>
+    <tag>Social Media</tag>
+    <tag>cybercrime</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The European Union faces the same formidable increase in cyber attacks as the United States—but comes up against issues compounded by disparate national laws and cybersecurity expertise, experts say. While technology might lead to some of the security lapses, humans certainly contribute to the problem.</abstract>
+  <text>The European Union faces the same formidable increase in cyber attacks perpetrated by adversaries with improved scope and sophistication as the United States—but comes up against issues compounded by disparate national laws and cybersecurity expertise, experts say.
+
+Many European nations remain a key target for cybercrime because of the “relative wealth, high degree of Internet penetration, advanced Internet infrastructure and increasing Internet-dependent economies and payment systems,” according to a report by the European Cybercrime Centre titled "Internet Organised Crime Threat Assessment (iOCTA)." "Meanwhile, cybercrime itself is a growing problem," reads a portion of the report. “Trends suggest considerable increases in the scope, sophistication, number and types of attacks, number of victims and economic damage.”
+
+Globally, an estimated 2.8 billion people and 10 billion Internet-enabled devices access the Internet, and as the Internet of Things becomes more prevalent, vulnerabilities will be exacerbated, according to the iOCTA.
+
+While technology might lead to some of the security lapses that make networks vulnerable to breaches, humans certainly contribute to the problem as they continue to fall prey to attackers, particularly linked to the uptick of social engineering gone awry, experts say. Intel Security researchers, for example, found hackers increasingly manipulate their victims through social engineering scams, defined as the deliberate application of deceitful techniques to manipulate someone into divulging information or performing actions that result in the release of sensitive information.
+
+“The use of social engineering techniques has become a significant and widespread means of deploying malicious attacks on the Internet to obtain sensitive or classified information from competitors, rivals and governments, among others,” reads a portion the Intel Security report, titled "Hacking the Human Operating System."
+
+Social engineers use malicious websites, emails, telephone calls, face-to-face encounters, the postal service and faxes to trap victims. “A recent trend in the attacks is their targeted nature; criminals are using sophisticated and tailored techniques to deploy malware, usually by spear-phishing emails,” Intel Security researchers reported. Only one-third of global email is legitimate—the rest is spam aiming to extort information and money, the report states. 
+
+The techniques might be sophisticated, but it does not take a genius to carry out some of the breaches. “At present, cybercriminals do not necessarily require substantial technical knowledge to achieve their objectives,” the report states. “Some well-known malicious tools are delivered using spear-phishing emails and rely on psychological manipulation to infect victims’ computers. The targeted victims are persuaded to open allegedly legitimate and alluring email attachments or to click on a link in the body of the email that appeared to come from trusted sources.” An estimated 18 percent of users will unwittingly click a link in a phishing email, the report cites.
+
+Additionally, researchers noted a sharp increase in malicious phishing emails, resulting in more than 30 million suspect URLs recorded by McAfee Labs. About 20 percent of the attacks involve hackers using seemingly benign, bogus websites to deliver vicious malware.
+
+Globally, the average Internet user spends 16 hours per month online, and 27 percent of that time is spent on social networking, according to the iOCTA. Cybercriminals increasingly distribute malware via social media sites as they capitalize on the very idea behind the platforms—encouragement to post and share information.
+
+Criminals also have increased activity on what is called the deep Web or the dark net, which is not utilized by conventional search engines and thus offers users an insulated way to communicate without risk of being traced. It is on the deep Web that many conduct illicit activity such as child pornography, drug deals and human trafficking. The U.S. Defense Advanced Research Projects Agency (DARPA) is developing technology called Memex that searches for and captures content on the deep Web for use by law enforcement.
+
+The iOCTA calls for an increased law enforcement online presence, expanded cooperation with industry, more awareness campaigns, additional resources for victims to report crime, more training for cybersecurity experts, better information sharing procedures and legislation to give law enforcement the authority to apprehend criminals, to name a few recommendations.
+
+“While there is an overflow of information available to millions of citizens and businesses, few effective measures are available to law enforcement to access that information in order to aid the apprehension of criminals that undermine public safety and economic interests,” according to the European Cybercrime Centre, established to inform decision makers at strategic, policy and tactical levels about ongoing developments and emerging threats of cybercrime affecting governments, businesses and citizens in the European Union.</text>
+  <imgalttext>
+    <img>Example of McAfee phishing quiz, determined to be among the most successful phishing email sample to compromise victims' computers through a malicious URL.</img>
+  </imgalttext>
+</article>

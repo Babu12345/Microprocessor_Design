@@ -1,0 +1,29 @@
+<article>
+  <type>article</type>
+  <title>NASA Explores Reconfigurable Space Communications</title>
+  <author>Rita Boland</author>
+  <date>April 25, 2013</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>NASA</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>NASA is advancing information sharing away from planet Earth through the Space Communications and Navigation (SCaN) test bed installed on the International Space Station. Researchers finished the check out and commissioning phases of this software-defined radio (SDR) technology earlier this month and now have commenced experiments.</abstract>
+  <text>NASA is advancing information sharing away from planet Earth through the Space Communications and Navigation (SCaN) test bed installed on the International Space Station. Researchers finished the check out and commissioning phases of this software-defined radio (SDR) technology earlier this month and now have commenced experiments.
+	Initial tests underway include advancing S-band and Ka-band SDR technology while enhancing the capabilities of existing communications paths, especially in the latter band. Three radios reside in the test bed, each with a specific capability. The one working in the Ka-band has high-rate data communications with the latest Tracking and Data Relay Satellite (TDRS). Another working with the S-band can communicate with the TDRS and ground antennas, while the third radio also works in the S-band and can connect to GPS capabilities. According to John Rush, director of the Technology and Standards Division in NASA’s Space Communications Office, the third radio employs a new frequency available on the most recent GPS satellites, allowing personnel to conduct research on GPS in space with that frequency. NASA expects the test bed to operate for up to six years.
+	The agency also is developing network capabilities and protocols it will be testing along with carrying out experiments on new modulation and coding types. Researchers look forward to the point where they can develop cognitive radios, Rush adds. The various experiments cover the gamut of communications, including people to other people; people to machines; and machines to machines.
+	NASA began studying SDRs several years ago, determining through extensive effort that the technology would be integral to upcoming plans. Pat Eblen, project lead for the SCaN test bed, explains that if such radios are “truly the wave of the future ... we want to develop some kind of standard that would standardize the architecture.” NASA created the Space Telecommunications Radio System (STRS) standard to reduce the cost and risk of developing future technologies. The space agency worked with various universities to create the standard and built the SCaN test bed to be compatible with it. The STRS is in its third iteration with a fourth release scheduled in fiscal year 2014.
+	Rather than enabling new mission sets, the knowledge to come out of the test bed experiments will facilitate new functions on future missions. Because SDRs can be reconfigured, users will be able to reprogram assets to perform different activities as needs dictate, potentially creating multifunctional space devices. “Basically we’re flying a computer as a radio,” Eblen says.
+	The SCaN work also will speed development processes, allowing technologies to jump to higher Technology Readiness Levels (TRLs) in one quick step. TRLs assess the maturity level of capabilities on a scale of one to nine, with zero meaning a basic concept and nine meaning a flight proven system through mission operations.
+
+Though NASA is conducting the first experiments in the test bed, the agency has opened it up for other institutions to use. Rush explains that, “NASA comes up with a lot of good ideas, but we don’t come up with all of them.” Industry became involved in the project early. Two of the SDRs used in the SCaN effortwere built by Harris Corporation and General Dynamics; NASA’s Jet Propulsion Laboratory built the third. NASA wants to improve the expertise and knowledge base in industry, which Eblen says is one of the big benefits of allowing companies to participate. Academia and other government agencies also are invited to take part in developing concepts and testing them in a real environment, likely offering better results than ground laboratory experiments. So far, officials are pleased with the interest from outside parties.
+	Funding for non-NASA experiments comes from different places; some bills may be paid entirely by NASA. Outside groups can submit their ideas to the agency, and an experiment board will rank them according to priority.</text>
+  <imgalttext>
+    <img>Images of the SCaN test bed.</img>
+    <img>Images of the SCaN test bed.</img>
+    <img>Images of the SCaN test bed.</img>
+    <img>Images of the SCaN test bed.</img>
+    <img>Images of the SCaN test bed.</img>
+  </imgalttext>
+</article>

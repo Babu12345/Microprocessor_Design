@@ -1,0 +1,27 @@
+<article>
+  <type>blog</type>
+  <title>MUOS-4 Satellite Up and Running</title>
+  <author>George I. Seffers</author>
+  <date>September 2, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>MUOS</tag>
+    <tag>satellite communications</tag>
+    <tag>Lockheed Martin</tag>
+    <tag>Navy</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The U.S. Navy’s fourth Mobile User Objective System (MUOS-4) satellite is communicating from space to the satellite control team after its Florida launch this morning.</abstract>
+  <text>The U.S. Navy’s fourth Mobile User Objective System (MUOS-4) satellite is talking from space to the satellite control team at the Naval Spacecraft Operations Control facility after its Florida launch this morning. MUOS-4 will enable near-global coverage for a new secure military communications network offering enhanced capabilities for mobile forces.
+
+The MUOS-4 satellite launched at 6:18 a.m. EDT this morning aboard a United Launch Alliance Atlas V rocket from Cape Canaveral Air Force Station, Florida, according to a Lockheed Martin statement. A Lockheed Martin-led initialization team, stationed at Naval Base Ventura County, Point Mugu, California, is operating the satellite from its transfer orbit to its test slot.
+
+MUOS-4 is the latest addition to a network of orbiting satellites and relay ground stations designed to revolutionize secure communications for mobile military forces. Users with operational MUOS terminals can seamlessly connect beyond line-of-sight around the globe and into the Global Information Grid. The system’s new smartphone-like capabilities include simultaneous, crystal-clear voice, video and mission data over a high-speed Internet protocol-based system.
+
+The addition of MUOS-4 completes the initial constellation and provides the MUOS network with near-global coverage, extending the reach of communications farther toward the North and South Poles than ever before.</text>
+  <imgalttext>
+    <img>MUOS-4 will enable near-global coverage for a new secure military communications network offering enhanced capabilities for mobile forces.</img>
+  </imgalttext>
+</article>

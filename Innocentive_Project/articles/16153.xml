@@ -1,0 +1,47 @@
+<article>
+  <type>article</type>
+  <title>Boosting Old-Fashioned Detective Work Digitally</title>
+  <author>Sandra Jontz</author>
+  <date>May 26, 2016</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>Department of Homeland Security</tag>
+    <tag>2016 Homeland Security Conference</tag>
+    <tag>Homeland Security</tag>
+  </tags>
+  <abstract>Experts can tap a wellspring of data points to help analysts forecast future calamities, while drones and other airborne assets are giving investigators a bird's-eye view in their pursuit of safety and security. The Department of Homeland Security, for example, draws on software that extrapolates actionable intelligence for law enforcement, in real time, from various sensors that rely heavily on video surveillance feeds.</abstract>
+  <text>Emerging surveillance technology seems ripped from tech-noir thrillers such as 2002's Minority Report, in which police jail would-be murderers before any violence actually has occurred. Just thinking about crimes gets people in trouble. While the predictive nature of today’s analytic tools might not have reached the same levels as in the futuristic action film, the technologies employed to defend the homeland are pretty close.
+
+Experts can tap a wellspring of data points to help analysts forecast future calamities—say, terrorist attacks, civil unrest or crime sprees—while drones and other airborne assets are giving investigators a bird’s-eye view in their pursuit of safety and security. The Department of Homeland Security, for example, draws on software that extrapolates actionable intelligence for law enforcement, in real time, from various sensors that rely heavily on video surveillance feeds, says Chris Jensen, director of business development at Hitachi Data Systems Federal.
+
+Investigators need solutions that rapidly integrate disparate data from sources such as videos, still photographs, 911 calls, license plate recognition systems, weather reports and social media posts, then deposit it all into a geospatial format, explains Jensen, who retired after 25 years with the Phoenix Police Department. There he ran technical surveillance systems and participated in complex intelligence-based and conspiracy investigations.
+
+In a post-September 11, 2001, world, U.S. residents generally have grown accustomed to video surveillance for safety and security reasons and have accepted law enforcement’s increased reliance on open source intelligence, or OSINT, which bulldozed into the intelligence discipline out of necessity. The intelligence community struggles to extract valuable information from the daunting amount of data produced in this Internet-connected, technical age. A clearinghouse repository that provides analysts with easy access, when fully taken advantage of, could have foretold incidents such as the deadly March bombings in Brussels, Jensen contends. “[We] have predictive analytics, where we can look at crime statistics, we can add other data into that—from social media to the weather and a lot of different factors—and we can start looking at different patterns and what they may mean and how they might be indicators of future events,” he says.
+
+These tools have been used in the commercial space for some time, Jensen shares. He cites as an example consumer-targeting software used to figure out people’s spending patterns to craft effective marketing campaigns. “We’re finding we can use the same tools in [the public safety] arena. We can look at data to identify patterns and trends, look at past events and see if those patterns and trends actually lead to that event,” he says.
+
+Industry can help allay public concerns that the U.S. government might overstep privacy bounds, Jensen adds. “That is something that is always a great concern. With technology, now it’s really easy to overcollect. That’s one of the things our types of technology can help with—that ability to really focus on what is important. For us to help collect just the important stuff helps in that regard. This is always that balance between privacy and security,” he says.
+
+Unlike with video surveillance, people are not yet acclimated to drones as investigative and observation aids for military and police entities, says Neil Fretwell, operations director for Intelligence Software Solutions (ISS) Global. The company produces a widely used intelligence management software platform called Dfuze to provide mobile and network applications and streaming live video to law enforcement and military bomb squads, in particular.
+
+“When you tend to a bomb scene on the ground, it’s very difficult to get an overall picture,” says Fretwell, a former investigator for London’s New Scotland Yard. “What you really need is an overview as to how big the actual bomb scene is. [The platform] helps in assessing the risk and any safety aspects that may be hidden, that you cannot see from ground level but can see from that elevated view. Any tool you have that can assist you in speeding up that process [is] almost a one-up for us against the terrorists.”
+
+Dfuze transmits high-resolution video directly to military or law enforcement officials, whether they are using mobile devices on the scene or stationed at a command and control center. The offering is device-agnostic.
+
+For ISS Global, the “homeland” it helps protect now extends to more than 40 nations. Many countries have signed data-sharing agreements, which are required for ISS Global customers to access other nations’ encrypted data. This exponentially increases the data points that could lead to identifying groups or actors behind bombings and attacks, Fretwell explains.
+
+Essentially, Dfuze led to the creation of a comprehensive evidence repository. The concept emerged two decades ago to supply British investigators with information on bombs used by the Irish Republican Army. It has grown to catalog data and evidence about a number of global incidents, Fretwell says. “It moved on from the initial concept to actually becoming a repository about terrorists—their methods of operation, a munitions database, a firearms database—and it just grew and grew and grew,” he says. The platform also has diminished the length of time to get intelligence from the field to decision makers. “Just 10 years ago, we were having to take images and stick them onto a CD, put that on the back of a motorbike and drive it back to Scotland Yard.”
+
+Dfuze can be used for a number of missions, from crime scene investigations to border security, search and rescue operations or reconnaissance of a suspected terrorist cell, Fretwell offers. “Instead of having to put up helicopters that cost something like [$28,000] an hour, you can put up unmanned drones for very limited cost, and it will have exactly the same effect. And they are more maneuverable than helicopters. It’s a massive step forward.
+
+“I don’t think you’ll ever come up with software that will completely solve the case for you, but it is a massively useful aid, pointing you in the right direction,” he continues. “It’s an aid to good old-fashioned detective work.”
+
+For more on this topic, AFCEA is hosting the 2016 Homeland Security Conference June 21-22 in Washington, D.C., exploring the theme of "Securing the Nation—Solving Technology and Human Capital Challenges: People, Partners, Priorities."</text>
+  <imgalttext>
+    <img>ISS Global’s Dfuze software platform incorporates many data elements so law enforcement can log information from crime scenes such as the Boston Marathon bombing in April 2013.</img>
+    <img>Dfuze creates an open source report screen showing incidents such as terrorist bombings in a comprehensive repository of data.</img>
+    <img>The Dfuze software suite provides a facial recognition element. </img>
+  </imgalttext>
+</article>

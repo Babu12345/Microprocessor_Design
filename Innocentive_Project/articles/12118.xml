@@ -1,0 +1,29 @@
+<article>
+  <type>article</type>
+  <title>Scalable Communications Key to Marine Typhoon Response</title>
+  <author>Robert K. Ackerman</author>
+  <date>December 20, 2013</date>
+  <departments>
+    <department>Defense Operations</department>
+    <department>International</department>
+  </departments>
+  <tags>
+    <tag>Asia-Pacific</tag>
+    <tag>emergency response</tag>
+    <tag>Marine Corps Technologies</tag>
+    <tag>PACOM</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>When the U.S. Marines needed to set up an emergency communications system on site in the wake of the devastating typhoon that ravaged the Philippines in November, they used an existing rapid deployment networking suite, which allowed nearly instant links with the two governments and with nongovernmental organizations as well. And, it all began with equipment carried into theater as if it were checked baggage.</abstract>
+  <text>A set of rapid entry communications systems formed the core of networking assets for U.S. military forces providing humanitarian assistance/disaster relief (HA/DR) operations in the Philippines in the wake of the devastating November typhoon. These systems provided scalable links that allowed U.S. forces to interoperate with the Philippine government and nongovernmental organizations (NGOs) in sharing unclassified information.
+	When Typhoon Haiyan devastated the Philippines in early November, U.S. military forces rushed to provide vital aid and help with rescue operations under the heading of Operation Damayan. Leading the way was the 3rd Marine Expeditionary Brigade, an element of the III Marine Expeditionary Force (MEF) in the U.S. Pacific Command (PACOM). The brigade entered the theater with the Deployable Joint Command and Control System (DJC2) Rapid Response Kit, relates Col. James T. Dillon, USMC, the assistant chief of staff G-6, U.S. Marine Corps Forces Pacific (MARFORPAC).
+	PACOM has two DJC2 systems; one located in Hawaii and the other based with the III MEF in Okinawa. The Rapid Response Kit that the 3rd Brigade introduced into the Philippines is the smallest and lightest of the four configurations that make up the DJC2. It provides up to 15 seats for classified or unclassified networks. It offers a small video teleconferencing capability with secure phones.
+	But the Rapid Response Kit, which can be introduced in the equivalent of checked baggage, is only the first increment of the DJC2 that can be deployed in an emergency. Scaling up, the En Route system provides up to 20 seats; the Early Entry system provides up to 40 seats; and the Core system enables up to 60 seats. The En Route system can provide command and control while airborne. The Early Entry system can be up and running in six hours, while the Core system can be operational in less than 24 hours.
+	At its full configuration, a DJC2 system can feature self-generated power, environmental control, clustered shelters and trailers, operator workstations, displays, local area networks, and government and commercial off-the-shelf office automation and collaborative software applications.
+	Members of the 3rd Brigade were on the ground in the Philippines within 48 hours of the government’s request for help, and they established their base of operations at Villamor Air Base in Manila, the home of the Philippine Air Force that largely was left unscathed by the typhoon. Their Rapid Response Kit, which has no servers, provided reach-back capabilities to defense networks through military and commercial links. Col. Dillon explains that a Hawkeye Lite system and a SWE-DISH AN/USC-68 provided commercial Ku-band links, and an Inmarsat global area network terminal provided backup connectivity. Users had a small video teleconferencing capability with secure telephony.
+	The commanding general of the 3rd Marine Expeditionary Brigade, Brig. Gen. Paul J. Kennedy, USMC, opted to rely on the nonsecure Internet protocol router network (NIPRNET) for the HA/DR operation. This enabled NGOs to benefit from information sharing throughout Operation Damayan.
+	Col. Dillon notes that in addition to satellite connectivity, Gen. Kennedy was able to use his cell phone and his BlackBerry in Manila. The cell phone network there was fully operational, so the general could communicate with others via voice and email.
+	“Information flowed via unclassified email, cell phones and BlackBerrys, and the APAN [All Partner Access Network] portal,” Col. Dillon explains.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

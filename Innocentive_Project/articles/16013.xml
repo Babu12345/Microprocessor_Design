@@ -1,0 +1,35 @@
+<article>
+  <type>article</type>
+  <title>President's Commentary: Mobile C4 Is Poised for a Leap Ahead</title>
+  <author>Lt. Gen. Robert M. Shea, USMC (Ret.)</author>
+  <date>May 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>mobile</tag>
+    <tag>C4</tag>
+  </tags>
+  <abstract>Warfighters and decision makers alike laud the advent of mobile command, control, communications and computers (C4). Yet in many ways, our forces are relegated to dealing with legacy systems—even newly fielded ones—that employ relatively old technology compared with today’s rapidly evolving commercial wireless capabilities.</abstract>
+  <text>Warfighters and decision makers alike laud the advent of mobile command, control, communications and computers (C4). Yet in many ways, our forces are relegated to dealing with legacy systems—even newly fielded ones—that employ relatively old technology compared with today’s rapidly evolving commercial wireless capabilities. Commercial technology development and adoption have outpaced their military counterparts, and our adversaries are exploiting this gap. Nonetheless, this same commercial technology offers our military an opportunity to greatly advance the use of mobile C4 and increase its effectiveness.
+
+In the past, most tactical military communications employed push-to-talk radio. Now, mobile C4 is highly networked. Ubiquitous mobile solutions can tie together all elements of the joint task force (JTF) by providing continuous and timely command and control (C2), intelligence updates and real-time targeting. In the not-too-distant future, as the Internet of Things takes hold, autonomous vehicles will provide real-time logistics updates to forces and decision makers. This will lend itself to more efficient and effective administrative and logistics planning. 
+
+Meanwhile, opportunities presented by commercial information technology already are being employed against U.S. forces, which are seeing their technological edge over adversaries erode. Our adversaries are thinking enemies who rapidly are adapting and exploiting new technologies. Their ability to respond much more quickly than in the past reflects a willingness to sacrifice security for speed. On the other hand, our forces often must sacrifice speed for security, even when information is highly perishable. We must not forget that speed provides the decisive edge in battle, especially at the tactical level. 
+
+Legacy capabilities frequently inhibit the military’s ability to move data as quickly or securely as the commercial sector. We have not fully realized the true potential of incorporating commercial technology in our tactical warfighting domains. We must rapidly learn to leverage commercial technologies and techniques so that we maintain a decisive advantage over any enemy we face. 
+
+Being ever mindful of security, the government can start by encouraging commercial application designers, under a thoughtful and responsive joint configuration management process, to develop tactical C2 apps that can be embedded in tactical devices similar to smartphones or tablets. Information can be transported over a mobile, ad hoc network supported by and integrated with diverse media—a combination of Wi-Fi, legacy tactical radio, satellite communications, vehicle-mounted hot spots and relay points, soldier-/Marine-/SOF-embedded relay capability and mobile relays such as unmanned aerial systems (UASs), micro UASs and lighter-than-air platforms. 
+
+This network can, in turn, reach into a highly mobile “tactical cloud” to provide the handheld user with a wide range of C2 information, some of which is derived from other associated clouds. The user then can deposit information into the cloud for further exploitation. Device and application software updates are done in the same manner as commercial smartphones.
+
+The network’s survivability is enhanced through its robustness. For example, a warfighter using an appropriate app can obtain timely situational awareness—think of the traffic and navigation app Waze—and another app can search for intelligence data or display different views of the battlespace from specific sensors based on individual requirements. Integrated apps—such as combining a fires app with a C2 app—could lead to dramatically increased situational awareness and two-way exchanges of information. 
+
+The network must be able to operate in a dynamic, diverse and contested radio-frequency environment. Fortunately, the technology to accept a wide range of radio-frequency waveforms and convert them to Internet protocol already exists and has been adopted on a relatively minor scale. Also, it is critical for the network to be able to instantly sense changes in the environment and automatically reconfigure its infrastructure.
+
+Technologically, the full mobile C4 concept is well within reach. The entire process starts with government and industry officials sitting down as partners and examining the commercial world’s capabilities and research and development efforts and the government’s requirements. To that end, relationships between government and industry must be strengthened. The walls of mistrust and the unnecessary and artificial barriers to information exchange put in place by a stubborn and arcane bureaucracy need to be removed and replaced by responsibility and accountability. 
+
+We usually find the resources to support warfighters at the JTF component level and above, but we seldom find the resources to fill out the tactical level. Mobile C4 moves in that direction. Instead of highlighting the “last tactical mile”—the perceived gap between national intelligence systems and battlefield operations—we need to re-emphasize the “first tactical mile,” or getting enough information to and from the front lines. </text>
+  <imgalttext>
+  </imgalttext>
+</article>

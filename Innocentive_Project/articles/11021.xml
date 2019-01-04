@@ -1,0 +1,31 @@
+<article>
+  <type>article</type>
+  <title>Unmanned Systems Soon May Offer Universal Remote</title>
+  <author>Robert K. Ackerman</author>
+  <date>May 9, 2013</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>command and control</tag>
+    <tag>Navy Technologies</tag>
+    <tag>sensors</tag>
+    <tag>surveillance and reconnaissance</tag>
+    <tag>unmanned systems</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>Unmanned vehicles may become joint platforms as new software allows operators using a standard control system to use craft employed by different services. So, an Army squad deep in the battlefield may be able to use data accessed directly from a Navy unmanned aerial vehicle to bring an Air Force strike to bear against enemy forces.</abstract>
+  <text>Software enables users to access and control information from different vehicles.
+A new software tool incorporated into common control systems can allow different users to exploit data from a variety of unmanned aerial systems (UASs). The tool ultimately may permit forces to control unmanned systems launched by other services in joint operations.
+	The UAS control segment (UCS) software, developed by the Office of Naval Research (ONR), builds on Defense Department UAS standardization efforts, particularly the bidirectional remote video terminal, or BDRVT, which is to be built by individual services. Originally deployed by the U.S. Army in the Iraq War, this small ruggedized handheld system has undergone several iterations and currently is fielded in Afghanistan.
+	Installing the UCS on a BDRVT provides “a strong potential for interoperability” among UASs, says Wayne Perras, senior adviser on rapid prototype development and experimentation at the ONR. An operator at a common control station could control the payload of a UAS originally not designed to operate under that user’s purview. For example, special operations forces with authorization can control the sensor payload of a UAS launched by the Army or Navy using their own BDRVT.
+	This opens up the use of one service’s UASs by personnel in other services. A BDRVT operator without any training in a UAS flying in the battlespace can direct the vehicle’s payload to aim its sensors in specific directions. This qualifies as level 3 UAS control, Perras explains, but it may extend beyond that level if the vehicle alters course to follow the sensor track requested by the BDRVT user.
+	He adds that the new UCS also can permit vehicle control by authorized users, which constitutes level 4. So, conceivably, the Navy could launch a UAS and then hand off control of both the vehicle and its payload to an Army BDRVT user ashore who steers it to follow a moving target on land. The UAS would continue the link with its original ground station, which would maintain default and overriding vehicle control. Perras points out that exploiting this capability will require operational and procedural policy agreements among the services.
+	Perras explains that the ONR designed the UCS to meet the Defense Department’s single prescribed data model. The office approached Kutta Technologies Incorporated, which developed the BDRVT and its original software, and had the company decompose its software into a set of services that would be rewritten using the data model. These services were recomposed into a BDRVT for a successful static testing regimen, he relates. Further software grooming was performed by Naval Air Weapons Station China Lake.
+	The Defense Department now is directing the military services to build the UCS into their BDRVTs. The department also is posting the UCS in a government-controlled storefront so the control system’s services can be available to any BDRVT or other UAS common control station. The new UCS should provide substantial cost savings, Perras offers, adding that it already is providing a large return on investment.
+	Perras relates that the ONR has passed along areas that needed refinement to the UCS consortium. These suggestions include potential improvements that would go beyond UASs and include greater autonomy, particularly for underwater and ground vehicles. He notes that the autonomy work performed by the ONR has been preliminary, but it can be expanded for the other types of vehicles.
+VIDEO: The ONR explains the development and benefits of the UCS for unmanned vehicle control.
+</text>
+  <imgalttext>
+  </imgalttext>
+</article>

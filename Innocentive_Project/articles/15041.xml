@@ -1,0 +1,23 @@
+<article>
+  <type>blog</type>
+  <title>Researchers Develop Low-Cost, Low-Power Embedded Computers</title>
+  <author>George I. Seffers</author>
+  <date>September 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>research and development</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>Electrical and computer engineers at North Carolina State University have developed prototypical embedded computing devices that use little power and cost less than current devices.</abstract>
+  <text>Electrical and computer engineers at North Carolina State University have developed a new technique for creating less-expensive, low-power embedded computing devices useful in everything from thermostats to automobiles and a wide range of defense or security-related systems.
+
+The researchers made two prototype systems with power converters using the new technique and compared them to dozens of other compatible power converters on the market. They found that none of the other converters could match the prototypes’ combination of low cost and high efficiency.
+
+The second-best prototype had 90 percent efficiency, meaning less than 10 percent of the energy was wasted, researchers say. The best prototype had 95 percent efficiency. And both had component costs of about 50 cents. All other converters either cost more, were less efficient or both.
+
+“Using our techniques, we’ve been able to create prototype systems with power converters that have a combination of energy efficiency and low cost that—as far as we’ve been able to tell—is unmatched by anything currently on the market,” Alex Dean, co-author of a paper on the work and an associate professor of electrical and computer engineering at NC State, said in a written announcement.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

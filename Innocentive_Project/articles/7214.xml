@@ -1,0 +1,36 @@
+<article>
+  <type>blog</type>
+  <title>How to Improve Cyberdefenses at the DoD</title>
+  <author>Paul Strassmann</author>
+  <date>August 23, 2010</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>Cybersecurity</tag>
+    <tag>Cyberspace</tag>
+    <tag>Defense Department</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>A different cybersecurity culture needs to be diffused throughout the Defense Department. It will have to view cyberdefenses not as a bandage to be selectively applied to a patchwork of applications. The new cybersecurity must become an inseparable feature of every computer technology that enables our operations.</abstract>
+  <text>Part 2 of 2
+
+Defense Department IT budgets are now fully mortgaged to support ongoing operations and maintenance, while most large development funds are still paying for continuation of programs that were started years ago. With regard to the concerns I've raised in my previous post, here are some ideas on what should be done:
+The Defense Department should proceed with the rapid consolidation of its communication infrastructure to generate cash that will pay for the merger of costly applications. SECDEF Robert Gates observed correctly on August 9 that "...all of our bases, operational headquarters and defense agencies have their own IT infrastructures, processes, and applications.  This decentralization results in large cumulative costs, and a patchwork of capabilities that create cyber vulnerabilities and limit our ability to capitalize on the promise of information technology."Defense Department communications also cannot depend on the routers and servers that are a part of the public Internet. Instead, the department should switch to computing "on the edge" that utilizes government-controlled assets. Communication costs are the largest single component of the Defense Department's IT budget and can be reduced materially.
+ The Defense Department should proceed with the consolidation of its servers and pack them through virtualization into a small number of fully redundant (and instant fail-over) data centers. Greater than 50 percent savings are available in operating costs, with payback periods of less than one year. Adopting platform-as-a-service cloud technologies will make that possible.  Switching to network operated computing devices (thin clients) and to open source desktop software can also produce additional large savings.
+The Defense Department should complete its data standardization efforts that were started in 1992 and mandate compliance with an enterprise-wide data dictionary. It should proceed with the standardization of meta-data definitions of all Defense Department data elements. The organization for accomplishing that is already in place.
+ The Defense Department should dictate the acceptance of an all-encompassing systems architecture that would dictate Program Executive Officers (PEOs) how to acquire computing services and contractors how to build new application software. The current Defense Architecture Framework (DoDAF) as well as the OSD published architecture directives have not been accepted by the Services and should be superseded.
+ From a cyberdefense standpoint, the Defense Department should set up network control centers that would apply state-of-the art monitoring techniques for complete surveillance of all suspect incoming as well as outgoing transactions. One-hundred percent end-to-end visibility of all Defense Department communications is an absolutely required capability for security assurance as well as for total information awareness.
+
+The recent reassignment of the Network &amp; Information Integration (NII) from the Office of the Secretary of Defense to the Defense Information Systems Agency (DISA) can be seen as an indication that a combination of policy and execution of enterprise-wide communications will be forthcoming. The Cyber Command now controls DISA. There is hope that DoD will finally have an organization that has the charter to deliver working cyberdefenses.
+
+However, the combination of NII, DISA, NSA and the Cyber Command is insufficient. Cyberdefense inadequacies are embedded into the proliferation of the applications and into the fracturing of the infrastructure. They can be found in the absence of funding to launch a rethinking how to manage cyberdefenses in the decades to come.
+
+A different cybersecurity culture needs to be diffused throughout the Defense Department. It will have to view cyberdefenses not as a bandage to be selectively applied to a patchwork of applications. The new cybersecurity must become an inseparable feature of every computer technology that enables our operations.
+
+Paul A. Strassmann is a Distinguished Professor at the George Mason University. He is the former Director of Defense Information, Office of the Secretary of Defense.
+
+The views expressed by our guest bloggers are their own and do not necessarily reflect the views of AFCEA International or SIGNAL Magazine.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,30 @@
+<article>
+  <type>article</type>
+  <title>A New Twist to Light Wave Communications</title>
+  <author>Robert K. Ackerman</author>
+  <date>January 19, 2013</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>research and development</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>Twisted beams of light may illuminate a straight path to more secure and higher capacity communications. A new type of photodetector developed at Harvard’s School of Engineering and Applied Sciences (SEAS) allows systems to judge these beams by their spin rate. It will allow the encoding of an infinite amount of numbers in those data streams, which offers the potential for dramatically larger data rates as well as better encryption.</abstract>
+  <text>
+	This artist's concept depicts a twisted vortex beam striking the gated photodetector, which filters the waveform by matching its twist pattern. This allows scientists to embed data in the waveform. (Credit: Patrice Genevet)
+Scientists have developed a device that reads the way that light waves twist in a vortex beam. This exotic research could enable communications systems in which signals are encoded in the beam twists to be read as they pass through a dedicated detector, which would increase dramatically the communications capacity of data-carrying light waves.
+Scientists at Harvard’s School of Engineering and Applied Sciences (SEAS) have modified a classic silicon-based photodetector to monitor the number of twists in the waveform of a beam of light. These detectors can read both the intensity of the signal and information on the light wave itself. With a vortex light wave, which twists like a corkscrew, the new detector would read the nature of the twists in the wave. Other more complex detectors have demonstrated a similar capability, but the SEAS unit enables conventional technology to be adapted to this use.
+	This capability could be applied to communications, both classical and quantum, explains Dr. Patrice Genevet, research associate in applied physics at SEAS. He and his fellow researchers modified a light detector to give information on the phase of the light beam. So, instead of simply assessing the amplitude of the light wave, the new detector assesses the characteristics in its spin.
+	Current light wave communications systems separate messages by fractions of wavelengths—wavelength division multiplexing. But, vortex beams with their twisted light streams now can provide an additional level of multiplexing with this type of photodetector, which measures the orbital angular momentum.
+	The new device adds a gold-plated metallic pattern to a traditional photodetector. This pattern matches the specific orbital angular momentum in an incoming vortex beam, effectively serving as a gate that filters the proper waveform. When a vortex beam featuring the correct number of coils per wavelength strikes the plating, a holographic interference pattern that has been etched into the gold screens the beam by allowing only the correct waveform to land on the underlying photodetector. The detector thus can distinguish among different types of vortex beams.
+	The discipline of detecting light wave orbital angular momentum is an active research area, Genevet points out. He adds that many groups in the United States and abroad are pursuing this research for a number of different applications.
+	“Light with orbital angular momentum can help with communications by, instead of being binary with just zeros and ones, [allowing the] encoding of information to the orbital angular momentum,” he continues. “Light with orbital angular momentum can have any value from minus infinity to plus infinity in digital value.
+	“Potentially, you can encode an infinite number of information on a single beam.”
+	This capability could be combined with the quantum properties of these light beams, Genevet adds. In addition to increased communications capacity, encryption is another area where this could be applied.
+	The SEAS group continues to pursue advances in this area. Genevet relates that these efforts tend to focus on new realms rather than just improving the current device that they just developed. For example, they are aiming at new technologies that would exploit the capability of polarized light. These might constitute systems that, in the same manner as the vortex photodetector, would detect the degrees of polarization in a light beam.
+	Other research developments, including those underway elsewhere, must succeed before vortex beam systems are able to exploit the SEAS photodetector, Genevet allows. Supporting techniques also must be developed. As these research efforts bear fruit over the next five years, the vortex beam will become a useful approach for future communications.
+	“Ultimately, at some point we will need higher distinguishing beyond binary for processing information,” he emphasizes.
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

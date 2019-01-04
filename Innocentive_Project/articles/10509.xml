@@ -1,0 +1,27 @@
+<article>
+  <type>article</type>
+  <title>Evidence of Possible Spring Cyber Attack on Banking Industry</title>
+  <author>Max Cacas</author>
+  <date>January 3, 2013</date>
+  <departments>
+    <department>Cyber</department>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>electronic warfare</tag>
+    <tag>Homeland Security</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract></abstract>
+  <text>The purpose of the attack is purely robbery, says a cyber expert, who has shared his McAfee report with government officials.
+A cyber attack that could result in the theft of millions of dollars from American banks could take place this spring, according to a report from a noted cybersecurity expert. ?“What we’re dealing with here is a digital bank robber,” according to Ryan Sherstobitoff, a threats researcher with McAfee Labs and the principal author of the report entitled, “Analyzing Project Blitzkrieg, a Credible Threat.” And the attack mastermind could take additional steps to deter attacked banks from defending themselves and hinder their ability to recover stolen funds following such an attack.
+The group behind the potential attack “is a collaboration or an alliance of ‘botmasters’ run by an individual named vorVzakone with the clear intention of robbing financial institutions,” Sherstobitoff explains in a report that was issued in mid-December. The white paper is based on months of in-depth analysis of Project Blitzkrieg, as it has been dubbed by vorVzakone’s website, and tracking the online activities of vorVzakone dating back to late summer 2012. “We know from forum posts he had published on an underground Russian cyberforum that was really meant for cybercriminals,” explains Sherstobitoff.  Those posts detailed how the attack was to be coordinated around the release of a variant of the trojan malware popularly known in the hacker community as Gozi Prinimalka.
+The system has been allegedly under development for several years, and vorVzakone’s plans included recruiting as many as 100 botmasters to launch the attack in 2013. The report offers detailed information on the online identity and the location of a computer server that is the central hub for Project Blitzkrieg, and, according to Sherstobitoff, it is further evidence that both the conspiracy and the threat are real.
+“The type of financial institutions they are targeting and the intentions they are expressing in their forum posts are leading us to believe that this attack is focusing on consumer accounts,” he adds.
+Because initial reports of the imminent cyber attack were based on circumstantial evidence gleaned from the cyber attackers’ websites, they were originally met with skepticism by financial institution officials and cybersecurity community experts. But Sherstobitoff says that they are taking his report more seriously now that he has provided a more detailed analysis of Project Blitzkrieg. “We went through a process of briefing all the targeted entities and gave them the data and the insights to be prepared. We also talked to law enforcement and the U.S. government to keep them abreast.” Pressed to specifically name the government agencies he has contacted with the report’s findings, Sherstobitoff demurred for security reasons, identifying them only as “familiar agencies with three letters.”
+Since his initial research, Sherstobitoff says he has learned that vorVzakone also is planning a distributed denial-of-service (DDoS) attack on the targeted banks’ telephone lines following the initial cyber attack utilizing Skype, the popular online video chat website. He calls this attack a “diversionary tactic to prevent the victims from calling in to report something,” or even for more routine functions, such as confirming the completion of wire transfers of money.  The whole idea is to take the attention off of the fraud and put it on something else and make it even more difficult for the attacked financial institution to later recover the stolen funds, Sherstobitoff explains.
+As for steps that financial institutions can take to prepare for the attack, Sherstobitoff explains that most financial institutions already have the tools in place to track such a cyber attack. Most bank networks have anomaly detection tools in place in their servers capable of monitoring online banking activity in near-real-time and detecting unusual transactions. When asked to explain what signs might be noticed by an attentive system administrator when the attack began to take place, he says that the first sign might be an increase, or a spike, in the call volume. Then, administrators might notice an unusual number of people logging into the system and viewing account summaries, or logging in from an unusual remote location (one of the servers identified in the Project Blitzkrieg report is known to be located in Romania). Other attack characteristics might include an inconsistent browser configuration, very short duration log-ins and compromised bank accounts making transfers to only one account.
+Regarding whether or not the U.S. government or international law enforcement was taking steps to go after the vorVzakone cyber attackers based on the information found in his report, Sherstobitoff would say only that, “we handed off the information to them, and if there is something that is actionable, they’ll certainly do it.”</text>
+  <imgalttext>
+  </imgalttext>
+</article>

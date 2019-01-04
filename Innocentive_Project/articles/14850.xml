@@ -1,0 +1,40 @@
+<article>
+  <type>article</type>
+  <title>Disruptive by Design: Death of the Password</title>
+  <author>Karyn Richardson</author>
+  <date>August 1, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Disruptive by Design</tag>
+  </tags>
+  <abstract>The password is vanishing. The cumbersome, multicharacter, hard-to-remember bane of Internet usage finally is dying. As biometric and behavioral monitoring technologies evolve, solutions that embrace revolutionary new identity verification systems based on users’ behaviors at the keyboards promise to replace the expiring relic.</abstract>
+  <text>The password is vanishing. The cumbersome, multicharacter, hard-to-remember bane of Internet usage finally is dying. As biometric and behavioral monitoring technologies evolve, solutions that embrace revolutionary new identity verification systems based on users’ behaviors at the keyboards promise to replace the expiring relic. And not a moment too soon.
+
+An emerging identity verification system known as the “cognitive fingerprint” leverages existing technologies that can recognize patterns of computer users and creates a “behavioral fingerprint” to enable more secure authentication methods. The evolution in identity management undoubtedly will prove disruptive to the current authentication and user verification processes.
+
+Software-based solutions map computer users’ habits and develop a usable profile of each authorized operator. One authentication tool, called covert-conditioned biometrics, uses a unique sequence of problem-solving moves to distinguish between a legitimate user and an identity thief, according to Southwest Research Institute (SwRI), which teamed with the U.S. Defense Department’s futuristic research arm for its studies. Experts with the Defense Advanced Research Projects Agency (DARPA) recognize the problem that stems from humans’ difficulty with memorizing passwords, especially those complex enough to deter unauthorized use.
+
+“The current standard method for validating a user’s identity for authentication on an information system requires humans to do something that is inherently unnatural: create, remember and manage long, complex passwords,” Angelos Keromytis, a program manager in DARPA’s Information Innovation Office (I20), explains in a statement. Keromytis leads research for the agency’s active authentication program to develop technologies to validate identities using software-based biometrics.
+
+“Biometrics are defined as the characteristics used to uniquely recognize humans based on one or more intrinsic physical or behavioral traits,” Keromytis states. “This program focuses on the behavioral traits that can be observed through how we interact with the world. Just as when you touch something [with] your finger you leave behind a fingerprint, when you interact with technology you do so in a pattern based on how your mind processes information, leaving behind a ‘cognitive fingerprint.’”
+
+The multi-institute cognitive fingerprint program, tapping resources and experts within the Defense Department and academia, incorporates covert-conditioned biometrics that embody principles of adaptive learning, behavior modification and game theory to authenticate a user’s identity.
+“It will deploy covert games, mimicking ordinary human computer interactions,” according to Jenifer Wheeler, a principal instructional specialist at SwRI. “Authenticated users are likely to unknowingly develop strategies for playing the games, even if the games are imperceptible.”  
+
+Researchers want to reverse some of the inherent risks presented by using passwords alone. For example, although programs can prompt users to periodically re-enter a password, the method does not constantly verify that the user is authorized throughout a session.
+
+Once a revolutionary breakthrough in identity management, traditional biometrics based on physical attributes such as fingerprints, facial photographs and iris scans pose a weakness to the system. The methods can be bypassed, according to a report prepared by the U.S. Military Academy, which teamed with the International Biometric Group to study DARPA’s cognitive fingerprint program. “The intended approach is to repurpose technology that tracks physical and behavioral attributes and expand upon these existing technologies to be able to identify and track an individual based on cognitive attributes and the context that an individual is currently engaged in,” the report reads. “Moreover, in current systems, users tend to be the weakest link because they are bombarded with passwords to remember, and they are forced to develop predictable patterns.”
+
+The phased approach to reify the technology from the abstract to concrete demonstrates a momentous shift in identity management. As research and technology advance rapidly, the Defense Department intends to deploy the DARPA-developed authentication platform with open application program interfaces. This holds great promise for solution developers and providers to build an ecosystem surrounding the platform and extend its functionality in new and innovative ways.
+
+The next generation of “passwords” will be behavior-based and mitigate current concerns of forgotten passwords and lost or misused tokens, such as the Common Access Card. Biometrics cannot be replaced easily if compromised. Technology that captures computer activity and recognizes patterns unique to an individual undoubtedly is leaps and bounds beyond traditional passwords, no matter how many special characters, capital letters or numbers are required. As with any emerging technology, there are some concerns. During the initial rollout, DARPA plans to integrate the new technology with legacy systems, which could present system interoperability challenges.  
+
+Also, the excitement brought by this type of technological leap must not overshadow the possibility that identification techniques enabled by embedded algorithms, coupled with possibly intrusive personal recognition abilities, potentially could be used for harmful purposes. With that in mind, this progressive and revolutionary authentication modality could radically change ancient identity management practices, yielding boundless innovation potential for both the Defense Department and civilian use.
+ 
+
+Karyn Richardson directs the operations of Karder Corporation, a woman-owned small business providing information technology governance and services to federal and state governments and industry. She is a federal certified chief information officer and pursuing a Ph.D. in science and technology studies at Virginia Tech. The views stated are hers alone and do not represent the views of Karder Corporation.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

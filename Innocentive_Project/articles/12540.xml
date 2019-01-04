@@ -1,0 +1,35 @@
+<article>
+  <type>article</type>
+  <title>Cybersecurity Lies Take Longer than Cybersecurity Truth</title>
+  <author>George I. Seffers</author>
+  <date>March 24, 2013</date>
+  <departments>
+    <department>Cyber</department>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>homeland defense</tag>
+    <tag>Networks</tag>
+    <tag>research and development</tag>
+    <tag>MITRE</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>Attacks on a computer’s Basic Input/Output System (BIOS) do not receive a lot of attention, and protecting against them is often not a priority, but they are on the rise, say researchers at The MITRE Corporation, a not-for-profit research organization funded by the U.S. government. The MITRE team is developing tools to protect against BIOS attacks and is searching for organizations to help evaluate those tools.</abstract>
+  <text>Attacks on a computer’s Basic Input/Output System (BIOS) do not receive a lot of attention, and protecting against them is often not a priority, but they are on the rise, say researchers at The MITRE Corporation, a not-for-profit research organization funded by the U.S. government. The MITRE team is developing tools to protect against BIOS attacks and is searching for organizations to help evaluate those tools.
+	BIOS is a program built into personal computers that is separate from the operating system and starts the operating system when the computer is turned on. “We obviously think BIOS attacks are a pretty serious threat, primarily because it’s not something people are used to looking for, and there are not really security products out there that you can use to inspect your BIOS and find out whether it’s clean or not,” says Xeno Kovah, lead information security engineer at MITRE. “It’s hard to detect an attacker if they’re able to reside down at the firmware level. An attacker can do a time-bomb or an on-demand type thing where they can corrupt the BIOS, corrupt the firmware, so the system won’t run any more. We typically call that bricking it.”
+	He cites the CIH virus launched in 1998 as a classic example of a BIOS attack. Also known as Chernobyl, CIH is believed to have damaged millions of computers by wiping the BIOS, which presents more of a challenge than a wiped hard drive. “Another thing that makes attacks down at this level very important is the ability of an attacker to take down a system in such a way that it’s extremely difficult to bring it back up again. We don’t want entire enterprises going down and not being able to come back up,” Kovah states.
+	More recently, Chinese malware known as Mebromi was discovered in 2011. “That was an example where an attacker took an existing boot kit—which is a root kit that infects the system as it is booting but before the operating system is loaded—and they transferred it back into the BIOS,” Kovah explains. “If a defender was able to see that a system was infected down at the boot loader level, they’d be able to clean it out, but the fact that the attacker had persistence in the BIOS meant that they would continuously re-infect from outside the operating system, from within the BIOS.”
+	The team demonstrated that an existing BIOS self-measuring system is fundamentally flawed because “an attacker who exists in the BIOS can just replay clean measurements” giving the false impression that the system is malware free, Kovah says. The MITRE solution is essentially a stronger self-measurement system that uses time against an attacker who tries to convince the system the BIOS is clean. The deception will itself will take more time than a clean system. “BIOS Chronomancy uses a timing self-mechanism to show that an attacker may be able to make our software lie, but they can’t make it lie fast enough. They can generate the lie, but it takes longer to lie than it does to tell the truth, and consequently, we detect the change in the amount of time that it takes to run,” he explains.
+	BIOS Chronomancy is not for the common user, however. “We just built extra security into the BIOS, and that’s not the kind of thing that any old consumer can use. That’s more targeted at saying, ‘Dear Dell, Dear HP, build additional security into your BIOS,’” Kovah offers.
+	The second tool, Copernicus, is designed more for a wider market. It works by allowing users to verify their firmware security. It runs on the endpoints of the BIOS and sends information about it back to a central server, providing situational awareness about whether the enterprise’s BIOS is vulnerable to attack.
+	Copies of the BIOS contents sent back to the server can also be used to perform integrity checks, indicating whether attackers have already modified a system’s BIOS. “With Copernicus, you’re going to load up a kernel driver within the operating system, go in and read the flash chip where the BIOS firmware is stored, dump that out, send it to a server, do some analysis and say whether or not the BIOS looks like it has been modified,” Kovah says. “There’s an integrity-check component to check either against all the other machines in the enterprise, or against some known clean copies that we’ve extracted from--for example, some BIOS update files that the vendor has put out.”
+	It also provides a “writeability” report indicating whether the BIOS is open for writing or whether the BIOS access controls are configured incorrectly. “The expectation is that if the vendor has not properly locked down the BIOS, it makes it that much easier for an attacker to come along and break the system or back door the system,” Kovah adds.
+	Copernicus is now being called Copernicus 1 because the team is working on a new and improved version dubbed Copernicus 2, which will be even more trustworthy and easily deployable, Kovah says.
+	The researchers are ready to transition the technology to other organizations. BIOS Chronomancy is still being tweaked and can only transition to the manufacturers. Even though Copernicus 2 is in the works, organizations can still adopt the first version. “With our new Copernicus 2 we’re using existing Trusted Computing Technologies, such as Intel’s Trusted Executing Technology, TXT. We’re using that to build a more trustworthy system, but we still want it to be the case that we tech transfer this, even in the less trustworthy form, because we want vendors to at least have this capability to determine whether the BIOS is writable and do basic integrity checks,” Kovah relates.
+	While that first capability is being tech transferred, the MITRE team will be working on the enhanced, more trustworthy version. “Until very recently, and until tools like ours, there was no software to go in and inspect the BIOS on typical Windows machines in an enterprise and therefore, people can’t find what they’re not looking for,” Kovah indicates.
+	 
+ 
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

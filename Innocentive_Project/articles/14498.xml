@@ -1,0 +1,30 @@
+<article>
+  <type>blog</type>
+  <title>The Coming Uncharted Territory Age of Cybersecurity</title>
+  <author>Dr. Wesley Kaplow</author>
+  <date>May 11, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>The Internet of Things (IoT) and big data may combine to generate the greatest cyberthreat of all.</abstract>
+  <text>We are passing rapidly from the information technology dark ages of less than seven decades ago to what I call the "Uncharted Territory Age." Combined, the two critical ages through which we currently are moving may yield the largest explosion of cyber risks yet. The first age is the well-known, and hyped, Internet of Things (IoT), or now Internet of Everything. The second is the big data age. Both may have a synergistic effect on the growing cyberthreat.
+
+Through the years, we have seen computation move from isolated systems that worked on one problem at a time; to a teleprocessing age of systems such as the first airline reservations systems; to the connected age of telephone dial-up bulletin board systems; and of course now to the Internet age. In each of these epochs, information sharing and access has increased dramatically—from systems limited to within a computer room; to large communities sharing information on a common system; to the ever-present Internet with hundreds of millions of systems providing information and collaboration to billions of users.
+
+Without a lengthy exposition of all the cyber issues of the IoT—which can be found in the AFCEA Cyber Committee paper, “The Security Implications of the Internet of Things”—its major impact is the transition from cyber issues related to information theft to systems where compromise can enable control over critical infrastructure systems. It is the range of vulnerable systems such as home automation and vehicle systems, the explosion in the number of systems—into the tens of billions of devices—and the general sad state of information security, as evidenced by the millions of compromised computers, companies and now smartphones, that is new.
+
+Almost lurking in the background is big data. Compiled by companies and governments from public information along with data gleaned from the IoT, social media and from information brokers, big data systems will correlate vast amounts of information about individuals that will track virtually their every move, and know essential facts of each person’s life, professional and personal. Gone are the normal protections associated with identity verification, such as “What is your mother’s maiden name?” or, “What car did you have in high school?”
+
+These two ages combine to bring us to the Uncharted Territory Age. Armed with big data derived information, hackers will have the ability to identify quickly hundreds of thousands, or perhaps millions, of IoT systems and gain controlling access. This brings a larger risk aside from turning on a few lights or opening some doors.
+
+Previous concerns about power controls focused on the compromise of internal systems such as supervisory control and data acquisition (SCADA) systems. Now the danger can come from a different direction. How about several hundred thousand homes in a region under the control of a hacker? What happens to the power grid as hackers cycle, in unison, these homes’ air conditioning systems? In IoT-controlled vehicles, what is the economic impact of several hundred thousands or millions of cars just simply stopping in the middle of the road during rush hour? What is that effect during a national emergency, or even during a time of war?
+
+The cyberthreat surface of the number physical systems somehow connected to the Internet is going to increase by perhaps two or more orders of magnitude. This, combined with detailed personal information of hundreds of millions of people, forces us to think differently about security. Or, to quote the subtitle of the movie Dr. Strangelove, do we just “Learn to Stop Worrying and Love the [IoT] Bomb,” and wait to see what happens?
+
+Dr. Wesley Kaplow is the vice president, network solutions, and chief technology officer for Polar Star Consulting.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

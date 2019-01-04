@@ -1,0 +1,32 @@
+<article>
+  <type>article</type>
+  <title>The Cyber Implications of Acquisition Speed: Part V</title>
+  <author>Wesley Kaplow</author>
+  <date>September 1, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Acquisition</tag>
+  </tags>
+  <abstract>The U.S. government must bring its key software providers into the secure environment and use them as trusted partners in delivering and supporting their products.</abstract>
+  <text>Fifth in an ongoing series of articles 
+
+The U.S. government must bring its key software providers into the secure environment and use them as trusted partners in delivering and supporting their products. In many cases, these providers are not only the best sources of trusted software but also the only sources. Holding them contractually liable for certifying their products and delivering them directly to the end system may be the only way to reduce the time to furnish baseline systems, streamline costs and maintain product integrity and security.
+
+The government—and, of course, banking and financial institutions, manufacturing and other industries that compose the nation’s critical infrastructure—face significant cybersecurity concerns. For systems that handle sensitive national security data, the approach is to isolate information technology from the ills of the Internet. This isolation significantly reduces the threat surface for secure government networks to only systems that are part of the high side, or classified Secret. However, the changing commercial ecosystem mandates a review of the government’s approach to how these systems are acquired.
+
+Old acquisition models are failing from both technical and business perspectives. The problem is that even in separate, secure environments, virtually all information technology systems are built on a foundation of commercial off-the-shelf (COTS) software. The acquisition challenge lies in the software support life-cycle model, particularly with obtaining software and related support to develop and maintain information technology systems effectively.
+
+Over the past few years, the model—from purchase to delivery and support, including upgrades and patches—has evolved from media deliveries using floppy disks or CDs with associated licenses to software downloads tied to end-user license agreements based on the number of users. Not having any media to load software onto secure systems is only the first of many problems. In a number of cases, software distribution and support now require an online vendor license server. And without any connection between the Internet and secure systems, the system owners are responsible for moving patches and updates from the Internet to servers that mimic Internet-based functionality. Ultimately, the government takes on a function that normally is performed by the software’s original equipment manufacturer (OEM)—and, with it, assumes the full risk of maintaining the software’s integrity and currency.
+
+The solution is for software to be moved just once to support the secure environment. Currently, it is done over and over again by dozens of agencies, projects and developers, with virtually each one solving the same problem independently for the same key software. Often, this involves hiring other companies to create internal repositories and processes to move updates and patches from the Internet to secure systems for distribution. Altogether, hundreds of agencies and companies are wasting time and money by creating redundant and inconsistent support environments and systems with COTS software that is difficult to maintain.
+
+This convoluted approach absolves the COTS software OEM from any responsibility to support its own software in a manner consistent with its commercial model. Government could try traditional methods such as contracting for a consolidated approach to moving software. In general, it has not used all available contractual levers to upend the status quo and share the risk with OEMs. 
+
+Government needs to get out of the way and allow software vendors to support their products directly, in the same manner that they support them commercially. Siting the ecosystems of major and trusted OEMs on secure networks and placing the responsibility for offering software in secure environments with them is an approach that is fit for purpose. It transfers the risk to the OEM, which is acutely aware of the impact of providing software with vulnerabilities as well as the need to address those vulnerabilities quickly. No OEM wants to be highlighted in a negative story on the front page of The Washington Post.
+
+Wesley Kaplow, Ph.D., is a member of the AFCEA International Cyber Committee. He is vice president, network solutions, and chief technology officer for Polar Star Consulting LLC, Chantilly, Virginia.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

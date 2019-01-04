@@ -1,0 +1,28 @@
+<article>
+  <type>article</type>
+  <title>Big Data Is Driving Information?Technology Planning and Investment</title>
+  <author>Kent R. Schneider</author>
+  <date>February 1, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>data management</tag>
+    <tag>Navy Technologies</tag>
+    <tag>big data</tag>
+    <tag>Presidents Commentary</tag>
+    <tag>February 2014</tag>
+  </tags>
+  <abstract>This rarely happens, but for 2014, defense and technology analysts are in agreement that big data and cybersecurity are the two drivers in planning and investment for information technology, both in government and in industry. Most everything else will be enabling these two key capabilities. While much attention has been focused on the threats and work being done globally on cybersecurity, I want to focus on big data.
+Big data is critical because, unless it is collected, analyzed, managed and made ubiquitously available, many analysts and decision makers will be buried in information they cannot use effectively in a timely fashion. It also is the starting and ending point for many of the technologies and capabilities we care about: networks, data centers, cloud initiatives, storage, search, analytics and secure access</abstract>
+  <text>This rarely happens, but for 2014, defense and technology analysts are in agreement that big data and cybersecurity are the two drivers in planning and investment for information technology, both in government and in industry. Most everything else will be enabling these two key capabilities. While much attention has been focused on the threats and work being done globally on cybersecurity, I want to focus on big data.
+Big data is critical because, unless it is collected, analyzed, managed and made ubiquitously available, many analysts and decision makers will be buried in information they cannot use effectively in a timely fashion. It also is the starting and ending point for many of the technologies and capabilities we care about: networks, data centers, cloud initiatives, storage, search, analytics and secure access. While these disciplines certainly address many other requirements, they are driven largely by big data, particularly in terms of scale, speed, flexibility, mobility and robustness of analytical tools. Planning must address where information is gathered, where it is stored, where it is analyzed and where it must be delivered for decision making and mission support. This is not an easy task in a large enterprise, and it is even harder if information must be shared with several mission partners.
+	A number of programs and projects address big data in government and industry. A common thread is that seldom, at least in large enterprises, do planners and implementers have the luxury of starting architectures on a blank sheet of paper. Legacy networks, data centers, systems and tools have to be accounted for and included either in the architecture or in the migration plan to reach the end state. Data center and network consolidations, along with implementations of cloud and Web technologies, are becoming the migration paths of choice, often using virtualization to bring together legacy applications and controls.
+	The other common thread is the need for fundamentally different analytics. Legacy analysis tools simply will not reach out to all the sources of data needed in the enterprise. Nor will they scale to analyze the incredible volumes of data being used today in many functional areas. In the past, only the intelligence community and some scientific disciplines needed to deal with vast quantities of data. Now, that challenge extends to many functions within and among enterprises. Financial services, health care, transportation, energy and security are just a few examples of such functions.
+	For example, the U.S. Navy has special challenges in implementing big data solutions and giving analysts and decision makers what they need to make sound and timely decisions. The added problem for the Navy is that a significant component of its mission assets are afloat and often are great distances from much of the enterprise data. Network bandwidth is the pacing item for most afloat functions. While better on most platforms than in the past, network access continues to be constrained for most users.
+	At the AFCEA/USNI West 2014 Conference in San Diego later this month, Terry Halvorsen, the Department of the Navy chief information officer (DON CIO), will be conducting his DON CIO Conference concurrent with the conference and participating in West in a number of ways. Within the framework of the emerging maritime strategy, the conference will be examining the Navy’s approach to solving some of these daunting problems. The event also will have some of the ship platform builders present so attendees can see the direction they are taking and the environment within which command, control, communications, computers, intelligence, surveillance and reconnaissance (C4ISR) and information technology must be implemented, including big data.
+	All members of the AFCEA community are going to want to be there for this event to see all the directions in which the sea services are going forward—and how best to contribute to these new directions. I hope to see many of you there.
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

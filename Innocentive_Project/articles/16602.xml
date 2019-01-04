@@ -1,0 +1,50 @@
+<article>
+  <type>blog</type>
+  <title>Consolidation Requires a Whole New Level of Network Monitoring</title>
+  <author>Joe Kim</author>
+  <date/>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>guest bloggers</tag>
+    <tag>Guest Blogs</tag>
+    <tag>data center</tag>
+    <tag>Consolidated Data Center</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>There is no escaping the barrage of technology and devices ever-present in our modern lives. Consider that many middle school kids today are iPhone-wielding and Fitbit-wearing youngsters. The public sector workplace is no different. Federal IT professionals must consider the sheer volume and variety of devices connecting to their networks—from fitness wearables to laptops, tablets and smartphones, with a dash of IoT and cloud for good measure. </abstract>
+  <text>There is no escaping the barrage of technology and devices ever-present in our modern lives. Consider that many middle school kids today are iPhone-wielding and Fitbit-wearing youngsters.
+
+The public sector workplace is no different. Federal IT professionals must consider the sheer volume and variety of devices connecting to their networks—from fitness wearables to laptops, tablets and smartphones. The Internet of Things and the cloud also significantly impact bandwidth and present security concerns, spurred by incidents such as the Office of Personnel Management breach of 2014.
+
+Despite this chaotic and ever-changing IT environment, for the Defense Department, network and data center consolidation is well underway, layering additional concerns on top of an already complex backdrop. Since the Federal Data Center Consolidation Initiative was issued in 2011, the DOD has closed more than 500 data centers. That’s well below the goal the agency initially set forth, and it issued a directive this year to step up the pace.
+
+Now, federal IT professionals must ramp up consolidation efforts. To be successful, they’ll need a system that accounts for all of the data that soon will stream through their networks and helps them get a handle on all the devices employees use and will use to access and share that data—all while ensuring  network security.
+
+Meeting the Challenges of Tomorrow Today
+
+This is why network monitoring has become absolutely essential. To be fair, most government IT professionals likely already have some monitoring component in place, but some solutions might be antiquated and not equipped to deal with the reality of today’s networks.
+
+Increasingly, federal IT managers house some applications on-premises while others use hosted solutions, creating a hybrid IT environment that can be difficult to manage. Many feel strongly that certain applications, particularly those handling especially sensitive data, must be maintained in-house, while they’re perfectly content to outsource others for greater efficiency.
+
+It’s likely that, as consolidation occurs, administrators will choose to continue to go this route as they attempt to fulfill the DOD’s ultimate goal: greater efficiency. Hybrid IT offers the best of both worlds—economic benefits while maintaining a grip on security. But it also creates monitoring challenges, as it makes it difficult for administrators to “see” everything going on with all applications.
+
+Going Beyond the Basics
+
+This complexity will require network administrators to go beyond initial monitoring strategies they have in place and begin implementing processes that provide visibility into the entire network infrastructure, whether it’s on-premises or hosted. Hop-by-hop analysis lets administrators effectively map critical pathways and gain invaluable insight into the devices and applications using the network. It provides a complete view of all network activity. This birds-eye perspective of all network components will become increasingly important as consolidation accelerates.
+
+At the very least, every IT organization should employ some basic monitoring best practices to proactively plan for consolidation and the ensuing growth, including:
+
+Adding dedicated monitoring experts who provide holistic views of agencies’ current infrastructure—and to calculate future needs.
+	Ensuring teams understand the nuances of monitoring hardware, networks, applications, virtualization and configurations, and that they have access to a comprehensive suite of monitoring tools.
+	Equipping teams with tools that address scalability needs. This will be exceptionally important as consolidation begins to truly take flight and data needs rapidly expand.
+Looking Reality in the Eye
+
+DOD network consolidation is a slow, yet major undertaking, and a necessity to ensure efficiency. It comes with extreme challenges, particularly a much greater degree of network complexity. Effectively wrangling this complexity requires network administrators to go beyond simple monitoring and embrace a more comprehensive monitoring strategy that will better prepare them for their future.
+
+Joe Kim is senior vice president and global chief technology officer at SolarWinds.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

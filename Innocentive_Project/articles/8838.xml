@@ -1,0 +1,17 @@
+<article>
+  <type>blog</type>
+  <title>Forget Firewalls, Focus on Understanding</title>
+  <author>Robert K. Ackerman</author>
+  <date>November 2, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>TechNet Asia-Pacific 2011</tag>
+    <tag>Cyberspace</tag>
+    <tag>Event Coverage</tag>
+  </tags>
+  <abstract>Modern cybercriminals have become too sophisticated for traditional security measures. So, the old way of ensuring network security must give way to a new approach that encompasses the whole of user operations in the network.</abstract>
+  <text>Building network security around firewalls is passé, as cybercriminals are employing innovative means to enter a network. Instead, security managers should concentrate on understanding the user, the application and the data, according to Tom Reilly, vice president and general manager, HP Enterprise Security. Speaking at the TechNet Asia-Pacific 2011 Wednesday breakfast, Reilly described how new types of networking are rendering old measures obsolete. Traditionally, experts have looked at security as being a 100-percent solution that is layer focused. With the advent of mobile and cloud computing, perimeters are devolving and consumers want more access to information. And, with cybercriminals attacking networks through applications, more holistic measures are needed. Instead of securing a network through its Internet protocol (IP) address, security managers must shift their focus to the user and his/her activities. This represents a move to shift security to them and the context around them. The key is to understand the user, the application and the data. "If you properly use security management and listen to your network, you can protect and secure it," Reilly stated.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

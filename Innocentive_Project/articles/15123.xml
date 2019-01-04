@@ -1,0 +1,40 @@
+<article>
+  <type>article</type>
+  <title>Defense Department Aims for Automated Cyber Defense</title>
+  <author>Sandra Jontz</author>
+  <date>September 16, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>automation</tag>
+    <tag>cloud</tag>
+    <tag>DISA</tag>
+    <tag>CIO</tag>
+  </tags>
+  <abstract>As the Defense Department continues to forge closer relations with Silicon Valley, its leaders say they need more tools to improve automation of cyber basics, the department’s chief information officer said.</abstract>
+  <text>As the Defense Department continues to forge closer relations with Silicon Valley, its leaders say they need more tools to improve automation of cyber basics, the department’s chief information officer (CIO) said. “At a certain point, I want to have some cyber defenses completely automated, where certain conditions occur and the system takes its own response,” said CIO Terry Halvorsen. “I think that is the only way we will keep up.” Automation would free up military and civilian cyber staff to concentrate on higher-level work.
+
+The department wants end-point technologies as it works to capitalize on the “explosion of innovation” from the private sector on technologies around hardening, attack detection, containment and automation, said Richard Hale, the deputy CIO for cybersecurity. “We have some modest scale pilots going in a few of those areas right now and we will have more next year.”
+
+Closely tied to securing the networks is the “cyber economics” discussion providing another motivating factor for rapid deployment of cybersecurity solutions, Halvorsen said during a discussion with journalists.
+
+“Today, a threat, whatever that threat is, can spend a fairly modest amount of money. … They can be really cheap” in their efforts to bring down sophisticated enterprise networks, said Halvorsen. “They can cause that enterprise to have to spend quite a bit more money, by orders of magnitude, in either cleaning up or fixing the problem,” Halvorsen continued. “Automation offers us a way to do two things: eliminate some of the real basic players, so that you have to raise your game to play, and then automate responses fast enough to reduce the amount of benefit that the attacker will see. [We want to] make it even more expensive for a hacker to play.”
+
+Citing security reasons, Halvorsen declined to indicate when some of the automation tools might go live. “That’s just a tip-off for telling the threats they’ve got to change practices,” Halvorsen said. “But I will tell you we’re making progress on that in some areas.”
+
+The department’s budding ties with Silicon Valley helped it create work exchange programs in which Defense Department civilians will spend six months working for the participating firms. Already, military personnel spend yearlong tours working in the Valley, Halvorsen said. The department is finalizing plans to bring Valley employees to work for the government for six-month stints or longer.
+
+“If you go out to the Valley, they have an atmosphere that people would say encourages people to stay at work. I would say it differently: The people who are involved in the cyber world, they want to stay there, so you’re facilitating what they want to do,” Halvorsen said.
+
+The Defense Department wants to mirror that environment, he offered, but warned he will not provide “free cappuccino or dinner” to lure cyber talent to its work force. Instead, defense leaders are pondering alternatives to sweeten benefits of working for the government and shore up the critical shortage of civilian cyberwarriors. “I am not, in DOD, going to pay what many in the private sector will pay for the same talent today,” Halvorsen said. “I have to be more creative in my attractiveness.”
+
+So the department will appeal to a sense of patriotism, for example, telling applicants “rarely will you be able to work on the magnitude scale and the importance of problems than you would work in in DOD,” he said. Other considerations include increasing opportunities to telework and getting away from traditional work hours so employees can better balance work and personal life schedules.
+
+Halvorsen also updated the department’s push toward moving more data to commercial cloud providers now that the Defense Information Systems Agency (DISA) no longer serves as the sole acquisition or broker agency. Over the next six months, he anticipates more “hybrid” solutions such as that between the U.S. Navy and HP, in which commercial providers supply services but from Defense Department locations. He would like to develop a plan to let commercial providers market the hybrid solutions to entities outside of the defense department, citing financial institutions as an example of firms that would need the same security parameters as the military.
+
+The department also cracked down on poor cyberhygiene practices and launched some basic security requirements such as requiring system administrators be fully credentialed with either public key infrastructure or common access card systems. “At the start of this, we were red to yellow,” Halvorsen said. “Since we have now been tracking that scorecard and taking the actions, we’re now yellow to green and moving more solidly green every day.”</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

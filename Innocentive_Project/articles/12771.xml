@@ -1,0 +1,24 @@
+<article>
+  <type>article</type>
+  <title>Military Satellites Send New Civilian GPS Signals</title>
+  <author>Rita Boland</author>
+  <date>May 6, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Air Force Technologies</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The U.S. Air Force is continuously broadcasting L2C and L5 civilian GPS signals. Though the changes make little immediate difference to the general population, the makers of GPS devices will use them to develop next-generation devices.
+ </abstract>
+  <text>As of last week, the U.S. Air Force began continuously broadcasting L2C and L5 civilian GPS signals. Though the changes make little immediate difference to the general population, the makers of GPS devices will use them to develop next-generation devices.
+	The L2C signal is for commercial needs while L5 is designed for transportation requirements. The moves comes as part of a GPS modernization program announced in 1999; satellites in orbit before the broadcast became constant always were intended for this effort and more are scheduled for launch. Prior to going live, the current satellites sent out a default message. “Essentially it was like a ring tone coming from space,” explains Lt. Col. Dean Holthaus, USAF, chief of the Space Support Branch of the Air Force Space Command (AFSPC). The command has the lead for this project. He adds that the new messaging structure offers more flexibility and is more dynamic than the ones in use during the last decade, containing more accurate and precise data.
+	When incorporated into receivers, the additional signals offer a new level of accuracy in location navigation by allowing for error resolution. As signals go through the ionosphere, they experience delays. Multiple frequencies enable real-time correction for this problem.
+	Though the signals will broadcast from military satellites, they have no specific defense use other than the way service members currently employ civilian GPS. “They are fully intended for providing redundancy and to increase accuracy for civilians,” Col. Holthaus says. He adds that the scenario makes GPS an unusual capability, because the military funds and manages the program, yet it is not designed to enhance defense operations nor to support warfighters. “It’s an interesting construct,” he states.
+	The Air Force is funding the effort and undertakes most of the work, but it has collaborated with the Department of Transportation. GPS is a dual-use system, serving both military and civilian users ever since its initial fielding. The foundation for adding additional civil signals to the constellation’s broadcast can be traced back to a 1996 Presidential Decision Directive. The notice announced the Air Force’s plan for turning on the signals so the government could receive input from industry, government agencies, academic institutions and research laboratories. Such feedback included benefits and risks.
+	So far, all the dialogue has been positive. Uploading data to the satellites works as planned and they are transmitting as expected. In addition to the commercial devices that will develop from this effort, the military is fielding new ground-based control segments to command and control satellites. These will fall under the 2nd Space Operations Squadron. The entire ground architecture is scheduled for replacement by fiscal year 2018, according to Col. Holthaus. Timelines for when consumer devices start offering connections to the signals depends on the marketplace and manufacturers.
+	Another benefit of the change is that the signals can complement other navigation capabilities. For example, China, Japan, India, Russia and the European Union all have their own planned or existing space-based navigation systems, which could potentially be used in concert with the GPS civil signals to offer even greater navigation accuracy. Going live with navigation messages on L5 and L2C marks a culmination of two decades worth of work for the GPS program. "This is a big event for the Air Force and AFSPC," Lt. Col. Holthaus says. "We're really excited to have these signals on."</text>
+  <imgalttext>
+  </imgalttext>
+</article>

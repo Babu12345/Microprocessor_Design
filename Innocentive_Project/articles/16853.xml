@@ -1,0 +1,41 @@
+<article>
+  <type>article</type>
+  <title>Game of Drones</title>
+  <author>F. Patrick Filbert</author>
+  <date>November 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>drones</tag>
+    <tag>unmanned aerial vehicles</tag>
+    <tag>UAVs</tag>
+  </tags>
+  <abstract>As people get better at killing each other, the technology they are using to defend themselves also gets better. This applies to both friends and foes of the United States.</abstract>
+  <text>As people get better at killing each other, the technology they are using to defend themselves also gets better. This applies to both friends and foes of the United States. The world is growing increasingly volatile, with nation-states developing innovative ways to threaten global stability. Russia, for one, is creating anti-access/area-denial exclusion zones with its encroachment on sovereign nations, and China has been establishing air defense zones off its coast while spending heavily on modernized weapon systems that can reach farther into the Pacific Ocean.
+
+The U.S. military persists in searching for cutting-edge capabilities that can penetrate enemy perimeters while protecting its own assets and interests. In February 2015, it laid a foundation to address advanced air defense systems by approving the Joint Unmanned Aerial Vehicle Swarming Integration (JUSI) Quick Reaction Test (QRT), a program that developed a concept of employment (CONEMP) for small unmanned aircraft (UA) carrying electronic attack (EA) payloads. Combat-capable and survivable swarming UA systems are a new and quickly growing aspect of modern warfare.
+
+While the U.S. military tests emerging electronic warfare technologies on unmanned systems, the JUSI QRT efforts provide an initial concept to employ coordinated semiautonomous or fully autonomous swarms of these UA. Given that the anti-access/area-denial (A2/AD) environment has, as its backbone, advanced integrated air defense systems (IADS), using fleets of UA against these IADS could safeguard warfighters.
+
+Presently, the U.S. military cannot fully plan, integrate or synchronize the effects delivered by UA swarms. Getting there requires development of the CONEMP to enhance planning methodologies to counter advanced IADS. The joint force currently relies too much on standoff weapons (SOWs) and fourth- and fifth-generation strike platforms to address the A2/AD challenge. UA swarming, which has rapidly advanced, represents a potential additional approach, complementing existing platforms and weapon systems. However, the joint force lacks a fully developed CONEMP for operations to realize UA swarm-delivered effects. This shortcoming hinders requirements development as well as A2/AD countermeasures and precludes integration and synchronization with the rest of the joint force.
+
+Providing a layered offensive capability with manned lethal and nonlethal payload-armed aircraft has been done for some time. For example, during the onset of bombing in the Gulf War in 1991, a joint helicopter team called Task Force Normandy contained U.S. Air Force MH-53J/Pave Low III nonlethal EA platforms that worked with U.S. Army AH-64 Apache attack helicopters. The Pave Lows blinded the Iraqis’ early warning radars while the Apaches’ rockets and missiles destroyed the radars during the conflict’s critical opening minutes. This gave follow-on Air Force strike aircraft access through coverage “holes” in the Iraqi IADS to attack key targets further into Iraq, wrote Lt. Col. Jerome Martin, USAF, in Victory from Above: Air Power Theory and the Conduct of Operations Desert Shield and Desert Storm.
+
+In the future, an advance wave of unmanned platforms equipped with EA payloads could provide the lead for attacking aircraft from carrier strike groups to disable enemy IADS.
+
+For the JUSI QRT effort, IADS refers to a networked system of adversary capabilities, such as a series of detection and tracking radars coupled with surface-to-air missiles (SAMs), and is not specific to one platform. Modern SAM systems are an integral part of advanced IADS, which in turn, are integral parts of a potential adversary’s networked A2/AD environment. The process of characterizing and evaluating a CONEMP for using UA of various sizes to deliver a coordinated EA will enable other weapons and platforms, such as various types of SOWs, decoys, jammers and fourth- and fifth-generation platforms, to defeat adversary A2/AD measures. The short lifespan of the JUSI QRT—one year—drove the CONEMP development effort using a series of modeling and simulation (M&amp;S) runs over the course of three test events.
+
+The JUSI QRT effort began in July 2015 under the Joint Test and Evaluation (JT&amp;E) Program of the Office of the Director, Operational Test and Evaluation. The team coordinated with several organizations across the Defense Department and academia as well as research agencies to develop a research timeline through 2020 to ensure that swarming unmanned aircraft become an integral part of warfighting.
+
+The foundational CONEMP, completed in July, provides an effective operational context to set requirements, future testing and evaluation, and it creates an adequate road map for further concept expansion. One cost-saving result of the program is that JUSI QRT could spare 34 transition partner organizations from initiating their own potentially redundant swarming UA efforts. The program also will help focus future Defense Department and industry technology investments and could draft new sets of tactics, techniques and procedures for swarming UA with EA payloads, empowering commanders to develop joint force standards for manning, equipping, training and planning. 
+
+ 
+
+Maj. F. Patrick Filbert, USA (Ret.), served active duty for 24 years and was the JUSI QRT analyst until July. He currently is a command and control/intelligence, surveillance and reconnaissance analyst at Scientific Research Corporation and works for the Combined Air and Space Operations Center at Nellis Air Force Base, Nevada.
+
+Lt. Col. Matthew Nicholson, USAF, Don Murvin, Andrew Wolcott, Brendan Pederson and Brock Schmalzel contributed to this article.</text>
+  <imgalttext>
+    <img>With its Gremlins program—named for the imaginary, mischievous imps that became the good luck charms of many British pilots during World War II—the Defense Advanced Research Projects Agency (DARPA) envisions fleets of drones dropping out of bombers. An artist’s rendering shows groups of unmanned aerial systems as they launch from large aircraft that are out of range of adversary defenses.</img>
+  </imgalttext>
+</article>

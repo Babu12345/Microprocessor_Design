@@ -1,0 +1,70 @@
+<article>
+  <type>blog</type>
+  <title>Defense and Industry Officials Look to the Cyber Future</title>
+  <author>George I. Seffers</author>
+  <date>June 16, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>DISA</tag>
+    <tag>DOD CIO</tag>
+    <tag>Defensive Cyber Operations Symposium 2015 Show Daily</tag>
+  </tags>
+  <abstract>Speakers and panelists at day one of the AFCEA International Defensive Cyber Operations Symposium outline goals and offer predictions, and the director of DISA releases an updated strategic plan for the agency.</abstract>
+  <text>Defensive Cyber Operations Symposium 2015 
+
+The SIGNAL Magazine Online Show Daily 
+
+Day 1
+
+Quote of the Day: “Write that down, everybody. Security is the business case.”
+--Dave Mihelcic, chief technology officer, DISA.
+
+Lt. Gen. Ronnie Hawkins Jr., USAF, director, Defense Information Systems Agency (DISA), released an updated strategic plan for 2015-2020 today at the AFCEA Defensive Cyber Operations Symposium in Baltimore. The plan spells out the operating principles and strategic goals that will shape and prioritize DISA’s efforts for the next five years.
+
+Now, agency officials intend to release a strategic roadmap in October. The strategic plan guides the roadmap, which identifies objectives, major actions and tasks, and resource alignment to reach the agency’s goals. Together, the two documents form DISA’s framework that supports the Defense Department’s (DOD's) vision to “achieve a more effective, secure and efficient enterprise for the DOD and the nation,” the strategic plan states.
+
+DISA’s strategic goals are to provide a global infrastructure, provide mission partner and leadership support, provide command and control and enable cyberspace sovereignty. “We will execute synchronized [Department of Defense Information Network] command, operations and cyber defense missions to ensure freedom of maneuver for the warfighter and mission partners. We will establish, train and implement cyber work force elements; shape readiness through continuity programs; and execute synchronized operations that will offer us more visibility and response to cyberthreats,” the strategic plan says.
+
+The strategic plan identifies key technological areas that will make a difference for the department, including: networking technologies, computing and storage, mobility device and application, cybersecurity, network operations and unified capability, which is explained as technologies that will improve productivity, strengthen information sharing and enhance the teamwork of Defense Department warfighters and civilians.
+
+Gen. Hawkins told the AFCEA audience that the department is “just now catching on and recognizing that cyber truly is a weapon system.” He pointed out the imbalance between cyber funding and the funding for traditional weapon systems. “We are modernizing our weapon system when it comes to cyber right now.”
+
+The general said established principles of war apply to cyber. “We want to employ our principles of war, whether it is maneuver, speed, surprise—whatever that principle of war is—we need to apply that to cyber,” he said.
+
+The general reported some confusion regarding the agency’s role in command and control (C2) since the establishment of the Joint Forces Headquarters-Department of Defense Information Network, commonly known as JFHQ-DODIN. At the tactical level, C2 is given to the commander on the ground. “We do not believe as a joint force headquarters that we are looking in at that tactical level. ... However, when you raise it up to the operational and strategic level, that is where the joint force headquarters comes into play,” he said. “The long and the short of it is that the joint force headquarters is about C2 of C2.”
+
+He also reported that he receives a lot of questions about the commercial access point (CAP) within the Defense Department. “We have put the CAP out in the Western [Continental United States], and we will have the Eastern portion of the CAP up and operational by the end of September,” he said. “We will have the functional requirements document out by the middle part of July, and then we will have full redundancy and onboarding capability with the CAP and the cloud by the end of this year.”
+
+In addition, DISA officials intend to release a request for proposals in late July for the ENCORE II contract.
+
+Meanwhile, Terry Halvorsen, the Defense Department’s chief information officer, stressed the need to focus on the basics of cybersecurity. He touted the benefits of automation in a variety of areas, including the implementation and testing of software patches and said it is something the department needs to work toward for the future.
+
+Halvorsen also stressed the need to eliminate passwords while acknowledging that common access cards are not the best solution for everyone. “This is a national problem. We’ve got to solve it. As much as DOD is getting better, we’re still vulnerable,” he said.
+
+He suggested the department needs to “get a little smarter” regarding the policy for storing passwords. There are safe places to store passwords, such as a Blackberry that fully encrypts data at rest. “We need to recognize operators—and I’ll define operators as anybody who needs to get things done—are generally going to do the things they need in order to get things done. If you keep writing policy that says don’t do any of those things you need to get your mission done, people will not pay any attention to your policy,” Halvorsen offered.
+
+Biometrics, tokens and other technologies will allow the department to get rid of passwords, he added.
+
+He also touted the need for better training on the cybersecurity basics. Spending one hour of instruction, answering questions on a piece of paper and getting a certificate is not enough. “We’re going to do some continued testing. You may just be at your computer and get a question. If the answer is right, we’ll record that. If you keep answering them right, we’ll like that. Answer two or three of them wrong, and it might be time for ... an intervention.”
+
+In addition, the department has to focus more on accountability in the cyber domain. Halvorsen pointed out that a soldier who accidentally fires his rifle will be in serious trouble. “The weapon represented by the network is far more dangerous, far more powerful and can cause far more damage than the single stray shot from an M-15 or .45 [caliber]. We have to get accountability up,” he said, pointing out that he was aging himself in his choice of weapons cited.
+
+Halvorsen acknowledged the acquisition process needs to be improved, but he also emphasized the negative impact of contract protests, and he took industry to task. “I spent a weekend looking at all the [software] packages industry certified were 100 percent top level packages. Within about 75 that I looked at, about 31 were really good. About another 20 probably could pass. The rest of them, the technical term for them, is crap,” he said, adding that the department may be able to help with lab testing and cyber range testing.
+
+Halvorsen touted the strides being made in data analytics. On social networking, he reported that it has a place, he’s just not sure what role it should play in the Defense Department. “Does it improve or hurt your security? Right now, I don’t know the answer to that,” he said adding that it does serve as an effective analysis tool to understand what is going on in the world.
+
+The panel on defending the commercial sector from cyber attacks also presented ideas about the future. Susie Adams, chief technology officer (CTO), Microsoft Federal, told the audience they will start to see innovative changes in how software is rolled out and systems updated and patched. Sam Ceccola, CTO, Hewlett-Packard Federal Sector, predicted “major architectural shifts in the way we look at applications all the way down to the hardware.”
+
+The panel discussed the impact of “software-defined everything” and the role of automation in the future. Donald Rippert, general manager for cloud strategy, IBM, said one reason cloud computing is so popular is that it is consistent, making automation easier.
+
+During the question and answer session, one audience member asked whether industry will place an emphasis on information security even if it doesn’t fit into the business case. “Security is the business case,” Adams said.
+
+“Alright, I’m going to hold you to that, guys,” responded panel moderator Dave Mihelcic, DISA CTO. “Write that down, everybody. Security is the business case.”</text>
+  <imgalttext>
+    <img>Lt. Gen. Ronnie Hawkins Jr., USAF, director, Defense Information Systems Agency (DISA), releases an updated strategic plan for the agency.</img>
+    <img>Industry panelists discuss how to "Secure, Operate and Defend in the Commercial Sector."</img>
+  </imgalttext>
+</article>

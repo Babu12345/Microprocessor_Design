@@ -1,0 +1,21 @@
+<article>
+  <type>blog</type>
+  <title>GD to Develop Open Architecture Back-End Processor</title>
+  <author>George Seffers</author>
+  <date>June 13, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Air Force</tag>
+    <tag>back-end processor</tag>
+    <tag>General Dynamics</tag>
+    <tag>Office of Naval Research</tag>
+    <tag>open system architecture</tag>
+    <tag>radio frequency</tag>
+    <tag>Contract Awards</tag>
+  </tags>
+  <abstract></abstract>
+  <text>The U.S. Air Force has awarded General Dynamics Advanced Information Systems, Fairfax, Virginia, a nearly $8 million contract to develop an open system architecture (OSA) common back-end digital processor for the entire family of Air Force radio frequency electronic devices, to include radars, signals intelligence sensors, electronic-warfare and communication systems. General Dynamics will use open interface standards to develop modular, plug-and-play, multi-mission electronic back-end processors that leverage technologies developed under other OSA initiatives conducted by the Office of Naval Research. Back-end processors are used to analyze sensor signals-once they have been converted from analog to digital formats-that have been collected by the radio frequency devices.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

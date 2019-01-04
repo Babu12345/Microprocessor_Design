@@ -1,0 +1,50 @@
+<article>
+  <type>article</type>
+  <title>Contract Protest Does Not Change NGEN Vision</title>
+  <author>Robert K. Ackerman</author>
+  <date>August 1, 2013</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Acquisition</tag>
+    <tag>command and control</tag>
+    <tag>data management</tag>
+    <tag>Marine Corps Technologies</tag>
+    <tag>Navy Technologies</tag>
+    <tag>Networks</tag>
+    <tag>NGEN</tag>
+    <tag>August 2013</tag>
+  </tags>
+  <abstract></abstract>
+  <text> 
+The U.S. Navy’s Next-Generation Enterprise Network will introduce a host of new capabilities for users when it is implemented. These improvements will become apparent over time as the system’s flexibility allows for technology upgrades and operational innovation on the part of its users.
+The network’s overall goals remain the same despite a protest over the contract award. However the protest is resolved, the program is designed to provide networking at less cost and with more flexibility to adjust for changes that emerge as a result of operational demand or technology improvements. These new capabilities could range from greater use of mobile technologies to virtual desktops dominating user environments.
+	Terry Halvorsen, Department of the Navy chief information officer, emphasizes that the user community at first will see little change when the Next-Generation Enterprise Network (NGEN) begins operation. The Navy’s goal is for a seamless changeover from the existing Navy/Marine Corps Intranet (NMCI) to NGEN. “The user community initially won’t see any differences as we move forward in NGEN,” he says. “Everything we’re doing initially should be transparent to the user, and we have good plans in place to make that happen.”
+	NGEN aims to serve 800,000 users, 400,000 workstations and 2,500 locations in the United States and Japan. The Navy’s Fleet Cyber Command/10th Fleet will be operating the network with full command and control. Contractor personnel will perform some hands-on activities.
+	Anticipating the changeover from NMCI to NGEN, the Navy began one element of a transition effort last year. This entailed expanding its network operational command and control workforce so the service could assume greater control of the network as the transition ramped up. The service also established governance procedures over the same timespan. Concurrently, the Marine Corps took its own measures to establish a transitional environment well before the expected contract award.
+	Halvorsen offers that, as the Navy moves further into NGEN, users might have more interaction with government personnel when they have a problem in areas such as security or policy. Ultimately, the biggest effect on the user will involve changes in the network that arise from the Navy’s ability to sever and compete services differently.
+	The approach for structuring the NGEN contract was to divide it into segments. This eschewed the traditional monolithic network in favor of several indefinite delivery/indefinite quantity elements within the contract. The philosophy, according to Navy officials, is to provide services from a network owned by the Navy.
+	Deconstructing the network into segments and services itself serves two goals. First, the Navy can separate enterprise services such as email from NMCI’s bundled solution. Second, the segments allow for increased competition and upgrades as new technologies and capabilities emerge.
+	Halvorsen notes that cost will be the major driver for change down the road. “Better value and reduced costs will be the two biggest factors that drive how we would change the way we’re doing segments,” he offers.
+	For example, a new way of providing email services may emerge that is much more cost-effective than the existing method. NGEN will allow the Navy to sever that email service and compete it independently from the rest of the contract. “That [severing capability] will allow us to take advantage of technology cost shifts in the marketplace around individual sets of information technology services and not be constrained to looking at the entire network and services as a single bundle,” he states.
+	The ability to upgrade the network by severing capabilities is designed around the program’s segments. Even if an innovative capability or technology emerges, the program will not fragment an existing segment. Any severing will take place along the lines of the existing segment definitions. Halvorsen emphasizes that this will not inhibit innovation.
+	“What’s defined [as segments] is pretty broad,” he explains. “It’s not defined narrowly; it’s a pretty wide spectrum—pretty ‘industry-acknowledged’ if not actual industry standards.
+	“The way we defined it gives us the flexibility we would need and the flexibility that would be reflected by changes in the commercial world,” Halvorsen declares.
+	Technical standards have emerged from work among the Navy’s Space and Naval Warfare Systems Command and the Marine Corps Systems Command. One NGEN goal is to allow new industry standards to be incorporated into the network environment.
+	Halvorsen emphasizes that cost, and not necessarily technology innovation, will be the main determinant of change. “We are not, most of the time, wanting to be on the bleeding edge of technology,” he says. “We want to be in that sweet spot where we are using the latest proven technology that also would show us either benefits in capability or reduced cost—or both. So, we are going to follow some of the things that industry is starting to embark on now.”
+	Among the changes that might emerge as NGEN matures is a greater virtual environment. Halvorsen relates that the Navy already is using a virtual desktop environment in some cases, in which a computer is replaced by a black box tied into a virtual connection. A user employing a display screen performs all needed functions via a distributed network—possibly a cloud—without a desktop computer in the process. This capability will become more ubiquitous as technology and bandwidth management improve, he predicts, and the NGEN program is structured to support this.
+	Related to this advance is a move toward distributed or cloud computing, he continues. More centralized and optimized storage also is in the cards. This will entail consolidating data centers, he notes, and the Navy will improve its understanding of the value of its data so it can decide which environment is best for each type of data. Another move will be toward more distributed applications.
+	And, NGEN will enable more mobile capabilities. As NGEN empowers a more virtual environment, users will be able to conduct nearly all their information operations using a mobile platform. “You really can get almost the entire desktop experience in a mobile environment anywhere,” Halvorsen says. This also will lead to a greater degree of telework, he adds.
+	All of these efforts will lead to reduced overall infrastructure costs and improved security, Halvorsen predicts. “And, I truly believe, the overall user experience will be improved,” he states.
+	While cost will be a main driver of change, security will rank with it in importance, he emphasizes. “Where we can improve security for good value, that could drive change,” he offers.
+	With the Marine Corps having developed an NGEN transition environment by the beginning of June, the Navy is drawing from that experience as it plans for its own transition. However, it will not mirror the Marine Corps experience, Halvorsen points out.
+	While in both services, government will conduct major NGEN command and control decisions, the Marine Corps will use its own civilian workforce and active-duty Marines to execute NGEN command and control. On the other hand, the Navy will be employing a contractor workforce for most of that command and control execution. Top decisions in both services will be undertaken by government personnel, he emphasizes.
+	Halvorsen predicts the Navy’s transition will be seamless and transparent to the users, who will not experience many network hiccups. “The Marine Corps paved the way and did a very nice job,” Halvorsen states. “The Navy is absolutely using all of those lessons learned, and the Navy stood up a similar group to make sure all the processes are in place for the Navy team. I think we will see the transition go as smooth [as the Marines’].”
+	The Navy’s biggest challenge may be to ensure that it has accurately captured the command and control processes that will shift to the government, he suggests. These processes must be put in place in the right manner, so the transition goes smoothly at the management level.
+	“NGEN gives the Department of the Navy and the Marine Corps and the Navy the ability to offer world-class information technology services at extremely good value,” Halvorsen declares. “It gives us the ability to react faster to changes in the information technology world—be they technology, process or pricing—and it also will become the foundation for how we in the Department of the Navy are able to move toward a more joint information environment.”
+	Halvorsen notes that NGEN will help the department migrate to the Joint Information Environment, or JIE. With its enterprise environment, the Navy will build on NGEN lessons, and the ability to sever NGEN segments will allow the department to take advantage of its own actions and react to activities in the Defense Department, he adds.
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

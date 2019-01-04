@@ -1,0 +1,15 @@
+<article>
+  <type>article</type>
+  <title>Microwave Communication Technologies Evolve to Support Global Information Grid Demands</title>
+  <author>SIGNAL Staff</author>
+  <date>October 15, 2008</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>SIGNAL Connections</tag>
+  </tags>
+  <abstract></abstract>
+  <text>While the recent focus of military communicators has been on building the Global Information Grid's (GIG’s) fiber optic transport backbone and Internet protocol architecture, the community is only now addressing the highly variable and situationally dependent problem of access. Many different access technologies are already being used at the base level, at forward-deployed fixed bases and at tactical locations. However, variations in mission, bandwidth needs and geography complicate the network access problem.In response to this challenge, wireless communications, especially microwave radio systems, are taking on an increasingly important role by providing high-bandwidth access to the GIG. Tried-and-true microwave systems are evolving to meet requirements for packet-based, real-time communications that address the need for high-bandwidth connections to remote locations; reliable, secure last-mile connections; rapid deployment capability; and crowded spectrum management, especially in international, urban locations.Microwave network architectures are transforming from a traditional point-to-point model to a network-centric model with a trunk radio core element, which aggregates and transports voice, video and data much like fiber in the air, and a hub-and-spoke access element that enables access to the core via a range of interfaces including Ethernet, TDM and OC-3/12.Radios have evolved from monolithic to split-mount designs that separate the commoditized elements of a radio system from the switching and routing elements. And with available spectrum a finite resource, vendors are designing radios that support multiple modulation schemes like QPSK, QAM and SONET/SDH on the same radio for flexibility and scale. For years, microwave communication networks have been integral to the U.S. military communications infrastructure. They provide reliable, secure connectivity that supports missions globally with systems such as the Digital European Backbone, the Korean Southern Loop and numerous bases in the continental United States. To learn more about microwave radio technology and systems, sign up to attend “Next-generation Microwave Communications," a free webinar that takes place on Tuesday, October 28, at 2 p.m. EDT. A panel of industry experts from SIGNAL Magazine, Aequus Strategy Group and Ericsson Federal will discuss how recent advances in microwave technology can be applied to the GIG and network transformation to Internet protocol.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,27 @@
+<article>
+  <type>blog</type>
+  <title>New Measurement System Can Help Navy Conserve Energy </title>
+  <author>Julianne Simpson</author>
+  <date>November 29, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>News Briefs</tag>
+    <tag>ONR</tag>
+    <tag>Navy</tag>
+  </tags>
+  <abstract>Engineers at the Massachusetts Institute for Technology, with support from the Office of Naval Research, have developed a portable measurement system to precisely and inexpensively monitor the amount the electricity used by individual household appliances, lighting fixtures and electronic devices.</abstract>
+  <text>Engineers at the Massachusetts Institute for Technology (MIT), with support from the Office of Naval Research (ONR), have developed a portable measurement system to precisely and inexpensively monitor the amount the electricity used by individual household appliances, lighting fixtures and electronic devices.
+
+The system was developed by MIT professor Dr. Steven Leeb and one of his graduate students, Dr. John Donnal, a former U.S. Army captain. Five postage stamp-sized sensors are placed above or near power lines coming into a house and are designed to be self-calibrating—enabling them to automatically pinpoint the strongest electrical signals.
+
+The system can distinguish between each type of light, appliance and device based on unique signatures; which ones turn on and off; and how often and at what times. Users can then view the real-time data on an app and focus on specific time segments—revealing when, for example, a refrigerator goes into its defrost cycle.
+
+The system could be a valuable tool for the military. “The military is an ideal customer for this technology,” said Donnal. “At a forward operating base, fuel conservation is paramount. Heating and air-conditioning thermostats run too high or too low. Large tents are heated all day during winter, even if they’re unoccupied during daytime hours.”
+
+Leeb’s research is part of the Naval Enterprise Partnership Teaming with Universities for National Excellence initiative, or NEPTUNE, conducted by the ONR and the Department of the Navy.</text>
+  <imgalttext>
+    <img>With support from the Office of Naval Research (ONR), engineers at the Massachusetts Institute of Technology (MIT) have designed a portable measurement system to monitor the amount of electricity used by individual household appliances, lighting fixtures and electronic devices.</img>
+  </imgalttext>
+</article>

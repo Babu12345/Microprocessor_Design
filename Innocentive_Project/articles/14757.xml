@@ -1,0 +1,49 @@
+<article>
+  <type>article</type>
+  <title>DISA Seeks Software Solution To Manage Spectrum</title>
+  <author>Sandra Jontz</author>
+  <date>July 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>spectrum management</tag>
+  </tags>
+  <abstract>In its ongoing balancing act to apportion coveted access to the increasingly crowded electromagnetic spectrum, the Defense Department is aiming its attention at software-based solutions and management tools.</abstract>
+  <text>In its ongoing balancing act to apportion coveted access to the increasingly crowded electromagnetic spectrum, the Defense Department is aiming its attention at software-based solutions and management tools.
+
+The federal government’s continuous struggle has been punctuated by burgeoning demands from the commercial communication sector. Recently, the Defense Information Systems Agency (DISA) announced a search among industry partners for a technology-based panacea to better manage the fading finite resource, and it has put out a call for software to issue frequencies dynamically in a spectrum-sharing environment.
+
+“This is part of an overarching effort by the department to improve its spectrum management based on sound engineering, warfighter operating requirements, technology innovation and partnerships,” says Bob Schneider, technical director of DISA’s Defense Spectrum Organization. “Key objectives for the project are to significantly improve the spectrum-engineering algorithms and to improve the user interface to make it easy to use and learn. The project is incrementally developing and fielding improved Web-based spectrum-management capabilities using a service-oriented architecture.”
+
+For several years, the Defense Department and commercial companies have wrangled for access to the limited resource. A battle intensified as demand for the electromagnetic spectrum swelled to support a boom of cellphones, wireless mobile devices and high-definition televisions competing for the same access that the U.S. military needs for varying missions from communications to intelligence, surveillance and reconnaissance.
+
+In June 2010, the White House released a four-part strategy and a pledge to free up 500 megahertz of spectrum by 2020 through technological upgrades, tools and incentives, and a redeployment of spectrum to high-value uses such as mobile broadband for smartphones and wireless devices. The Federal Communications Commission (FCC), which regulates commercial spectrum use, auctioned off some spectrum and provided funds for public safety and infrastructure investments, part of the First Responder Network Authority program, better known as FirstNet. This congressionally mandated federal endeavor, led by the Commerce Department’s National Telecommunications and Information Administration (NTIA), serves as a wireless broadband network for police, fire and rescue personnel to ensure public safety.
+
+Following the 2010 directive, NTIA evaluated more than 2,200 MHz of federal and nonfederal spectrum and identified specific bands to make spectrum available for wireless broadband services. Between October 2010 and September 2014, the NTIA and the FCC formally recommended or identified for study a potential reallocation of up to 589 MHz, according to an NTIA report issued in April. From the federal or shared bands, it targeted 40 MHz from the 1695-1710 MHz band and 1755-1780 MHz band; 100 MHz from the 3550-3650 MHz band; and 195 MHz from the 5350-5470 MHz band and 5850-5925 MHz band.
+
+The NTIA continues to facilitate the issue and work with the FCC and the Defense Department to find solutions—for example, creating a three-tiered, shared service plan in the 3550-3650 MHz, or 3.5 gigahertz, band, consistent with a recommendation from the President’s Council of Advisors on Science and Technology, the report states.
+
+At the same time, the Defense Department is working with the FCC, the NTIA and the wireless communications industry to implement spectrum-sharing solutions in the 1755-1780 MHz band and particularly the 3.5 GHz band, as the latter is highly desired for wireless and used both by mobile Wi-Fi consumers and the Defense Department for radar, Schneider says. Parts of the wireless spectrum are unsuitable for national security purposes, limiting what the Defense Department can use. Limitations are a result of physical properties of spectrum, international agreements, domestic regulatory and governance rules and the degree to which the band is shared by different services.
+
+Both the NTIA and the National Institute of Standards and Technology (NIST) support spectrum sharing between the Defense Department and private industry versus outright repurposing of spectrum, in which the department would give up all access to the resource.
+
+For its part, DISA seeks sources for the Global Electromagnetic Spectrum Information System (GEMSIS) Program Management Office’s Spectrum Management Tool requirement and a new contract to support software and meet mandates to assess Spectrum XXI Online software and architecture implementations, suggest architectural changes and determine approaches for improving usability and reducing life-cycle costs, Schneider says. Spectrum XXI Online is a Web-based version of the Defense Department’s standard spectrum-management tool.
+
+“This [Federal Business Opportunities] posting is seeking potential sources for technical and management approaches for providing an automated spectrum-management tool to service the Department of Defense’s spectrum-management processes,” Schneider says.
+
+Additionally, through the Shared Spectrum Access for Radar and Communications (SSPARC) program run through the Defense Advanced Research Projects Agency (DARPA), scientists seek to improve radar and communication capabilities through spectrum sharing. SSPARC supports two types of spectrum sharing: sharing between military radars and military communications systems that increases both capabilities simultaneously when operating in congested and contested spectral environments, and sharing between military and commercial systems. Current research focuses on sharing challenges in the S-band between 2 GHz and 4 GHz, and with radars and communications systems.
+
+As part of a separate project, DARPA researchers are pioneering work in the Advanced Radio Frequency Mapping (RadioMap) program to provide real-time awareness of radio spectrum use across frequency, geography and time, according to DARPA. “The goal is to provide a map that gives an accurate picture of spectrum use in complex environments,” reads an agency statement. “With this information, spectrum managers and automatic spectrum-allocation systems can operate much more efficiently, reducing the problems caused by spectrum congestion and enabling better mitigation of interference problems. The program plans to provide this information in part by using radios deployed for other purposes, like data and voice communications systems.” Officials likened RadioMap to traffic cameras on busy highways that provide viewers with real-time awareness of traffic flow.
+
+The Defense Department also has formed partnerships with industry, academia and the National Spectrum Consortium to advance technological innovation.
+
+In 2007, the Defense Department began a software development effort under the Defense Spectrum Organization (DSO) Joint Spectrum Center to enhance the military’s automated spectrum-management tools and improve spectrum effectiveness. Additionally, several U.S. federal departments joined forces for a multiagency effort to develop the National Advanced Spectrum and Communications Test Network, a collaborative framework to aid access to a wide range of testing and sharing of spectrum. The network’s key functions are to facilitate and coordinate spectrum-sharing and engineering capabilities; create a trusted capability for evaluating spectrum-sharing technologies; perform outreach activities to identify spectrum-related testing and modeling needs; and, finally, protect proprietary, classified and sensitive information while enabling maximum dissemination, officials say.
+
+Last year, the Defense Department reached out to private industry for help in shaping a plan to better manage the spectrum it owns, seeking an amenable balance between the spectrum the military needs for missions and calming the clamor for more access expressed by commercial communications companies. The “spectrum crunch” debate also ignited pressure from lawmakers, who joined industry to petition the Defense Department to relinquish a little of its hold on vast amounts of spectrum. The campaign prompted the department to unveil a multiyear spectrum-management strategy that seeks to retain spectrum-use precedence for national security missions while sharing its hold to ease traffic jams and alleviate future struggles kindled by ever-increasing demand for wireless spectrum.
+
+The strategy “focused on shared access, including bidirectional federal access to nonfederal spectrum bands,” Schneider asserts. “This represents a long-term commitment to continue to improve the way in which [the Defense Department] accesses spectrum to meet critical mission requirements through collaborative technological advancements, operational agility and regulatory flexibility.”</text>
+  <imgalttext>
+    <img>An Army electromagnetic spectrum manager uses a joint spectrum-management planning tool to track mission progress in the field from inside the headquarters tactical operations center as part of Network Integration Evaluation (NIE) in 2014.</img>
+  </imgalttext>
+</article>

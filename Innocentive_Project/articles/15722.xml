@@ -1,0 +1,42 @@
+<article>
+  <type>article</type>
+  <title>Encrypted Internet Traffic a Key Cybersecurity Threat</title>
+  <author>Sandra Jontz</author>
+  <date>February 22, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Dell</tag>
+    <tag>internet security</tag>
+    <tag>Encryption</tag>
+    <tag>malware</tag>
+    <tag>ransomware</tag>
+  </tags>
+  <abstract>Last year proved lucrative for cyber criminals, and 2016 is shaping up to be even better, with a seemingly unsuspecting victim in the hacking crosshairs: driverless cars, according to Dell Security. In 2015, hackers carried out a massive number of breaches against organizations and government agencies in spite of the millions of dollars spent not only to safeguard networks, but also to hire security experts and train employees on proper cyber hygiene.</abstract>
+  <text>Last year proved lucrative for cyber criminals, and 2016 is shaping up to be even better, with a seemingly unsuspecting victim in the hacking crosshairs: driverless cars, according to Dell Security. In 2015, hackers carried out a massive number of breaches against organizations and government agencies in spite of the millions of dollars spent not only to safeguard networks, but also to hire security experts and train employees on proper cyber hygiene, according to the company’s annual cybersecurity report released Monday.
+
+As it did in 2015, Android rings in this new year as a continued prime target for attackers, especially for those after Android Pay and Android Auto. “We can expect malicious entities to invade this new frontier soon, possibly via ransomware (where the victim must pay to exit the vehicle) or even more dangerous intent,” reads a portion of Dell’s executive summary on Android Auto. 
+
+“Many of the breaches in 2015 were successful because cyber criminals found and exploited a weak link in victims’ security programs due to disconnected or outdated point solutions that could not catch these anomalies in their ecosystem,” Curtis Hutcheson, general manager of Dell Security, said in a statement. “Each successful attack provides an opportunity for security professionals to learn from others’ oversights, examine their own strategies and shore up the holes in their defense systems. At Dell Security, we believe the best way for customers to protect themselves is to inspect every packet on their network and validate every entitlement for access.” 
+
+The annual report, based on data gathered by the Dell SonicWALL Global Response Intelligence Defense (GRID) Network, lays out four key trends for 2016:  
+
+The evolution of exploit kits to stay one step ahead of security systems.
+	A sustained surge in protocols for secure communication over a computer network encryption that give cyber criminals more opportunities to conceal malware from firewalls.
+	The continued rise of Android malware.
+	A marked increase in the number of malware attacks.
+In addition to those findings, the heap of fault that once was planted on Internet users’ poor cyber hygiene or lack of training seems to have shifted. “Breaches in 2015 succeeded not because the victims lacked security altogether, but because thieves found and exploited a small hole in their security program,” the Dell report cites. In 2015, experts noted a 73 percent increase in unique malware samples over the previous year and more than triple the number compared with 2013.
+
+Additionally, experts observed an uptick in cyber criminals’ use of exploit kits, commercial products from a cottage industry of criminal behavior that manages to evade law enforcement. The rise gave attackers limitless opportunities to target the latest zero-day vulnerabilities, Dell reports. “Exploit kits evolved to stay one step ahead of security systems, with greater speed, heightened stealth and novel shape-shifting abilities.” Cyber criminals used new tactics to better conceal exploit kits from security systems, including anti-forensic mechanisms, URL pattern changes, modifications in landing page entrapment techniques and a mechanism called steganography, which conceals a file, message, image or video within another file, message, image or video.
+
+The Dell SonicWALL GRID Network logged an increase in malware attacks in 2015 against Android, which accounts for the majority of the smartphone market. The “Stagefright” security vulnerability embedded in the Android operating system, for example, affected an estimated 1 billion devices running Froyo 2.2 to Lollipop 5.1.1—which Google rapidly patched. Based on that data, the company forecasts trends likely to adversely impact Android devices, such as a new ransomware variant, malicious code as part of a library file and a hack aimed at stealing credit card and banking information from infected devices.
+
+Generally, malware attacks nearly doubled to 8.19 billion, bringing the total number of malware samples last year to 64 million. “This pervasive threat is wreaking havoc on the cyber world and causing significant damage to government agencies, organizations, companies and even individuals,” the report states. “Sometimes malware narrowly targets one population by design; sometimes it affects certain groups more heavily for external reasons.”
+
+Enhancement efforts on secure sockets layer/transport layer security (SSL/TLS) encryption were not enough to ward off attackers, who managed to launch under-the-radar hacks on millions of users—primarily because many did not have the proper infrastructure to detect them. The growth of SSL/TLS Internet encryption is both good and bad, experts indicate. It points to a positive trend of better security measures, but also provides for a tempting new threat vector for hackers. "Using SSL or TLS encryption, skilled attackers can cipher command and control communications and malicious code to evade intrusion prevention systems (IPS) and anti-malware inspection systems," Dell investigators state. "This tactic was used in a crafty malvertising campaign in August 2015 to expose as many as 900 million Yahoo users to malware by redirecting them to a site that was infected by the Angler exploit kit."</text>
+  <imgalttext>
+    <img></img>
+    <img>Dell Security's 2016 cybersecurity report sets trends for vulnerabilities, building on cyber shortcomings from 2015. </img>
+  </imgalttext>
+</article>

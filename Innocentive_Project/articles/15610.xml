@@ -1,0 +1,33 @@
+<article>
+  <type>article</type>
+  <title>When Lifesaving Technology Can Kill</title>
+  <author>Gregory Carpenter</author>
+  <date>January 1, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Nanotechnology</tag>
+    <tag>The Cyber Edge</tag>
+  </tags>
+  <abstract>The exciting advent of nanotechnology that has inspired disruptive and lifesaving medical advances is plagued by cybersecurity issues that could result in the deaths of people that these very same breakthroughs seek to heal.</abstract>
+  <text>The exciting advent of nanotechnology that has inspired disruptive and lifesaving medical advances is plagued by cybersecurity issues that could result in the deaths of people that these very same breakthroughs seek to heal. Unfortunately, nanorobotic technology has suffered from the same security oversights that afflict most other research and development programs. Nanorobots, or small machines, are vulnerable to exploitation just like other devices.
+But the others are not implanted in human bodies.
+The phenomenal transformation of computer networks from limited and simple to vast and complex has contributed to such great advances. Great but susceptible advances.
+Since the introduction of the mainframe computer more than 50 years ago, experts have struggled to fully secure even a single machine. Rogue nations and terrorists repeatedly have proved they can develop technology to circumvent U.S. attempts to safeguard networks both public and private.
+Where technology has flourished, security to protect it has stagnated. This holds true with nanotechnology, which is the study and application of extremely small things measuring between 1 nanometer to 100 nanometers. A nanometer is one-billionth of a meter. For comparison, a human hair is roughly 60,000 nanometers to 80,000 nanometers wide, and a DNA molecule measures about 3 nanometers wide.
+Though nanotechnology is relatively new, the breadth of budding applications fueled by robust research and development has advanced it faster than anticipated. Nanotechnology already aids in areas such as public health, food safety, police forensics and even warfare.
+The U.S. military has joined the fray of nanorobotic experimentation, embarking on revolutionary research that could lead to a range of discoveries, from unraveling the secrets of how brains function to figuring out how to permanently purge bad memories. Academia is making amazing advances as well. Harnessing progress by Harvard scientists to move nanorobots within humans, researchers at the University of Montreal, Polytechnique Montreal and Centre Hospitalier Universitaire Sainte-Justine are using mobile nanoparticles inside the human brain to open the blood-brain barrier, which protects the brain from toxins found in the circulatory system. Until recently, affecting the brain directly had been impossible because 98 percent of therapeutic molecules were too big to cross the blood-brain barrier.
+Now imagine if wrongdoers hacked these nanoparticles.
+For another project, scientists are applying mobile nanoparticle advances to research through the Neuro Function, Activity, Structure and Technology (Neuro-FAST) program funded by the Defense Advanced Research Projects Agency (DARPA), which seeks unprecedented visualization and decoding of human brain activity. The breakthrough ability to traverse the blood-brain barrier lets external forces affect a person’s brain, an important next step, but certainly not the end game in research.
+A different type of technology presents a risk similar to the nanoparticles scenario. A DARPA-funded program known as Restoring Active Memory (RAM) addresses post-traumatic stress disorder, attempting to overcome memory deficits by developing neuroprosthetics that bridge gaps in an injured brain. In short, scientists can wipe out a traumatic memory, and they hope to insert a new one—one the person has never actually experienced. Someone could relish the memory of a stroll along the French Riviera rather than a terrible firefight, even if he or she has never visited Europe.
+As an individual receives a disruptive memory, a cyber criminal could manage to hack the controls. Breaches of the brain could become a reality, putting humans at risk of becoming zombie hosts for future virus deployments.
+Safeguarding nanotechnologies is an issue in which everyone is a stakeholder, not just researchers, scientists and medical personnel. Hacking such technologies is easy, straightforward and can be accomplished in the same manner cyber attackers employ today. Loss of command and control of these tiny machines to an adversary would be detrimental. Solving the nagging enigma of securing computers, devices and networks will go a long way toward allowing nanotechnology to be further integrated into our lives without devastating risks.
+
+Gregory Carpenter owns Gregory Carpenter Enterprises LLC and is an adjunct professor of information technology and statistics and a doctoral student of bionanotechnology security at Walden University. </text>
+  <imgalttext>
+    <img>This illustration shows perceived activity in the brain, which DARPA scientists are studying to develop treatments for several ailments, including neuropsychological illness brought on by war, traumatic injuries, major depression, post-traumatic stress disorder, borderline personality disorder and general anxiety disorder, to name a few./ Photo courtesy of DARPA</img>
+    <img>This illustration depicts use of nanorobots to annihilate cancer cells./ Photo courtesy Gregory Carpenter</img>
+    <img>This illustration depicts a conceptual representation of nanorobotics creating an avatar./ Photo courtesy Gregory Carpenter</img>
+  </imgalttext>
+</article>

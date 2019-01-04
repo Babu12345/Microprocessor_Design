@@ -1,0 +1,46 @@
+<article>
+  <type>blog</type>
+  <title>Getting Military Communications Battlefield Ready </title>
+  <author>Joel Dolisy</author>
+  <date>June 2, 2016</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>WIN-T</tag>
+    <tag>Communications</tag>
+    <tag>Army</tag>
+    <tag>guest bloggers</tag>
+  </tags>
+  <abstract>No one needs reliable connectivity more than the nation’s armed forces, especially during the heat of battle. But reliable connectivity often can be hampered by a hidden enemy: latency and bandwidth concerns. The Army is working a network solution and has laid out a communications blueprint that other defense organizations can—and should—emulate, writes SolarWinds' CIO Joel Dolisy.</abstract>
+  <text>No one needs reliable connectivity more than the nation’s armed forces, especially during the heat of battle. But reliable connectivity often can be hampered by a hidden enemy: latency and bandwidth concerns.
+
+The military heavily relies on voice over Internet protocol (VoIP) for calls, web conferencing, high-definition video sharing and other bandwidth-heavy applications. While this might sound more like the communication tool for a business boardroom, it is equally applicable within the military and compromised systems come with potentially life-altering consequences.
+
+With power comes great demand (on the network). Use of these highly necessary communication tools can dramatically strain even the most robust communications systems. As such, Defense Department IT managers must leverage their efficacy while they ensure colleagues remain in constant contact with minimal lag, stuttering or a disconnection.
+
+Given this need to balance power with reliability, a few questions inevitably arise. How can IT administrators and those in the field ensure their networks supply crucial connectivity to meet the needs of soldiers and commanders? How can they guarantee reliable data and communications anytime, anywhere? 
+
+Connected Strong = Army Strong
+
+For the answers, we can look to the U.S. Army, which successfully deployed software and solutions that meet today’s essential need to remain connected. The Army’s recruiting message is “Army Strong.” Attaining that strength requires troops be battle-ready the world over. Today, that also means maintaining uninterrupted communications and deploying technology that can monitor, analyze and reduce—if not eliminate—network outages.
+
+Understanding this, the Army developed Warfighter Information Network-Tactical (WIN-T) to provide secure and reliable communications of all forms—voice, video and data—from any location, at any time. The network is built on software that helps the Army manage networks in a number of ways, yet creates a seamless and smooth communications network that remains durable regardless of the intensity of the demands put on it.
+
+Network bandwidth analysis solutions ensure optimal network performance for even the most bandwidth-intense applications. These solutions easily identify the applications that use the most bandwidth and help managers anticipate spikes in traffic to then optimize networks functions. Other tools and practices accompany bandwidth analysis that create a more dependable network. Performance monitors identify potential performance issues that managers can rectify quickly the problems interfere with communications or cause outages. Configuration management lets Army IT personnel easily manage multiple configurations for different routers and switches to ensure communication remains unimpeded. Traffic analysis maintains optimal network and bandwidth usage.
+
+To mitigate complications that arise from its dependence on VoIP, the Army deployed solutions to monitor the quality of VoIP calls and WIN-T wide area network (WAN) performance and troubleshoot issues through access to detailed call records. Underneath it all is an extraordinarily high level of security. The Army can’t afford to compromise communications and make enemies privy to highly confidential information.
+
+A Communications Blueprint
+
+In short, the organization is working hard to ensure warfighters and others securely remain in-touch at all times. After all, during the heat of battle is when the need for communications is greatest, and ensuring troops stay connected from the front lines and the command post is an absolute must.
+
+Through WIN-T and supporting technologies, the Army laid out a communications blueprint that other defense organizations can—and should—emulate. It has created a solution that enables soldiers to maintain constant voice, video and data communications, even when in remote and challenging spots and while on the move. It’s an impressive feat very much essential to today’s always-on warfighter.
+
+Learn more about how WIN-T has deployed a range of SolarWinds network management, monitoring and troubleshooting tools.
+
+Joel Dolisy is chief information officer at IT management software provider SolarWinds in Austin, Texas.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

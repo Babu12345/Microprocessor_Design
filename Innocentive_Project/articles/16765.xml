@@ -1,0 +1,48 @@
+<article>
+  <type>article</type>
+  <title>Elections at Risk in Cyberspace, Part III: Vote Database Security Ultimately Could Determine an Election Result</title>
+  <author>Robert K. Ackerman</author>
+  <date>October 13, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>Election Cyber Risks</tag>
+  </tags>
+  <abstract>Any attempts to sabotage an election through cyber attacks ultimately would be geared to affecting the vote count. While most tabulation databases are safe from everyday hacker threats, nation-states with highly advanced cyber operations theoretically might be able to mount an effective cyber attack on a U.S. national election by bringing their best offensive cyber capabilities to bear.</abstract>
+  <text>Third in a four-part series on election cyber vulnerabilities.
+
+Any attempts to sabotage an election through cyber attacks ultimately would be geared to affecting the vote count, either to change the outcome of the race or to sow doubt on the validity of the election itself. Just as banks strive to secure their depositors’ assets, governments also work to ensure the fidelity of their election returns. But, as bank accounts are vulnerable to cyber attacks, so are vote totals—to varying degrees. While most tabulation databases are safe from everyday hacker threats, nation-states with highly advanced cyber operations theoretically might be able to mount an effective cyber attack on a U.S. national election by bringing their best offensive cyber capabilities to bear.
+
+State governments, which are responsible for the voting process, pay close attention to tabulation security. Ron Bandes is a network security analyst in the CERT division of the Software Engineering Institute of Carnegie Mellon University. He also is president of VoteAllegheny, a nonpartisan election integrity organization. Bandes points out that in many states, two tallies occur. One is done at the local level, usually by the county. The other is a statewide count comprising all the county totals. These counts are cross-validated.
+
+“The outputs from the voting machines have to match the inputs to the tally system,” Bandes points out.
+
+The preferred method for tabulation saboteurs would be a network link with the election results database. Chuck Brooks, vice president of government relations and marketing for Sutherland Government Solutions, allows that if the vote database is connected to a network, that data is more accessible to hackers. Much of this threat can be prevented by basic cyber hygiene, however.
+
+Changing the results is much more difficult than simply sowing doubt, which can be achieved with a minimal effort, he adds.
+
+This preferred method is not always available to the saboteur. Maj. Gen. Jennifer L. Napper, USA (Ret.), group vice president, defense and intelligence, Unisys Federal Systems and a former director of plans and policy for the U.S. Cyber Command, says most connections to tabulation databases are closed lines. So, the greatest threat to the databases comes from insiders. “It would have to be someone with access and intent,” she says.
+
+In tabulation, as with voting machines, diversity reigns. Brian Calkin, vice president of operations, Center for Internet Security, relates that vote tallies vary in almost as many ways as vote collection. No single method predominates. Consequently, he sees original voter registration data as far more vulnerable to tampering than final vote tabulations.
+
+Calkin also believes that officials have the means of determining if voting data has been corrupted by outsiders. “I think—and I hope—that states and others are putting in the proper level of logging and being able to go back and track data …. We’re probably not quite where we need to be, but I think we certainly are getting better at it.”
+
+As with voter registration, Internet access is a weak link for tabulation. While the vote databases may not be connected to the Internet, some voting does take place online, and that is vulnerable to all manner of cyber attack.
+
+Brooks notes that overseas and military votes cast online are vulnerable both at the source and en route to the tabulation database. He also warns that machines reporting directly to the database can be hacked during an election. The same methods used to hack into machine operations can affect the database through the direct links.
+
+Bandes shares Brooks’s concerns about Internet voting. “As a pretty-well informed citizen, I’m very opposed to Internet voting,” Bandes says. “Although it has some obvious advantages for military and overseas citizens, even there I oppose it.” He continues that most experts believe it is acceptable to apply for an absentee ballot online, but voters should not cast a ballot electronically.
+
+Yet the absence of an Internet connection to a vote tabulation database does not immunize it from hacking. A cyber system penetration expert who spoke on background warns that even if a tally database is not online, the human factor can inadvertently open it up to malicious activity. A key network manager might accidentally infect the database with malware that would wreak havoc on election night. The United States conceivably could face a Stuxnet-type attack on some of its key election databases in the upcoming presidential election, he warns. Whether the totals change or are thrown into doubt, the result still is the sabotage of a U.S. presidential election.
+
+Attacking a vote tally system is simply a matter of having hands-on access, and this can be obtained virtually anywhere the tally system is located—in a warehouse awaiting delivery, during installation, in maintenance or even amid election night operation, the cyber penetration expert continues. It might require a sophisticated attack, but those are not unique in cyberspace. In some cases, the human factor—an authorized operator practicing bad cyber hygiene—could introduce malware in a lower level system that swims upstream into the election database. Malware already could be in place in several systems just waiting for a signal or a specific time to activate.
+
+And attacking a U.S. presidential election simply might be a rehearsal for an all-out cyber war. Russia and even North Korea already have the needed capabilities. “If you have a weapon, you want to be sure you master the weapon,” the cyber penetration expert says. “How do you master a weapon except by having tests? It [a U.S. national election] would be the best test available.”
+
+Coming tomorrow: Part IV, Solving Vulnerability Challenges</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

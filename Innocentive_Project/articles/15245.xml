@@ -1,0 +1,47 @@
+<article>
+  <type>article</type>
+  <title>Threat Research Unlocks the Secrets of Cyber Hazards</title>
+  <author>Anthony Giandomenico</author>
+  <date>October 1, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>The Cyber Edge</tag>
+  </tags>
+  <abstract>Security products are like crack to security professionals—they just cannot get enough. These products appear to be the panacea practitioners are seeking, but they often are not what they seem.</abstract>
+  <text>Security products are like crack to security professionals—they just cannot get enough. These products appear to be the panacea practitioners are seeking, but they often are not what they seem. They do not always solve problems, and they leave security experts continually looking for yet more new products, solutions and techniques for managing cyber risk. This raises the question: Why do enterprises and government organizations find protecting themselves from cyber crime so difficult?
+
+The answer lies in their approach to the problem. A key tactic is to build threat intelligence using a combination of red teaming and global network sensors rather than to rely solely on security products. This melding of analysis and action allows security experts to follow threat evolution closely in the dynamic cyber environment and act accordingly to counter new challenges.
+
+Guarding against the onslaught of threats is difficult because information technology is more complicated than ever. Applications abound; some exist in the cloud, some on the Web and others on mobile devices. Users expect mobility and around-the-clock access. Data centers that span the globe—and the organizations that manage them—struggle to handle access control and the myriad data being created daily.
+
+Exponential information growth and elaborate systems present many new opportunities for cybercriminals to pounce on unsuspecting or unprepared organizations. In the aftermath of attacks, security professionals often are left wondering what they could have done differently.
+
+That something different could be disrupting the “kill chain,” which can stop or slow down a cyber intrusion. The term kill chain originated with the military as a concept to describe the stages of an attack. Major areas of the kill chain include target identification; force dispatch to target; decision and order to attack the target; and the destruction of the target. Security professionals now use the term to describe a targeted cyber attack that consists of reconnaissance; weaponization; delivery systems of exploits; compromise/exploitation; installation; command and control; and exfiltration. The idea, in theory, is that if security experts can detect an attack, even if they cannot stop it, they are much better off.
+
+Security product manufacturers in the past few years have claimed that detection-focused software, hardware and services are the key components to executing a successful kill chain. But if that is the case, then why does security based on detection still fail miserably? From the Office of Personnel Management data breach to the Ashley Madison incident, organizations are being compromised at an alarming frequency. Advanced attacks are affecting all industries, from information technology to manufacturing and health care.
+
+There are a variety of threat actors that all companies need to worry about, but companies must determine which ones pose the greatest risk to the data on their networks. Once that piece is understood, security then can zero in on those threat actors and their attack methodologies. Understanding these external threats is referred to loosely as threat intelligence.
+
+These days, threat intelligence has a big marketing buzz in the security industry, but many people are confused about what it really means. Numerous definitions are floating around on the Internet, but in general terms, it is any external information about a threat that a company can use in its defensive decision-making process that will result in something actionable. This includes decisions from strategic, tactical and operational perspectives.
+
+Consider the scenario of a phishing email sent to a target. If the email penetrates the spam filter and the recipient clicks on the malicious link, the next line of defense should be Web filtering. If Web filtering fails, the malicious website launches exploits back to the target. Intrusion prevention systems should stop an exploit, but if something gets through and a connection is confirmed, the malicious site will start to send malware. Anti-virus detection then becomes the next line of defense. Should the malware get through, it then can infect networks, applications and other information technology systems and steal valuable data. Exfiltration occurs through a command and control server. If the app control and IP reputation technologies do not stop this traffic, the cybercriminals will have breached the organization successfully.
+
+Threat intelligence can give the power to mitigate cyberthreats by providing actionable information on specific adversaries targeting an organization. Most organizations are not mature enough to fully leverage all types of threat intelligence, but as a first step, they can focus on tactical threat intelligence. This will give them some insights into the ways cybermarauders execute their missions and provide a greater level of focus when choosing the right controls.
+
+Understanding this type of intelligence is aided by mapping the anatomy of an attack, or kill chain. Many variations in the phases or steps exist, but during each one, attackers will have a goal and tactics to achieve their aims. For example, in the weaponization phase of the kill chain, threat research organizations provide value by detecting attacks through research and analysis. Some of their techniques include patent-based content pattern recognition languages, custom data algorithms and correlation of attack data and trends from major industries or similar customers. This approach requires skilled human researchers and scientists who understand threats, relevant datasets and cyberwarfare components. Many threat research organizations rely too heavily on correlation or automation, forgetting that human intelligence provides context, or situational awareness.
+
+Still, humans alone cannot ward off every cyberthreat. They cannot keep up with the sheer volume of raw data, threats and attacks each day. That is why threat intelligence requires machine and big data analytics. These technologies not only complement human assessment, but also process large datasets and extrapolate useful algorithms that threat researchers can employ to predict cyber attacks. Man and machine together can pounce on the trail of breadcrumbs attackers leave behind when they probe networks, communicate with underground DarkNet sources and search for weaknesses.
+
+FortiGuard Labs, the threat research arm for Fortinet, has built an advanced persistent threat framework for ingesting threats, predicting intrusions and stopping zero-day attacks. Data collection devices and honeypots, or traps, are deployed all over the world on critical networks to gather threat, intrusion, malware, network and other types of data.
+
+This data is ingested into the lab cloud, where it is analyzed. When researchers discover new threats—currently, they are finding more than 300,000 cyberthreats a day—they analyze them. They also cross-reference data with their cloud environment to determine any common indicators of compromise, such as changes in registry, domains and other Internet communication protocols.
+
+Most security experts can identify threats that have tried to hide or obfuscate their true identity. Sometimes attackers, hoping to elude protective security devices, try to modify threats with small changes that can be difficult to detect. Threat intelligence looks for commonalities between the effects of a new threat and past similar threats. New, uncategorized threats can be identified based on the threats’ behavior, techniques and target industries or organizations. This intelligence allows security defense devices such as unified threat management gateways to block attacks—even zero-day exploits—by pinpointing techniques that previously have been used or seen.
+
+Security professionals rely on a variety of techniques to stop today’s complex cyberthreats. They use research, situational awareness and human skills to create actionable threat intelligence to block attacks. Yet research organizations today have to be more than just malware reverse engineers. They need to understand the true anatomy of an attack, the threat actors involved and the technology to stop it. This approach, paired with innovative technologies that stop bad actors from infiltrating networks, is the only way to ward off damaging—and rapidly multiplying—attacks.Anthony Giandomenico is a Fortinet senior security strategist.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

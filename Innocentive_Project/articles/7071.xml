@@ -1,0 +1,30 @@
+<article>
+  <type>blog</type>
+  <title>UPDATE: Code in Cyber Command Logo Cracked</title>
+  <author>Rachel Eisenhower</author>
+  <date>July 8, 2010</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Code</tag>
+    <tag>U.S. Cyber Command</tag>
+    <tag>USCYBERCOM</tag>
+    <tag>SIGNAL Extras</tag>
+  </tags>
+  <abstract>A code that appears in the new U.S. Cyber Command logo fueled a serious search across the nation, and someone was quick to crack it. So what did the mysterious text reveal?</abstract>
+  <text>U.S. Cyber Command Logo
+
+UPDATE: According to Wired.com, a Danger Room blog reader jemelehill cracked the code this afternoon. It's USCYBERCOM's mission statement translated into 32 characters with an MD5 cryptographic hash.
+
+The new U.S. Cyber Command (USCYBERCOM) logo is getting a lot of attention and not just because of its design. A golden ring around the edge features a 32-character code:
+9ec4c12949a4f31474f299058ce2b22a
+The mysterious message prompted Wired.com's Danger Room blog to hold a contest-offering a ticket to the International Spy Museum for the first person to crack it.
+
+The only problem: even officials with USCYBERCOM don't know exactly what it means. According to Danger Room, a source with the command says it has to do with the mission statement, but he can't confirm exactly which part. Only the code's designers have the key.
+
+Here's a look at the official USCYBERCOM mission statement:
+
+"USCYBERCOM plans, coordinates, integrates, synchronizes and conducts activities to: direct the operations and defense of specified Department of Defense information networks and; prepare to, and when directed, conduct full spectrum military cyberspace operations in order to enable actions in all domains, ensure US/Allied freedom of action in cyberspace and deny the same to our adversaries."</text>
+  <imgalttext>
+  </imgalttext>
+</article>

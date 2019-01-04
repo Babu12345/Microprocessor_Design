@@ -1,0 +1,31 @@
+<article>
+  <type>blog</type>
+  <title>Sponsor Blog: Big Data Analytics a Better Bet to Battling Cyber Attacks  </title>
+  <author>Jay Aceto </author>
+  <date>November 17, 2014</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+    <tag>big data</tag>
+    <tag>Sponsor Blog</tag>
+  </tags>
+  <abstract>Many information technology organizations are taking a different approach to cybersecurity that radically reduces the time to detect and respond to attempted cyber attacks.</abstract>
+  <text>This blog is written by our sponsor Teradata Corporation. Views expressed do not necessarily reflect the views of AFCEA International or SIGNAL Media.
+
+Many of us have heard the phrase “defense-in-depth” as it relates to cybersecurity, and most would agree that it’s not working. The strategy of cyber defense-in-depth was developed to defend against dynamic or real-world attacks aimed at strategic Defense Department (DOD) and intelligence community assets by creating layers of network and other technical defenses that require the attacker to expend a large amount of time, money or sophistication to gain access.
+
+The more strategic tactical objective is to delay and render the attack unsustainable. This strategy potentially results in leaving the attacker vulnerable for a counterattack or early detection. While a counterattack is not legal or ethical within the commercial world, within the DOD space, it can be used to determine attacker intent, limitations and methodologies in use.
+
+The fact is that defense-in-depth as a strategy has not proven to be 100 percent successful—not even close. There are many examples of how defense-in-depth, as practiced, is not sufficient to prevent unauthorized access failures by some of the largest and best-prepared organizations.
+
+Defense-in-depth is costly, requires a high degree of technical skill, often complicates infrastructure, and impacts and/or disrupts business practices. In some cases, attackers are using the strategy against their targets by creating an ever-increasing number of layers and higher costs. For defense-in-depth to be successful, early detection is essential so that diagnoses and responses can mitigate attacks. Defense-in-depth alone should be just one component of an overall cyber situational awareness strategy and program. But the questions remain: How much deeper and how many more layers of protection do we need? Perhaps if the true goal is to reduce time to detection and remediation, then the paradigm should evolve away from increasing layers or depth to better analysis of the data.
+
+The good news is that many information technology organizations are taking a different approach that radically reduces the time to detect and respond to attempts to breach the organizations’ security. The challenge has been handling the high volume, speed and diversity of the data; in other words, big data.
+
+Big data is defined as extremely large data sets that can be analyzed to reveal patterns, trends and associations, especially relating to human behavior, technical logs and interactions. Big data analytics in security involves the ability to gather massive amounts of digital information to analyze, visualize and draw insights that can make it possible to predict and stop cyber attacks.
+
+Jay Aceto is a cybersecurity industry consultant with Teradata Corporation, a big data analytics and marketing applications company.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

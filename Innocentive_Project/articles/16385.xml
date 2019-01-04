@@ -1,0 +1,38 @@
+<article>
+  <type>article</type>
+  <title>New Tools Find DNA Needles in Genetic Haystack</title>
+  <author>Sandra Jontz</author>
+  <date>August 1, 2016</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>Elusive criminals are about to meet their match. Advances in forensic DNA profiling soon will give investigators and analysts the ability to pull genetic data once considered disposable.</abstract>
+  <text>Elusive criminals are about to meet their match. Advances in forensic DNA profiling soon will give investigators and analysts the ability to pull genetic data once considered disposable. The breakthrough allows law enforcement to generate information such as gender, hair and eye color, ethnicity and geographic origin from the DNA samples of perpetrators who otherwise might evade detection if they were not part of a DNA database. Gone are the days when nonmatching DNA samples signified a dead end. 
+
+ExactID, proprietary software created by Battelle, an independent nonprofit research and development organization, provides investigators new and improved tools to determine criminals’ specific, identifying traits and helps analysts make sense of mounds of DNA-related forensic data. Battelle scientists completed about five years of testing to discover the right combination for a breakthrough in next-generation sequencing (NGS), which is part of the software.
+
+“It’s a new technology that looks at a lot of different fragments of DNA sequencing, putting them all together into one instrument,” says Mark Wilson, an experienced genomics researcher and a master technician who leads research and development for Battelle’s NGS technologies.
+
+The NGS is a significant improvement over sequencing technologies such as capillary electrophoresis, or CE, which usually produces a DNA profile of 20 to 25 identifying markers in one run, he explains. The NGS can distinguish upward of 230 markers. “The sheer amount of data that it provides is orders of magnitude greater than the current technology,” Wilson says.
+
+The new technology takes apart each DNA molecule and provides a precise sequence for each one, resulting in much greater fidelity of information. “It allows forensic analysts to start looking at a number of other markers that traditionally have not been available to forensic typing,” Wilson says. With that level of detail, investigators can discern not only hair and eye color, but also a person’s facial structure, ethnic and racial background and even ancestry. This essentially turns DNA into an objective witness, he continues. Battelle’s ExactID is the first commercially available forensic NGS software that also can be used to analyze data generated on a variety of NGS sequencing platforms.
+
+It focuses on ascertaining a person’s exact genetic makeup in the process called genotyping. “Imagine if you had an [unknown suspect] case, say a serial rapist, and you had DNA from that person,” says Wilson, a former FBI special agent. “You could get some information about the way they look. That could help the police focus their investigation on a certain person.”
+
+Battelle received a grant from the National Institute of Justice, the research, development and evaluation agency of the U.S. Department of Justice, to evaluate the performance of complete NGS-based methods across multiple forensic laboratories. At the same time, seven national laboratories have been testing ExactID, and the software has piqued the interest of Army criminal investigators. “The Office of the Chief Scientist is overseeing a next-generation sequencing research project Battelle is conducting for the Defense Forensic Science Center and the Army,” says Christopher Grey, an official with the U.S. Army Criminal Investigation Command. “One of the deliverables will be the next version of the Battelle ExactID bioinformatics software.”
+
+The NGS was developed commercially roughly a decade ago, but it was not used in forensics. “The field has kind of been waiting for the computer scientists to develop the algorithms to make it easy for the analysts to understand what they are seeing,” Wilson says.
+
+Battelle, based in Columbus, Ohio, created ExactID to improve on the use of NGS data. The solution goes beyond comparing the size of DNA strands and instead identifies DNA sequence differences. This is a key feature when investigators are trying to differentiate between similar sizes of DNA samples. ExactID also provides reagent- and sequencer-independent NGS software for forensic DNA analysis, giving users a wider range of options. Some companies have their own proprietary reagents that work using exclusive instruments and software. Lab operators, however, tend to prefer having more flexibility. ExactID also can help with the difficult process called deconvolution, or the extraction of different profiles when investigators collect DNA from more than one person at a crime scene. 
+
+For now, ExactID serves as an investigative tool and has yet to be tested in court cases. “It’s still in the developmental stage, in the research phase, and not widely used by crime labs,” Wilson shares. Reasons include the additional cost—labs would need to buy new instruments—and the additional training required, particularly as analysts deal with work backlogs. Then there are technical questions, such as how to process and secure the data, addressing infrastructure or server requirements and tapping the proper personnel for tracking.
+
+Still, scientists forge ahead in developing technology with a forensic focus. Until recently, work on DNA sequencing has centered on finding cancer genes rather than looking for the genes that dictate whether a person’s earlobes are attached or detached. If law enforcement could tap technologies that estimate a person’s likelihood of balding as well as his age, it could potentially complete an investigative puzzle.</text>
+  <imgalttext>
+    <img>Researcher Elizabeth Montano prepares DNA samples to be analyzed by next-generation sequencing (NGS) technology. She has performed forensic genomics research and development at Battelle in Columbus, Ohio, for three years.</img>
+    <img>Montano examines results produced by Battelle’s ExactID software, which provides a novel method for analysis of forensic DNA samples generated using NGS technology. ExactID is the first commercially available forensic NGS software that can be used to analyze data generated on a variety of NGS sequencing platforms.</img>
+    <img>A Battelle researcher swabs a water bottle to get a sample to run through the ExactID system.</img>
+  </imgalttext>
+</article>

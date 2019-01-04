@@ -1,0 +1,38 @@
+<article>
+  <type>blog</type>
+  <title>CyberFence Protects Critical Infrastructure</title>
+  <author>George I. Seffers</author>
+  <date>May 11, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Ultra Electronics</tag>
+    <tag>cyber</tag>
+    <tag>New Products</tag>
+  </tags>
+  <abstract>CyberFence enables facility operators to monitor and address issues securely and remotely within the grid, saving time, energy and resources.</abstract>
+  <text>Ultra Electronics, 3eTI, will soon see its CyberFence solution being integrated into programmable logic controllers, which often are used for automation of critical infrastructure—telling a power generator when to turn on and off, for example. CyberFence enables facility operators to monitor and address issues securely and remotely within the grid, saving time, energy and resources.
+
+While the company is not yet able to share details of the new agreement, Benga Erinle, president, Ultra Electronics, 3eTI, says a large automation sensor vendor that “ships hundreds of thousands of devices” will soon begin shipping controllers with CyberFence already installed, a major deal for 3eTI. “Now you’re not going to have to worry about buying a bolt-on device. These new controllers are going to start showing up with CyberFence technology embedded,” Erinle reports.
+
+The product was initially developed for the Defense Department and now is being used in oil and gas, and in building automation and water utilities. The Department of the Navy uses it to protect some automation systems, such as boilers, wastewater systems and base power generators.
+
+CyberFence, which has been on the market a couple of years, focuses on machines that communicate with other machines, including Supervisory Control and Data Acquisition (SCADA) systems, which provide remote monitoring and control of other systems.
+
+“When you move into the machine-to-machine interface, away from human-to-machine, these systems very often talk to each other, and they execute the commands they are given,” Erinle explains. “The problem is once you get past the perimeter defenses, those controllers ... don’t have the protection that you do on personal computers. We developed CyberFence to protect machines that are connected on the network that don’t have the ability to run some anti-malware or anti-virus on them.”
+
+While CyberFence offers many features, Erinle highlights three. First, the product “cloaks” the protected system. “We give you the ability on those machines to cloak them, or mask them, on the network through encryption. So, if hackers do not have access to the encryption keys, they won’t even know the machines are on the network,” he offers. “Those machines are effectively invisible on the network, but the SCADA servers that need to talk to them will continue to be able to. That’s one level of security.”
+
+And if a system does get compromised, CyberFence ensures it continues to communicate with the other machines. If an encrypted SCADA server is compromised, for example, the CyberFence user still can maintain control. “If devices that can get through the encryption get compromised, you can set firewall rules within our device that control which machines on the network are allowed to talk to it,” the company president states.
+
+Lastly, if an attack gets past the encryption, CyberFence still controls which commands get through. “We have deep packet inspection that can actually look at the commands being sent to these machines, and we can decide if those commands, based on rules that are set, are allowable,” Erinle states.
+
+CyberFence recently received AFCEA’s Best Value award in April at the non-profit organization’s Defensive Cyber Operations Symposium (DCOS) as part of the Cyber Solutions Showcase.
+
+The company is improving the product. For example, in order for the deep packet inspection to work, the solution must understand the specific industrial protocol being used. Those protocols vary among critical infrastructure industries, including power and electric utilities, transportation, and oil and gas. CyberFence talks to [multiple] major protocols that are in use now, and we are actively developing more protocols,” Erinle says.
+
+He sums up the CyberFence product in one sentence: “It’s all about making sure machines only talk to who they’re supposed to talk to and only say what they’re allowed to say.”</text>
+  <imgalttext>
+  </imgalttext>
+</article>

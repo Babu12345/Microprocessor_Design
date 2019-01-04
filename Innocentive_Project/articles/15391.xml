@@ -1,0 +1,48 @@
+<article>
+  <type>article</type>
+  <title>There's an App for That Radio</title>
+  <author>Col. James Ross, USA, Dave Williamson and William Wygal </author>
+  <date>November 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Army</tag>
+    <tag>app</tag>
+  </tags>
+  <abstract>The ubiquitous catchphrase “there’s an app for that” applies even to the U.S. Army. However, soldiers toss around the term waveform rather than app. Waveforms, which connect soldiers to the Army network through radios, are similar to apps because they allow communication via voice, data, images and video.</abstract>
+  <text>The ubiquitous catchphrase “there’s an app for that” applies even to the U.S. Army. However, soldiers toss around the term waveform rather than app. Waveforms, which connect soldiers to the Army network through radios, are similar to apps because they allow communication via voice, data, images and video.
+
+Waveforms draw on available spectrum to implement functions needed to operate software-defined radios, providing a secure method for troops to receive and transmit information in various forms. An open architecture of cutting-edge radio waveform technology lets multiple systems communicate and increases joint interoperability.
+
+Just as cellphone apps allow users to perform various tasks, waveforms allow radios to function and accomplish different jobs. For example, some waveforms provide network connectivity between soldiers on the ground and in the air, while others connect soldiers separated by distance and over elevated terrain, such as mountains.
+
+The Army requires the most technologically advanced—and affordable—radios, and it relies more on a non-development item (NDI) acquisition strategy to procure them. The NDI community uses government-owned, standardized waveforms to ensure interoperability between vendors’ products and to promote a competitive and fair acquisition environment. This is especially important because vendors will access the government base-line waveforms to port onto their hardware systems. Porting a waveform is a process in which a developer writes code that enables a radio’s operating environment to interact with and recognize a new waveform.
+
+Increased competition spurred by the NDI acquisition strategy helps the Army buy and field the radios it needs economically. This tactic aligns with the Defense Department’s Better Buying Power 3.0 initiative, which aims to encourage innovation and competition and produce cost-effective acquisition programs.
+
+The Army is working toward acquiring a family of common radios to replace legacy systems and to establish an open architecture for waveforms. This is part of the mission of the Defense Department’s Joint Tactical Radio System (JTRS) program, which began in 1997, when software-defined radios were in their infancy. A recent shift in the program has the department relying on industry to develop hardware so that its JTRS Network Enterprise Domain (NED) Joint Executive Program Office can focus on waveform development. The office leads the critical effort to evolve the Software Communications Architecture (SCA) and application program interfaces (APIs) that became the architectural framework for waveforms.
+
+The SCA provides the functions for loading waveforms onto radios, running applications and integrating radios into the Army’s communications system. The SCA’s open architecture isolates software from underlying hardware platforms and enables radios made by different vendors to use common, government-owned waveforms. The feature improves both interoperability and portability.
+
+The latest update to the SCA, version 4.1, enhanced functionality, reducing memory requirements and power consumption, making processor use more efficient and accelerating boot-up. The update lets users leverage technical improvements and flexibility while preserving applications from earlier versions.
+
+Reuse also is a key point. Vendors can reuse government-owned waveforms from the Defense Department’s Waveform Information Repository (IR), which eliminates their need to develop them and leads to cost savings. Nonproprietary waveforms also improve interoperability across the services and streamline the waveform development process.
+
+Today, the Army’s Joint Tactical Networking Center (JTNC) maintains the Waveform IR and furnishes waveforms to government, military and industry partners. Product Manager (PdM) Waveforms, which falls under Project Manager Tactical Radios (PM TR), develops and sustains the code, documentation and models for Army waveforms. This system lets vendors more easily load software onto hardware platforms. It also stimulates competition because vendors can access government-owned waveforms for current and future hardware platforms that will make the best use of the technology. Additionally, loading a waveform onto multiple radios improves interoperability—a key technical requirement.
+
+The Air Force, Navy and Marine Corps can use Army-developed waveforms, open SCA and standard APIs to facilitate waveform enhancements. Because networking waveforms are Internet protocol (IP)-based, they readily interoperate with other IP-based networks, and data move between networking waveforms and external networks. The Soldier Radio Waveform (SRW) and Wideband Networking Waveform (WNW) seamlessly connect to network infrastructures, such as the Warfighter Information Network-Tactical (WIN-T), which links troops who might be spread out at remote locations and lets them exchange critical information. The IP-based waveforms also let radios “network” together and serve as relays, extending the radios’ range.
+
+The JTNC ensures the waveforms provided for reuse via the Waveform IR comply with certification standards. In particular, it works closely with service program managers and the radio vendor community to advance its role in enabling waveform reuse across the Defense Department. Waveforms added to the Waveform IR undergo a rigorous process before they are ready for reuse. Some waveforms must be approved by the services, which evaluate them from interoperability, security, affordability and exportability perspectives. This approach helps gauge if the waveforms support mission needs based on operational requirements documents.
+
+Working together, the program managers and the JTNC meet the challenges of evolving waveforms requirements based on the user community, enemy threats and changes in military doctrine. A primary benefit of software-defined radios is that they can be updated with the latest waveform code in the field, providing warfighters with the best capabilities possible in the shortest amount of time. PdM Waveforms has a stringent configuration control process that ensures regular critical code fixes and enhancements. Each new waveform version delivered to the Waveform IR provides enhanced capabilities; the Joint Enterprise Network Manager (JENM) releases updated and more capable waveform versions. Simultaneously, PM TR buys and fields radios, leveraging a marketplace where qualified vendors routinely compete for smaller orders, driving innovation through competition.
+
+Through synchronized efforts, an army of apps will provide soldiers, sailors, airmen and Marines with secure radio communications to enable digital communications around the world.
+
+Col. James Ross, USA, is the project manager tactical radios at U.S. Army Program Executive Office Command Control Communications-Tactical (PEO C3T). Dave Williamson, a retired field artillery officer, manages the Army product office for waveforms and is responsible for waveform development, integration and management services. William Wygal, a former Army colonel who oversaw the tactical radio project office, is the civilian director of the Defense Department’s JTNC, which manages the waveform information repository. 
+
+The views expressed here are theirs alone and do not represent the views or opinions of the Defense Department or the U.S. Army.</text>
+  <imgalttext>
+    <img>Product Manager Handheld, Manpack and Small-Form Fit engineers perform tests on the manpack radio in the Unified Lab for Tactical Radios–Army (ULTR-A) facility in Maryland. The ULTR-A lab is used for radio and waveform testing and integration.</img>
+  </imgalttext>
+</article>

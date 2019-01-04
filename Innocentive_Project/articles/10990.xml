@@ -1,0 +1,32 @@
+<article>
+  <type>article</type>
+  <title>Does the Joint Information Environment ?Help or Hinder Coalition Interoperability?</title>
+  <author>Kent R. Schneider</author>
+  <date>May 1, 2013</date>
+  <departments>
+    <department>Defense Operations</department>
+    <department>International</department>
+  </departments>
+  <tags>
+    <tag>Acquisition</tag>
+    <tag>command and control</tag>
+    <tag>Europe</tag>
+    <tag>NATO</tag>
+    <tag>Networks</tag>
+    <tag>May 2013</tag>
+    <tag>East Joint Warfighting 2013</tag>
+  </tags>
+  <abstract></abstract>
+  <text>Coalition interoperability has received a good deal of focus during the past few years. The Afghan Mission Network (AMN) has given many hope that a repeatable solution for coalition operations could be developed that would allow rapid deployment of a coalition-compatible network for future conflicts. The Future Mission Network (FMN) is envisioned to allow coalition partners to plug into a standards-compliant network with the functionality and security needed to support complex operations.
+Recently, in discussions on the U.S. Defense Department initiative to develop a common operating environment referred to as the Joint Information Environment, or JIE, I began to consider whether the creation of such a common environment for the department would help move toward agile and effective coalition information sharing, or would put more distance between the U.S. military and its partners.
+	The conclusion I have reached is that the JIE could help or hinder coalition efforts, depending on how the JIE architecture is coordinated and whether it is kept on a path parallel to the FMN. It is important to remember that coalition information sharing today is more than just how the United States works with its foreign allies. Anywhere on the mission spectrum, the Defense Department must work with a wide range of U.S. federal agencies, industry partners and, sometimes, state, local and tribal agencies, as well as with international partners.
+	This means the legacy architectures, direction and needs of this extremely diverse set of players must be considered at every step of the development of the JIE. And, it is imperative to keep the development of the JIE and the development of the FMN coordinated every step of the way. Failure to do this will make it more difficult, not easier, to work with interagency partners and coalition partners.
+	We have seen this many times before. The Defense Department makes infrastructure investments that are not affordable or cannot be synchronized with other agencies and/or international friends, and interfaces are broken. The department cannot assume that others will be able to transition at the same pace that it does, and it cannot always assume the others will make the same standards and architectural choices the department makes. Some people have argued that the JIE should be labeled the “coalition information environment” and should be fully coordinated with interagency and international partners.
+	The Defense Department has not interacted very much with industry on the JIE. A robust dialogue with industry would help ensure that JIE architecture and standards are consistent with international industry direction and best practices, and it would promote international compatibility. Industry also has developed many common operating environments through the years, and it could provide extensive advice on what to do and what not to do. Because industry works continuously with other U.S. federal agencies and with international governments, it would be immensely helpful in facilitating coordination among all parties. Industry also has been involved heavily with the AMN and the FMN, and it could help keep them synchronized as well.
+	Common operating environments are not entirely about technology. Information sharing depends on business rules on which every party to the sharing has agreed. Trust is essential in the exchange of information. In addition to agreed business rules, such trust on a broad basis requires agreed role definitions and role access along with positive and effective identity management. The Defense Department currently has an effective identity management system, but one that largely is confined to department employees and limited numbers of contractors that are embedded within the government.
+	To expand this to interagency and coalition information sharing, role definitions and associated access would have to be agreed on, and a broader information management system and process would be necessary. In presentations on the JIE, the department usually identifies management as the first objective. I hope it is being addressed on a broad basis. Feedback from leaders in Afghanistan repeatedly has indicated that the AMN does a great job of moving bits and bytes to its every part, but it does not always ensure effective information sharing with all because of incomplete processes or lack of trust.
+	Let’s hope that the JIE moves all players toward the objective. It is impressive that the coalition leaders want to share information effectively. We need to give them the means to accomplish this. The JIE can be a catalyst. Will it be?
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

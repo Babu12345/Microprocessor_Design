@@ -1,0 +1,69 @@
+<article>
+  <type>article</type>
+  <title>Lessons Learned Drive DCGS-A Forward</title>
+  <author>Robert K. Ackerman</author>
+  <date>May 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>U.S. Army</tag>
+    <tag>DCGS-A</tag>
+  </tags>
+  <abstract>New technologies as well as user complaints are the basis for upgrades to the U.S. Army’s ground intelligence system.</abstract>
+  <text>New technologies as well as user complaints are the basis for upgrades to the U.S. Army’s ground intelligence system. Already deployed across the force, the system is seeing improvements in the second release of its baseline, and the next increment will take upgrades to a new level to meet growing demands for diverse intelligence on the battlefield and at headquarters.
+
+The Distributed Common Ground System-Army (DCGS-A) is designed to serve the need for analysis and fusion of all the Army’s intelligence products. It comprises hardware, laptops, servers and storage, along with software for analysis. The software includes more than 100 tools that allow intelligence analysts to manipulate up to 700 unique intelligence feeds and data sources. Analysts can perform nontraditional functions, such as assessing weather and terrain and processing human and geospatial intelligence, and then feed their products to decision makers. 
+
+The convergence of operations and intelligence is a key driver for the DCGS-A, explains Col. Robert M. Collins, USA, DCGS-A project manager. In particular, the system can handle the high-intensity and decisive operations that may define Army operations in the next decade, he says.
+
+A signal officer, Col. Collins views the DCGS-A as one part of a “big three” in Army command, control, communications, computers, intelligence, surveillance and reconnaissance (C4ISR). The other two elements are supporting mission command for warfighters and decision makers on the battlefield; and effective transport and operation of the Warfighter Information Network-Tactical (WIN-T).
+
+The Army is working toward a modular and open-systems architecture that ensures seamless interoperability across joint operations, the colonel points out. This effort extends toward coalition forces, he adds, noting that the DCGS-A currently supports global operations. 
+
+All told, the DCGS-A is a system of systems fielded at Intelligence and Security Command (INSCOM) units and deployed to every corps, division and brigade around the world. Each intelligence anchor point at every combatant command has the DCGS-A, Col. Collins offers. System units are connected when deployed as well as at their home stations in the United States. Roughly 96 percent of the force is using the DCGS-A. This collaboration between the technical community and the operational force must continue to move forward, he declares. 
+
+The DCGS-A program comprises two increments, each of which contains two releases. Increment 1’s first release is the version currently fielded to the force. Its fielding has not proceeded without criticism, particularly from operators citing difficulty of use. However, the Army has learned from its operational test in 2012 and subsequent deployments. The service has addressed these issues, which ranged from system stability to ease of use, and it has improved subsequent iterations.
+
+Among the issues operators raised was sluggish performance. The Army enhanced the DCGS-A speed and performance by turning to brokers for some of the services as well as optimizing the ability to move the intelligence over the transport, the colonel reports. 
+
+Another area of concern involved the user interface. The Army worked to ensure it had a “common tile, common display look and feel” on the screen layout for ease of use, Col. Collins relates. Cyber also came into play, as the Army learned how to harden systems better and close unnecessary ports while improving cyber hygiene across the program.
+
+The service improved extension of the Top Secret enclave as well. Describing this move as “a game changer,” the colonel says the second release extends the enclave down to the brigade formation. “A brigade combat team has the ability to have three-letter-agency, high-degree-of-clarity intelligence to speed up the decision cycle and allow them to engage the enemy in the deep fight a lot before they get into the close fight,” he explains.
+
+The Army also added a cross-domain solution that enabled moving intelligence, where appropriate, between the Top Secret enclave and the secret Internet protocol router enclave. This extended collaboration provides “an unprecedented clarity of intelligence picture on the enemy,” along with increased speed of decision, the colonel says.
+
+With these upgrades came improvements in how the Army trains soldiers to use the system. Col. Collins notes that the DCGS-A is a collective system across the intelligence sector, and the operational sector must be brought in on how it feeds into the mission command. Then, the DCGS-A in the intelligence and operations sectors must work in conjunction with the communications sector across the network.
+
+The colonel notes that the first release of the DCGS-A tended to adopt a one-size-fits-all approach, but this did not work effectively at different echelons. Lower echelons, for example, do not move as much intelligence and have less bandwidth. As a result, system use in future Network Integration Evaluations (NIEs) will feature the ability for lower echelons to tailor and reduce the number of tools.
+
+The operational test for Increment 1’s second release was completed at NIE 15.2 a year ago. That test showed the DCGS-A to be “effective, suitable and survivable,” Col. Collins offers, although work remained to bring systems together across the networks. In February, the Army began to field the second release, with its fixes to the problems unearthed in the first one. 
+
+Commercial capabilities play a significant role in Increment 1. These include software from several large companies specializing in mapping and search engines. This software underpins many of the system’s functions. The Army is aiming for industry to play a bigger role in Increment 2.
+
+The second release of Increment 1 features mostly commercial off-the-shelf products, both hardware and software, the colonel notes. The prime area that is not dominated by commercial products involves doctrinal threat analysis for specific Army segments or units. Those types of software tend not to be offered in the commercial marketplace, he points out, although they might be developed by industry under contract.
+
+The Army already is working to team better with industry on Increment 2, Col. Collins allows. “We’ve spent about the last 16 months doing a fairly comprehensive analysis of (A) what we learned from previous test reports, (B) what we learned from user feedback and (C) our independent market research both within the program and outside the project manager’s office,” he says. An examination of how other programs implemented information technology and what users want is influencing the steps leading toward Increment 2, he adds.
+
+The Army has conducted a number of industry days and requests for information from industry, the colonel continues. More than 200 companies have been involved in the process, with the Army holding more than 80 one-on-one sessions with industry. “This has defined our full and open competition for Increment 2,” he declares.
+
+Three specific improvements are targeted for Increment 2. One is the data integration layer—specifically, how the system ingests, indexes and makes data accessible. The second is analytics. The Army is seeking advanced analytic engines that help users make sense of all the data and improve the decision cycle. The third is the visualization element, or the window through which the intelligence analyst views all the data. 
+
+Another advance will be to tap into big data and the alignment of the Intelligence Community Information Technology Initiative (ICITE) and its cloud initiatives. Increment 2 also should allow scaling of the DCGS-A capability by echelon, so smaller units need use only the subset of capability they require. These assets will be vital for providing intelligence support to cyber and for incorporating open-source data into its intelligence product.
+
+Col. Collins adds that industry and Army market research agree that data integration is the top priority. The Army issued a request for proposals (RFP) for Increment 2 in December, and it is targeting a source selection contract award for late third quarter of fiscal year 2016. 
+
+Commercial hardware and software require regular upgrades, which are part of the RFP. The colonel emphasizes that the Army will ensure these upgrades are consistent with interoperability requirements, and they will be able to operate in the unique military environment. For example, commercial products optimized for fiber and Ethernet may be incompatible with a network that often is disconnected, has limited bandwidth and operates over satellite with latency.
+
+Above all, these commercial upgrades must be cyber-hardened. Systems must be prepared for traditional adversarial scanning as well as actual attacks, Col. Collins states. The aim of the system is to provide situational understanding under all conditions.
+
+When Increment 2 appears, it will be fielded at a rate of about 20 percent per year, concurrent with Increment 1 use. The colonel explains that Increment 1 will continue to be used until Increment 2 is ready to displace it. Meanwhile, any hardware procured for Increment 1 must be “Increment 2 ready,” he states.
+
+A soldier uses the Distributed Common Ground System-Army (DCGS-A) in a tactical operations center. Feedback from users, combined with technological advances, is fueling upgrades that offer vast improvement in system performance.
+
+A U.S. Army high-mobility, multipurpose wheeled vehicle equipped with DCGS-A serves as a mobile intelligence station. Improvements in the system’s most recent release extended its Top Secret enclave down to the brigade level, opening its use to more combatants in the field.</text>
+  <imgalttext>
+    <img>A soldier uses the Distributed Common Ground System-Army (DCGS-A) in a tactical operations center. Feedback from users, combined with technological advances, is fueling upgrades that offer vast improvement in system performance.</img>
+    <img>A U.S. Army high-mobility, multipurpose wheeled vehicle equipped with DCGS-A serves as a mobile intelligence station. Improvements in the system’s most recent release extended its Top Secret enclave down to the brigade level, opening its use to more combatants in the field.</img>
+  </imgalttext>
+</article>

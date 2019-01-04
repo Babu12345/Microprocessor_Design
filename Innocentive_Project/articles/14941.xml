@@ -1,0 +1,44 @@
+<article>
+  <type>article</type>
+  <title>DISA Offers Mobile Solution for Secret Network; NGA Now 'Has an App for That'</title>
+  <author>Sandra Jontz</author>
+  <date>August 13, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>mobility</tag>
+    <tag>DISA</tag>
+    <tag>NGA</tag>
+    <tag>Cybersecurity</tag>
+    <tag>Acquisition</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The Defense Department’s much-anticipated capability solution to access classified voice and email up to the secret level from mobile devices finally migrated from the pilot stage and now is operational; while at the NGA, they've got an app store up and running that serves as a clearing house for geospatial-related mobile applications. </abstract>
+  <text>The Defense Department’s much-anticipated capability solution to access classified voice and email up to the secret level from mobile devices finally migrated from the pilot stage and now is operational within the department and several federal agencies, says Kimberly Rice, program manger for the Defense Information Systems Agency’s (DISA's) Mobility Program Management Office.
+
+The Defense Mobile Classified Capability–Secret (DMCC-S) is DISA’s first enterprise solution that gives authorized users access to the classified side of the network via smartphones. “It offers the first substantiation of a mobile device management capability on the secret side, and it is the first introduction of a new commercial device that did not require a build-from-scratch type of device,” Rice remarked at a federal mobile computing summit hosted by the Advanced Technology Academic Research Center. 
+
+“It is the only game in town from an enterprise perspective,” Rice said. “It is also the only group right now that has an enterprise device, because we’ve had a lot of challenges that we’ve worked through very closely with [the National Security Agency] on how do we get a hardened device out in the quantities that we believe we’re going to need to have," Rice said of the current 750 DMCC-S users. "That number is growing.”
+
+DMCC-S went live in June and piqued the interest of multiple coalition partners and other U.S. federal agencies, she said. General Dynamics provides the Samsung KNOX-enabled Galaxy S4 smartphones with added protected software that lets government personnel make secure phone calls and access classified email. DISA will launch a new pilot study before December to test devices that can work in the top secret/sensitive compartmented information, or TS-SCI, space, Rice announced. DISA too is working on cyber solution sets using derived credentials on mobile devices to relieve workers of having to use the much-despised Common Access Card readers to access the network.
+
+“We proved in a lab environment that it can be done,” said Bill Edwards, the integrated project team lead at the U.S. Navy. “It’s the authentication piece that’s still a little bit in flux that could cause issues, but DISA has a very well-rounded solution for a derived credential PKI (public key infrastructure). And it works.”
+
+Two years ago, DISA launched a pilot to study automated enterprise solutions with a capability of securely storing users’ credentials and allowing mobile devices to download required certifications, Rice said. The pilot was slated to end this month, but a solution is not yet available and officials extended the pilot until December.
+
+DISA is integrating varying mobile solutions so that all of the military departments move toward a "single mobile direction," she said. “From the DISA perspective, we have been charged with trying to consolidate and gain some economies of scales as well as efficiencies." 
+
+In addition to the agency’s work to deliver a mobile solution to the classified network, DISA worked on an unclassified offering that is device agnostic and has equipped thousands of users with Apple, Android and Blackberry devices. The agency is researching whether it can integrate Microsoft Windows and Apple Macbooks as an offering, she said.
+
+Officials participating in Wednesday’s mobility summit said they hope the government does not embark on a process to vet mobile applications like it did to scrutinize commercial cloud providers seeking to break into the federal market place. The Federal Risk and Authorization Management Program, or FedRAMP, is a government-wide program that provides a standardized approach to security assessment, authorization and continuous monitoring for cloud products and services. 
+
+From a cloud-computing perspective, FedRAMP was a good approach but would likely prove too cumbersome to vet mobile applications, offered Lon Gowen, chief technologist at the United States Agency for International Development (USAID) and who participated in developing FedRAMP. "I think the best approach is to use a distributed approach, with different agencies … vetting different apps.” The approach is akin to a whitelisting concept. “Once one organization does it, which was kind of the FedRAMP idea, then everybody else can leverage it,” Gowen said.
+
+Also garnering much interest among federal agencies is creation of an app store by the National Geospatial-Intelligence Agency (NGA) that pairs commercial developers' applications of unclassified geospatial data with those in the intelligence community and other federal agencies who can use it, said Shana Simmons, the agency’s GEOINT integration capabilities officer. “Anything that has a geospatial flavor, we want to be the one-stop shop for those applications.”
+
+The unique effort, called Innovative GEOINT Application Provider Program, or IGAPP, applies a commercial-like business model to the federal space and brokers private vendors’ applications into the GEOINT App Store, providing downloadable applications for mobile, Web and desktop devices. The effort reduces the contracting and acquisition time from 18 months to 90 days, Simmons said. </text>
+  <imgalttext>
+    <img>Marines conduct civil-military operations and collect, process, analyze and share information using software from a smartphone.</img>
+  </imgalttext>
+</article>

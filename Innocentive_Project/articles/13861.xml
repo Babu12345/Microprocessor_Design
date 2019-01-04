@@ -1,0 +1,32 @@
+<article>
+  <type>blog</type>
+  <title>3-D Printing in Space Becomes Reality</title>
+  <author>George I. Seffers</author>
+  <date>December 9, 2014</date>
+  <departments>
+    <department>International</department>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>international space station</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The 3-D printer recently installed on the International Space Station has printed a replacement part for itself, proving the process works in space and potentially paving the way for long-term space expeditions.</abstract>
+  <text>The 3-D printer recently installed on the International Space Station has printed a replacement part for itself, proving the process works in space and potentially paving the way for long-term space expeditions. 
+
+“This first print is the initial step toward providing an on-demand machine shop capability away from Earth,” explains Niki Werkheiser, project manager for the International Space Station 3-D Printer at NASA’s Marshall Space Flight Center in Huntsville, Alabama.“The space station is the only laboratory where we can fully test this technology in space.” Werker made the statement in the Armed With Science blog published by the U.S. Defense Department. 
+
+The first object 3-D printed in space is a faceplate for the casing around the printer head, also known as the extruder. Ground controllers sent the printer the command to make the first printed part, demonstrating that the printer can make replacement parts for itself. The 3-D printer uses a process formally known as additive manufacturing to heat a relatively low-temperature plastic filament and extrude it one layer at a time to build the part defined in the design file sent to the machine. 
+
+Part adhesion on the tray was stronger than anticipated, which could mean layer bonding is different in microgravity, a question the space station team will investigate as future parts are printed. With a new print tray installed, the ground team sent a command to fine-tune the printer alignment and printed a third calibration coupon, which will ultimately allow the ground team to command the printer to make a second object.
+
+The ground team makes precise adjustments before every print, and the results from this first print are contributing to a better understanding about the parameters to use when 3-D printing on the space station. 
+
+The 3-D Printing in Zero-G Technology Demonstration on the space station aims to show additive manufacturing can make a variety of 3-D printed parts and tools in space.
+
+The first objects built in space will be returned to Earth in 2015 for detailed analysis and comparison to identical ground control samples made on the flight printer after final flight testing earlier this year at NASA’s Marshall Center prior to launch. The goal of this analysis is to verify that the 3-D printing process works the same in microgravity as it does on Earth.
+
+</text>
+  <imgalttext>
+  </imgalttext>
+</article>

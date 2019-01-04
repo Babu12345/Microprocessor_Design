@@ -1,0 +1,53 @@
+<article>
+  <type>blog</type>
+  <title>What’s the Most Deadly Cyber Attack?</title>
+  <author>George I. Seffers</author>
+  <date>November 17, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>critical infrastructure</tag>
+    <tag>TechNet Asia-Pacific 2016</tag>
+  </tags>
+  <abstract>U.S. military and civilian experts on protecting critical infrastructure control systems debated whether a cyber attack on common information systems or on industrial control systems would be more deadly in response to an audience question at the AFCEA TechNet Asia-Pacific conference in Honolulu.</abstract>
+  <text>U.S. military and civilian experts on protecting critical infrastructure control systems debated whether a cyber attack on common information systems or on industrial control systems would be more deadly in response to an audience question at the AFCEA TechNet Asia-Pacific conference in Honolulu.
+
+Ross Roley, U.S. Pacific Command (PACOM) energy innovation lead, argued that an attack on industrial control systems would be more catastrophic. He cited a case at least a decade old in which an oil pipeline valve was inadvertently left open, causing a leak. Some kids fishing in the area lit a match and sparked an explosion that set the water on fire and created a mushroom cloud visible for miles. Three kids died. “An information system usually does not have kinetic effects. I don’t see an information system causing that kind of damage,” Roley asserted.
+
+
+Roley, @PacificCommand, a #cyber attack on info system usually does not have kinetic effects, industrial control system does#AFCEATechNet
+— George Seffers (@gseffers) November 17, 2016
+Capt. Jody Grady, USN, the U.S. Cyber Command liaison officer to PACOM, countered that it really depends on the situation. “If the information system you’ve hacked is maybe a shared system between us and the Iraqis to help their troops get into Mosul right now, it gives away their positions. ISIL could use artillery they’ve stolen from us to hit them. That’s pretty darn deadly,” he declared.
+
+And even if an adversary doesn’t acquire precise troop locations, they can steal information that will prove deadly at a later date. “If you get enough of my tactics, techniques and procedures, if you get the frequencies of the radars I use, if you get the frequencies I use to talk on the radio, that can become deadly,” the captain stated. “There’s immediate deadly, and there’s long-term deadly, and I think there’s potential for either depending on the nature of the system you’re looking at.”
+
+Trevor Jones, chief of Cyberspace Mission Assurance, PACOM, added that no one can come close to answering the question without thoroughly assessing their mission or business priorities and taking “an adversarial look at all the infrastructures and information control systems that ... could be used in such a way as to cause harm.”
+
+Bryan Tepper, information assurance manager for the Hawaii Electric Company, said ransomware is becoming the most common type of attack and agreed that attacks on industrial control systems will be most deadly. If his company’s systems get locked up for a few days or a week due to a ransomware attack, he said, it will affect the ability to send bills to customers, to pay the company’s bills and to communicate, but if the industrial control systems fail, that affects energy generation and distribution and energy system management. “If you wanted to soften up the military here, you knock the power out for a week or 10 days. Most backup systems are not going to be able to run that long, and that could be problematic,” Tepper said.
+
+
+Tepper, a vuln can be posted online and within hours we'll see people pinging on that on our networks#AFCEATechNet
+— George Seffers (@gseffers) November 17, 2016
+Robert Runser, from the National Security Agency office in Hawaii, pointed out that an attack on information systems can have strategic effects. He cited the attack on Sony Pictures Entertainment, which led to resignations and a company reorganization.
+
+“If you think about command and control hierarchies, think about that on both the military and civilian side, if private information leaks out to damage the reputation or undermine the leadership, it can lead to a decapitation type of attack through just information warfare,” he asserted. “There are very sensitive information systems that can have strategic effects on command and control systems if an adversary were to expose private communications out of context. While they may not kill people or lead to explosions ... they can still undermine critical leadership at very sensitive times.”
+
+
+Runser, @NSAGov Hawaii, says economies around the world are impacted by cyber attacks, and we all pay the price#AFCEATechNet
+— George Seffers (@gseffers) November 17, 2016
+Eric Husher, from the Naval Computer and Telecommunications Area Master Station, Pacific, said both information systems and industrial control systems could be attacked at the same time. He drew a laugh from the audience when he answered the either/or question with “a strong yes.”
+
+Before the audience question came up, Roley pointed out that dangerous attacks can be launched on seemingly benign systems. For example, if an air conditioning system goes out, the heat rises and a military organization may have to stop running its computers. He cited a documented case in which a thermostat in a federal government building was “digitally reprogrammed to be a microphone, a listening device, in a high-profile conference room.”
+
+
+Roley, @PacificCommand, stresses need for control system security for critical infrastructure protection#AFCEATechNet
+— George Seffers (@gseffers) November 17, 2016
+Roley also pointed out that when Russia launched a cyber attack on the Ukraine, it did so by sending an email to someone at the power company. The message contained a spread sheet supposedly showing where Ukrainian troops were deployed. Because the man had a son in the Ukrainian Army, he was interested and opened the attachment.
+
+“That launched the whole thing. They used Black Energy. They used the Metasploit session. ... The operator at the Ukraine power plant lost control of the computer. The cursor started moving around and ... shutting down pieces of the electric grid. All he could do was pull out an iPhone and take a video of his screen acting autonomously from some cyber hacker,” Roley recalled.</text>
+  <imgalttext>
+    <img>Experts debate whether a cyber attack against common information systems or industrial control systems would be more lethal. Photo by Bob Goodwin</img>
+  </imgalttext>
+</article>

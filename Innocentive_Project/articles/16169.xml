@@ -1,0 +1,55 @@
+<article>
+  <type>article</type>
+  <title>Remapping The Planet, 3 Words At a Time</title>
+  <author>Sandra Jontz</author>
+  <date>June 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Apps</tag>
+    <tag>mobile</tag>
+    <tag>GPS</tag>
+    <tag>Global Positioning System</tag>
+    <tag>Geographic Information Systems</tag>
+  </tags>
+  <abstract>What3words, and its app of the same name, seeks to provide a simple way to communicate location, from far-flung corners of the world to top travel spots. The app works by just plugging in a unique three-word combination to pinpoint a destination.</abstract>
+  <text>A tiny London-based firm has a way with words, particularly when they are arranged in groups of three. It has parsed the planet into 3-meter-by-3-meter (about 10-foot-by-10-foot) squares in a global addressing system, applying an algorithmic engine to assign three-word identifiers to each and every one of the 57 trillion squares that compose a global map.
+
+What3words, and its app of the same name, seeks to provide a simple way to communicate location, from far-flung corners of the world to top travel spots. The app works by just plugging in a unique three-word combination to pinpoint a destination. Entering “daunting.evolves.nappy,” for example, will land travelers at the Eiffel Tower in Paris. Or, rather than relying on the Global Positioning System (GPS) coordinates 51.501395, -0.141924, remembering “fence.gross.bats” offers an easier way to guide users to Buckingham Palace. 
+
+Those tourist attractions are not difficult to find. But many other places are, and the British entrepreneurial venture aims to put them on the map. For example, “acquaint.shared.pricier” will orient users to Harasta, Syria, one of several besieged cities to which the United Nations seeks to deliver aid.
+
+Today, a growing number of nongovernmental agencies and private businesses use What3words to communicate location in many developing parts of the world. Roughly 75 percent of the planet suffers from inadequate addressing, says Giles Rhys Jones, chief marketing officer for What3words. “There are many parts of the world where having a proper address means you can get aid, or you can start a business,” he emphasizes. “It makes life easier, and we want to help.”
+
+What3words has users in more than 170 countries. Since the company’s launch nearly three years ago, its staff of 12 employees not only has devised the mapping algorithm and mobile app, which is improving lives and economies, but also has managed to translate the bulk of addresses on the global grid into 10 languages, Jones offers. “We came up with the system because addressing around the world, talking about a precise location, is otherwise pretty difficult,” he says. “Yes, you could use GPS coordinates, latitude and longitude, which is brilliant. It’s very accurate, and it’s great—if you are a machine or a highly trained GIS [geographic information systems] professional.
+
+“But if you are a person on the street, your ability to remember 18 digits is zero,” Jones continues. “Dropping a PIN on a phone and sending it is fine, but if you want to write [map coordinates] down on a piece of paper or tell someone over the telephone, it’s impractical. It’s not flexible enough.”
+
+The smart app aids postal workers and delivery businesses in locating precise addresses in the “favelas”—Portuguese for slums—of Brazil, which are seeing an emerging middle class with disposable income and Internet connections. “They’re buying things, but they just don’t have a particularly easy way of getting them delivered,” Jones explains.
+
+South African townships use What3words to deliver prescription medications to previously uncharted locations. Residents in the slums of some Indian cities use the app to help companies ship them solar-powered lights. In Mozambique, organizations use the tool to deliver and track mosquito netting in efforts to curb the spread of malaria. “There are lots and lots of different use cases around disaster-humanitarian, development and asset management efforts,” Jones offers.
+
+Still, the technology’s convenience is not solely reserved for underdeveloped areas of the globe. In the United States, MetCom 911, an emergency dispatch service in the Denver area, relies on What3words to accurately pinpoint more than 57,000 fire hydrants. “Rather than saying [a hydrant] is just by the third tree, past the bend on XYZ highway, they can now be very specific,” Jones points out. “Historically, they would use people who would find the GPS coordinates and write them down and send them in. But what if the one is [mistaken for] a seven? Consequently, errors creep in.”
+
+When the global GIS company Esri made What3words available across its ArcGIS platform as a locator, MetCom 911 availed itself of the solution. “MetCom receives location information from multiple agencies we provide services to. We provided these agencies with field collection tips on how to record accurate location information,” says Heather Hoelting, the GIS specialist at MetCom 911, which began using the product in November. “In this document, we suggested using What3words to eliminate recording lengthy [latitudes and longitudes] and minimize inaccurate locations. Providing the fire departments we serve with an alternate field collection method like What3words has improved location accuracy of fire hydrants and significantly speeds up data entry into the geodatabase.”
+
+Another British firm, Navmii, developed a travel app now used in 180 countries and has teamed with What3words to enhance its product. “It’s a great idea that actually solves a problem, which was the limitations of using street addresses,” says Zoe Laycock, Navmii’s chief marketing officer. “Because our mission is to help people travel simply and easily, we have to be concerned about doing that in a universal nature. We were very interested in the idea of being able to pinpoint locations that don’t necessarily have street addresses. With What3words, we can navigate people to beauty spots—think about El Capitan, think about national parks in the U.S. and the U.K. and in many countries that don’t have street addresses. A very big part of the Navmii app is helping people discover new places and then getting them there.”
+
+The genesis of the simplified addressing system came from the desire to provide an alternative to numerical street addresses, Jones shares. “In many places, addressing is inaccurate. We developed this system to be a user-friendly version of coordinates that is much more memorable. Your ability to remember three words is near perfect,” he says.
+
+What3words labeled the entire planet first in English, using upward of 40,000 words. Now the app is available in French, Portuguese, Russian, Spanish, Swahili and Swedish languages, to name a few, and programmers are working on Arabic, Greek and a number of Indian dialects. Additionally, the company is creating a voice-recognition solution.
+
+Developers meticulously worked to fine-tune What3words. For example, it does not use homophones, so hear (to listen) and here (as in place) are out. And swearwords have been removed.
+
+“We’ve done some clever things with the words,” Jones says. “We’ve put shorter, more memorable words for places [that are] much more likely to get used and harder, more difficult or complex words [to pinpoint] the middle of the oceans, for example, or the middle of the Sahara, where they are less likely to get used.”
+
+The system is “nonhierarchical,” meaning that the location of “table.chair.lamp” (Australia) is nowhere near “table.chair.damp” (Connecticut). “We’ve distributed similar-sounding words to be very, very far apart, so if you mishear the address, if you make a tiny error, it’s very easy to [detect],” Jones explains. 
+
+In addition to an ecosystem of apps for Android and iOS devices and a website for users, What3words has developed an application program interface (API) and a software development kit (SDK) for businesses to enhance their own products and services, Jones declares. “We are being built into navigation apps, we are being built into surveying apps, we are being built into data collection apps, and we’re also being built into GIS platforms. We’ve been built into a number of fleet solutions as well—fleet-routing systems that allow you to throw in a number of three-word addresses—and they will tell you the most effective route to take to deliver to each one of them.” 
+
+The app is free for individuals and small businesses, and licensing fees are scaled down for developing countries and humanitarian organizations. “We are unashamedly on a mission to change the world and make it a better place, make it less frustrating, make it more efficient and safer,” Jones says. “To do that, we need to become a global standard for communicating location.”</text>
+  <imgalttext>
+    <img>Global geographic information systems (GIS) company Esri has made What3words available across its ArcGIS platform as a locator, offering a simplified addressing system for computers and mobile devices. What3words marks locations using three easy-to-remember words.</img>
+  </imgalttext>
+</article>

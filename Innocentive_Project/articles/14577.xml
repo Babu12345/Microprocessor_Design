@@ -1,0 +1,52 @@
+<article>
+  <type>article</type>
+  <title>Research Spurs Cognitive Computing Renaissance</title>
+  <author>George I. Seffers</author>
+  <date>June 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>cognitive technology</tag>
+  </tags>
+  <abstract>Rapid advances across the field of artificial intelligence have resulted in computers more capable of processing information as humans or animals do, allowing the machines to learn, adapt and decide for themselves.</abstract>
+  <text>Rapid advances across the field of artificial intelligence have resulted in computers more capable of processing information as humans or animals do, allowing the machines to learn, adapt and decide for themselves. The technological gains promise benefits in a wide range of areas, including unmanned vehicles, cybersecurity and digital personal assistants.
+
+Over the past five decades, artificial intelligence (AI) research has splintered into subcategories, including robotics, machine learning, image processing and natural language processing. Dividing the areas of research accelerated technological gains across the spectrum, explains Hector Muñoz-Avila, program director for Robust Intelligence, National Science Foundation. Now the Robust Intelligence program once again is combining all of those areas of research.
+
+“The idea of the Robust Intelligence program, which was started about five years ago, was to bring all of these different subfields together and promote the integration of the subfields again to help solve the big problems that require all of these specialties to work together,” Muñoz-Avila says.
+
+Five decades ago, cognitive computing and AI were linked. Many of the leading researchers in AI were actually psychologists, or “cognitive scientists” in modern-day parlance, Muñoz-Avila notes. “AI became fragmented and people started looking into technical problems like machine learning and robotics and so forth, and the whole issue of cognition became a sideline. People stopped worrying about these high-level processing capabilities. Only in the past five to 10 years we have seen a renaissance from the cognitive computing movement,” he says.
+
+“This is a new area that is just restarting after years of being dormant.”
+
+Combining the different areas of AI research could foster even greater advances. “We understand very well what each of these individual fields is able to do, so we’re trying to get something where the combination is greater than the sum of its parts,” Muñoz-Avila says. “Trying to integrate them is a really hot research topic.”
+
+Among the goals, researchers seek to create an advanced cognitive architecture capable of concurrently carrying out four different kinds of tasks. “A cognitive architecture exhibits all of these components simultaneously: being able to acquire information and knowledge, process that information, act upon that information and learn from its own behavior. I would say this is the ultimate goal,” Muñoz-Avila offers.
+
+Researchers around the world and across governments, academia and industry are pursuing cognitive computing breakthroughs. MarketsandMarkets, a research firm, predicts the worldwide cognitive computing market will be worth more than $12.5 billion by 2019.
+
+The Robust Intelligence program alone has resulted in several advances just this year. In April, Cornell University researchers announced they have developed a system that anticipates a driver’s actions, potentially preventing deadly mistakes. By observing the driver’s body language and considering that in the context of what’s happening outside the car, the computer algorithm determines the probability that the driver will turn, change lanes or continue straight ahead. Earlier that month, scientists at the University of Texas at Austin said they used psychological theory and text analysis software to determine Shakespeare was the true author of the play Double Falsehood.
+
+Unmanned systems that need to travel long distances and adapt to changing environments also may benefit from cognitive computing. And in some cases, machines may need to mimic nature. “Many of the applications that people look at are motivated by what is called a biologically inspired design,” Muñoz-Avila says. He cites birds capable of flying long distances with minimal wing flapping. “They somehow know how high or how low to fly to exploit the air current without putting out too much effort. There has been some research on air vehicles that look at the air currents and try to glide, motivated or inspired by those ocean birds that are able to fly over thousands of miles while consuming little energy. The commonality here is the biological system, the bird, is adjusting. The principle could operate with these unmanned air vehicles that will allow them to adjust based on changing conditions,” he explains.
+
+Cognitive computing techniques also are being applied to underwater unmanned vehicles, which are more challenging than air vehicles to control remotely. “These kinds of cognitive systems could be used in what are called long-duration missions. You’re putting out one of these autonomous vehicles, and it is going to be deployed for a few weeks or months. From time to time, it may pop to the surface and receive some instructions, but the bulk of the time, it really has to operate autonomously, which means the system has to be able to analyze the environment and make its own decisions,” Muñoz-Avila states, adding that preprogramming systems for every possible contingency is impossible.
+
+“The sensors of vehicles have been adjusted for the environment and water in certain conditions,” he elaborates. “But suppose there is an oil spill. The oil spill will affect how the sensors operate, and the system, because it is submerged, may not even know about these hazardous conditions, and the sensors will send information that is not accurate.”
+
+A cognitive system, however, can recognize the change in the environment and adjust the sensors. “This whole area of unmanned vehicles is ripe for this kind of technology. Nature has many examples of biological systems that are successful in their own environments, and those designs could be used and adapted into actual human-made systems,” Muñoz-Avila observes.
+
+He points out that unmanned systems no longer are just for military usage. Amazon wants to deliver packages using drones, for example.
+
+Cybersecurity is another area ripe for cognitive computing advances. Autonomous software agents can monitor a network and its hundreds or thousands of nodes for any anomalous behavior indicative of an intruder. “That is an example of an agent that is deployed for cybersecurity applications within the network and is processing massive amounts of data in trying to detect behaviors. At the same time, the opponent, the person trying to infiltrate the network, is changing the behavior of a program, so in an ideal situation, the cognitive system will be able to adjust accordingly,” Muñoz-Avila indicates.
+
+In addition, computerized assistants one day could become more common and more helpful thanks to cognitive computing research. “The idea is that an intelligent system can look over your shoulder and help you accomplish a task. They can autonomously observe what you are doing, learn a pattern of behavior and be able to assist in whatever task you are performing without hindering your activities,” Muñoz-Avila suggests.
+
+Cognitive computing research also could lead to smarter, more efficient and more helpful search engines. The National Science Foundation recently awarded a contract to a researcher taking a novel approach to evaluating results from Google or Bing or any other site that ranks results, including Amazon Mechanical Turk, which is used for scientific research. The researcher is using techniques from social choice theory that have been established for hundreds of years, techniques developed in economics for the last 100 years and new computational and statistical methods. “He is combining these three fields—economics, statistics and computation—and the purpose is to test ranking systems like Google and see how accurate those rankings really are,” Muñoz-Avila reveals.
+
+The Robust Intelligence program includes several dozen projects categorized as small, medium or large. Small projects may involve an individual researcher while larger projects include multiple institutions. And advances could prove to be revolutionary. “Now you have these machine learning algorithms being combined with these advanced AI systems being combined with natural language processing, and you get something like IBM Watson,” Muñoz-Avila states.</text>
+  <imgalttext>
+    <img>Robolobster, developed at Northeastern University’s Marine Science Center in Nahant, Massachusetts, mimics the movement of a lobster. With cognitive computing advances, computers and robotic systems will mimic the brain-processing power of animals and humans, allowing them to learn from, and adapt to, changing conditions.</img>
+    <img>Cognitive computing advances will enable computers to process vast amounts of data like the brains of humans or animals.</img>
+  </imgalttext>
+</article>

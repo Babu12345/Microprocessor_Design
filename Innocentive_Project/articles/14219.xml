@@ -1,0 +1,26 @@
+<article>
+  <type>blog</type>
+  <title>Internet of Things Might Pose Even Greater Cybersecurity Risks</title>
+  <author>Sandra Jontz</author>
+  <date>March 10, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Internet of Things</tag>
+  </tags>
+  <abstract>As if cybersecurity of late has not been tough enough, the emergence of the ubiquitous network consisting of billions of Internet connections and smart gadgets presents an alarming security threat that has failed to draw a concerted effort by experts—both in the government and industry—to address the weaknesses and protect users, experts say.</abstract>
+  <text>As if cybersecurity of late has not been tough enough, the emergence of a ubiquitous network consisting of billions of Internet connections and smart gadgets presents an alarming security threat that has failed to draw a concerted effort by experts—both in the government and industry—to address the weaknesses and protect users, experts say.
+
+More and more, Internet users connect to everything—from fitness bracelets to refrigerators, home heating systems, pet monitoring Web cams and driverless automobiles. It's an escalation that prompted even the U.S. Congress to seek speedy innovations to keep hackers from exploiting, tampering, spoofing or stealing information and identities from the growing number of gadget users all connected to the Internet.
+
+“An explosion of connectivity under the broad descriptor of the Internet of Things (IoT) is currently rolling out across the globe, leveraging the enormous expansion of IP addresses through the carrier deployment of IPv6,” or Internet Protocol version 6, according to experts who penned a new report, "The Security Implications of the Internet of Things," drawing attention to the security issues of the not-so-easy to ignore market that is estimated to draw in trillions of dollars.
+
+“It is clear from the interviews conducted in the preparation of this document that surprisingly little consideration is being paid to the cybersecurity of this phenomenon,” reads a portion of the report, written by members of the AFCEA International Cyber Committee. “In the rush to market and with very little structural regulation, goods are arriving in the marketplace without adequate preparation or explanations that will protect the consumer and society.”
+
+The connected systems and devices, from small to mammoth, make up the Internet of Things through links from people to people, people to things, and things to things. What used to be a military-centric capability has moved well past the armed forces to infiltrate the private sector—both businesses and personal lives. Researchers predict between 26 billion and 100 billion, if not more, devices will be connected to the IoT by 2020. From personal fitness wristband trackers to massive critical infrastructure systems that control power grids, bridges and railways, the phenomenon touches everyone. And it remains vulnerable to hackers, hacktivists, cyberthieves, spies and nation-state attackers.
+
+Officials, however, must seek a precarious balance between security of the mushrooming phenomenon and privacy concerns, which for some experts is listed as the number one issue related to the IoT, report authors wrote. “The greater connectivity occasioned by the IoT will also ratchet privacy concerns to even higher levels than heretofore. The consequences of failure to maintain privacy successfully will affect peoples’ lives more intensely than the consequences heretofore associated with their experiences with computers for email and work, as well as their status such as medical patients or financial clients.”</text>
+  <imgalttext>
+  </imgalttext>
+</article>

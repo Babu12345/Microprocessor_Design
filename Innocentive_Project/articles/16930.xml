@@ -1,0 +1,37 @@
+<article>
+  <type>blog</type>
+  <title>Network Security vs. Performance</title>
+  <author>George I. Seffers</author>
+  <date>November 17, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>TechNet Asia-Pacific 2016</tag>
+  </tags>
+  <abstract>Cindy Moran, former director for network services at the Defense Information Systems Agency (DISA), told the audience at the AFCEA TechNet Asia-Pacific conference in Honolulu that it is time to build networks for maximum performance and to find other ways to build in security.</abstract>
+  <text>Cindy Moran, former director for network services at the Defense Information Systems Agency (DISA), told the audience at the AFCEA TechNet Asia-Pacific conference in Honolulu that it is time to build networks for maximum performance and to find other ways to build in security.
+
+“We as a culture have designed and built our networks to protect our information and our data since we started building networks. We’ve never built them to be optimal from a network perspective,” said Moran, who is now president and managing partner of Pikes Way LLC. “With growth and change as much as we’ve got going in here, we no longer have that luxury.”
+
+
+Moran: the DOD moves too slow and we in industry don't help them move faster.#AFCEATechNet
+— George Seffers (@gseffers) November 17, 2016
+She added that networks need to be built so that as they “shift dynamically, it does what it needs to do for performance,” and that “we need to bake in our security in other ways and in other places.”
+
+Moran made the comments while serving as the breakfast keynote speaker on the final day of the conference. She also stressed the human factor in network security, comparing user responsibilities to those of licensed drivers. While every driver is subject to an occasional accident, that is far different from drunken driving, recklessness or other criminal behavior.
+
+
+Moran: We should be teaching our kids to take care of themselves on the network from the moment we hand them the 1st computer#AFCEATechNet
+— George Seffers (@gseffers) November 17, 2016
+She emphasized the need to hold people accountable and said that no matter how careless or reckless someone might be on the network, viewing online child pornography on the job was the only act she was ever able to send someone to jail for. No other behavior on the network is considered criminal, she said.
+
+
+Moran: We need to hold people accountable. One reason people don't check things is that we don't hold them accountable#AFCEATechNet
+— George Seffers (@gseffers) November 17, 2016
+</text>
+  <imgalttext>
+    <img>Cindy Moran, former director for network services at DISA, talks about network performance and security at TechNet Asia-Pacific. Photo by Bob Goodwin</img>
+  </imgalttext>
+</article>

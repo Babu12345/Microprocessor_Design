@@ -1,0 +1,26 @@
+<article>
+  <type>article</type>
+  <title>Teams to Vie for $2 Million Prize in DARPA’s Cyber Grand Challenge</title>
+  <author>Sandra Jontz</author>
+  <date>June 3, 2014</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>SIGNAL Online Exclusives</tag>
+    <tag>DARPA</tag>
+  </tags>
+  <abstract>In the two-year Cyber Grand Challenge, 35 teams will vie for a $2 million grand prize and the honor of trying to devise a fully automated system to defend against cyber attacks.</abstract>
+  <text>Theodis Butler has little confidence anyone can actually win the first-of-its kind, much-anticipated cyber protection challenge launched by the Defense Advanced Research Projects Agency (DARPA). But that isn’t stopping him from joining the two-year competition as 35 teams vie not just for the Cyber Grand Challenge $2 million grand prize, but the honor of trying to devise a fully automated system to defend against cyber attacks before hackers have a chance to get to them.
+	The 2016 Cyber Grand Challenge final competition will be held in conjunction with DEF CON, one of the world’s largest computer security conferences, and challengers will follow a “capture the flag” competition format.
+	“Today’s security methods involve experts working with computerized systems to identify attacks, craft corrective patches and signatures and distribute those correctives to users everywhere—a process that can take months from the time an attack is first launched,” says DARPA program manager Mike Walker. “The only effective approach to defending against today’s ever-increasing volume and diversity of attacks is to shift to fully automated systems capable of discovering and neutralizing attacks instantly.”
+	To that end, DARPA’s competition pits security experts from academia, industry and the larger security community to tackle the increasingly serious problem of inadequate network security systems. The vulnerabilities cause disruptions that pose greater risks than ever as more and more devices are networked in what has become known as “the Internet of things.” Just about everything, from vehicles to refrigerators, smartphones, calendars and home security systems, are connected and the networks have brought “this legacy of software insecurity and you have to wonder, as we’re bringing these devices into our houses, have we opened Pandora’s box attached to our civilization?” Walker asks. “What’s going on here? There seems to be a clear imbalance of power.”
+	People simply cannot keep up with the speed at which data moves across networks, and the hackers who find ways to disrupt, corrupt and steal it, even with continual updates to firewalls and antiviruses. “And here we have our security in 2014 … but still we are losing, even with all this automation,” Walker says. “So, if we’re required to use automation, what happens when automation wins in a battle of wits against security experts?”
+	The challenge will dare the high-performance, fully automatic computers playing head-to-head for a $2 million prize, “with nothing less at stake than a new way to defend the connected future that we all share,” Walker says.
+	DARPA will co-locate the challenge in Las Vegas with DEF CON, with the hope that it will “accelerate the development of capable, automated network defense systems, but also encourage the diverse communities now working on computer and network security issues in the public and private sectors to work together in new ways,” officials said in a statement. “This dynamic is crucial if information security practitioners are to pull ahead of adversaries persistently looking to take advantage of network weaknesses.”
+	Teams’ computers will have to make it through a series of qualifying events over the next two years. For the competition, DARPA released DECREE, an open-source extension built atop the Linux operating system and incompatible with any other software.
+	According to the news release, most competitors have entered on the “open track” available to self-funded teams. A parallel “proposal track” consists of teams invited and partially supported by DARPA to develop automated network defense technology. Additional teams may register to participate through November 2. The winning team from the finals will receive the $2 million cash prize. Second place can earn $1 million and third place $750,000.
+	If it all works, which Butler isn’t convinced will happen. No matter how good the technology, which Butler contends is “just not there yet,” solutions will always require human involvement. “A machine can only do so much. Some things you have to have a human being behind it, and patching software is one of them,” says Butler, with Megalith Technologies in Houston. He is a former hacker who spent three years in prison for hacking into his high school network to change grades at age 17. “There is no way to make this system autonomous.” The fast-paced world of hacking is ever-evolving, and when experts develop an autonomous software to patch vulnerabilities, hackers will just think of something to circumvent it, Butler says. “It’s always going to be a cat and mouse game.”</text>
+  <imgalttext>
+  </imgalttext>
+</article>

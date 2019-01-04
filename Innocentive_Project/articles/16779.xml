@@ -1,0 +1,40 @@
+<article>
+  <type>blog</type>
+  <title>Monitoring Tactical Wi-Fi Networks</title>
+  <author>Joe Kim</author>
+  <date/>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Wi-Fi</tag>
+    <tag>guest bloggers</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Ensuring that deployed U.S. troops can communicate and exchange information is critical to the military’s missions. That said, there are numerous challenges in deploying the high-speed tactical networks that make this communication possible. How, for example, do you make sure these networks are available when needed? What is the best way to maintain data integrity? The accuracy of the data—such as troop location—is just as important as network availability.</abstract>
+  <text>Ensuring that deployed U.S. troops can communicate and exchange information is critical to the military’s missions. That said, there are numerous challenges in deploying the high-speed tactical networks that make this communication possible. How, for example, do you make sure these networks are available when needed? What is the best way to maintain data integrity? The accuracy of the data—such as troop location—is just as important as network availability.
+
+Network security of course also is critical. Specifically with tactical Wi-Fi networks, it is crucial to ensure our military personnel are the only ones accessing the network and there is no exfiltration going on undetected.
+
+Network setup
+In-field networks often are a simple series of antennas on trucks that create a local Wi-Fi network. This method minimizes the need to use satellite communications, which may introduce latency. Through this local Wi-Fi network the trucks “talk” to one another as do the troops. How, then, does the federal IT professional ensure availability, data integrity, security and more? The answer is advanced network monitoring, implemented through the integration of three distinct, critical capabilities.
+
+Capability #1: Network performance monitoring
+This is essentially monitoring the network infrastructure for performance, latency, network saturation and more. In the event of a latency issue, managers must discern if the problem stems from the network or an application to ensure continued, uninterrupted connections.
+
+Be sure the network monitoring tool provides a physical map overlay feature, particularly important in a tactical Wi-Fi scenario, to indicate where the best network coverage is located. With this ability, someone on the move remains connected no matter what. In fact, with the addition of a heat map overlay, managers can see where coverage might be lacking and whether, for example, a truck with an antenna should move over a hill to get a better connection.
+
+Capability #2: User device tracking
+Within any network environment, but especially within a tactical situation, the IT team must be able to see where users are going and what applications they’re trying to access. This information dramatically enhances security, particularly data integrity, by ensuring exfiltration is not an issue. More advanced user device tracking also allows managers to turn devices on and turn off that might be causing bigger-picture network or latency issues.
+
+Capability #3: Event monitoring and logging
+Real-time logging of all network activity is critical. IT administrators must know who is accessing the network and where they’re going at all times. If an infiltration incident occurs, this is where to find it and stop it—automatically, in some cases. Event monitoring and logging gives the ability to log all events and track correlation from an infrastructure as well as a physical location, especially important in the field.
+
+One view
+Finally, but perhaps most important, be sure you can see all of the information provided from the three previous capabilities through a single integrated view. The intersection of the information received—network data AND user data AND log data—will provide the needed intelligence to make the most informed decisions during the most critical missions.
+
+Joe Kim is senior vice president and global chief technology officer for SolarWinds.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

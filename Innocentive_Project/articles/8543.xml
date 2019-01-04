@@ -1,0 +1,31 @@
+<article>
+  <type>blog</type>
+  <title>DISA Forum:  The Leadership to Innovate</title>
+  <author>Max Cacas</author>
+  <date>August 19, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>DISA</tag>
+    <tag>DISA 2011</tag>
+    <tag>Event Coverage</tag>
+  </tags>
+  <abstract>There's a first time for everything. On the final day of the DISA Customer and Industry Forum 2011, a first-ever panel of the chief information officers from the four branches of the military provided industry representatives with a look at the challenges they face in providing enhanced digital technologies to the warfighter.</abstract>
+  <text>There's a first time for everything. On the final day of the DISA Customer and Industry Forum 2011, a first-ever panel of the chief information officers from the four branches of the military provided industry representatives with a look at the challenges they face in providing enhanced digital technologies to the warfighter.
+
+Pentagon CIO Teri Takai she began the panel by asking LTG Susan Lawrence, USA, chief information officer G-6 with the Army, to offer an update on the Army's migration to enterprise email. That migration was delayed this past Spring as Army IT dealt with unanticipated technical problems with the migration.
+
+Offering a preview of her speech next week at the LANDWARNET conference in Tampa, titled "The Network of 2020: Powering America's Army," Lawrence emphasized that the the transition to enterprise email had nothing to do with email as an application, per se. Rather, she said, its about "common identity management--so that I can take my [common access card] anywhere in the world, to any government computer, and the network will recognize me." Lawrence also hinted that the next 24 months will be critical to the Army successfully completing migration to enterprise email, and added that other goals include addressing data storage as well as how the Army collaborates with other services to fight. She said the final goal, what she called "enterprise collaboration services," is expected to launch in the next 60 days.
+
+Lawrence said that since March, they've moved more than 90,000 users to enterprise email. She explained that in the process of the migration, she and her staff uncovered a "dirty" network: "We found firewalls where there shouldn't have been firewalls. We found software that couldn't talk to other software. We've had to come in and bring in a team to just clean up the network." They expect to add 10,000 more users next week and test their servers again, she continued, and if things go well, they will proceed with their plan to continue adding about a thousand staff each week.
+
+On the question of cloud computing, Lt. Gen. William Lord, USAF, chief information officer for the Air Force, says he would be happy to migrate some of his service's mission critical applications and data storage to what he called a "device-agnostic" cloud. He said that could be a private cloud, a public cloud or a hybrid cloud. Lawrence said that on a related note, the key to successful cloud computing would be the successful development of a common operating environment, one that presents a consistent, but fully capable and fully secure computing environment to the end user no matter what kind of device they bring to the battlefield. Brigadier General Kevin Nally, USMC, Director, C4 and CIO of the Marines, insists that any cloud computing environment be able to operate in the "most austere" environments in which Marines normally operate.
+
+Nally also generated some interesting dialogue when the conversation turned back to the seemingly innocuous topic of email domain names. Both Lawrence and Vice Admiral Kendall Card, USN, felt it best that all the services unite email addresses under the .mil internet domain. But both Lord and McNally insisted that their services, for reasons of pride and other considerations, would not stand for losing their usmc.mil or us.af.mil email addresses without some additional discussion.
+
+Nally noted that the perception of some of Marines involved in information assurance changed when he began referring to what they do as cybersecurity; in some cases, he said, "they now refer to themselves as 'cyberMarines'," drawing a laugh from the crowd.
+
+And, making a pitch for more shared IT services among the branches, Lawrence related how two services sharing one air field in Italy, had inadvertently laid separate fiberoptic networks at the same field, and several weeks later, yet another service proposed laying yet another separate fiber network around the same facility in Milan. "Stop the madness!" she quipped, adding, "In the future, we all need to say, who's the EA (enterprise architect) on a network, and fall in." She received a standing ovation from the government and industry representatives in the audience for that.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

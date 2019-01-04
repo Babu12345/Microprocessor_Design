@@ -1,0 +1,80 @@
+<article>
+  <type>article</type>
+  <title>Better Protection of Spectrum Is a Defense Necessity</title>
+  <author>Chief Warrant Officer 5 Todd D. Conley, USN (Ret.)</author>
+  <date>December 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>electromagnetic spectrum</tag>
+  </tags>
+  <abstract>Safeguarding the electromagnetic spectrum is critical to success throughout the battlespace, but the ethos and resources needed to secure and defend this vital medium are lacking.</abstract>
+  <text>Safeguarding the electromagnetic spectrum is critical to success throughout the battlespace, but the ethos and resources needed to secure and defend this vital medium are lacking. 
+
+The vulnerabilities from electromagnetic interference (EMI) affect the entire electromagnetic spectrum (EMS), requiring improved mitigation and resolution regardless of spectral bands, electronic systems or organizations. Although researchers have spent decades mastering the use of the spectrum, often pushing the envelope on capabilities, there has not been sufficient constructive action to overcome interference.
+
+EMI broadly encompasses any type of interference, man-made or naturally occurring, that can potentially disrupt, degrade or otherwise impede authorized emissions over approved portions of the EMS. The interference can be intentional or inadvertent, hostile or friendly, military or civil, foreign or domestic. It can originate from a jamming device, procedural mistakes, malfunctioning equipment or improper system operation. EMI also can have static causes, such as structural or topographical obstructions.
+
+Regardless of the type, cause, intent or origin of the EMI, the effects are the same—disruption of services, with increased delay and uncertainty and cost penalties to operations. 
+
+EMI is a multifaceted problem, and the threats it poses are clear and present. Nonetheless, the U.S. Defense Department has not prepared adequately to overcome the hazards, leaving it at a disadvantage in prosecuting and resolving interference. Solutions to system disruptions are usually slow and unsuccessful. Warfighters lack the requisite knowledge, awareness or tools to address challenges effectively. They must become more knowledgeable and better equipped and trained so they can anticipate and swiftly combat EMI. 
+
+While a single all-encompassing solution is not possible, developers are making modest progress in some areas toward addressing EMI. However, most of the efforts are symptomatic approaches to a far more complex issue. Decisive action is needed on a broader scale from those who design, fund, develop, implement and operate electromagnetic (EM) systems as well as from those who write doctrine, policy and procedure to ensure adequate protection. 
+
+A mechanism within the Defense Department known as the EMI Resolution Process could become a cornerstone capability for EMS protection, but it needs a comprehensive construct with a cohesive supporting architecture. The EMI Resolution Process spans 10 principal functional areas and subprocesses, and a few of its functions occur in parallel. The areas are monitoring; detection; mitigation of EMI effects; reporting; characterization and classification; geographical location; identification; response planning; resolution of source cause; and archiving. These functions represent shared responsibilities across both tactical and strategically reaching entities. (See “EMI Resolution Process Principal Functional Areas" below.)
+
+As soon as EMI is suspected as the cause of a service disruption, the EMI Resolution Process should be initiated. However, not all EMI events are reported, and the information reported is not always accurate, which lead to perplexing issues. Not enough substance and centralized oversight exist to support the resolution process. The current process is limited to high-level policies and procedural guidance, a reporting mechanism that is unenforceable and a few stovepiped technological capabilities.
+
+The way that EMI is mitigated and the manner in which the cause is prosecuted depend on the affected organization and its hierarchical echelon, the situational awareness local to the event, the affected EMS segment and the military department. What actions are taken, when and by which organization can vary significantly.
+
+Several challenges must be overcome to raise EMS protection to an effective state of readiness and create a framework for the way forward. Top-down mandates will be needed to set the necessary wheels in motion for this framework. 
+
+First, the cultural mindset needs to change through an enterprisewide vision that encompasses EMS protection, and the Defense Department needs to shatter the paradigms that have led to the current state. EMS protection should be a nonnegotiable element, inherent within all relevant processes. It must be a constant provision throughout all EM capabilities. EMI mitigation and resolution must be load-bearing pillars within operational doctrines. As part of the cultural change, leadership must squelch the stigma that causes some organizations to avoid reporting EMI accurately, in a timely manner and in some situations not at all. 
+
+In addition to cultural improvements, EMS protection needs to be institutionalized as an official mission-area element. It should be elevated to a level commensurate with survivability requirements, such as those for mobilization as well as force protection and force projection. 
+
+Doctrines, policies and procedures also must be updated to address and thoroughly delineate the role of EMS protection in all EM operations. Organizational roles and responsibilities, including lines of authority, accountability and resourcing need to be stipulated. 
+
+Organizationally, a comprehensive redefinition and a realignment of mission responsibilities need to occur. Leaders must redefine and realign interservice relationships for situational authority and control, and empower, equip and train where appropriate for process oversight and enforcement.  
+
+EMS protection should be incorporated into formal and informal training curricula where appropriate. Current training is limited to individuals who are assigned as frequency managers or who work in other areas of spectrum management. Personnel operating electronic systems are not necessarily as knowledgeable as they should be on EMS matters. Others working on EMI resolution do not always have a grasp of what occurs outside of their particular stations.
+
+Leaders need to assess the efficacy and enforceability of the Joint Spectrum Interference Resolution Online, the current EMI reporting process, and the Joint Spectrum Data Repository, the archive. This includes revisions and updates to the programs and their guidance.
+
+Research and development is necessary to produce equipment that will help mitigate and resolve EMI in the most timely and accurate manner, and EMS protection needs to be incorporated into updated and new-generation equipment and systems. Warfighters must be able to prosecute multiple EMI events simultaneously, particularly in source geographical locations. EM capabilities and EMS protection need to be automated and integrated as much as possible. Developing a common data strategy is one critical step toward realizing this. 
+
+The capability to communicate and convey other forms of EM energy must not be taken for granted, and complacency must not impede the budget and acquisition process for the necessary protections of the EMS. From the beginning, the cost of EMI solutions must be included in programs. Leadership needs to ensure that EMS protection is a fundamental element of all appropriate requirements, acquisition and budgetary processes.
+
+The importance of overcoming EMI has grown as dependence on technology has increased, but protecting the spectrum has long been a priority for warfighters. Sergei Gorshkov, admiral of the Soviet fleet from 1956 until his retirement in 1985, stated, “The next war will be won by the side that best exploits the electromagnetic spectrum.”
+
+To accomplish this, the military must be capable of and confident in its ability to safeguard and defend the EMS.
+
+EMI Resolution Process Principal Functional Areas
+
+Monitoring: the electronic surveillance of a specific segment or segments of the electromagnetic spectrum (EMS), whether passively, actively, randomly or targeted in nature.
+
+Detection: the awareness or determination of an anomalous condition believed to be the apparent cause of disruption to any particular portion of the EMS.
+
+Mitigation of EMI effects: the measures, or combination of measures, implemented to avoid or circumvent the disruptive effects of electromagnetic interference (EMI), restoring as much service as quickly as possible after a disruption has been determined.
+
+Reporting: the proper official voice and record reporting of all available information to all concerned, with periodic updates. Each EMI occurrence must be reported, according to established policies and procedures, for purposes of accurate tracking and efficient resource use.
+
+Characterization and classification: the technical analysis of foreign noncommunications electromagnetic (EM) radiations, performed to isolate and determine specific characteristics and parameters of the offending emissions.
+
+Geographical location: the measures and analysis, employed to determine the geographical coordinates of the EMI emission’s source to as fine a point and as expeditiously as feasible.
+
+Identification: the analysis through which to identify the disruptive source and to determine whether it is friend, foe, unintentional, intentional, environmental, etc.
+
+Response planning: the process, using characterization and classification, source geographical location and identification of the EMI, to formulate a viable course of resolution.
+
+Resolution of source cause: the actions taken to definitively cease and potentially prevent future EMI effects from an identified source through any means that are deemed appropriate for the type, cause, intent and origin of the EMI.
+
+Archiving: the centralized documentation and cataloging of all information and actions relating to the EMI event for empirical and historical reference.
+
+Chief Warrant Officer 5 Todd Conley, USN (Ret.), is a senior analyst with Systems Technology Forum Ltd. The views expressed here are his alone.</text>
+  <imgalttext>
+    <img>In this representation of the electromagnetic interference (EMI) Resolution Process that supports electromagnetic spectrum (EMS) protection, each of the 10 functional areas of the process appears in approximation to where that activity should occur during an EMI event.</img>
+    <img>Eight significant challenges must be overcome to establish EMS protection as a viable mission-area capability.</img>
+  </imgalttext>
+</article>

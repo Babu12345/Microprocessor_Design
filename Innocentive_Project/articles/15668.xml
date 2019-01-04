@@ -1,0 +1,36 @@
+<article>
+  <type>article</type>
+  <title>DNS Attacks Rising as Intruders Exploit Cyber Vulnerabilities</title>
+  <author>Sandra Jontz</author>
+  <date>January 29, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>DDOS</tag>
+    <tag>DNS</tag>
+  </tags>
+  <abstract>With so much cybersecurity focus concentrated on firewalls, intrusion detection systems, Web proxies and other protective measures, Domain Name System, or DNS, attacks have risen as a threat du jour compromising organizations’ networks.</abstract>
+  <text>With so much cybersecurity focus concentrated on firewalls, intrusion detection systems, Web proxies and other protective measures, Domain Name System, or DNS, attacks have risen as a threat du jour compromising organizations’ networks.
+
+"As all of the other doors to the enterprise are locked, [cyber intruders] found an unlocked door and it’s right now DNS," says Ralph Havens, president and CEO of Infoblox Federal.
+
+DNS is a distributed computing system that enables access to Internet resources by user-friendly domain names rather than IP addresses, translating domain names to IP addresses and back, according to a definition by the National Institute of Standards and Technology (NIST).
+
+While network protection applications are plentiful and offer excellent technologies, they are not enough, Havens says. “A weakness of each, and it's inherent to your network, is that they allow DNS traffic to traverse the network unabated.”
+
+Additionally, DNS attacks increased because of the minimal resources cyber criminals need to carry them out.
+
+Market surveys reveal that among organizations that reported having experienced a DNS attack, 74 percent noted networks outages caused by a distributed denial-of-service (DDoS) attack, Havens says. “The bad guys have realized this and they are learning how to exploit DNS as a threat vector on your networks.”
+
+DNS attacks also can be used to introduce malware into a network. Capabilities such as solutions by Infoblox use third-party threat feeds for known DNS malware sites to monitor, manage and rectify network problems. 
+
+Another threat vector for DNS is intruders’ ability to use DNS as a data exfiltration point into networks, using a DNS query to support IP tunneling out of a network and exfiltrating key information. The technology provides hardware and software detection and prevention of the external and internal threats. “We have tools for the network operator to determine how they want to handle it. Do you want to flag it for further examination? Do you want to shut it down?”
+
+NIST, in a 2013 document that provided deployment guidelines for securing DNS within an enterprise, forecast the increased susceptibility of DNS and recognized securing DNS was a crucial factor to cybersecurity. 
+
+“The NIST predictions have essentially come true,” Havens offers. “The prediction that it made was that DNS would be an increased cyber target and here we are.”</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

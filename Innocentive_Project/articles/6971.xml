@@ -1,0 +1,18 @@
+<article>
+  <type>blog</type>
+  <title>Cool App-titude: The Untappable Apps</title>
+  <author>Rachel Eisenhower</author>
+  <date>June 1, 2010</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Android apps</tag>
+    <tag>Apps</tag>
+    <tag>Encryption</tag>
+    <tag>Cool App-titude</tag>
+  </tags>
+  <abstract>Early last week, an independent computer security researcher known as Moxie Marlinspike launched two apps that they claim make phones untappable. The free, public betas for Google's Android mobile platform are called RedPhone and TextSecure.</abstract>
+  <text>Have you ever worried that a third party could intercept your cell phone calls or text messages? Early last week, an independent computer security researcher known as Moxie Marlinspike followed in the footsteps of Philip Zimmermann, the developer of an electronic encryption technology known as Pretty Good Privacy, and launched two apps that they claim make phones untappable. The free, public betas for Google's Android mobile platform are called RedPhone and TextSecure. The first app uses Zimmermann's open source Internet voice cryptography scheme called ZRTP to encrypt phone calls, and the latter allows users to send and receive encrypted text messages and scramble the messages stored in their inbox. RedPhone provides end-to-end encryption for phone calls by creating a simple password and displaying it on both phones. This allows the speakers to verify that the codes match and there is no one else on the line. TextSecure stores text messages received in an encrypted database and scrambles text messages sent to someone else using a scheme known as "Off the Record." Both apps automatically generate a new key and delete the old one with every phone call or text message. Marlinspike predicts the apps will remain free once they leave the beta stage. Android users can click here to download and test the apps.  These sites are not affiliated with AFCEA or SIGNAL Magazine, and we are not responsible for the content or quality of the products offered. When visiting new websites, please use proper Internet security procedures.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

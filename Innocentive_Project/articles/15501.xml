@@ -1,0 +1,44 @@
+<article>
+  <type>article</type>
+  <title>Data Analytics Programs Help Predict Global Unrest</title>
+  <author>Sandra Jontz</author>
+  <date>December 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Lockheed Martin</tag>
+    <tag>DARPA</tag>
+  </tags>
+  <abstract>While the technology certainly is no crystal ball, the Integrated Crisis Early Warning System, or ICEWS (pronounced IQs), can harness the power of data analytics to forecast such global unrest.</abstract>
+  <text>Most of the world was blindsided three years ago when the democratically elected president of Paraguay was unseated in a parliamentary coup that unnerved leaders across the globe. It was a surprise to most of the world, but not all of it. Three months before the June 2012 ambush impeachment, intelligence analysts forecasted that a domestic political crisis might besiege the South American nation.
+
+While the technology certainly is no crystal ball, the Integrated Crisis Early Warning System, or ICEWS (pronounced IQs), can harness the power of data analytics to forecast such global unrest.
+
+“The [coup] caught a lot of people by surprise and wasn’t something that everyone had been tracking,” says Mark Hoffman, a senior manager at the Lockheed Martin Advanced Technology Laboratories (ATL). “It was one of those examples of a 360-degree peripheral vision that we’re trying to get ICEWS to provide.”
+
+Over the course of several years, the ATL and an assembly of industry and academia partners, including Raytheon BBN Technologies, Duke University, Lustick Consulting and Strategic Analysis Enterprises Inc., have developed 100 forecasting models for 177 of the world’s 196 countries. Researchers mined data from news sources spanning the past 25 years to “train” the models using various types of statistical mechanisms and correlations. The ICEWS program looks for trends and patterns to then forecast disruptive events, from coups to rebellions, terrorist attacks, political crises and civil strife. The data supports tracking and forecasting of sociopolitical conflicts and is available on the Harvard Dataverse Network, which hosts the world’s largest collection of social science research.
+
+“The secret sauce in all of this is the fact that we use what’s called a mixed model approach,” Hoffman discloses. “For any one event, say, a rebellion in Indonesia, we will turn around and have five models that are forecasting whether that’s going to happen.” The approach employs an ensemble Bayesian model averaging method, aggregating across the models to improve forecasting over what any single model could provide.
+
+The program’s roots date to 2007, when the Defense Advanced Research Projects Agency (DARPA) began leveraging relationships between universities and small businesses to prove a hypothesis that computational social sciences—theories from psychology, political science and sociology—could be exploited to forecast turmoil around the world. Formerly known as the Pre-Conflict Anticipation and Shaping program, ICEWS initially sought to develop and integrate with intelligence work a set of data analysis tools that would monitor, assess and identify leading indicators of events that make countries vulnerable to crises.
+
+“We were successful at doing that, at meeting the metrics that were outlined by DARPA. The program matured from a really basic research stance to being transitioned to a program of record earlier this year,” Hoffman says. “It’s now being used by various parts of the government. We’ve had good success at forecasting different types of unrest and different sorts of motivations for that unrest, some of which we’re better at recognizing [than others].”
+
+This technology can serve as a good aid for the intelligence community and should be seen as a benefit, but it cannot replace the diligence of analysts assigned to monitor extremist communications and behaviors, says Bill Nolte, former director of education and training in the Office of the Director of National Intelligence and former deputy assistant director of central intelligence at the CIA. “Big data and technology tools can offer the promise to make predictions better and can help reduce uncertainties, but we don’t have the holy grail or a crystal ball,” says Nolte, now a research professor at the University of Maryland School of Public Policy.
+
+The tool’s use extends beyond the intelligence community, Hoffman offers, to help the Foreign Service and military personnel, and it boasts broad commercial applications for the insurance, real estate and transportation industries. “When it started, it was a lot more labor-intensive, but we’ve gotten to the point now where basically news stories come into the system, and within about 10 to 15 minutes, they are processed and incorporated into the database,” Hoffman explains. “Analysts can basically set up alerts so they are notified whenever a certain organization shows up in the news that they’re interested in [or] if a certain type of event is occurring. The data processing is completely automated.”
+
+ICEWS looks at five events of interest, or EOIs: rebellions, insurgencies, ethnic religious violence, international crises and domestic political crises. “While ICEWS has been in the process of hardening and transitioning to a program of record, research has continued to move forward, and we’re looking at other types of events, like mass protests,” Hoffman says.
+
+The program, which began as an aggregator of news in English, pulls open-source, unclassified published information. It since has added Spanish, French, Portuguese and varying dialects of Arabic to its repertoire of languages, which ICEWS then translates into English. Currently, 80 percent of data is mined from English-language news outlets and articles. By the end of 2016, the amount will be closer to 50 percent as the program will pull from an increased number of foreign news outlets to reduce Western bias in news accounts. Programmers also will add Chinese and additional Arabic dialects, Hoffman says. The models do not access social media of any type.
+
+To mitigate skewed results that might stem from published propaganda by state-run outlets or factual errors in reporting, the program taps 6,000 news sources, many of which are news aggregators, such as Dow Jones Factiva. Data also is pulled from the CIA’s Open Source Center. “Every case that actually happens—part of what we call our ground truth—basically feeds back into our models that use learning techniques to incorporate that example into the reasoning,” Hoffman says. “The next time that sort of pattern starts to emerge, we’ll be much better at recognizing it and forecasting it.”
+
+ICEWS is the unclassified, ground-level version of the technology that spawned a classified program of record that is part of the Integrated Strategic Planning and Analysis Network, or ISPAN. As if forecasting war or civil strife were not difficult enough, the intelligence community is soliciting technology that delves into the unseen world of cyberspace. For example, the Intelligence Advanced Research Projects Activity (IARPA) seeks technology that would warn of significant cyber events before they occur. The Cyber-attack Automated Unconventional Sensor Environment, or CAUSE, would provide automated methods that forecast cyber attacks significantly earlier than existing methods.
+
+The next ICEWS evolution seeks to improve the granularity of the data and the accuracy of the forecasts, Hoffman proposes. The program will not just be looking at answering questions such as “Will there be a rebellion in this country in November? We’re looking at estimating the exact number of mass protests that might occur in [a certain] province three weeks from now,” he says.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

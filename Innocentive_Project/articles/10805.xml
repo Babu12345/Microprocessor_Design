@@ -1,0 +1,24 @@
+<article>
+  <type>blog</type>
+  <title>Law Enforcement in the Cloud</title>
+  <author>Rick Hansen</author>
+  <date>March 14, 2013</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>Law Enforcement Technologies</tag>
+    <tag>Networks</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>The Regional Information Sharing Systems (RISS) Program recently implemented a simplified sign-on capability that enables federal, state and local law enforcement to collaborate.
+ </abstract>
+  <text>The Regional Information Sharing Systems (RISS) Program recently implemented a simplified sign-on capability that enables federal, state and local law enforcement to collaborate. The flexible environment is based on the Federal Identity, Credential and Access Management guidance and facilitates the use of Common Access Cards and Personal Identity Verification cards for use across organizational boundaries. RISS is working with several state law enforcement agencies to provide them with federated identification for access to resources within their state that are hosted on the Regional Information Sharing Systems Law Enforcement Cloud (RISSNET). This private cloud supports nine thousand law enforcement agencies in the United States and in allied nations.
+	RISSNET is a valuable example of serving users in these times of constrained fiscal and physical resources, demonstrating how a private cloud can be used to address the needs of a community that stretches across hundreds of organizational boundaries. Participants are free to choose what and with whom they share information in secure partitioned environments. The network also serves as the only law enforcement gateway to Sensitive but Unclassified data on the Intelink intelligence network.
+	RISSNET is standardized on a Microsoft SharePoint solution, which facilitates the rapid deployment of portals to the law enforcement cloud for collaboration, database access and other tools. This approach also streamlines law enforcement activities by rapidly delivering collaboration spaces that can securely support participants from a number of different organizations with each participant able to share data as they see fit.
+	Databases become more valuable as more law enforcement users and organizations can search them. RISSNET features a federated search capability that enables queries to dozens of state, local and federal databases from a single Web page. This greatly simplifies access for police officers and casts a wider net for offenders. The network minimizes the cost for sharing data by using a standard format for data exchange (XML). Database owners can elect to support queries from RISSNET and to specify which users and agencies are authorized to access them. This is one example of how agencies can provide for peer-level cooperation across organizational boundaries without relinquishing control of their own data.
+	RISSNET has increased the value of its resources that support tactical operations. These activities are inherently dangerous for law enforcement personnel because of the high risk for blue-on-blue fatalities when multiple organizations are pursuing the same criminals. A deconfliction system called RISSafe was recently fielded as part of RISSNET, so users can securely post alerts for upcoming operations, reducing the risk of injuries and death from friendly fire. In addition, RISSafe was recently linked to the federal High Intensity Drug Trafficking Areas Program’s deconfliction system, which increases the amount of information available to more users and boosts the value of both systems.
+	Each of the six RISS data centers serves a distinct region of the United States. Each data center maintains a Policy Board staffed by police chiefs and senior executives from member agencies. The board provides input to keep operations lean and focused on end-user needs.Rick Hansen is the chief executive officer of APS Global LLC, a Washington, D.C.-area service-disabled veteran-owned small business that provides research and development, business development and training services. Hansen is a U.S. Air Force veteran who has a master’s degree in computer science from Johns Hopkins University.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

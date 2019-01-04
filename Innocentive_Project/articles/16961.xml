@@ -1,0 +1,26 @@
+<article>
+  <type>blog</type>
+  <title>Hanscom AFB Kicks Off Data-to-Decisions Experiment</title>
+  <author/>
+  <date>November 29, 2016</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>big data</tag>
+    <tag>Hanscom Air Force Base</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The Kill Chain Integration Branch at Hanscom Air Force Base has begun an experimentation campaign, known as Data-to-Decisions, to look at ways to provide warfighters data in the fastest and most efficient way possible.</abstract>
+  <text>The Kill Chain Integration Branch at Hanscom Air Force Base has begun an experimentation campaign, known as Data-to-Decisions, to look at ways to provide warfighters data in the fastest and most efficient way possible. The campaign is in its early stages but, according to officials, already showing the potential for favorable results.
+
+“Currently, once data is gathered, it’s sent back for data processing and analysis,” Capt. Elizabeth Simkus, lead engineer, Data-to-Decisions, says is a written statement. “It could take a while before that information gets back to a warfighter; we’re working to make that a more immediate result.”
+
+The projects under this campaign are all part of a larger effort referred to as “combat cloud,” which uses a hybrid cloud approach and aims to bridge the gap between different types of data and how that data is communicated across multiple platforms.
+
+One project the team is looking at is called the Tactical Cloud Reference Implementation, or TCRI, which puts the architecture in place for the combat cloud. TCRI is a software platform that will provide a common framework to manage operational data while also performing analysis on the data through the use of automated, mathematical algorithms and analytics.
+
+The TCRI program is a joint program for the Air Force, Army, Defense Threat Reduction Agency and the Navy. Although originally led by the Navy, the Air Force will be sharing the lead role as future development progresses. </text>
+  <imgalttext>
+  </imgalttext>
+</article>

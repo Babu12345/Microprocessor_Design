@@ -1,0 +1,34 @@
+<article>
+  <type>article</type>
+  <title>Chip-Bearing Credit Cards Present New Vulnerabilities</title>
+  <author>Gilliam E. Duvall</author>
+  <date>December 1, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>On October 1, U.S. financial institutions implemented their latest cybersecurity strategy to stop in-store point-of-sale fraud: the insertion of EMV technology-based chips into credit cards. However, many merchants and consumers are not aware that implementing this chip may have inadvertently opened the door to increased cyber crime in a key e-commerce area.</abstract>
+  <text>On October 1, U.S. financial institutions implemented their latest cybersecurity strategy to stop in-store point-of-sale fraud: the insertion of EMV technology-based chips into credit cards. EMV stands for Europay, MasterCard and Visa and represents the three companies that established the technology protocol. However, many merchants and consumers are not aware that implementing this chip may have inadvertently opened the door to increased cyber crime in a key e-commerce area.
+
+The chip is a microprocessor that contains and transmits customer, card and financial account data necessary to complete the point-of-sale (POS) transaction at the checkout counter. Unlike data on a credit card that is encoded in a magnetic stripe, data embedded on a chip uses a level of encryption that makes a chip card extremely difficult—but not impossible—to counterfeit. This is true even with a card that is physically stolen or manufactured with information swiped in data breaches, such as the Target hack. Consumers must validate their chip cards in a face-to-face POS transaction by using one of two methods: either entering a personal identification number (PIN) or providing a signature. This is known as either “chip and PIN” or “chip-and-signature” verification.
+
+On the surface, the move to EMV technology seems to make card transactions safer. However, this credit card security strategy presents four exploitable vulnerabilities.
+
+First, while chip and PIN is the more secure of the two verification methods, most financial institutions in the United States will require only chip-and-signature verification at the POS terminal. Using this less secure method is done for two reasons: to reduce the cost of the infrastructure that financial institutions need for PIN management and to avoid alienating customers—who already are frustrated by the slower speed of EMV transactions compared with magnetic card swipes—by requiring a PIN for every POS transaction. Additionally, in the chip-and-signature method, cards that are physically stolen still are exploitable at the POS terminal because most merchants never will check for a wet signature match on the back of the card or ask for secondary identification during a counter purchase.
+
+Second, two major exceptions exist to the October 1 chip card shift: gas stations and ATMs. They will have until October 2017 to complete the implementation. EMV is a complicated technology, and changing the magnetic card readers installed at gas station pump assemblies and in-store terminals is expensive. The same goes for financial institutions that own ATMs hard-mounted in buildings and at other locations. For the near future, gas stations and ATMs will require chip cards with magnetic stripes installed. Data on such cards still will be vulnerable to skimming techniques by cyber criminals, independent of the encrypted data on the chip. ATMs will remain high-value targets because of their large cash withdrawal potential using current counterfeit card cloning and PIN-theft methods.
+
+Third, the EMV strategy does nothing for improving the security of online transactions. While POS terminal losses certainly will be reduced, cyber criminals immediately will shift their strategy to increasing fraudulent online transactions. The simplest way to circumvent chip-based technology is to use stolen credit card numbers—millions of them are in circulation from successful data breaches—for online purchases. Online fraud in the United States will increase the same way it did in other countries that were early adopters of EMV technology.
+
+The Aite Group, a research and consulting firm, predicts that U.S. online credit card fraud will jump from approximately $3.3 billion in 2015 to more than $6.6 billion by 2018. As EMV technology shifts more criminal activity to online fraud, cyber attacks will become more numerous and more sophisticated. Phishing attacks will use malware that is more invasive and difficult to detect as cyber criminals go for bigger online payouts to make up for POS losses.
+
+Finally, no security technology is impervious to compromise. For years, international cyber criminals have been aware of a hack to chip and PIN authentication developed in 2012. French hackers altered stolen cards by implanting a second chip inside of them, enabling a spoofed verification at POS terminals. This flaw has since been patched. But with the potential rewards for fraudulent card transactions so high, the ingenuity of cyber criminals will know no bounds in attempts to break into the chip card use of the world’s top economy.
+
+EMV chip card implementation is a significant step by U.S. financial institutions to improve their e-commerce security strategy. It has enormous potential to reduce losses at POS terminals and protect consumers from fraudulent transactions. However, both merchants and consumers need to be aware of significant security gaps in current U.S. EMV technology. Cyber criminals already know them and are planning their next steps. Unless U.S. merchants and consumers are prepared for the strategic pivot that is coming in cyber crime to counter chip cards, much of the security and cost avoidance gained from EMV technology in the POS arena will be lost to increased levels of fraudulent transactions online.
+
+Gilliam E. Duvall, a member of the AFCEA Technology Committee, is the president and CEO of Data Security Strategies LLC. He can be reached at gil@datasecuritystrategies.com.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

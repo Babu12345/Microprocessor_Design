@@ -1,0 +1,32 @@
+<article>
+  <type>article</type>
+  <title>Government Overuse of Shared IP Storage Networks Threatens Data, Systems</title>
+  <author>Sandra Jontz</author>
+  <date>March 15, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Data Storage</tag>
+  </tags>
+  <abstract>Federal agencies use risky network setups to support mission- and business-critical systems, particularly in light of global IP data center traffic growing 23 percent a year and taxing networks to deliver data reliably and efficiently, according to a Market Connections survey released today. </abstract>
+  <text>Federal agencies use risky network setups to support mission- and business-critical systems, particularly in light of global IP data center traffic growing 23 percent a year and taxing networks to deliver data reliably and efficiently, according to a Market Connections survey released today. The study was commissioned by the technology company Brocade. 
+
+Researchers polled 200 information technology decision makers across 57 federal agencies and noted that nearly half of mission-critical workloads, and more than one third of business-critical workloads, are accessed through shared IP storage networks, which were not designed to support the increasing workloads that compromise performance, reliability and security.
+
+In particular, the practice of placing mission-critical data on shared IP networks poses security concerns, says Steve Wallo, chief solutions architect at Brocade. “When you ask what are some of the problems [agencies] see with the shared network, they start saying things like security is a problem, or data loss. Yet it's a dichotomy. People realize that putting this information on a shared network, especially with the nature of how the data is increasing, is a problem; but they are still doing it.”
+
+Respondents cited the lack of funding as the main reason for not using dedicated IP storage networks for mission- and business-critical workloads, the survey states.
+
+While the numbers vary depending on the agency, on average, 45 percent of the total storage capacity among agencies is IP-storage based, with 78 percent indicating that they expect IP storage capacity to grow by 10 percent in the next year. Shared IP networks provide access to outside users, such as those employed by the IRS to let taxpayers file returns online, as one example. Increased reliance on data, coupled with applications such as video feeds and the dawning of the Internet of Things, strains some of the already taxed networks, Wallo says. The top three “pain points” associated with shared networks for data access traffic include difficulties maintaining a secure environment, data loss and poor application response times.
+
+“When we talk about IP networks, if you talk about a dedicated IP network in terms of storage, what happens is it's designed so that the storage subsystems are directly connected to the backend servers,” Wallo explains. “There is no other data except the storage data itself that runs on that network."
+
+Lack of funding is but one reason for the higher-than-optimal reliance on shared IP networks, Wallo shares. “In other cases, [agency officials] are just not understanding the importance of the movement of the data. Or in the past, what they've done is they've looked at their shared network and said there is enough extra bandwidth, or there is some performance we can still gain out of it. It's not completely maxed out. But what people are seeing nowadays is, when you start having the video information, or you start looking at the Internet of Things … on the shared IP network, all of a sudden that extra headroom you had goes away. And now it's starting to become a problem.”
+
+Solution includes migration of critical data to dedicated IP storage networks and fortifying the safeguards surrounding shared IP networks. “Things have to change a little bit because it's only going to get worse,” Wallo cautions.</text>
+  <imgalttext>
+    <img></img>
+    <img>Chart from the Market Connections survey of federal agencies lists concerns to data storage and workload management.</img>
+  </imgalttext>
+</article>

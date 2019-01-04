@@ -1,0 +1,43 @@
+<article>
+  <type>article</type>
+  <title>Advancing Research on Side Channel Data Leaks</title>
+  <author>George I. Seffers</author>
+  <date>January 9, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>research and development</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>Georgia Tech researchers work toward a scanner—similar to a virus scan—for side channel emissions.</abstract>
+  <text>
+
+Researchers at the Georgia Institute of Technology are investigating so-called side channel signals, low-level emissions from a computer that could allow savvy cyber attackers to illegally access information. By learning more about the signals, researchers may be one day be able to help mitigate the threat.
+
+The Georgia Tech team has developed an algorithm for measuring the strength of the leaks, which will help prioritize security efforts. They now are studying smartphone emissions, which they say may be even more vulnerable. So far, they have looked only at Android devices.  
+
+The science focuses on data that can leak from a computer even when it is not sending or receiving information, explains Alenka Zajic, an assistant professor in Georgia Tech’s School of Electrical and Computer Engineering. “Even if you have the Internet connection disabled, you are still emanating information that somebody could use to attack your computer or smartphone,” she says.
+
+Side channel emissions can be measured from an operating computer using a variety of spying methods. Electromagnetic emissions can be received using antennas hidden in a briefcase, for instance. Acoustic emissions—sounds produced by electronic components such as capacitors—can be picked up by microphones hidden beneath tables. Information on power fluctuations, which can help hackers determine what the computer is doing, can be measured by fake battery chargers plugged into power outlets adjacent to a laptop’s power converter. Some signals can be picked up by a simple AM/FM radio, while others require more sophisticated spectrum analyzers. And computer components such as voltage regulators produce emissions that can carry signals produced elsewhere in the laptop.
+
+“Hackers can get different information from different side channels and within the same side channel, they can get different information and different frequencies. We are writing a proposal to investigate all of the side channels and what you can get from each one,” she reports. “You can look at side channels from different perspectives. You can see what type of program is running on the computer. You can look at, of course, passwords, or what kind of browser is being used, what page is being looked at. You can tell if someone is taking pictures, and you can access photographs. It depends on what you’re interested in.”
+
+Each computer operation has a different potential for leaking information. The processor draws different amounts of current depending on the operation, creating fluctuations that can be measured. Saving data to memory also requires a large amount of current.
+
+During a demonstration, Zajic typed a simulated password on one laptop that was not connected to the Internet. On the other side of a wall, a colleague using another disconnected laptop read the password as it was being typed. “We were able to measure up to three meters away through the wall. And we were using an AM radio,” Zajic says.
+
+Side channel attacks may require attackers to be nearby, but they do not require access to the computer or the installation of malware, which could raise suspicions.
+
+The potential threat from side channel emissions has been known for years, Zajic points out. In fact, in 2010, Microsoft researchers reported that surprisingly detailed sensitive information is being leaked from a number of high-profile, top-of-the-line Web applications in health care, taxation, investment and Web searches. Eavesdroppers can determine a patient’s illness, medications and surgeries, as well as financial information, such as income and investments.
+
+Currently, there is no mention in the open literature of hackers using side channel attacks, but the researchers say it may be only a matter of time. Zajic indicates side channel emissions certainly could pose a threat to national security, which probably explains why the National Science Foundation and the Air Force Office of Scientific Research support the effort. 
+The algorithm the team developed measures the signal available to attackers (SAVAT). It has been used to measure signal availability for 11 different instructions executed on three different laptops and found the largest signals when the processors accessed off-chip memory. Because it is not possible to eliminate side channel signals, the goal is to weaken those signals to the point that they would be useless to wannabe-attackers. “We want to analyze your software and tell you which part of the software is the most vulnerable,” Zajic says. “There is no really good solution to this problem. We’re working on a software solution because we know the hardware is really hard to fix. Ultimately, the goal is to have a side channel scan—like a virus scan—but just for the side channels.”
+ 
+
+</text>
+  <imgalttext>
+  </imgalttext>
+</article>

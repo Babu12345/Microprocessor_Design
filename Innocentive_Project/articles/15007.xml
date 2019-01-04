@@ -1,0 +1,63 @@
+<article>
+  <type>article</type>
+  <title>Spectrum Competition Increases in Frequency</title>
+  <author>Robert K. Ackerman</author>
+  <date>September 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Spectrum</tag>
+    <tag>Wi-Fi</tag>
+    <tag>Europe</tag>
+  </tags>
+  <abstract>Technology developers and commercial service providers are racing to exploit elements of the radio frequency spectrum with advances that could be at odds with each other. Increased consumer demand for wireless services is driving providers to develop new capabilities for their systems.</abstract>
+  <text>Technology developers and commercial service providers are racing to exploit elements of the radio frequency spectrum with advances that could be at odds with each other. Increased consumer demand for wireless services is driving providers to develop new capabilities for their systems, and the emerging Internet of Things has hardware firms vying for standard-setting technologies that would define the marketplace for future generations.
+
+The battleground for this competition is spectrum, where firms are maneuvering literally in the gigahertz high ground. Governments in the United States and abroad are working to establish ground rules for new capabilities that use advanced approaches to spectrum allocation. And the U.S. military cautiously is eyeing these developments because of concerns that its own bandwidth might be tapped further for commercial expansion.
+
+The demand for spectrum has grown significantly in recent years. Younger generations in particular use their smartphones to control their lives, eating up bandwidth with favorites such as streaming video. That usage is likely to continue to grow substantially in the foreseeable future, experts offer.
+
+The use of Wi-Fi is one of the drivers, as consumers increasingly want to download virtually any kind of file onto their handheld units wherever they go. But the next generation of cellular connectivity, known as LTE-U—short for LTE Unlicensed—would exploit segments of unlicensed spectrum to offload broadband demand.
+
+The Federal Communications Commission (FCC) has opened up the 3.5 gigahertz (GHz) and 5 GHz bands for Wi-Fi use, and technology giants such as Google and Microsoft have been among the leaders working to open up that spectrum. However, some cellular carriers want to use that same spectrum for versions of LTE-U. Europe and other parts of the world already have adopted this level of technology, also known as Licensed-Assisted Access (LAA).
+
+The FCC is determining which standards could use LTE-U and how it would work alongside Wi-Fi, says Laura Stefani, an attorney with Fletcher, Heald and Hildreth, a telecommunications law firm. The commission has been examining the interaction between LTE-U and Wi-Fi.
+
+Some forms of LTE-U use an approach known as listen before talk (LBT), or listen before transmit. With this technique, a device listens to an available band, finds an open channel and then uses that to communicate. The FCC is considering whether to establish government standards or requirements for mandatory LBT use or to allow industry to establish the standards and let the market decide. Ultimately, the government may push for a single LTE-U standard that employs an LBT technique permitting it to work alongside Wi-Fi, Stefani suggests.
+
+Wi-Fi firms are concerned that carriers will begin embedding LTE-U chips into their handheld devices, which then would dominate the bandwidth of the unlicensed bands and crowd out Wi-Fi. Because the bandwidth is unlicensed, specific allocations have not been made.
+
+Wi-Fi-dependent technology firms such as Apple, Google, Microsoft and Amazon all are expecting the Internet of Things (IoT) to spur major market growth. Stefani notes that these companies are working on devices to provide connectivity throughout the home, and this may lead to a tenfold or even a twentyfold increase in local area networking. For the IoT to work, it will need a uniform operating system to control all the different devices that constitute the local area network. Consumers ultimately may determine which control device they adopt from which company. Stefani believes that industry does not want government involved in those decisions; businesses prefer to develop their own technologies through industry groups.
+
+The FCC is not specifically addressing IoT spectrum demands, but it is taking steps that affect the development of the IoT. One step is an incentive auction for the 600 megahertz (MHz) bandwidth. When commercial television broadcasters shifted to digital transmission, congressional legislation encouraged them to make available their analog broadcast frequencies to wireless carriers. A large number of notices of proposed rule-making (NPRMs) and decisions are before the FCC to move the incentive auction forward. The same legislation offered that certain portions of the spectrum could be made available for unlicensed use, Stefani relates, so some channels almost certainly will be set aside.
+
+The FCC has been working to open up portions of the 600 MHz band for Wi-Fi, and it likely would be used for the IoT, she allows. That band is UHF, so broadcasters would have to turn in that spectrum for the incentive auction. “There are huge unknowns about how many broadcasters will participate, and in what markets, and then how [the FCC] will have to repack all the broadcasters in each market to then have spectrum set aside to auction off to the wireless licensees—and how good that spectrum is going to be,” Stefani says. Questions remain about how many carriers will participate and how much spectrum they will need. The auction is targeted for March 2016, and the commission is working to take applications from broadcasters.
+
+In early August, the FCC adopted modernized rules for unlicensed services in television and 600 MHz bands. These rules permit more robust and efficient operation of fixed and personal “white space”—slices of spectrum in between the locations of television channels—devices without increasing the risk of interference to broadcast services. The rules also provide technical parameters for these white space devices to operate in the 600 MHz band and other bands; permit spectrum sharing between white space devices and unlicensed microphones in the 600 MHz band; adopt transition periods for certifying, manufacturing and marketing white space devices and wireless microphones; expand the location and frequency information in the white space databases; and update database procedures.
+
+Spectrum management is one way to use scarce frequencies effectively, and sharing is an approach that several classes of users are pursuing. Over the past couple of years, employing a database manager has gained currency, especially in the FCC, Stefani observes. The commission noted several years ago that white spaces could be exploited without affecting TV signals if database managers were used. A white space device could be managed by a database, which would tell the user whether spectrum was available and if the device could go on the air.
+
+Stefani states that this database manager approach has not yet taken off. It is being used at a small number of locations, such as universities, but no mobile devices have been certified yet. However, it is poised to take off now that Google and Microsoft have bought into it and have developed business plans. A number of database managers have emerged, and the FCC has seized on the idea of using them to pack more users into a slice of spectrum, she says.
+
+Earlier this year, the FCC divided the 3.5 GHz band into incumbents, licensed users and unlicensed users. The unlicensed users will be managed by a new database system that will be even more sophisticated than the white space database system, Stefani offers. This new system will be able to sense and control the devices trying to use the band. Stefani warns, however, that the new system is unproven, and believing it will work well “will take a bit of a leap of faith.”
+
+The competition between the IoT and Wi-Fi has rekindled interest in the affected bands. “This all adds up to a rebirth in the use and demand of unlicensed spectrum, which has been considered junk spectrum for a long time,” Stefani states. “Now, a lot of big players are devising big business plans that rely on it.”
+
+With all this demand for expansion into new spectrum bands, pressure continues to build for re-allocating military spectrum. The National Telecommunications and Information Administration (NTIA) is under political pressure to make more spectrum available for nongovernment use, Stefani observes. The NTIA and the FCC have made progress toward meeting the national broadband plan goal of shifting 500 MHz of spectrum, but some officials are pushing for even more spectrum to be made available to the commercial sector.
+
+One suggestion offered by FCC Commissioner Jessica Rosenworcel, in testimony before the U.S. Senate, was that the government make even more spectrum available through an incentive program. These incentives would impel federal agencies to share or even turn in spectrum.
+
+“The future of spectrum policy requires incentives,” Rosenworcel said in her testimony. “We need a federal spectrum policy that is based on carrots, not sticks.”
+
+One option would be an incentive auction that would grant government agencies a cut of the revenue the FCC receives. This would be modeled on the auctions planned for the 600 MHz bandwidth, and participating agencies would be able to use these revenues to help them relocate to another part of the spectrum—or to support “initiatives lost to sequestration,” she suggested.
+
+Stefani says even higher bands—such as those above 24 GHz—may be exploited for 5G cellular capabilities. This also was considered junk spectrum just a few years ago, but Korea and Japan already are developing 5G technologies that would work at these higher frequencies. The FCC has put out a notice of inquiry for use of these higher bands, she notes.
+
+The commission also is looking to find a home for new radars in the 76-81 GHz band. These millimeter-wave frequencies are allocated to radio astronomy and radiolocation services, and the FCC is examining how commercial systems such as vehicular radars could share the frequencies. An alternative would be to re-allocate the existing services to other frequencies.
+
+Delays often happen when government regulations cannot keep up with technology, Stefani points out. She adds that even though the FCC does a good job granting waivers and updating rules, it still cannot match the pace of innovation. The FCC has turned over testing and verification to private telecommunication certification bodies and labs, and it is focusing on how they would operate going forward. One key technology to watch is module transmitters, which are bought to be placed in other devices. They are important for firms developing radios in the U.S. market, Stefani notes.</text>
+  <imgalttext>
+    <img>The growth in cellular connectivity is impelling service providers to seek more bandwidth to allow users to download whatever files—including streaming video—they wish onto their handheld devices. However, this push for more bandwidth may run afoul of efforts to build the Internet of Things, which also will require portions of the spectrum to link diverse hardware.</img>
+  </imgalttext>
+</article>

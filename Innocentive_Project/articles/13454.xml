@@ -1,0 +1,28 @@
+<article>
+  <type>blog</type>
+  <title>DISA Cloud Brokering Up in Smoke</title>
+  <author>George I. Seffers</author>
+  <date>September 11, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+    <department>Event Coverage</department>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>DISA</tag>
+    <tag>cloud computing</tag>
+    <tag>TechNet Augusta 2014</tag>
+  </tags>
+  <abstract>DISA had been identified as the Defense Department’s cloud broker, but that was rescinded just last week, reported Lt. Gen. Mark Bowman, USA, director, command, control, communications and computers/cyber and chief information officer, Joint Chiefs of Staff.</abstract>
+  <text>The Defense Information System Agency (DISA) had been identified as the Defense Department’s cloud broker, but that was rescinded just last week, reported Lt. Gen. Mark Bowman, USA, director, command, control, communications and computers/cyber and chief information officer, Joint Chiefs of Staff.
+
+"People can do a business case analysis and decide where they want to go to get their cloud support, if someone can figure out the secret sauce on how to get it cheaper. It has to be provided to the right security standards, and it will have to be checked,” Gen. Bowman stated, while speaking at AFCEA TechNet Augusta 2014.
+
+He offered no other details on how or why it was rescinded, but he predicted that lower budgets next year will drive innovation and greater sharing within the Defense Department.
+
+Some services, he said, can be run “to standard” in a commercial environment. “My belief is that we still need to do stuff that is our core competency,” he said, adding that the Joint Staff once ran its own email service before moving to the DISA Enterprise Email system. Help desks also are not a core competency, he said.
+
+“There are people who want to contract out unclassified email. The difference in cost per seat ranges from 100 bucks a seat down to $24 something a seat. Industry is telling us they can do it for 15 bucks a seat. I think you’ll see us trying some of that stuff,” he predicted. “Our problem in the Defense Department is that once we lock on something, we seem to lock on it and stay on it. My belief is that once you start something like enterprise email, and you’ve got a million plus users, you can’t just declare victory.”</text>
+  <imgalttext>
+  </imgalttext>
+</article>

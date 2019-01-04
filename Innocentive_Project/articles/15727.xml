@@ -1,0 +1,36 @@
+<article>
+  <type>article</type>
+  <title>DHS Opens GIS-based Datasets, Facilitates Collaboration </title>
+  <author>Sandra Jontz</author>
+  <date>February 25, 2016</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>Esri</tag>
+    <tag>geospatial information system</tag>
+  </tags>
+  <abstract>The Department of Homeland Security granted greater access to some of its Web-based infrastructure geospatial information, a move that facilitates collaboration between agencies and gives the public greater access to data.</abstract>
+  <text>The Department of Homeland Security (DHS) granted greater access to some of its Web-based infrastructure geospatial information, a move that facilitates collaboration between agencies and gives the public greater access to data, officials said.
+
+DHS opened 275 geospatial datasets, half of the agency’s offerings through the ArcGIS Online program that manages the Homeland Infrastructure Foundation-Level Data (HIFLD) collection, David Alexander, a geospatial information officer at DHS, said during the Esri FedGIS conference this week in Washington, D.C.
+
+The agency’s HIFLD working group consists of more than 5,000 participants and is led by the federal agencies of DHS, the Defense Department, the National Geospatial-Intelligence Agency and the U.S. Geological Survey. The greater availability to HIFLD’s cataloged geospatial infrastructure information means agencies can better plan for disaster response, as one example, and gives businesses key data toward economic development plans.
+
+“HIFLD Open marks an evolution in DHS information sharing," Alexander said. "We have an opportunity to be open and secure, to empower citizens and communities, to support local law enforcement and first responders, businesses and the private sector."
+
+“To understand the significance of this change, we need to understand how Homeland Security has changed in the last 15 years,” Alexander offered. “After 9/11, the immediate response was to secure and protect our critical infrastructure from terrorists. While this remains a critical part for DHS's mission, Homeland Security is much more diverse. We consider areas, [such as] economic security and resiliency.”
+
+Michael Donnelly, DHS' geospatial data architect, demonstrated for conference attendees a handful of scenarios users might find beneficial: First responders could canvas the Los Angeles area to find for large sports venues to stage disaster relief equipment. Transportation officials could pinpoint alternative fuel stations. Railroad companies could see where refrigerated warehouses are located if trains are transporting perishable foods.
+
+HIFLD uses Esri’s ArcGIS platform, providing geospatial data to a wide range of organizations that perform jobs such as critical infrastructure protection, crisis management, intelligence and threat analysis, antiterrorism, man-made and natural hazard modeling, and government facilities management.
+
+The decision to facilitate collaboration not only between agencies, but with the general public, was a balancing act between identifying the critical infrastructure data that could be opened in an effort to increase the nation’s economic security, and what data must remain secure to safeguard homeland security, Alexander said.
+
+“Reaching this decision has been a challenging journey for all of us: to change our thinking and adapt our culture, both inside and outside DHS," Alexander said. "Recent events like the Boston Marathon bombing triggered a new type of community engagement. This requires adopting new technologies that facilitate open community collaboration. We continue to deliver secure services to government and first responders, but we must also enable greater community access to our content.”
+
+The Esri FedGIS conference introduced attendees to an array of Web-based interactive products and services that reach far beyond creating maps. The company is moving beyond “systems of record” toward “systems of engagement” that lets users analyze issues from climate change to overpopulation, traffic jam patterns, hiking trails, deforestation, or develop trending “story maps” that allow people to publish information about their jobs and missions in a much more compelling format, said president Jack Dangermond.</text>
+  <imgalttext>
+    <img>A screengrab of an interactive Esri story map uses imagery and maps to plot the migration of Syrians to Europe. Courtesy Esri via Twitter</img>
+  </imgalttext>
+</article>

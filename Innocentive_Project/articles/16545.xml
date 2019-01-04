@@ -1,0 +1,46 @@
+<article>
+  <type>blog</type>
+  <title>UAVs Could Fly More If Costs Came Down from the Stratosphere</title>
+  <author>Benjamin K. Sharfi</author>
+  <date>August 26, 2016</date>
+  <departments>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>UAVs</tag>
+    <tag>Global Hawk</tag>
+    <tag>Reaper</tag>
+    <tag>Predator</tag>
+    <tag>ISR</tag>
+  </tags>
+  <abstract>Not surprisingly, as the technology behind unmanned aerial vehicles (UAVs) has increased over the decades, so have their costs. But why do modern-day UAVs and their equipment cost so much? The simple answer: because they can. But that doesn’t mean the cost is justified.</abstract>
+  <text>Not surprisingly, as the technology behind unmanned aerial vehicles (UAVs) has increased over the decades, so have their costs. But why do modern-day UAVs and their equipment cost so much? The simple answer: because they can. But that doesn’t mean the cost is justified.
+
+The use of UAVs in combat dates to World War II, when Germans built “manless airplanes” filled with bombs. They flew until they ran out of fuel, and then plummeted to the ground when empty and exploded on impact. The British nicknamed the aircraft “buzz bombs” for the sound their primitive engines emitted. Compare the buzz bombs to today’s expensive UAVs, such as the Northrop Grumman Global Hawk used for intelligent data gathering. At a cost ranging between $130 million and $200 million a piece, it registers as quite pricey. The small onboard cameras alone tally about $700,000.
+
+Such as with the early buzz bombs, the Defense Department should be acquiring UAVs they can afford to lose—and which can be deployed on a much larger scale than they currently are. That’s not happening today because costs are so ridiculously high.
+
+UAVs relieve humans from monotonous ground, maritime and airborne reconnaissance missions. They can loiter for hours without getting bored and their sensors can detect subtle changes from a previous flyover and alert ground operators to areas of interest. Up-close reconnaissance often requires warfighters to traverse difficult or defended terrain, but UAVs can help realize a battle doctrine of not needlessly putting warfighters’ lives in jeopardy. While “boots on the ground” are always needed to capture and hold territory, UAVs have become the essential “first spear” to provide intelligence, to weaken the enemy and to supplement U.S. conventional forces and platforms.
+
+Future uses for autonomous vehicles include applications such as battlefield network routers. An aerial UAV could loiter over the battlefield as part of a multi-mode radio mesh network, similar in concept to a Wi-Fi extender. Aerial platforms can extend encrypted military radio nets, such as the Army’s Warfighter Information Network–Tactical (WIN-T) program, and the classified and unclassified military Internet network. They also can be used for civilian links such as Wi-Fi and 4G for humanitarian missions or when getting cellular signals to critical assets is essential.
+
+A few key changes in design approach could contribute to significantly reduced costs and would support increased use of UAVs:
+
+Modular design that packs functionality into small, lightweight form factors
+	Effective cooling systems to support dense designs
+	Intellectual property protection in case of capture
+There is a huge vacancy for companies such as General Atomics, which makes the Predator, and other companies that can build UAVs for a fraction of today’s costs. To get to the proper price point, these companies use new design approaches to reduce the costs of electronic subsystems.
+
+Small, modular designs reduce costs while still supporting performance application requirements, an approach that helps UAVs become smaller and lighter and require less fuel. Other innovations support this goal as well. For instance, one company is designing a UAV helicopter that’s powered by an electro-diesel system. The motor runs on solar power that also charges the batteries. When the sun isn’t out, the platform has a small diesel generator that kicks in to charge the batteries. The UAVs can fly between 1,200 to 1,500 miles.
+
+On the compute side, designers could replace $250,000 worth of standard VPX boxes with a modular, small form factor box that is one-tenth the cost with all the required functionality. With this approach, different functions are virtualized onto one computer, partly due to the latest Intel Xeon Processor D that has 16 cores and 64 gigabytes of RAM—four times what is available.
+
+Since Cisco released the Embedded Services Router software, it can be loaded on this modular hardware to provide full security and a switch and router—all in one small, rugged box. Add that to Intel’s new NVMe drives and you have 10 times the speed of a SATA III drive’s 6 Gb/s interface. To deal with the heat dissipation of these high-performance, integrated systems, the UAV becomes almost a perfect heat sink. Electronics can be mounted to the frame, which stays a pretty constant 185° F, and the outside airflow over the shell provides an ideal convection to cool the box.
+
+A final consideration is the classified technology and data carried by today’s UAVs. If they’re captured after an unlikely crash, that intellectual property can be compromised. Mission computers and other technology must have the ability to self-destruct or remote destruct so that if they do fall into enemy hands, they become unusable. Bottom line: Costs of UAVs must come down. They will make up a part of the nation’s military arsenal—in a big way. Innovation with proven, modular, small form factor designs can make that happen.
+
+Benjamin K. Sharfi is founder and CEO of General Micro Systems. </text>
+  <imgalttext>
+    <img>An MQ-9 Reaper sits on the flight line at Hurlburt Field, Florida, in 2014. The Reaper is an armed, multi-mission, medium-altitude, long-endurance remotely piloted aircraft primarily used as an intelligence-collection asset.</img>
+  </imgalttext>
+</article>

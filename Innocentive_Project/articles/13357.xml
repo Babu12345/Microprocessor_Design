@@ -1,0 +1,39 @@
+<article>
+  <type>article</type>
+  <title>CANES Experiments with Cloud Computing at Sea</title>
+  <author>George I. Seffers</author>
+  <date>August 21, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>Navy</tag>
+    <tag>CANES</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The Navy’s afloat network will benefit from cloud computing while enhancing cybersecurity.</abstract>
+  <text>U.S. Navy officials have revealed that the Consolidated Afloat Networks and Enterprise Services (CANES) program office and the Office of Naval Research are experimenting with cloud computing to help reduce hardware on ships.
+
+Rear Adm. Christian Becker, USN, Navy program executive officer for command, control, communications, computers and intelligence, told reporters during an August 21 conference call that cloud computing offers several benefits. “Among the advantages are the disaggregation of the hardware from the services and the warfighting capabilities that ride on that platform,” Adm. Becker said. “By enabling things both with virtualization and then through implementing scalability, size-ability and flexibility in cloud technology, our thesis is that we’ll be able to provide more capability with more rapid fielding in that hardware baseline. We’re experimenting with the Office of Naval Research, and we believe there’s a great value there for us.”
+
+As a specific example, he cited less hardware for command and control capabilities. “Today, our command and control warfighting system rides on its own hardware. In the future, our next-generation command and control warfighting capability will bring no hardware to the ship. It will ride on the weapon system, on that platform that is CANES, the fundamental network for our information dominance capabilities afloat,” he stated.
+
+He emphasized cloud scalability as a way to counter the relative lack of bandwidth at sea. "One of the things about cloud is scalability. We do have those bandwidth constraints, but we believe we can implement the advantage of cloud technology at a unit level as we look forward—first starting with the large decks and then throughout the rest of our network. It’s a story yet to be written, but there is a definite advantage there for us in the future,” the admiral declared.
+
+Capt. William “Ben” McNeal, USN, Navy tactical networks program manager, added that cloud computing could be a fielded solution in the 2018 fiscal year. “One of the fundamental requirements that we are trying to adapt within CANES is cloud technologies. That will be a construct that will be targeted for fiscal year 2018,” Capt. McNeal said.
+
+The officials also discussed the cybersecurity capabilities associated with CANES. “CANES creates a new information dominance operational posture by significantly reducing our cybersecurity vulnerability, centralizing those cyber protection operations and at the same time providing more robust cyber situational awareness. That is critical to our information dominance capabilities afloat,” Adm. Becker offered. "CANES serves as the cyber platform for more than 200 applications and connected systems, including data, transport, system management, voice and video services. This also provides us the opportunity to incorporate technology refresh cycles throughout the fleet to respond to emerging cyberthreats.”
+
+The CANES program will refresh software every two years, hardware every four. Between upgrades, officials will assess any obsolescence issues, allowing the program to remain as current as possible in the cyberdomain. “The program is designed to be able to pace the cyberthreat," Capt. McNeal added. The approach will allow officials to continually evolve the system, deploying software and hardware to maintain mission readiness with everything from automated patching up to and including updated hardware.
+
+Adm. Becker cited centralized network operations as one of the cybersecurity benefits CANES provides. A sailor on one ship equipped with CANES lauded the system’s centralized nature, he said. “Previously, they would have to go out and execute some touch labor on each of the clients for cybersecurity purposes. They’re now able to push those changes from a central location, significantly reducing the labor time, if you will, and increasing the mission readiness of that platform,” the admiral reported.
+
+“One of the other things we’re going to incorporate within CANES, which did not exist in our legacy systems, is a robust means for being able to monitor, manage, identify, protect, defend and react to the cyberthreat,” Capt. McNeal said. With CANES, the service has implemented “a systems management domain made up of a robust set of software tools” that will  “help our sailors to be able to better manage the cyberthreat as we move forward,” the captain added.
+
+The Navy announced this week that BAE Systems Technology Solutions &amp; Services Inc., Rockville, Maryland (N00039-14-D-0121); General Dynamics C4 Systems, Taunton, Massachusetts (N00039-14-D-0122); Global Technical Systems, Virginia Beach, Virginia, small business (N00039-14-D-0123); Northrop Grumman Systems Corp., Herndon, Virginia (N00039-14-D-0124); and Serco Inc., Reston, Virginia (N00039-14-D-0125), are each being awarded an indefinite-delivery/indefinite-quantity, firm-fixed-price, cost-plus-fixed-fee contract for CANES production units.
+
+The estimated, cumulative value of the multiple award contract is $2,529,500,000.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

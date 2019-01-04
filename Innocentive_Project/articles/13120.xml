@@ -1,0 +1,41 @@
+<article>
+  <type>blog</type>
+  <title>Guest Blog: Continuous Monitoring Meets DISA STIG Compliance</title>
+  <author>Chris LaPoint</author>
+  <date>July 3, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>DISA</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Compliance with Defense Information Systems Agency rules are a must. Break the rules, and companies can lose their applications or have systems removed from the network.</abstract>
+  <text>Thousands of military information technology security personnel probably sat down at their computers this morning and opened a spreadsheet listing hundreds of rules for Defense Information Systems Agency (DISA) Security Technical Implementation Guide (STIG) compliance. They then might have spent hours logging onto information technology devices, looking at configurations and laboriously going through them line by line to ensure each setting matched the rules in that spreadsheet.
+	In six months, they’ll do it all over again.
+	The DISA STIGs are not new—in fact they predate the Federal Information Security Management Act—and noncompliance can have drastic consequences. If you are severely out of compliance and are not acting to fix it, the designated approving authorities (DAAs) can simply remove your application or system from the network. And today, you cannot expect to fly under the radar, since newer technology makes it easy for auditors to see whether you have applied the STIGs appropriately to your systems.
+	DISA STIGs are not going away: they are a permanent part of today’s security landscape and vocabulary. Here is what you need to know about maintaining compliance with DISA STIGs efficiently and effectively.The challenges of maintaining DISA STIG compliance
+	As a subset of general information technology security, the challenges of implementing DISA STIGs are similar. According to a 2014 survey by Market Connections and my company, SolarWinds, budget constraints are the single most significant obstacle to maintaining or improving information technology security for 40 percent of respondents. Other obstacles represent internal organizational challenges like competing priorities (19 percent) and complex internal environments (14 percent).
+	Hindrances to implementing the appropriate information technology security tools include lack of budget (63 percent) and organizational issues or “turf battles” (42 percent), as well as cost concerns for maintenance, upgrades and training.
+	For the STIGs in particular, labor costs are a major issue. Military information technology security personnel spend thousands of hours every year poring over hundreds of security settings on hundreds of devices, applications and networks, slowly checking off each security requirement.
+	Thankfully, the days of manual compliance checks as the only option are over.How to adopt a proactive approach to compliance monitoring
+	Today, the clear direction of government information technology management is toward continuous monitoring of infrastructure. Automation means no more manual checks on a six-month schedule; these systems run silently every hour, day or week as desired and can produce reports as often. In an environment where information technology changes are made every day, this allows you to quickly check and change your configurations to accomplish your mission securely.What to consider when purchasing an automated compliance solution
+	Given the variety of cybersecurity threats and the unpredictability of human behavior, coupled with low budget and organizational challenges, federal information technology pros must consider taking a more pragmatic and unified approach to addressing the availability, performance and security of their infrastructures.
+	Here are some factors to keep in mind when choosing a continuous monitoring system for DISA STIG compliance:
+	Money is, as ever, a factor. Budgets are still tight, and regardless of the effort to embrace continuous monitoring, the process must be done as economically as possible.
+	Consider these questions:
+
+		Which continuous monitoring tool is the cheapest?
+	
+		Which one requires the least amount of time to install, operate and maintain?
+	
+		Do I need a senior person to use this tool, or can even my junior personnel use it without training?
+	
+		Is it compatible with all the devices I use?
+	
+		Can both information technology operations and information security get value from the same tool?
+Good reporting is essential. The primary goal of any continuous monitoring solution is, of course, effective cybersecurity and compliance. But a wonderful and not-so-secondary offshoot is that organizations that implement the solution will also enjoy the ability to solve real-world issues and maintain uptime—often before a problem happens. I call this the “collect once, report to many” strategy, and it’s one that most federal information technology teams find highly beneficial.Continuous monitoring is just the first step. A full-fledged system should also incorporate some aspect of network change and configuration planning. While continuous monitoring can identify potential issues, network configuration planning tools can aid in managing them.
+	Through configuration management tools, administrators can automate backups; protect against unauthorized network changes; and receive reports on compliance violations. The tools work as part of a continuous monitoring system that both protects and enhances the network.Chris LaPoint is vice president of product management at SolarWinds, an information technology management software provider based in Austin, Texas.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,22 @@
+<article>
+  <type>blog</type>
+  <title>Cyber Investigators Analyze South Korea Malware</title>
+  <author/>
+  <date>March 25, 2013</date>
+  <departments>
+    <department>Cyber</department>
+    <department>Defense Operations</department>
+    <department>International</department>
+  </departments>
+  <tags>
+    <tag>Networks</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract></abstract>
+  <text>The malware that infiltrated computer systems across South Korea’s banking and television broadcast industries on March 20 shares similarities with the Shamoon program used last year to wipe clean the hard drives of 30,000 Saudi Aramco workstations, according to experts at General Dynamics Fidelis Cybersecurity Solutions. Investigators at the company’s newly-opened cyber forensics laboratory in Columbia, Maryland, say the malware is not a Shamoon variant, but that the two programs share some characteristics.
+	Company officials acknowledge the speculation that North Korea launched the attacks but did not comment on the program’s origin. It is not unusual, they say, for a criminal group or nation to use malware that deliberately mimics attacks used by others. Doing so, of course, casts suspicion elsewhere, helping to mask the malware’s true origins. “A number of commercial firms were hit with a somewhat similar attack. It was not Shamoon. But the techniques were somewhat similar,” says Jim Jaeger, the company’s vice president of cybersecurity services.
+Cyber lab personnel identified the South Korea malware as “239ed75323.exe,” a malicious file capable of wiping data in disk drives. One of the areas it targets is the disk’s master boot record, without which a computer cannot load its operating system. The program writes a pattern to the disk that repeats the word “HASTATI.” Hastati is an apparent reference to a class of infantry in the armies of the early Roman Republic that originally fought as spearmen and later as swordsmen. The malware did not overwrite the entire disk, so some data can be recovered. The cyber lab experts posted their initial findings in a blog the day after the attacks.
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

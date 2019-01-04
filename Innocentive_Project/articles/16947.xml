@@ -1,0 +1,50 @@
+<article>
+  <type>article</type>
+  <title>Robots Invade the Battlefield</title>
+  <author>Sandra Jontz</author>
+  <date>December 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Robotics</tag>
+    <tag>robot</tag>
+    <tag>UAV</tag>
+    <tag>Unmanned Vehicles</tag>
+    <tag>ISR</tag>
+    <tag>UGV</tag>
+  </tags>
+  <abstract>While U.S. defense officials are not ready to fully relinquish warfighting duties to robots, they are on the fast track to acquiring technologies and platforms anticipated to shake up military operations.</abstract>
+  <text>Today’s ruggedized robots will go where man has gone before—and where man should no longer have to go. While U.S. defense officials are not ready to fully relinquish warfighting duties to robots, they are on the fast track to acquiring technologies and platforms anticipated to shake up military operations.
+
+The Army’s Strategy for Robotic and Autonomous Systems (RAS) supports robots taking over the three D’s of warfare: dull, dirty and dangerous. The service’s overarching Army Operating Concept lists RAS as an enduring capability to reduce risks to soldiers, increase efficiencies and provide U.S. and coalition forces distinct advantages over adversaries. Other services aim to mirror RAS as the Defense Department builds its inventory of robotics. 
+
+Big, heavy, single-focused robots are now a dying breed. These are the types of robots explosive ordnance disposal troops have used for years to detect threats and, most notably, to dismantle the roadside bombs that posed one of the gravest dangers to U.S. and coalition forces in Iraq and Afghanistan. 
+
+A new wave of battlefield robotics from companies across the globe is addressing the military’s need for more versatile technology. These firms are building multiuse, autonomous, cargo-carrying robots that can plod alongside dismounted infantry troops; they are creating tiny, sensor-laden robots that can jump 30 feet to peek in on an enemy. One has even devised an intelligence-gathering, lightweight robot that is literally in the hands of U.S. troops. Soldiers can throw the Individual Robotic Intelligence System (IRIS), a rugged, nearly 4-pound platform, into just about any space, and it will relay intelligence, surveillance and reconnaissance (ISR) information in real time. The developing brave new world of unmanned ground vehicles (UGVs) could restructure combat and law enforcement missions by introducing options that significantly improve how forces conduct coordinated missions, maintain communications and obtain intelligence. 
+
+“Our vision is that the soldier or the policeman will use it like he’s using a flashlight—and I mean it’s as simple as a flashlight to operate,” says Shahar Abuhazira, CEO of Roboteam, the developer of the IRIS. “It’s one button, very simple to operate, very small and can be carried.”
+
+The miniature unmanned system can enter small and confined spaces, above or underground, to explore hazardous areas and convey critical ISR information. It carries a variety of sensors, including high-definition cameras that can stream video and audio for real-time situational awareness. Toss the four-wheeled contraption in any direction, and no matter how it lands, the software automatically adjusts the camera to an upright orientation.
+
+Roboteam, an Israeli company with a U.S. headquarters in Maryland, also promotes its portable, all-terrain, stair-climbing Micro Tactical Ground Robot. The 19-pound platform is used as a bomb-diffusing device. “The trend we have seen over the past few years is more systems for more units that can accomplish more missions,” Abuhazira declares. “Operators can now use robotics as semiautonomous convoys for missions that could otherwise put soldiers into harm’s way.”
+
+Some developers are reaching beyond semiautonomous technology and crafting robots that offer a range of options, from remote controlled to fully autonomous. One is the tracked platform Titan, co-developed by Milrem and QinetiQ North America. A fully modular, hybrid, 2,200-pound UGV platform, it can haul at least 1,700 pounds of cargo, from equipment to sensors or troops. The UGV combines Milrem’s Tracked Hybrid Modular Infantry System used by Estonia’s infantry with QinetiQ North America’s robotic control technology. Its wide tracks prevent it from sinking into sand, mud, swamps and snow, to name a few potential pitfalls, and it has exceeded troop expectations in harsh Estonian climates and conditions, says Kuldar Vaarsi, CEO of Milrem.
+
+When powered by its diesel engine, Titan is no louder than a typical passenger car, but when powered by batteries, it operates silently, Vaarsi says. This option gives it a tactical application so that troops might remain undetected, offers Jon Hastie, product manager at QinetiQ North America.
+
+Titan can serve as a remote weapons station, but any lethal force requires a human in the loop, Hastie says. The Defense Department has not authorized autonomous systems to take lives. Its road map for the future of military unmanned and autonomous systems, titled “Unmanned Systems Integrated Roadmap FY2013-2038,” makes the distinction between unmanned and autonomous systems and poses some ethical policy questions. “The potential for improving capability and reducing cost through the use of technology to decrease or eliminate specific human activities, otherwise known as automation, presents great promise for a variety of [Defense Department] improvements,” the document says. “However, it also raises challenging questions when applying automation to specific actions or functions. How will systems that autonomously perform tasks without direct human involvement be designed to ensure that they function within their intended parameters? More broadly, autonomous capabilities give rise to questions about what overarching guiding principles should be used to help discern where more oversight and direct human control should be retained.”
+
+The Defense Department issued its first public policy in 2012 on autonomy in weapons systems and placed a 10-year moratorium on the development of fully autonomous lethal weapon systems. The policy allows for the development of systems that deliver nonlethal force, which is proving to be a mushrooming industry. “This will be one of the most quickly growing sectors in military technology, not only in the U.S., but worldwide,” Vaarsi relates.
+
+The military’s requirements in this domain mirror those of law enforcement, making it easier for industry to meet the goals of agencies such as the FBI, Abuhazira says. Officials seek capabilities that are affordable, intuitive and simple to use. They must offer a plug-and-play approach so that one platform can have multiple uses. “If you want to push systems to the infantry in large quantities, the cost needs to be lower than what [the military] has paid in the past,” Abuhazira offers matter-of-factly.
+
+The UGV market is following the same path as its unmanned aerial vehicle (UAV) predecessors, he adds. “UAVs were just for the special unit that specialized in operating UAVs. But [now] everybody is using a UAV. Costs are lower, more systems are in the field, and we see a bigger variety of applications,” Abuhazira says.
+
+The market is availing itself of the tremendous advancements made by the automotive industry in its quest for driverless vehicles, Hastie reports. “The automotive world is driving down the cost of the sensing technology, and now it’s just an economy of scale. When [light detection and ranging technology] is made 50 units at a time, it’s going to be far more expensive than when it’s made 5,000 units at a time. Being able to utilize that technology and bring it to a market like this, we can leverage that economy of scale.”</text>
+  <imgalttext>
+    <img>Roboteam has created a lightweight robot for troops and first responders. The Individual Robotic Intelligence System is a rugged, nearly 4-pound platform that can be thrown into any space to provide real-time intelligence, surveillance and reconnaissance (ISR) information.</img>
+    <img>Roboteam devised a universal wireless controller for its fleet of unmanned ground vehicles. The Israeli company is one of several answering the U.S. military’s call for battlefield-ready robotics.</img>
+    <img>Roboteam’s portable Micro Tactical Ground Robot is a 19-pound, all-terrain, stair-climbing robot used as a bomb-diffusing device.</img>
+  </imgalttext>
+</article>

@@ -1,0 +1,25 @@
+<article>
+  <type>blog</type>
+  <title>Crisis Response and Geospatial Services</title>
+  <author>H. Mosher</author>
+  <date>September 9, 2009</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Gov20Summit</tag>
+    <tag>Government 2.0</tag>
+    <tag>Event Coverage</tag>
+  </tags>
+  <abstract>From politics to national security to data transparency to important new public service applications, the Gov 2.0 Summit, co-produced by O'Reilly and TechWeb, covered a wide range of issues facing government as it tries to balance security, transparency and the new media environment. The theme in the afternoon was the wide range of applications that can be built using geospatial technology. </abstract>
+  <text>From politics to national security to data transparency to important new public service applications, the Gov 2.0 Summit, co-produced by O'Reilly and TechWeb, covered a wide range of issues facing government as it tries to balance security, transparency and the new media environment.
+
+The theme in the afternoon was the wide range of applications that can be built using geospatial technology. As Craig Mundie of Microsoft noted, GPS technology was available for quite some time before people started figuring out how they could use it. But once they did, geospatial applications have proliferated rapidly, many enabled by open APIs that allow people to create "mashups" that integrate data with a platform.
+
+Jack Dangermond of ESRI demonstrated a Google Maps mashup that takes advantage of the Google Maps API and data from the government. In one example, they located all the long-term care facilities in proximity of the California wildfires. Other data sets could be loaded in a matter of seconds, making it much easier to find at-risk populations that are close to disaster areas. Dangermond noted that this process turns data into services, and invited the audience to imagine how the response to Hurricane Katrina might have been different were these tools in place.
+
+Andrew Turner of FortiusOne discussed a web application that allows users to plot their bicycle routes through a community that's been mapped with geospatial data on crime rates in that neighborhood. This is illustrative of ways that public safety can be better promoted through use of geospatial tools.
+
+Robert Greenberg, of G&amp;H International Services, Inc., discussed Virtual Alabama in the context of Homeland Security. (For more information about this project, see www.dhs.alabama.gov/virtual_alabama/.) What used to take weeks now takes hours, and allows crisis responders to get information that much more quickly. Another state program, VIPER, allowed responders access to data that served as an early-warning system for potential catastrophes. The two states started sharing their data, and seeing that success, the Department of Homeland Security embarked on Virtual America to become a nationwide initiative. At this time, there are more than 50 installations, some DHS, some state, some local, all stitched together. Greenberg noted that Recovery.gov is developing interactive maps that will be available in a few weeks, and observed the application "will revolutionize the way we respond to events across the country."</text>
+  <imgalttext>
+  </imgalttext>
+</article>

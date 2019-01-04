@@ -1,0 +1,23 @@
+<article>
+  <type>blog</type>
+  <title>Cyber Attacks Temporarily Shut Down Several Popular Sites</title>
+  <author/>
+  <date>October 21, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>DDOS</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>Major websites such as Twitter, Spotify, Amazon—and AFCEA International and SIGNAL Media—fell victim to successive massive distributed denial of service (DDoS) attacks on Friday. The Internet traffic firm Dyn informed people of the cyber attack after the sites were shut down.</abstract>
+  <text>Major websites such as Twitter, Spotify, Amazon—and AFCEA International and SIGNAL Media—fell victim to successive massive distributed denial of service (DDoS) attacks on Friday. The Internet traffic firm Dyn informed people of the cyber attack after the sites were shut down.
+
+"We have begun monitoring and mitigating a DDoS attack against our Dyn Managed (Domain Name System) infrastructure,” the company said in a statement. “Our engineers are continuing to work on mitigating this issue.” Service was restored late Friday morning. Some customers experienced increased DNS query latency and delayed zone propagation. 
+
+Other sites impacted by the attack include Netflix, Tumblr and Reddit.
+
+White House Press Secretary Josh Earnest said Friday the Department of Homeland Security was “monitoring the situation" but could not provide information about who might have be behind the attack.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

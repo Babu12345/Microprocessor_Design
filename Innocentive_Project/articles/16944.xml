@@ -1,0 +1,49 @@
+<article>
+  <type>article</type>
+  <title>A Big Role for Small Satellite Terminals</title>
+  <author>Sandra Jontz</author>
+  <date>December 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>SATCOM</tag>
+    <tag>satellite systems</tag>
+    <tag>unmanned aerial systems</tag>
+  </tags>
+  <abstract>The U.S. Navy’s investment in its own fleet of high-altitude, long-range unmanned aerial systems called Tritons marks a detour from the military’s longtime use of satellite technology to connect its arsenal of big platforms such as Global Hawks and Predators.</abstract>
+  <text>The U.S. Navy’s investment in its own fleet of high-altitude, long-range unmanned aerial systems called Tritons marks a detour from the military’s longtime use of satellite technology to connect its arsenal of big platforms such as Global Hawks and Predators. 
+
+The communications payloads for the family of drones are built to leverage primarily X-band military frequencies, a revolutionary undertaking. The X band has been around since the beginning of satellite communications (SATCOM), but it has gone hand in hand with mammoth antennas and point-to-point services—until now. The Navy’s pursuit of the new pilotless aircraft is one example of sweeping changes transforming the satellite industry that could vastly improve Defense Department intelligence, surveillance and reconnaissance (ISR) capabilities.
+
+The MQ-4C Triton will enable intelligence preparation and a surge of capabilities as the department continues its pivot to the Pacific region. The platform is expected to provide a more continuous availability of information to maintain what Navy officials call the Common Operational and Tactical Picture of the maritime battlespace, and Triton-collected data posted to the Global Information Grid will support various intelligence activities and nodes.
+
+The satellite company XTAR, based in Ashburn, Virginia, is leading the Navy’s charge to shrink antenna size drastically so that Triton can operate on resilient X-band frequencies but still actually fly. “We’ve figured out that X band really represents a key crossover point, a key nexus of usability and antenna size, weight and power,” says Philip Harlow, president and chief operating officer of XTAR. “We’ve discovered that X band is perfect for smaller antennas. As the [Defense Department] looks forward and is looking at the Ka band as its savior, it really is missing out on the significant technical and operational virtues of X band.”
+
+XTAR is one of the first companies to launch a commercial satellite using X-band frequencies, something that was once done only by the government, Harlow says.
+
+The military’s reliance on commercial satellite services only will increase for the foreseeable future, notes Stephen Spengler, CEO of Intelsat, based in Luxembourg. “One driver of demand is the fact that unmanned aerial vehicle platforms are expected to grow about 10 percent a year through 2020,” he says. “All of those platforms need connectivity. The U.S. military has expressed a need for smaller terminals, higher data rates, quick deployment and service on a ubiquitous basis around the world.” 
+
+While the military operates its own network of communication satellites, the Wideband Global SATCOM (WGS) system, it primarily was designed for use by ground troops rather than mobile airborne platforms. The limited number of WGS satellites also failed to meet the demanding drone requirements that burgeoned during the conflicts in Iraq and Afghanistan. So the Defense Department turned to the commercial sector, which provided solutions on the Ku-band frequency.
+
+The drive for smaller and smaller antennas means that today, the number of Ka-band systems is increasing rapidly. But there is a pretty significant hitch: The Ka band is quite susceptible to inclement weather. “The reason they are looking at Ka band is they believe it gives them smaller antennas, which of course will be lighter and take up less space,” Harlow offers. “That’s true to a certain extent. But if there is moisture in the air, which is very prevalent over places like Southeast Asia, over the Mediterranean, over a majority of South America, Latin America and the Caribbean, Ka stops working effectively.” Dust, prevalent in desert regions such as Iraq, Syria and Afghanistan, can cause the same attenuation. Atmospherics do not degrade the X band, Harlow explains.
+
+Resiliency is one piece of the SATCOM partnership puzzle being assembled between the military and industry. Better technology is another piece. The need for faster, stronger, spoof-proof links will bring to bear solutions to overcome space threats, experts say. 
+
+Consider Intelsat, which launched its EpicNG satellite series to provide global coverage as it courts the U.S. government, and particularly the military, for sales of satellite services. The high-throughput design is specifically oriented toward mobile and multiple applications, and open architecture makes the satellites backward compatible, meaning customers can use existing equipment, says Skot Butler, president of Intelsat General. The McLean, Virginia, company is a subsidiary of Intelsat.
+
+The megahertz capacity of each EpicNG spot beam has been boosted to satisfy the demands of bandwidth-hungry service members who must send and receive high-definition full-motion video, for example. “They are collecting more data of a higher resolution,” Butler says. “You simply can’t get that same sort of performance in a wide beam.”
+
+Another key aspect of the Epic fleet is that the satellites are fully digital. “Typical satellites up until now have been analog-based,” Spengler says. “Our digital payload allows us to have enormous flexibility in providing services to customers in terms of connecting different locations seamlessly through the satellite, and it also adds an element of security.”
+
+The tremendous push to downsize antennas while upgrading capabilities has invigorated a lot of industry change, offers Rick Lober, vice president and general manager of Hughes Defense and Intelligence Systems, Germantown, Maryland.
+
+Satellite builders such as Hughes are among many that have shifted from producing bowl-shaped antennas to flat antennas. For its XEBRA offering, Hughes paired a software-definable modem and a scrambled code multiple access (SCMA) waveform with a flat-panel antenna to shrink an X-band terminal down to portable size, Lober says. Advanced waveforms and high-throughput satellites with spot beam technology contribute to XEBRA’s reduced antenna size. The solution is an alternative to the portable yet uber-expensive BGAN system, he adds. 
+
+Another change produced by smaller antennas is progressively smaller platforms. Intelsat General, for example, recently tested a 6-inch-by-6-inch flat antenna. “It really becomes a game changer for smaller platforms” required to go beyond an operator’s line of sight, Butler offers.</text>
+  <imgalttext>
+    <img>U.S. troops conduct a so-called “jump test” of a new capability. Here they evaluate the Hughes HM300 portable X-band satellite terminal used for intelligence, surveillance and reconnaissance.</img>
+    <img>The U.S. Navy’s MQ-4C Triton drones mark a detour from the satellite technology the military has long relied on. Triton’s communications payload is built to leverage X-band military frequencies. The nearly 48-foot-long aircraft can fly for more than 30 hours at altitudes of up to 60,000 feet, according to the Navy. Photo courtesy of Northrop Grumman</img>
+    <img>Arianespace successfully launches its fourth Ariane 5 mission in August carrying a double payload. It carried Intelsat-33e, the second in a series of seven planned EpicNG satellites that will deliver high-throughput, digital capabilities in both C and Ku bands, and Intelsat-36, which will provide direct-to-home video distribution services primarily in Africa. The summer launch marked the first time Intelsat placed two satellites on one rocket. Photo courtesy of Intelsat</img>
+  </imgalttext>
+</article>

@@ -1,0 +1,54 @@
+<article>
+  <type>blog</type>
+  <title>'Delete' Seems to be the Hardest Word</title>
+  <author>Justin Marston</author>
+  <date>July 17, 2015</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>technology</tag>
+    <tag>mobile device</tag>
+    <tag>BYOD</tag>
+  </tags>
+  <abstract>Is it possible to reliably delete data from commercial mobile devices? Guest blogger Justin Marston delves into the quandary that makes it difficult for the intelligence community to turn to the private sector for some of its communications needs. </abstract>
+  <text>Roll back the clock to 2009. With great fanfare, General Dynamics and L-3 announced the now infamous (in government circles) Secure Mobile Environment Portable Electronic Device (SME-PED) designed to be a special secure phone—one that, say, a U.S. president might use. But several problems plagued the effort, including cost, weight, short battery life and a lack of functionality. Then, “the iPhone happened,” says a former National Security Agency (NSA) executive. “We missed it. But hey, so did Blackberry and a lot of commercial companies.”
+
+By 2011, the NSA decided building special, secure phones no longer was viable. The investment in commercial mobile devices was so high, with the market evolving so rapidly, that voice of reason prevailed: “If you can’t beat them, join them,” seemed the new mantra. In 2012, the NSA formalized the thinking into its Commercial Solutions for Classified (CSfC) strategy, essentially mandating the use of commercial-off-the-shelf components to build classified systems.
+
+The move led to two technical challenges for commercial technologies in classified mobility (and the inspiration for the software company I now run). The obstacles include attestation, in this case a way for users to know a device has no viruses, and securing the data at rest. Is it possible to reliably delete data from commercial mobile devices?
+
+Researchers at the University of Cambridge answered with a resounding no. They bought used Samsung, HTC, Motorola, Nexus and LG Electronics devices from eBay, all of which had undergone a factory reset. Tests netted startling results: In 80 percent of the cases, researchers recovered the Google master token, which gave them access to Google accounts and tokens from apps, email data and instant messages. While encrypting the phones helped, the researchers still recovered the encryption key and then kept guessing the 4-digit PIN number until they guessed the right answer.
+
+Why didn’t the factory reset mechanism work? Turns out it is really difficult to delete data off of NAND flash memory, a type of nonvolatile storage technology that does not require power to retain data. Manufacturers struggle to implement the factory-reset functionality, and there is little users can do other than writing over the flash memory multiple times with random data. 
+
+The same Cambridge researchers also studied software that claims to wipe stored data off mobile devices. They analyzed the top 10 mobile anti-virus apps for data deletion, including AVG, Lookout, McAfee and Norton. Again, they found the remote wipe functions did not work at the forensic level. The mobile anti-virus apps are “sensitive-permission hungry” but do not have administrative privileges and provide lower assurance than the device factory reset functions.
+
+Device-based solutions do offer some protections against attacks but with restrictions, the researchers write. “More importantly, given the limitations imposed by the Android API and the permission model, we think the only viable solutions are those driven by vendors themselves.”
+
+In case you missed the key takeaway—remote lock and wipe functions from mobile anti-virus and mobile device management vendors do not work.
+
+So now what? Is it time to hide phones and tablets because intruders can recover data? No, but it is a question of risk management. Here are some problems to classified systems: What if an attacker could follow the instructions from a university research paper and recover 90 percent of data from a stolen classified mobile device? Or top-secret emails from intelligence agency executives? If mobile devices used by special operations forces store mission plans and intelligence data, could adversaries target these devices? Should we put magnesium flares on the back of commercial smartphones in war zones to support physical melting of the device?
+
+Defense officials know well the difficulty in deleting data from flash memory, which explains why server memory often is physically destroyed on decommissioning and why the NSA’s Mobility Capability Package mandated a thin-client (or “non-resident data”) architecture. 
+
+With proper manufacturer implementation, effective reset options might be possible, the Cambridge researchers note. Classified mobility has the advantage because the government selects the device and can limit it to special secure use. Samsung, which funded the Cambridge research, and Google are improving security mechanisms in Androids.
+
+Ironically, unclassified mobility is harder to secure than classified mobility, where devices are furnished by the government. The Defense Department must develop a bring-your-own-device (BYOD) policy since users do not want to carry two devices and the savings make it an attractive alternative. BYOD took the commercial world by storm, and the market penetration is expected to grow. By 2018, the research firm Gartner predicts twice as many employee-owned devices will be used for work than enterprise-owned devices.
+
+But the migration to BYOD presents problems. It would be difficult to limit users to a set of “approved handsets” with better factory reset functions. Users who lose a device would not be able to conduct a factory reset. Agencies are limited to remote wipe from anti-virus and mobile device management vendors, which is even less secure than the factory reset options.
+
+Government leaders understand well the challenges: “In today’s environment, we occasionally have something called spillage. The procedures for dealing with it are to remove the device, and depending on where it is in the ecosystem, sometimes you have to destroy the device,” Debora Plunkett, director of the NSA’s Information Assurance Directorate, said during a recent conference. “Imagine how that would work in BYOD, where I’d have to say, ‘Oops, I need your phone, and you can’t have it back.’ That’s a whole different scenario.”
+
+Security is not binary. It is a gray scale involving many factors. The best cryptographic algorithm does not help if the encryption keys are easily accessible. The struggles mean limited functionality for government mobile devices. Both Department of Defense Mobility Classified Capability and its unclassified counterpart offer little more than access to voice and email.
+
+Security, including data loss, usually tops the list of worries for chief information officers. In fact, a survey by the industry analyst firm Forrester Research ranks the top four concerns surrounding BYOD as mobile device security at 65 percent, data breach security at 59 percent, mobile data security at 55 percent and mobile application security 50 percent.
+
+The thin client technology does not store data at rest and offers a solution to the data deletion challenge. Thin clients deliver an entire user experience as a transient service streamed as video from the cloud, similar to watching Netflix or YouTube. We call this virtual mobile infrastructure, ‘mobile first’ thin client technology that gives users access to native apps from a mobile device while eliminating concerns about data at rest, encryption or authentication tokens. That’s why Hypori’s VMI platform is the only NSA CSfC-approved way to access mobile apps on classified networks.
+
+There you have it. For mobile devices, it appears that “delete” (instead of “sorry”) seems to be the hardest word.
+
+Justin Marston is CEO and co-founder of Hypori, responsible for the company’s overall business strategy, operations and long-term vision. A seasoned entrepreneur and technology innovator, Marston previously served as founder and CEO at BlueSpace Software, where he developed trusted virtualization security solutions for the defense and intelligence communities. He holds multiple patents, is a published author and a frequent speaker who has presented at numerous international defense and entrepreneurship conferences. He holds a master’s degree in chemistry from Durham University and is a fellow of the Royal Statistical Society. </text>
+  <imgalttext>
+  </imgalttext>
+</article>

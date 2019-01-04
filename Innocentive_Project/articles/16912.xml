@@ -1,0 +1,25 @@
+<article>
+  <type>blog</type>
+  <title>Network Cost Saving and Scalability Through Virtualization</title>
+  <author/>
+  <date>November 10, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Virtualization</tag>
+  </tags>
+  <abstract>The dependence on connectivity for critical services between government branch offices and data centers is increasing the need for networks to have improved reliability, scalability and flexibility. A solution brief provides more information on how to keep distributed organizations up and running.</abstract>
+  <text>The dependence on connectivity for critical services between government branch offices and data centers is increasing the need for networks to have improved reliability, scalability and flexibility. Cost can be a large factor, but tradeoffs are difficult because an unreliable network can impair the performance of enterprise apps, voice over IP (VoIP), video conferencing and other mission-critical services for users.
+
+To keep the offices and agencies up and running, many organizations invest in multiprotocol label switching (MPLS) lines, which are expensive, and then spend money again on redundant MPLS or broadband connections for failover. But as more bandwidth is needed to support cloud-based apps, rising data volumes, video and other demands, the rigidity, long provisioning timeframes and long-term contracts of MPLS make scaling the network time consuming and expensive. The problem is especially acute in organizations where MPLS connections are managed centrally at an enterprise level, leaving branch offices unable to deal directly with service providers
+
+Broadband as an alternative is less expensive by a factor of three to nine times in some locations, but it fails to provide the traffic engineering, control and performance of MPLS as consistently as required. In the case of critical applications, such as VOIP, even a slight jitter can lead to an unacceptable user experience.
+
+A third alternative is a WAN solution that combines the reliability, performance and control of MPLS with the scalability and affordability of broadband. Software defined WANs (SD-WANs) can provide this capability with WAN virtualization, bonding multiple distinct WAN connections into a single virtual link. That link can be scalable, cost effective and cloud ready. 
+
+A solution brief from Citrix provides more information on how to keep distributed organizations up and running. Download here.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

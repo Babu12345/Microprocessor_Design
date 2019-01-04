@@ -1,0 +1,52 @@
+<article>
+  <type>blog</type>
+  <title>Four Strategies the DOD Can Implement to Increase Cybersecurity</title>
+  <author>Joe Kim</author>
+  <date>July 19, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+    <tag>DODIN</tag>
+    <tag>authentication system</tag>
+    <tag>guest bloggers</tag>
+  </tags>
+  <abstract>It wasn’t too long ago that the Defense Department embarked on a Cybersecurity Discipline Implementation Plan identifying specific tasks that department's IT personnel must perform to reinforce basic cybersecurity requirements identified in policies, directives and orders across the agency. The plan segments tasks into four key "lines of effort" to strengthen cybersecurity initiatives. Read on to learn what they are and if they'll work.
+
+</abstract>
+  <text>It wasn’t too long ago that the Defense Department embarked on a Cybersecurity Discipline Implementation Plan identifying specific tasks that department’s IT personnel must perform to reinforce basic cybersecurity requirements identified in policies, directives and orders across the agency.
+
+The plan, publicly unveiled in March after being amended, segments tasks into four key “lines of effort” to strengthen cybersecurity initiatives:
+
+Strong authentication   
+	Device hardening  
+	Reduce attack surface  
+	Align cybersecurity and computer network defense service providers
+Implementing these tasks is critical to the agency’s mission. But what will IT managers need?
+
+Let’s analyze the plan’s goals one at a time. “Strong authentication helps prevent unauthorized access, including wide-scale network compromise by [adversaries] impersonating privileged administrators,” reads a portion of the planning guidance. Tasks specifically focus on protecting web servers and web applications through public key infrastructure (PKI) user authentication.
+
+The effort helps ensure an organization’s list of privileged and non-privileged users is always current and PKI verifies that unused accounts are deactivated or deleted. Account authentication is tied to named individuals and each account meets a level of access required for users’ roles and individual privileged users’ accounts are tied to specific users, ensuring accounts only have privileged access to network segments and applications required for assigned tasks.
+
+“Ensuring devices are properly hardened increases the cost of, and complexity required for, successful exploitation attempts by the adversary,” the document states.
+
+Based on a focus to harden devices, one of the first steps is to be sure each device on the network is mapped to a secure baseline configuration and that the information assurance (IA) team performs routine configuration validation scans. This activity, coupled with vulnerability assessment scans, ensures patches are applied expediently and only permitted ports, protocols and services are operational.
+
+Creating a plan of action and milestones (POA&amp;M) to track all findings is essential, along with a mitigation plan, timing for each finding and an identification of the severity of each finding. Teams must work with system owners and dedicated technical support personnel to implement all recommended mitigation efforts, beginning with the highest severity findings first.
+
+IT managers must seek to reduce the attack surface, especially eliminating Internet-facing servers from the core of the Department of Defense Information Network (DODIN) while ensuring only authorized devices access the infrastructure.
+
+Those managers who oversee user access to applications or systems via the commercial Internet should have a migration plan in place to move the system or application away from the DODIN core and toward a computing environment that requires a lower level of security.
+
+“Monitoring activity at the perimeter, on the DODIN and on all DOD information networks, ensures rapid identification and response to potential intrusions,” the document states. For the IT professional, this means making sure you know exactly what’s happening on the network at all times.
+
+A security information and event management (SIEM) solution will lead successful strategies here, as it provides log and event management among other benefits. Add in a network traffic analyzer—particularly one that provides the ability to perform traffic forensics—and server monitoring to understand interdependencies within and outside the network.
+
+The DOD effort seeks a “persistent state of high enterprise cybersecurity readiness across the DOD environment,” the document states. This is the first phase of the agency’s security plan. With more to come, each step likely will focus on different DOD infrastructure areas.  Our job? Be prepared.
+
+Joe Kim is senior vice president and global chief technology officer for SolarWinds.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

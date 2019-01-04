@@ -1,0 +1,21 @@
+<article>
+  <type>blog</type>
+  <title>CICADAs Emerge for Future Field Use</title>
+  <author>Beverly Schaeffer</author>
+  <date>December 9, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>CICADA UAV</tag>
+    <tag>flying circuit board</tag>
+    <tag>U.S. Naval Research Lab</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>U.S. Naval Research Laboratory researchers have developed a prototype family of small-scale UAVs tailorable for myriad platforms and missions.</abstract>
+  <text>Having completed basic research and development (R&amp;D) by its Naval Research Laboratory (NRL) creators, the Close In Covert Autonomous Disposable Aircraft (CICADA) is being primed to meet battlefield requirements. One NRL source refers to CICADA as a "dumb" sensor because of its simple design, but other lab officials say the system's genius lies in its simplicity. In his article, "It's a Bug, It's a Plane, It's a Flying Circuit Board" in this issue of SIGNAL Magazine, Technology Editor George I. Seffers focuses on the "locusts"-these small flying marvels of the circuit board world. CICADAs can be used to deploy an array of sensors, be tailored for a variety of missions, and launch by ones and twos or even by the thousands. They can be fired from a cannon, launched from a larger aircraft, dropped from a weather balloon or tossed out of the open hatch of a cargo plane. Deploying them by air eliminates the danger soldiers would face if placing the sensors by hand, explains Chris Bovais, NRL aeronautical engineer:
+
+	The CICADA is dropped from another airborne platform-manned or unmanned aircraft, weather balloon or precision munitions. It is simply a glider. There's no propulsion system. It has a single wavepoint it can fly to, and it establishes an orbit around that wavepoint and descends in that orbit until it reaches the preprogrammed location on the ground.
+There are three versions-Mark I, II and III. The autopilots for Mark II and Mark III are built on a single circuit board, which eliminates wires and harnessing and creates a rugged airframe structure. Depending on the version, the circuit board is also the structure for the wings or the fuselage. The original version featured wings that could fold down and be deployed by the thousands from an aircraft pod. The research lab has not yet networked the sensors under the CICADA program, but doing so would not be a huge technological leap. CICADA Mark III underwent an autonomous deployment demonstration this summer that carried a Tempest unmanned aircraft transporting two wing-mounted CICADA Mark IIIs. That system can withstand winds up to 40 knots, and the Mark I avionics have been hardened to survive 10,000 gravitational force units for a gun-launch application. Now that initial R&amp;D is completed, NRL officials are looking for industry or government partners to further develop and ultimately deploy the system.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

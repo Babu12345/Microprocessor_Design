@@ -1,0 +1,31 @@
+<article>
+  <type>blog</type>
+  <title>When Hackers Corrupt GPS Data </title>
+  <author>George I. Seffers</author>
+  <date>August 3, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>critical infrastructure</tag>
+    <tag>TechNet Augusta 2016</tag>
+  </tags>
+  <abstract>When a hacker talks about a novel way to disrupt the power grid, people listen. At least that was the case on day two of the AFCEA TechNet Augusta conference taking place in Augusta, Georgia.</abstract>
+  <text>When a hacker talks about a novel way to disrupt the power grid, people listen. At least that was the case on day two of the AFCEA TechNet Augusta conference taking place in Augusta, Georgia.
+
+Shawn Wells, chief security strategist, public sector, Red Hat Inc., who was once busted—and then hired—by the NSA for breaking into the networks at Johns Hopkins University, said he recently learned at a Department of Energy cyber conference about a creative technique hackers used to mess with power distribution.
+
+Wells did not specify when the attack took place.
+
+Some unknown adversary, he reported, used corrupted GPS data. Power companies, he explained, use GPS to time how long it takes electrical power to travel from one point to another. If the timing is not right, the power company will take steps to attempt to resolve the situation.
+
+In this case, the corrupted data indicated to power company personnel that they should “ramp up” the power, which subsequently damaged 70 substations, Wells recalled. “Back then in the late 1990s, the only things with bandwidth were the government and academia. I would stay away from .mil [sites],” he reported.
+
+Back then, Wells had no idea Johns Hopkins University does work for the government and was surprised when two NSA agents came knocking. One, he said, was big and scary; the other not so much. The not-so-scary-looking special agent threatened to throw him in jail, while the “big, burly” one offered him a job, which he accepted. Wells reported starting as a low-level employee tracking high-value targets through the use of their satellite phones, and then later cell phones.
+
+Wells said he started out as “that guy” who would hack into government and academia sites and turn them into distribution points for his friends. That lasted a few years, up through middle school, he said.</text>
+  <imgalttext>
+    <img>Corrupting GPS data can disrupt the power grid, says one expert at the AFCEA TechNet Augusta conference.</img>
+  </imgalttext>
+</article>

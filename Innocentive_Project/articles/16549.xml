@@ -1,0 +1,46 @@
+<article>
+  <type>blog</type>
+  <title>Cybersecurity Buzzwords for 2016: Regulatory Compliance </title>
+  <author>Maria Horton</author>
+  <date/>
+  <departments>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>guest bloggers</tag>
+    <tag>Guest Blogs</tag>
+    <tag>Cybersecurity</tag>
+    <tag>contractors</tag>
+  </tags>
+  <abstract>We are little more than halfway through 2016, and it is safe to say that “regulatory compliance” are the cybersecurity buzzwords of the year. Regulatory compliance is not just a government or specialty market issue. Today, it applies to private contractors offering cloud, Internet of Things and other solutions within the federal marketplace. </abstract>
+  <text>We are little more than halfway through 2016, and it is safe to say that “regulatory compliance” are the cybersecurity buzzwords of the year. Regulatory compliance is not just a government or specialty market issue. Today, it applies to private contractors offering cloud, Internet of Things and other solutions within the federal marketplace. 
+
+The latest driver of regulatory compliance is the implementation of the Federal Acquisition Regulations (FAR) 52.204.17, and the Defense Department Federal Acquisition Regulations (DFARS) 252.204.2071 clauses. Both require the protection of Controlled Unclassified Information (CUI) and Controlled Technical Information (CTI) in nonfederal information systems. The National Institute of Standards and Technology (NIST) Special Publication (SP) 800-171 is the specific guidance for meeting these requirements.  
+
+Demonstrating security postures
+
+Implementing CUI and CTI protections requires specific technical security and compliance documentation consistent with 14 security control families. Until recently, only large, national or global enterprises needed to create security plans that capture distributed systems, a mobile work force and endpoints. With the accelerated adoption of public and private clouds, and the sheer volume, complexity and diversity of threats, the federal marketplace is using CUI and CTI compliance to manage security capabilities of all federal contractors and subcontractors.
+
+Now, even small and mid-sized businesses need to plan security strategies as if they were distributed enterprises. This includes understanding organizational and vendor-based cloud hosting data protection, data labeling and proactive compliance documentation. Distributed security also means identifying real and potential liabilities from both a holistic and granular view of a system, its boundaries and its interconnections.  
+
+Preparing for and executing incident response capabilities is a bigger focus today as the government and commercial entities begin sharing more data. Businesses that adequately manage incident response in the CUI/CTI regulatory compliance world should invest in cyber crisis planning, incident response operations and training that proactively address information spillage, data leaks and repercussions of a damaged reputation and lost contracts.    
+
+The buzz of new compliance mandates 
+
+Like a buzz saw, commercial entities working with the government must proactively prepare their organizations to meet CUI compliance to remain qualified for federal contracts. CUI/CTI compliance doesn’t always mean wholesale changes to policies and procedures, but likely will involve implementing a more comprehensive information security program consistent with evidentiary practices. Whether a subcontractor or a prime, understanding the mandate will improve teaming relationships with other federal contractors. Without the proper business planning, employee training and contractual awareness, some contractors might face the implications of non-compliance, which could be losing a contract, being unable to participate on a subcontract or being disqualified from a future opportunity. 
+
+Balancing internal IT and outsourcing 
+
+The focus should be on identifying a timeline for implementation based on the basic requirements and derived security controls over the next 9 to 15 months. The mandatory compliance date, separate from a newly awarded contract, is December 2017. Some companies might find the requirements for CUI and CTI compliance to be 90 days from contract award if the FAR and DFARS clauses are incorporated.  
+
+Companies’ compliance and cybersecurity strategies should not be predicated solely on the IT department’s technology decisions and internal resources. The ability to respond to new opportunities of the future will require the adoption of best practices in compliance.  
+
+Today’s new regulatory compliance translates into the need for organizations to accomplish due diligence and review how they demonstrate compliance—in this case—for CUI/CTI. There are benefits to independent auditors, CISO-as-a-Service outsourcing and customized support during the compliance process. One big benefit is objectivity.  Another is validation and evidence to show your contracting officer. 
+
+For many organizations, the use of an outsourced or hybrid strategy demonstrates risk mitigation and validation demanded by boards and customers. 
+
+Maria Horton is CEO of EmeSec, a company supporting customers in adopting needed cybersecurity and risk mitigation best practices to build competitive advantage in today’s connected world. Connect with her on Twitter @EmeSec, we #SimplifyCUI. </text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

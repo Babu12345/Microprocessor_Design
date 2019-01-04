@@ -1,0 +1,30 @@
+<article>
+  <type>blog</type>
+  <title>Insider Threat Survey Reveals Increased Awareness, Little Action</title>
+  <author>George I. Seffers</author>
+  <date>May 20, 2014</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>information operations</tag>
+    <tag>Networks</tag>
+    <tag>Security</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>Raytheon-commissioned Ponemon Institute Survey: 88 percent believe privileged user abuse will increase.</abstract>
+  <text>People with access to privileged data—such as health care records, sensitive company information, intellectual property or personal records—frequently put their organization’s sensitive information at risk, according to a new report by Raytheon Company. The survey report, “Privileged User Abuse &amp; The Insider Threat,” finds that many individuals often are granted access to data and areas of the network not necessary for their roles and responsibilities. Furthermore, 65 percent of survey respondents indicated that curiosity—not job necessity—drives them to access sensitive or confidential data.
+	Key findings include:
+
+		88 percent recognize insider threats as a cause for alarm but have difficulty identifying specific threatening actions by insiders.
+	
+		69 percent said security tools don’t provide enough contextual information to determine intent behind reported incidents.
+	
+		59 percent stated their tools yield too many false positives.
+	
+		47 percent surveyed said it would be likely that malicious insiders would use social engineering or other measures to obtain someone’s access rights—this is up from 21 percent from a 2011 survey.
+While 59 percent believe general business information is at risk, 49 percent say customer information is most at risk due to a lack of access controls over privileged users. Fifty-seven percent believe background checks are lacking in most organizations before issuance of privileged credentials. Furthermore, while 88 percent of those surveyed recognize enhanced security as a top priority, only 40 percent have a dedicated budget to address the insider threat. Most use existing cybersecurity tools not necessarily designed to combat the insider threat.
+	Conducted by Ponemon Institute, the comprehensive survey identified 693 respondents as privileged users such as network engineers, database administrators, information-security practitioners and cloud custodians.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

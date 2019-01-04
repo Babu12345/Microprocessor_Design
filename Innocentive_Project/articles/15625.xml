@@ -1,0 +1,36 @@
+<article>
+  <type>blog</type>
+  <title>Planning, Training and Automation Are Key to Successful Cyber Hunting</title>
+  <author>J. Wayne Lloyd</author>
+  <date>January 12, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>big data</tag>
+    <tag>predictive analytics</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>Blogger J. Wayne Lloyd is a deer hunter, and the sport can be much like cyber hunting, the methodology organizations use when traditional security solutions fail to keep out intruders. Here's how to prepare for an effective hunt for cyber trespassers.</abstract>
+  <text>The season to hunt white-tailed deer draws to a close, and being an avid hunter, I’m already planning for the next season using information gleaned from this go-around in addition to maps, data from trail cameras, temperature input, moon phase and the movement patterns of game. While planning tools are plentiful, they mean little without automation on the back end to make sense of it all.
+
+Deer hunting can be much like cyber hunting, the methodology organizations use when traditional security solutions fail to keep out intruders. 
+
+Cyber hunting actually is not a new concept. Rather, security professionals probably didn’t realize that’s what they were doing when they acted on hunches that data might have been exfiltrated and started digging through sensor logs. If they found evidence of a breach, they had a trail to follow. Refined searches through logs and network data narrowed their focus and, hopefully, pinpointed the soon-to-be evicted intruders. Today, an abundance of new products help cyber hunters speed up the process of analyzing large amounts of data taken from sensors to make quick sense of the clues. 
+
+Hunting is an emerging skill set in the cybersecurity domain for which few trained experts exist. Some training classes are available for security staff to learn how to hunt, but many organizations do not realize they need cybersecurity staff with this ability. Management often assumes its entire cyber staff simply does this out of the box.
+
+An analogy I like to use is one from Richard Bejtlich, chief security strategist at FireEye. IT security staff are like U.S. football players: Each player has a specialty. The same holds true for cyber staff. Their roles are highly specialized. They also need the time to practice those skills to understand how to counter evolving threats and to expand their training to include hunting skills.
+
+A security team’s ability to hunt also depends on the sensors an agency deploys and the type of data collected. More data does not mean better data, and hunters sometimes are hamstrung if they cannot quickly analyze it and put it into context. Experts need to write scripts to parse through mountains of data and leverage analytic tools that automate the search. RedSeal’s Chief Technology Officer, Mike Lloyd, likes to say: “We don’t need more mountains of data; we need more data mountaineers.”
+
+The mountains are similar to phone books of information containing relevant data to seek and destroy intruders. Yet humans are not good at reading mountain-sized phonebooks to find anomalies. They do thrive, however, at picking out an anomaly in a picture, which means agencies should obtain solutions that helps analysts visualize big data.
+
+Hunters need to be able to put things into context. Every cyber defender needs to understand what the network looks like, which devices are considered high-value assets (HVAs) and where those HVAs exist within that network. Network models enable cybersecurity staff to determine whether “A” can talk to “B” through the network. If you can’t reach “B,” there is no need to hunt in that part of the network. Models also can tell cyber staff what other devices can be accessed directly and compromised based on existing vulnerabilities and provide prioritized steps for appropriate identification, mitigation, remediation and response.
+
+The foundation for effective hunting is to automate what can be automated. If you have to do it more than once, automate it. The solution can help speed up analysis, such as network mapping, access analysis solutions and visualization tools. Automation tools will not replace the much-needed skill set of trained and experienced hunters, but a human computer team leveraging automation whenever possible is a formidable weapon in tracking down an adversary already in your network. 
+
+J. Wayne Lloyd is the federal chief technology officer at RedSeal. </text>
+  <imgalttext>
+  </imgalttext>
+</article>

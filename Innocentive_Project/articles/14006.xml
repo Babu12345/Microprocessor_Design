@@ -1,0 +1,68 @@
+<article>
+  <type>article</type>
+  <title>U.S. Central Command Twitter Feed Hacked </title>
+  <author>Sandra Jontz</author>
+  <date>January 12, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>CENTCOM</tag>
+    <tag>Twitter</tag>
+    <tag>ISIS</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The Twitter and YouTube accounts for the U.S. Central Command, the Defense Department branch responsible for operations in the Middle East and Afghanistan, were hacked by sympathizers of the Islamic State militant group, prompting U.S. officials to suspend the accounts and launch yet another round of investigations into a cybersecurity breach.</abstract>
+  <text>Update: As of January 14, the Twitter and YouTube accounts for CENTCOM are back online.
+
+The Twitter and YouTube accounts for the U.S. Central Command, the Defense Department branch responsible for operations in the Middle East and Afghanistan, were hacked Monday by sympathizers of the Islamic State militant group, prompting U.S. officials to suspend the accounts and launch yet another round of investigations into a cybersecurity breach.
+
+CENTCOM’s Twitter feed included an ominous post that read: “AMERICAN SOLDIERS, WE ARE COMING, WATCH YOUR BACK. ISIS.”
+
+The @CENTCOM account was suspended around 1:00 p.m. Eastern Time, shortly followed by suspension of the command’s YouTube channel.
+
+“It’s almost a lock that it’s a credential compromise, and that brings up real questions around what sort of password rotation policy, if any, they have in place for utilizing social media accounts,” says Ken Ammon, chief strategy officer of Xceedium Incorporated, a network security company. “This is something we’re seeing more and more often. The Department of Defense and the federal civilian government have adopted … two-factor authentication cards, but they’re not leveraging them for access to social media sites, and there is technology available to do that and rotate and secure that password,” Ammon says. “But in cases where those types of solutions are not in place, and they’re not necessarily rotating their passwords on a meaningful basis, they run these risks.”
+
+The hack took place on the same day President Obama delivered a speech on recent cybersecurity modifications to government regulations. He spoke at the Federal Trade Commission offices in Washington, D.C., on plans to improve confidence in technology by tackling identify theft and improving consumer and student privacy, according to the White House’s posted schedule.
+
+“The timing, I think, was purposeful,” Ammon says, “and to some degree, give the appearance that, while [the United States] claims to have these security measures underway, we can do the following damage. I think it was interesting that they combined demonstrating they had access to the accounts, while posting” sensitive documents, some of which were public records but also personal information such as names, telephone numbers and email addresses of U.S. military commanders.
+
+The posted information included scenarios of possible conflict with North Korea, organizational charts, transcripts of congressional testimony and campaign flow charts. “Some of these documents might not be ‘classified,’ but they’re certainly the sort of documents that normal citizens, as well as international folks, are going to immediately believe that there is some level of sensitivity.” And it causes embarrassment for the U.S. government.
+
+A CENTCOM spokesman said Monday that the command was investigating the breach. In a statement, officials confirmed the accounts were compromised and they were “taking appropriate measures to address the matter.”
+
+Over the past two years, the United States has seen a “pretty significant uptick” in hacks classified as cyber espionage or cyberwarfare, Ammon says, citing the attack on Sony Pictures Entertainment that officials have pinned on North Korea as retaliation for Hollywood’s production of a movie that poked fun at leader Kim Jong Un and portrayed his assassination. 
+
+“For a decade plus, the story has been cybercrime as the motivation for hacking, along with some version of hacktivism,” Ammon contends. “The threat base has certainly now starting to move into much more nation state hacking and the investigation on the back end of these, as well as your response, becomes very complicated.”
+
+The Islamic State in Iraq and Syria (ISIS) also known as Islamic State in Iraq and the Levant (ISIL) or just Islamic State (IS) other jihadist groups have become rather proficient and prolific in their use of social media to recruit members and to globally disseminate their campaign messages, to include videos of brutal beheadings of Western journalists and aid workers.
+
+“Anything that they can do to benefit their brand is going to benefit any recruitment strategy,” Ammon says. “The Internet is the ultimate asymmetric device, where you have virtually no real investment in infrastructure within a particular country. You can have a mobility device in your hand and the ability to talk to the entire planet.
+
+“The ability to reach a global platform, in particular by these sort of highly publicized events or by taking control of somebody else’s account that have a lot of followers, is going to play into your strategy of flexing your muscle.”
+
+Despite the tactical reaction of shutting down the accounts and issuing statements, CENTCOM and the U.S. government already finds themselves “behind the curve from a messaging perspective on this one,” Ammon notes.
+
+“The damage, to some degree, is already done. While it might all come down to a simple password, the timing of it, the group behind it, the type of information that was posted that had nothing to do with the account itself … all comes together into a significant media event, and that plays to the favor of these extremists. I think it gets the public asking a lot of questions about how well we are protecting our information,” he adds.
+
+“The message this sends is that official accounts on non-official platforms are highly vulnerable,” says Lance Cottrell, chief scientist at Ntrepid and who works on privacy issues. “For example, in 2013 false information on a hacked AP [Associated Press] social media account claiming there were explosions at White House caused a market flash crash.
+
+“Hacking is a constant, and there were lots of valuable documents at risk,” Cottrell contends. “But in this case, it looks like nothing significant was taken. The attackers are winning because of the attention they are getting rather than because of any actual damage from the attack.”
+
+The impact of Monday’s attack is two-fold, says Robert Capps, senior director of Customer Success at RedSeal, a security analytics company: It’s an embarrassment to the military and the appearance of a possible intrusion into CENTCOM’s network.
+
+“Attacks on the social media presence of an organization are intended to embarrass the targeted group and make headlines, but they are far less impactful than an intrusion into the organization’s internal network,” Capps says. “Even though social media attacks are quite visible, they aren't generally indicative of a significant security issue within the attacked organization. These attacks rarely occur due to a compromise of the social media service itself. And they are not limited to large organizations or government entities—consumers are also at risk.
+
+“While the cyber criminals are claiming to have breached CENTCOM’s internal network, much of the documented proof they have offered appears to be freely available via the Internet,” Capps continues. “It's unclear if an intrusion has occurred at CENTCOM, based on what has been released so far. But if CENTCOM’s internal network was compromised, that is troubling. More troubling is the possibility of a network infiltration.”
+
+The takeaways, he offers, seem rather simple: “Always use strong passwords, and don't reuse passwords across multiple sites. And make sure you keep your computer operating systems and security software updated with the latest updates.”
+
+It’s important to note that Monday’s breach does not mean any government system was hacked, points out Ben Shaw, director of Intelligence Services of MTN Government. "Yet, it does mean that the adversary had a way of getting a user name and a password,” Shaw says. "It would be interesting to find how that was discovered. While this hack was not a DoD command and control system or network, it still creates a public perception of vulnerability, an ever growing challenge with social media.  It may also indicate that adversities have potentially been in social media accounts and trying to collect data in a passive manner."
+
+Ammon says he will be paying keen attention to the President’s January 20 delivery of the State of the Union address, likely to address cybersecurity weaknesses and the government’s response to reinforce vulnerabilities.</text>
+  <imgalttext>
+    <img>Screen shot of CENTCOM's Twitter page, which had been hacked January 12, 2015. </img>
+    <img>Screen shot of CENTCOM's Twitter page, which had been hacked January 12, 2015. </img>
+    <img>Screen shot of CENTCOM's Twitter page, which had been hacked January 12, 2015. </img>
+  </imgalttext>
+</article>

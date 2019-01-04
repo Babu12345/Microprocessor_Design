@@ -1,0 +1,27 @@
+<article>
+  <type>article</type>
+  <title>Marine Cloud Aims to Dissipate the Fog of War</title>
+  <author>Robert K. Ackerman</author>
+  <date>June 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Marine Corps</tag>
+    <tag>cloud computing</tag>
+  </tags>
+  <abstract>The Marine Corps’ development of its own private cloud serves both a functional role in information technology and an operational role in the Corps. Yet challenges remain to its effective exploitation.</abstract>
+  <text>The Marine Corps’ development of its own private cloud serves both a functional role in information technology and an operational role in the Corps. Yet challenges remain to its effective exploitation.
+
+Brig. Gen. Kevin Nally, USMC, director, command, control, communications and computers (C4), and chief information officer (CIO), U.S. Marine Corps, warns that the Marine Corps is on guard against “cloud sprawl.” This entails individuals putting organizational data and information into a cloud environment without the knowledge of the C4 office. The real hazard would be a small Marine organization, such as a company, putting information into a cloud of its own choosing only to lose the institutional memory of its existence there. That has happened, the general allows, bringing with it inherent security risks. “The best version is to put it in our own private cloud, where we know how it’s protected, and our information is not out there in just anyone’s cloud for anyone to access,” he emphasizes.
+
+Kenneth W. Bible, deputy director, C4, and deputy CIO, U.S. Marine Corps, notes that, in the near term, a push is underway to use commercial cloud services. This includes supporting customers as well as Marines themselves. Unintended results can occur as a consequence, which is another reason the Marines want to focus on their private cloud, which also provides greater efficiency.
+
+This does not preclude the Corps turning toward commercial clouds, he emphasizes. Data storage might be the first use. Gen. Nally suggests that cost-effective commercial cloud capabilities could be incorporated into the Marine Corps Enterprise Information Technology Services (MCEITS) facility in Kansas City, Missouri. Several U.S. government agencies have adopted this hybrid approach, he notes, and the C4 office is looking at implementing capabilities from some companies.
+
+The biggest challenges moving into the Marine cloud involve behavioral changes, Gen. Nally says. Many Marines are loath to give up the local nature of their applications and opt to place them in a distant cloud.
+
+Bible notes that the costs of maintaining and supporting legacy capabilities over time have increased, especially with greater security measures. Those costs are reducing the ability to spend on modernization. The private cloud allows the Corps to spend less on sustaining the infrastructure and more on building new capabilities.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

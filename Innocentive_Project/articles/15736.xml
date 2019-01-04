@@ -1,0 +1,21 @@
+<article>
+  <type>blog</type>
+  <title>SRI Awarded DARPA Contract</title>
+  <author/>
+  <date>February 26, 2016</date>
+  <departments>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>SRI International</tag>
+    <tag>SPAWAR</tag>
+    <tag>DARPA</tag>
+    <tag>Contract Awards</tag>
+  </tags>
+  <abstract></abstract>
+  <text>SRI International, Menlo Park, California, has been awarded an $8.5 million contract by the Defense Advanced Research Projects Agency (DARPA) Brandeis program through the Space and Naval Warfare Systems Command (SPAWAR) to explore how privacy-preserving technologies can be applied to enable information sharing while safeguarding sensitive data across large-scale enterprises. The vision of the Brandeis program is to break the tension between the need for maintaining privacy and sharing data for collaboration. Researchers will explore the best ways to allow the use of information without losing control of that information. For this contract, SRI will focus on bringing technologies together to enable sharing—and controlling—sensitive data within large, and in many cases multinational, organizations. Key technologies within the effort include modern encryption techniques; differential privacy, which is focused on the ability to answer queries from large data sets while guaranteeing with high probability that information is not revealed about any individual within the data set; and multiparty secure computation, which enables the sharing of encrypted data for use in collaborative computations.
+
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

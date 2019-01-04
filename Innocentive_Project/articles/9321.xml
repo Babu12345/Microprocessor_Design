@@ -1,0 +1,24 @@
+<article>
+  <type>blog</type>
+  <title>Command and Control System: One Size Fits All</title>
+  <author>Beverly Schaeffer</author>
+  <date>March 23, 2012</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>command and control</tag>
+    <tag>M2C2</tag>
+    <tag>MARCORSYSCOM</tag>
+    <tag>Marine Corps Network OTM</tag>
+    <tag>SPAWAR</tag>
+    <tag>US Marine Corps</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>The U.S. Marines' Network On The Move system aims to make C2 systems transferable from vehicle to vehicle with no modifications needed. It's proved successful thus far, but what are the drawbacks, if any? And is it interoperable with other military branches?</abstract>
+  <text>U.S. Marine Corps commanders will soon have a new mobile command and control (C2) capability that will be readily transferable from vehicle to vehicle without mounting or installation modifications. This new system is being created primarily from cost-effective, off-the-shelf digital communications equipment. In his article "Corps Command and Control on the Move" in this issue of SIGNAL Magazine, Defense Editor Max Cacas talks to the experts about the project. It's known as Network On The Move (OTM); it's in final prototype stage; and it's about to begin its first production cycle. The Office of Naval Research (ONR) and the Marine Corps Systems Command (MARCORSYSCOM) are developing the system. The project's primary contractor is Pelatron Incorporated of Honolulu, Hawaii. One of the project's biggest backers is Brig. Gen. Kevin Nally, USMC, Marine Corps CIO. Gen. Nally has praised the system's successful implementation in Afghanistan and enthusiastically supports acquiring the new networking tool. Basil Moncrief is product manager, technology transition, Marine Air Ground Task Force-Command and Control (MAGTF C2) Systems, MARCORSYSCOM. He says the system's official title as a Navy/Marine Corps program of record recently changed to Network OTM. According to Moncrief:
+
+	Combat Operations Center [on-the-move] Battlefield Remote Access and Awareness Applications [COBRA3] and M2C2 [Mobile Modular Command and Control] are systems that allow command and control on the move. Beyond line of sight, via wideband-KU satellite communications, are distributed via secure wireless local area networks [LANs] out to commanders and staff through a point-of-presence vehicle [POP-V].
+Moncrief says one big change to the mobile C2 project came when officials made all the components easier to move from one vehicle to another as needed, rather than following the standard practice of custom designing the system to fit a specific vehicle. That decision yielded the transferable COBRA3 vehicle modules. Proven off-the-shelf components are being used, and as such, it is an extremely affordable system, Moncrief insists. Because of its modularity, he notes, they don't have to buy vehicles, which saves money and provides operational flexibility. The system was field-tested by potential Marine Corps users, who provided invaluable input for modifications. Harvey Kim, president and COO of prime contractor Pelatron, explains that changes were made to a later prototype because Pelatron worked with the Marines to implement a new configuration reflecting the philosophy of human-centered design. The M2C2/COBRA3 prototype phase of the project currently is winding down, and Kim confirms that Pelatron does have a tentative, indefinite delivery, indefinite quantity contract to provide 16 Network OTM systems to the Marines for $32 million. The system aims to make C2 systems transferable from vehicle to vehicle with no modifications needed. It's proved successful thus far, but what are the drawbacks, if any? And is it interoperable with other military branches? Share your ideas here.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

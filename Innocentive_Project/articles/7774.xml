@@ -1,0 +1,21 @@
+<article>
+  <type>blog</type>
+  <title>Thin Is "In" for Client-Server Computing</title>
+  <author>Beverly Schaeffer</author>
+  <date>January 20, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>client-server computing</tag>
+    <tag>desktop virtualization</tag>
+    <tag>thin-client</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>Everything old is new again-desktop virtualization moves computing from current fat-client server architecture back to a model similar to times past. What is now device-oriented will become server-oriented, and the technology is ready. Do you believe the Defense Department should proceed with desktop virtualization, or do you see other, more efficient paths? Read the complete article and share your opinions here.</abstract>
+  <text>Desktop virtualization-separating a PC desktop environment from a physical machine using a client-server set-up-will ramp up U.S. Defense Department computing efficiencies and cut costs significantly. In this month's issue of SIGNAL Magazine, Paul A. Strassmann addresses these benefits, and the way forward, in his article, "Desktop Virtualization Offers Benefits Now." By storing the virtualized desktop on a remote central server, rather than the remote client's local storage, users can work from their remote desktop client while all programs, apps, processes and data being used are kept and run centrally. This enables users to access their desktops on any capable device--from PCs, to notebooks, to smartphones. Desktop virtualization has the potential to cut total Defense Department information technology spending by up to 12 percent, and the time is here and now, according to Strassmann:
+
+	Depending on legacy configurations, numerous approaches are available to achieve that rapidly-it is not a "bridge too far." The technology is mature; it is a path that already has been paved by thousands of commercial firms.
+Moving forward means altering the information technology infrastructure-working with an architecture that is extensible to meet the needs of the U.S. Army, Navy, Marine Corps and Air Force. Projects to install desktop virtualization must enable a migration path that goes from costly "as is" configurations to what will evolve into low-budget "to be"environments. The purpose of virtualization is to increase the availability, reliability and scalability of computing, including the support of portable devices. Portable communications devices now cost less than a round of artillery ammunition, Strassmann says. As such, portable devices should be viewed as disposable whenever they fail or require extensive repair. Virtualization of clients increases uptime by providing instant fail-over to other devices without requiring reconfiguration. All it takes is re-booting a device, which can be performed for multiple sites simultaneously, ensuring almost no downtime and zero data loss while maintaining connectivity. Acceptance of virtualization requires connectivity that is independent of proprietary desktops or of server software. Everything old is new again-desktop virtualization moves computing from current fat-client server architecture back to a model similar to times past. What is now device-oriented will become server-oriented, and the technology is ready. Do you believe the Defense Department should proceed with desktop virtualization, or do you see other, more efficient paths? Read the complete article and share your opinions here.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

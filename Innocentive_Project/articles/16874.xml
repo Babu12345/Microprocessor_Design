@@ -1,0 +1,41 @@
+<article>
+  <type>blog</type>
+  <title>Autonomous Systems to Surge for Defense Operations </title>
+  <author>Sandra Jontz</author>
+  <date>November 1, 2016</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>MILCOM 2016</tag>
+    <tag>UAVs</tag>
+    <tag>UGV</tag>
+    <tag>autonomous systems</tag>
+  </tags>
+  <abstract>Over the next decade—if not sooner—the U.S. Defense Department wants more of its military systems to operate autonomously, capable of independently determining the right course of action no matter the situation. The Defense Science Board predicts the department will get there. </abstract>
+  <text>Over the next decade—if not sooner—the U.S. Defense Department wants more of its military systems to operate autonomously, capable of independently determining the right course of action no matter the situation. The Defense Science Board predicts the department will get there. 
+
+Autonomous systems address several problem areas, and reasons to pursue the technology are numerous, according to a technical panel presenting this week at the MILCOM 2016 conference in Baltimore.
+
+The areas range from the need for systems that can make quick decisions, to those that can optimally deal with complex issues, process the vast volumes of data constantly being generated, be used in lieu of people for dangerous missions and address persistence and endurance concerns—that area where tired or bored humans tend to make mistakes.
+
+But whether working to field autonomous ground, aerial, underwater or space systems, scientists are grappling with very similar sets of limitations when it comes to assured communications, offered panelists during the session titled, "Increasing Roles of Autonomous Systems in Military Operations: Challenging Requirements of the Information Network."
+
+Already, the Defense Department is leveraging autonomous technology, such as the U.S. Navy’s MQ-25 Stingray, the first operational carrier-based, catapult-launched drone system, and a modified Black Hawk helicopter for the Army logistics and transport mission. However, there are many more opportunities that exist to increase operational value, says David Scheidt, principal professional staff at Johns Hopkins University Applied Physics Laboratory. If the experts can overcome the limitations, that is.
+
+Generally, the communications limitations center on latency, bandwidth and unpredictability, said Signe Redfield, an engineer at the U.S. Naval Research Laboratory specializing in underwater and space robots. “We use autonomy because we have to, not because everybody wants terminators,” she jested.
+
+
+Communication limitations means that 'space is being pushed into autonomy - it’s not pulling it,' Dr. Redfield @USNRL #MILCOM
+— Sandra Jontz (@jontz_signalmag) November 1, 2016
+But migrating to the technology is a struggle within the space arena, for one, Redfield offered. People are best at intuiting data, for example, but humans also make mistakes. “We’re being driven to autonomy because of the communications limitations,” she said. “Space is being pushed into autonomy, it’s not pulling it.” 
+
+Autonomous ground systems face similar challenges as those that operate in space or undersea, said Ketula Patel, an engineering manager with the chief intelligence systems branch at the U.S. Army's Research Development and Engineering Command (RDECOM) Armament, Research, Development and Engineering Center (ARDEC). Army engineers work to overcome the three main communication challenges of limited bandwidth, loss of communication and latency—whether within a single system or a swarm of autonomous vehicles, she said.
+
+Military research does not center on battlefield autonomous systems alone, said Frank Ferrese, lead research engineer at the Naval Surface Warfare Center, working on ship auxiliary systems such as electrical power or chilled water systems. As the Navy develops high powered weapons systems such as rail guns on ships, experts are predicting that the power consumption on ships will be greater than the available power. Optimizing the availability of power will result from better use of autonomous systems. 
+
+MILCOM 2016, which runs November 1-3 at the Baltimore Convention Center, is co-hosted by AFCEA International and the Institute of Electrical and Electronics Engineers, or IEEE.</text>
+  <imgalttext>
+    <img>The U.S. Navy’s MQ-25 Stingray is one example of the Defense Department's pursuit of autonomous systems.</img>
+  </imgalttext>
+</article>

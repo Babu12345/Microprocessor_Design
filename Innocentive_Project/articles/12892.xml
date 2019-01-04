@@ -1,0 +1,26 @@
+<article>
+  <type>article</type>
+  <title>DARPA Unveils Hack-Proof Drone, Bomb Bot </title>
+  <author>Sandra Jontz</author>
+  <date>May 23, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>SIGNAL Online Exclusives</tag>
+    <tag>DARPA</tag>
+  </tags>
+  <abstract>The Defense Advanced Research Projects Agency (DARPA) has unveiled a drone and a mini bomb-detecting bot that operate on secure software that officials say make them hack-proof.</abstract>
+  <text>The Defense Advanced Research Projects Agency (DARPA) has unveiled a drone and a mini bomb-detecting bot that operate on secure software that officials say make them hack-proof. The High-Assurance Cyber Military Systems (HACMS) is protective software built into operating systems from inception to negate security vulnerabilities to just about anything that works on network computers.
+“The technology that we are developing here is to make it so those kinds of systems are not easily hackable. In fact, they are provably invulnerable to large classes of attacks,” says Program Manager Kathleen Fisher.
+The DARPA-funded initiative is structured in three 18-month phases, with the first phase complete and researchers now into the fifth month of phase two. More than 100 people play a role in making it so code can be generated more quickly and efficiently and gain leverage by writing a high-level description of needs so computers write the code instead of a person, Fisher explains.
+“Security is a whole system property. You can’t just buy an extra box for a few extra dollars and bolt it on the side and now have a system that is secure,” Fisher says. “If you design the system and build it from first principles with the security in mind, then it’s much easier and lower cost to get a system that has [better] security.” DARPA is investing $50 million to $80 million over 4.5 years for the program.
+The future no longer is a case where less is more, she says. More and more computers will be added to people’s daily lives and more and more will be networked. “There isn’t going to be any going back. The reason people are adding computers is not because they just like to have more computers, but because computers are providing functionality that’s really useful.”
+Take, for example, the concept of networking cars, a vehicle-to-vehicle infrastructure where cars can talk to each other. “From a safety point of view [this] is fantastic, right? You can tell if there is a car around the corner that’s going to run the red light and cause a fatal accident. … But it adds security vulnerability in that you can have cars communicating malicious information,” Fisher explains.
+“There are lots of different classes of attackers you can be potentially worried about, all the way from nation states looking at stealing intellectual property or gaining advantages in kinetic conflict down to thieves who are trying to spy or steal information for commercial purposes down to malicious teenagers who are just having fun causing havoc. Terrorists as well,” Fisher says.
+Pat Hickey, an engineer with Galois Incorporated in Portland, Oregon, worked on the first phase of HACMS’ development. He and a colleague engineered and installed software to a mini drone making it invulnerable to cyber attacks.
+While researchers work to overcome technical obstacles to implement HACMS, Fisher opines that perhaps the larger obstacle is changing the mindset. “You need to have a different way of thinking about it and you use a different set of tools. Right now, the people who can do it are Ph.D.-level researchers. To get it down to the people who actually build the systems, we need to make the tools a lot easier to use,” says Fisher, who also is a professor in the Computer Science Department at Tufts University in Massachusetts. “The real transition path is that this will be the way security-critical software is developed in the future.”</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

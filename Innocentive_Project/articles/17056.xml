@@ -1,0 +1,38 @@
+<article>
+  <type>article</type>
+  <title>Incoming: Striving for Situational Awareness Makes Cyber an Ultimate Team Sport</title>
+  <author>Maj. Gen. Earl D. Matthews, USAF (Ret.)</author>
+  <date>January 1, 2017</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Incoming</tag>
+  </tags>
+  <abstract>While I prepared this column well in advance of its publishing date, I unfortunately can predict with reasonable certainty (though I wish I could do this with the stock market) that another major cybersecurity event occurred last week or will occur next week.</abstract>
+  <text>Happy New Year! While I prepared this column well in advance of its publishing date, I unfortunately can predict with reasonable certainty (though I wish I could do this with the stock market) that another major cybersecurity event occurred last week or will occur next week.
+
+People hardly have time to process the most recent cyber breach in the news without a news flash of another significant cybersecurity event resulting in the loss of high-value national security, personal, financial, medical or business-sensitive information. Cyberspace threats are real and growing. According to the 2016 Hewlett Packard Enterprise (HPE) Cyber Risk Report, it was—as it has been every year for the past several years—a year of new cyberspace security threat records. Ransomware exceeded $1 billion last year.
+
+The National Institute of Standards and Technology (NIST) Risk Management Framework (RMF) and the U.S. Department of Homeland Security Continuous Diagnostics and Mitigation (CDM) program both were established to assist public sector organizations in keeping up with, if not anticipating, some of the cyberspace threats organizations face. According to HPE and FireEye advanced threat protection research, 69 percent of breaches were reported by a third party, compelling enterprises globally to spend more time and funding on reactive measures versus proactive risk management.
+
+Public sector organizations have embraced the RMF to address cyberspace threats, using enterprisewide programs to continuously identify, prioritize and document risks. As a result, an economical set of control measures involving people, processes and technology can be selected to mitigate the cybersecurity risks to an acceptable level. This approach also begins the process of identifying the dependencies between assets and missions; executing incident response and remediation according to priorities; and generating an easily understood view of the overall security posture. 
+
+Too often, however, “Everyone thinks they have a plan until they get punched in the face,” as a former heavyweight championship boxer  said. The necessary next step for many organizations is to evolve from a CDM model to a comprehensive cyber situational awareness (SA) model based on analysis of millions of sensors, processing billions of files and web objects, and correlation of global network traffic flows against industry threat intelligence feeds and threat models. These results must be shared continuously within the organization as well as with its external partners, making cybersecurity the ultimate team sport. The model must also fuse analytics with mission dependencies.
+
+While a cyber SA construct can be a complex and bewildering topic for policy makers not used to working within the daily cyberspace ecosystem, today’s cyberspace environment is much like the merchant sailor’s setting in the age of piracy. There was limited capability—the navy usually was not in your area to protect you—and details were sparse as to when an attack might occur, until that dot on the horizon became large enough to be viewed. By applying well-recognized risk management principles commonly used in other security domains, such as transportation and port security, and comparing the approach to dealing with other predatory and adaptive threats, including terrorists and foreign intelligence services, a clearer picture emerges—much better than the merchant sailor’s horizon-only view.
+
+From my vantage point, cybersecurity traditionally has operated from a defensive position, supported by a default mode to patch, prevent, block and build “improved” versions of the same technology. This innovation deficit on the part of industry has affected end users, military commanders, chief information officers and chief information security officers trying to build mission assurance security strategies against unprecedented threat levels. 
+
+What matters in transforming an organization’s cyber SA is intelligence, integration, speed, analytics, expertise and resiliency. Many organizations still have a security strategy that was formulated before these concepts were fully understood.
+
+Simply stated, no single countermeasure is effective against every threat. Resourcing cybersecurity and cyber SA becomes a matter of sound risk management decisions based on threats and vulnerabilities to data, applications, systems and networks that have the highest likelihood of impacting mission assurance.
+
+Without cyber SA, a fragmented, imperfect view into enterprise networks and how cyberspace assets map to tasks, objectives and missions occurs—think driving a car with the oil and brake lights on. This incomplete view thwarts threat detection, trend analysis and pre-emptive actions creating slow or nonexistent reactions to threats and changing conditions and constricting a senior leader’s decision-making space. 
+
+The cyberspace environment today is just too complex. The crush of information in our everyday lives shortens our attention spans and limits the time we have to reflect. Moreover, to achieve any level of mission assurance and command and control confidence, cyber SA must be maximized so operational risks may be mitigated, managed or resolved before a mission or during operations—thereby protecting organizations both today and into the future. 
+
+Maj. Gen. Earl D. Matthews, USAF (Ret.), the former director of cyberspace operations in the Air Force’s Office of Information Dominance and Chief Information Officer, is vice president of Hewlett Packard Enterprise’s Enterprise Security Solutions Group for HPE Enterprise Services, U.S. Public Sector. The views expressed are his alone.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

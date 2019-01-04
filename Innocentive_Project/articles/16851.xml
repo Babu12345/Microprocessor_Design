@@ -1,0 +1,42 @@
+<article>
+  <type>article</type>
+  <title>When Physical Meets Digital</title>
+  <author>Snehal Antani</author>
+  <date>November 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Internet of Things</tag>
+  </tags>
+  <abstract>Even wearables such as a simple fitness tracker, often worn on the wrist, can be lifesaving. The technology’s ability to track and alert has catapulted companies such as Fitbit—known for its product of the same name—into billion-dollar businesses.</abstract>
+  <text>Several years ago, my colleague had a heart attack while driving to work. His heart stopped and the car swerved off the road, running into a telephone pole. Astoundingly, the impact of the deployed air bag restarted his heart and likely saved his life. But both the car crash and the heart attack might have been avoided by technological advances in wearables, connected cars and real-time analytics. 
+
+Even wearables such as a simple fitness tracker, often worn on the wrist, can be lifesaving. The devices continuously check heart rate to detect anomalies and warn wearers. The technology’s ability to track and alert has catapulted companies such as Fitbit—known for its product of the same name—into billion-dollar businesses.
+
+Insurance companies also took note of the immense potential of such technology. Progressive, for example, launched its Snapshot program, which uses a device plugged into a car’s diagnostic port to track actual driving patterns. Typically, car insurance rates are based on historical information about people in a similar demographic, but Snapshot assesses coverage and personalizes rates based on real driver data.
+
+Fitbit and Snapshot exemplify how the lines between digital and physical realms are becoming increasingly blurred. Additionally, the powerful combination of the Internet of Things (IoT) and business analytics is transforming customer conversations and disrupting industries. These modern technologies enable the public and private sectors to correlate data points across organizational silos to paint a larger, more complete picture of their information technology environment. Private companies and federal agencies can see how their assets are performing at all times and use that information to make smarter decisions and identify new business opportunities. While businesses currently outpace government agencies when it comes to employing these technologies, the public sector can—and should—use analytic tools to improve overall efficiency and encourage innovation.
+
+When the San Francisco 49ers started planning their new football stadium, they knew interactive technology—particularly mobile technology—was a crucial part of delivering a unique fan experience. They partnered with a developer to create a mobile app that would truly elevate the fan experience for the roughly 68,000 people who attend games at Levi’s Stadium, which opened in 2014. Because data lies at the heart of stadium operations, 49ers officials use an operational analytics platform to track every stage of the fan interaction, generating real-time metrics. Through analytic dashboards, they monitor ticket scans, parking availability, food and beverage sales and wait times, mobile app usage, the number of GameCenter video replays and more—insight that helps the business operations team direct resources based on demand. They can reduce wait times at various food vendors or divert traffic in parking lots to optimize the fan experience. 
+
+Similarly, when Domino’s sought to strengthen its online business through enhanced customer understanding and interactions, it started using operational intelligence tools from Splunk, a data analytics software company, to collect, index and monitor massive amounts of its machine data. The restaurant chain now can visualize sales trends across regions, including orders per minute, transactions per store, preferred pizzas and other food items and popular coupons. The software company also has saved Domino’s more than $300,000 by replacing legacy technology. 
+
+These examples illustrate how businesses use valuable data to become more efficient with their time and resources. The U.S. Defense Department would benefit immensely from deploying similar data analytics platforms. The same tools that enable Domino’s to improve sales and operations and the 49ers to elevate fans’ game experiences could be used by the department to track network activity, analyze data and uncover valuable insights that would lead to smarter military bases.
+
+But there are many other tactics to borrow from the private sector. For example, the data analytics tools that helped the retail giant Target get a handle on millions of event logs being generated and scattered across its network daily could do the same for the military. Having all data in one dashboard would provide the Defense Department with end-to-end visibility across all networks, which in turn would strengthen military intelligence and logistics.
+
+With today’s available technology, companies make smarter decisions using data. The successful initiatives of Target, Domino’s and the 49ers just scratch the surface of how correlating the physical environment and digital data could translate to the government sector. The Defense Department could employ tools traditionally used to make business decisions to train more knowledgeable soldiers, among other tasks. Using analytics to look at anomalies over time would enable the military to see how its assets were used and how hard machines and tools were working or how quickly they were wearing down, which would lead to better resource management.
+
+The wearable technology that could have aided my colleague now can help the Defense Department monitor and better understand the health and well-being of U.S. soldiers across the globe. These data analytics tools also can be used in disaster, refugee or relief operations. The same way the 49ers app keeps fans plugged in, analytics can keep the military plugged into the location of people, the structural integrity of a building or the air quality of a city. The military can then use this intelligence to save lives and improve future disaster operations. The more visibility the military has in its operations, the better prepared it is for the challenges ahead. 
+
+The ongoing convergence of the IoT and business analytics and the blurring of digital and physical lines have opened up a world of new opportunities. While many businesses have taken full advantage of the new advances in technology, it is now time for the public sector to follow suit. The Defense Department believes in the art of the possible, and these disruptive tools have the ability to integrate across sectors, uncover valuable insights and truly optimize the nation’s military operations. 
+
+ 
+
+Snehal Antani serves as the chief technology officer at San Francisco-based Splunk, where he directs the long-term vision for technology across its expanding cloud, mobile, on-premises and hybrid offerings. He also is the driver behind Splunk’s burgeoning Internet of Things and business analytics efforts.</text>
+  <imgalttext>
+    <img>San Francisco 49ers officials tapped interactive technology—particularly mobile technology—to help improve fan experience. Mobile apps monitor ticket scans, parking availability, food and beverage sales and wait times, mobile app usage and more.</img>
+    <img>Domino’s strengthened its online business by better understanding customers. The restaurant chain uses operational intelligence tools to help visualize sales trends across regions, including orders per minute, transactions per store, preferred pizzas and other food items and popular coupons.</img>
+  </imgalttext>
+</article>

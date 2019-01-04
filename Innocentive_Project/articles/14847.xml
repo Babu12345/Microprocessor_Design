@@ -1,0 +1,61 @@
+<article>
+  <type>article</type>
+  <title>Industry's 'New IP' Revolution Could Stall Federal Network</title>
+  <author>Sandra Jontz</author>
+  <date>August 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Virtualization</tag>
+  </tags>
+  <abstract>Dynamic technology changes such as the explosion of cloud-based services, social networking and mobility once again have fundamentally modified the age of computing. The mania for convenience is precipitating network changes at speeds the federal government cannot keep pace with, much less surpass.</abstract>
+  <text>Dynamic technology changes such as the explosion of cloud-based services, social networking and mobility once again have fundamentally modified the age of computing. The mania for convenience is precipitating network changes at speeds the federal government cannot keep pace with, much less surpass. The rapid emergence of “the new IP”—an approach to bring networking into the virtualized and cloud era—threatens to leave the slow-moving federal government languishing in its own virtual traffic jam and highlights yet another chasm between government and the private sector.
+
+The single-vendor, closed-source network infrastructure that today powers the government has not been updated in at least two decades. This procrastination is robbing agencies of both efficiencies and savings that could total $7 billion over the next five years, asserts Anthony Robbins, vice president of federal sales at the technology company Brocade.
+
+Virtualization succeeded in reorganizing the server world roughly four years ago, inverting numbers so that virtual servers outnumbered physical servers for the first time. Today, the world of networking readies itself for a similar revolution as software-defined networking and virtualization aim to make a profound impact on network infrastructure, Robbins contends.
+
+“Today we have cloud, data center consolidation, security driven by cybersecurity, social, mobile, [bring your own device], big data—all of these things are putting massive stress and pressure on an old infrastructure,” Robbins says. “The network of the future will be user-defined and usercentric. It will be simple, scalable, agile. It will be software-driven. It will be acquired as a service. It will be open and [use] nonproprietary protocols.”
+
+Legacy systems dramatically hamper federal efforts to digitize agencies and stymie advancements across all aspects of the information technology field. “You’ve got to get proprietary protocols out of your network,” Robbins says, touting that the new IP would require the federal government to abandon traditional hardware-centered, proprietary architectures for an open, multivendor, software-centered network.
+
+Federal information technology employees indicated in a Brocade-commissioned survey conducted by Market Connections Incorporated that they recognize the government’s network limitations and their adverse impact. Nearly 1 in 10 said their agency network infrastructure is fully able to support simple, scalable and agile solutions. “So 90 percent know we have a problem,” Robbins says. Additionally, 90 percent believe open standards are important. “We currently believe there is a little bit of a problem with the government’s network infrastructure being dominated by a single supplier. We’re not after the primary supplier—we’re just after ideas to modernize.” Market Connections polled 200 federal information technology decision makers and influencers across 64 agencies in April.
+
+Modernizing network systems could save the federal government $1.05 billion a year, according to a 2015 Brocade study. The federal government spent $70 billion on network infrastructure and maintenance during the last decade, with 86 percent going to a single networking supplier, according to Brocade’s report, “The Necessity of Network Modernization.”
+
+“If you have 80-something percent share, independent of the space that you own, there will be things about your position in the marketplace that ... lock the customers in,” Robbins contends. “There are five to seven proprietary protocols installed in the government’s network infrastructure. That is a problem.”
+
+While the Defense Department’s chief information officer (CIO) has not issued a statement, report or position on the new IP, officials certainly are tracking the paradigm shift. “As the department works to secure our information and networks and improve how we collaborate with industry, there has been progress made on the technical areas that fall under the umbrella of the ‘new IP,’ such as the use of open standards, multivendors for the network systems and software as a service,” reads a written response from the Defense Department to a SIGNAL Magazine query on the topic.
+
+“Much of the progress in these areas support IT [information technology] modernization efforts to better integrate DOD’s IT infrastructure to help ensure effective, efficient information sharing with internal and external partners. The department already takes a multivendor approach for its network systems. All in all, DOD may foster the largest multivendor environment in the world.”
+
+The Defense Department’s effort is not without precedent, and the CIO has embarked on forming multiple partnerships with industry to address cloud computing and mobility needs. Officials will glean lessons from the U.S. Navy’s use of open-source software for its Next Generation Enterprise Network (NGEN), for example, which provides network-centric data and services to Navy and Marine Corps personnel. NGEN is the follow-on effort to providing enterprise network services consolidated in 2000 under the Navy-Marine Corps Intranet (NMCI) contract and described as the government’s largest information technology outsourcing program.
+
+The two-year-old NGEN acquisition approach, up for a recompete contract battle in 2018, divides services into segments, a move that lets the Navy allow competition for each portion as needed and promotes greater competition within industry (SIGNAL Magazine, December 2013, page 26, “New Challenges Emerge to NGEN Transition”). “Under the previous monolithic approach, all products and services had to be bundled for competition every time,” reads the Defense Department’s statement. “With the segmented model, a segment can be competed when it makes sense to compete that segment. The segmented acquisition approach may lead to improved services at the same or reduced price while maintaining user satisfaction and security requirements.”
+
+Navy program managers also can evaluate proposals for the best value based on single and multivendor models as presented by the potential offers. “Segmentation makes sense because it allows the [Navy] to gain insight into the pieces that make up the network and ensure best value with the most appropriate resources in each segment,” the Defense Department statement reads.
+
+The new IP is based on open source and open standards that extend beyond proprietary adherence to industry standards. The concept provides information technology experts the choice to use commercial off-the-shelf products and automates network provisioning, creating a self-service model, Robbins explains. “It gives you the ability to innovate at the rate that the market does,” he says.
+
+Since 1994, the number of mobile devices has increased 70 times to a reported 7 billion in use last year, Robbins offers, and today there are 2 billion Internet users and 1 billion websites. The volume of data grows by more than 50 percent each year. It is all too much for current networks to handle.
+
+The emergence of cloud, mobile, social networking and big data will shape the new era of information technology, or what some industry experts call the “third platform.” The change is propelling businesses and government agencies to seek upgrades to address pressures presented by legacy systems.
+
+“We are moving toward a market where there is a lot more interoperability between software stacks working on top of hardware that they call ‘merchant silicon,’” says Joel Dolisy, CIO at SolarWinds, a provider of information technology management software. The marketing term merchant silicon describes the use of off-the-shelf chip components to create a networking product.
+
+When federal agencies get to a critical mass of users, “we will reach a tipping point, and you’ll see a larger adoption of those technologies,” Dolisy adds. “I think it’s hard not to see a fit for the new IP type of technology in that strategy.”
+
+Being hamstrung by the snail’s pace of federal bureaucracy might prove beneficial as federal program managers wisely take a measured approach toward acquisition, Dolisy asserts. “I don’t believe we need to jump on the bandwagon of every single new technology that comes out,” he says. “As you start seeing commercial success, both in network virtualization or network functions virtualization, then I think the [government] should factor that in as part of the technology refresh cycle.”
+
+Hitting the refresh button includes eventually migrating to the highly anticipated Internet protocol version 6 (IPv6) to replace the aging, overcrowded IPv4, which provides an identification and location system for computers on networks and routes traffic across the Internet. IPv6 has built-in security instead of the “bolted on” security measures of its predecessor, encryption standards and addresses that combine alpha and numeric sequences.
+
+However, not too many products are yet compatible with IPv6, and the upgrade could be for naught if information technology experts do not receive adequate training on how to most effectively use and control the improved technology, says David O’Berry, a worldwide technical strategist at Intel Security. “If you don’t know how to use the [security] features that are there … then it will have much less of an impact. There needs to be a better understanding of how to go about getting value from IPv6,” O’Berry says.
+
+Networks and personnel will need to deal with the “two IP stacks” of IPv4 and IPv6 until a full migration to the upgrade, which is likely to take years. “Unfortunately, that means that the attack surface is larger,” O’Berry warns. “Now you have two IP stacks that can be targets.”
+
+Network upgrades that include the adoption of a multivendor, open-standards strategy will allay concerns about some of the complexity issues, he says. “I need to know what are you publishing and what are you subscribing to,” O’Berry says. “I don’t need to know what your black magic is on the inside of the situation, as far as algorithms and things like that, but I need to know your ingress and egress ports. I need to have enhanced visibility, and open standards are very important in that respect.”</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

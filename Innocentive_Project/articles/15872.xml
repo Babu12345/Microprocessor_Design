@@ -1,0 +1,61 @@
+<article>
+  <type>article</type>
+  <title>DISA Takes Proactive Approach to Cyberthreats</title>
+  <author>Robert K. Ackerman</author>
+  <date>April 1, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>DISA</tag>
+  </tags>
+  <abstract>The ballooning volume of network breaches, the increasing sophistication of cyber attacks and the advancing talents of adversaries are among the cybersecurity challenges keeping Roger Greenwell awake at night.</abstract>
+  <text>The ballooning volume of network breaches, the increasing sophistication of cyber attacks and the advancing talents of adversaries are among the cybersecurity challenges keeping Roger Greenwell awake at night. The chief of cybersecurity for the Defense Information Systems Agency’s Risk Management Executive, Greenwell confronts increasingly potent threats throughout a more diverse cyberscape. 
+
+Consequently, the agency, known as DISA, is moving away from traditional cybersecurity measures. New methods, from embedding security in an operating system baseline to providing security training whenever a user accesses a device, are part of the agency’s evolving cybersecurity strategy.
+
+In many cases, understanding threats is even more daunting than implementing remedies in a diverse environment. Training is changing from the doctrine of occasional refreshers to constant endeavors that engage users whenever they enter a network. And, as with other military services and organizations, DISA faces a resource challenge in trying to meet its obligations. Unlike some other groups for which resource shortages entail just funding shortfalls, DISA encounters challenges that span a breadth of resources, from money to people. 
+
+The agency is doing a lot to automate its responses to threats, but it still has room to improve when it comes to addressing key vulnerabilities quickly, Greenwell offers. For example, the Heartbleed website encryption bug that emerged a couple of years ago required more than just system administrators applying a patch. Software system developers needed to be brought in to apply fixes. Increasingly complex solutions such as these tax cybersecurity experts as they try to stay ahead of threats, he notes.
+
+Threat diversity also is a major challenge, and it is exacerbated by wide-ranging user demands. But technology-savvy younger workers must be empowered to use familiar capabilities in a secure environment. Greenwell adds that the evolution of endpoints—from desktops to laptops to mobile devices and now virtual endpoints, including the cloud—is changing the way DISA must regard both security and functionality. 
+
+Constant threat evaluation is necessary, he says. The agency’s transition to a risk management framework will help considerably, especially in determining the nature of threats. “The driving principle is to create knowledge across the community and try to actually drive behavioral changes not just in compliance, but also in culture: Think before you’re doing,” Greenwell says. “The threat-based analysis to understand where your weaknesses are, and where your targets of opportunity are to apply defense, is a key component of any kind of solid security program.” 
+
+The agency’s transition remains a work in progress. As the move reaches the stage of generating evidence-based results, it will provide a greatly improved view of the total risk picture, Greenwell says. In addition, continuous monitoring will change the security culture, as accreditation and risk management no longer will be events that occur every two to three years, he points out. They will be addressed continually.
+
+DISA also is focusing on the implementation of Windows 10 across the Defense Department, which is scheduled to take place by the end of 2017. Greenwell allows that DISA is working closely with the National Security Agency (NSA) and the U.S. Air Force to assemble the secure host baseline. This is what DISA refers to as a “build from” image that will be used by the defense combatant commands, the services and agencies with the Windows 10 rollout. 
+
+The secure host baseline approach with its build-from image departs from traditional approaches because many of the security applications will be preloaded, Greenwell explains. They will be configured according to established Security Technical Implementation Guides (STIGs), and the applications will benefit from this methodology across the Defense Department. DISA is publishing the build-from image, so all the products that are part of the baseline will be configured securely, or implementation will be finalized with supporting instructions.
+
+Defense organizations can add their own mission-specific applications to the baseline, Greenwell points out, noting that DISA will not manage these add-ons. Those organizations must examine security for the new applications from an assessment and authorization perspective under the risk management framework. “They benefit from having this base product, with all its information about what’s there and how it’s secured, but they have to be responsible for any of the components they add on top of that baseline,” he emphasizes.
+
+“If we can get to having one desktop Windows image across the department, that would be amazing—but we still are quite a way from that,” Greenwell continues. “This is really a paradigm shift in terms of getting the department started with this one baseline for all of our workstation deployments, knowing that we have a good foundation to build on, and move out from there.”
+
+He also acknowledges that training lays the foundation for successful cybersecurity in any organization. DISA, which is in charge of training throughout the Defense Department, is revamping its approach. “As we look at how training has been done over time, we realize that the ‘once and done’ shot of taking an annual course and completing its test is just not really sufficient,” Greenwell declares. “Training really needs to be continual.”
+
+As threats and network capabilities have changed, so have DISA’s training tactics. Last year, the agency implemented an internal program called Cyber Defender, in which a user receives a security challenge immediately upon logging into a network. The user must read through the hypothetical security situation presented on screen, then choose the appropriate response. Correct responses are tracked over time, but an incorrect answer triggers a display of additional information to increase understanding in that area of weakness.
+
+This strengthens the continuous training approach, Greenwell notes, adding that the office of Defense Department Chief Information Officer Terry Halvorsen is impressed with this program and is working with DISA on how to implement an enterprise version across the department. If a departmentwide solution proves elusive, DISA will examine how to customize Cyber Defender for other organizations.
+
+The question-and-answer technique is just one means of continuous training at DISA. The agency has introduced video-based instruction to its employees as well. Beginning in February, users who logged onto DISA’s network were shown a two-minute video on whaling—a phishing practice that seeks specific personal information, usually on executives, to gather sensitive data or to pull off a scam. DISA’s video explains the concept, how individuals are targeted and ways to recognize whaling attacks. 
+
+The agency then can use Cyber Defender later to quiz employees about whaling. “This goes back to the concept of the last line of defense being the user,” Greenwell states. “We need to continuously help train and educate them.”
+
+The Defense Department Cybersecurity Range, which is sponsored by DISA and operated by the U.S. Marine Corps, also plays a key role in DISA’s training efforts. The agency seeks to use the range to teach Joint Regional Security Stacks (JRSS) implementation courses, and it has established a virtual training environment that allows personnel in remote locations to interact in the range and participate in hands-on activities. Greenwell relates that the agency recently completed its first course featuring several modules with virtual access, and it will continue to develop that capability for the foreseeable future.
+
+DISA has many partnerships among the military services. The agency is deploying the JRSS in the U.S. Army and the Air Force. Collaboration with the NSA and the Air Force on Windows 10 is at the core of building out the secure baseline. DISA also is working with the Air Force and the Defense Logistics Agency on security for Collaboration Pathfinder, which will leverage a commercial cloud platform to meet mission requirements for applications such as email. 
+
+In general, increasing collaboration among DISA and the services focuses on requirements, priorities and best solutions for all, Greenwell offers. “We’re going to face [the current] budget challenge continuously, so everyone definitely is on board for anything we can do to take advantage of enterprise solutions,” he adds. “We just want to make sure those types of solutions are efficient not only from a purchase perspective, but also from the ability to operate them. We want to ensure these solutions are easy for the services to be able to deploy, recognizing the difference between [service missions].”
+
+As with other defense elements, DISA faces difficulty in acquiring both funds and personnel to address challenges and opportunities. “There are lots of opportunities to make improvements,” Greenwell says. “Sometimes, just having the resources and the time to be able to get after all of those is one of our biggest challenges. We have to prioritize those things that are most important to us, while other things that we really want to get done sometimes get pushed to the back burner.” 
+
+Acknowledging that industry is a key partner with DISA on cybersecurity, Greenwell is seeking capabilities that will enable secure operational effectiveness. Cost drivers ultimately are what DISA looks for, he says. Additionally, making sure “the front door of these products and capabilities is locked,” Greenwell states, is vital. Of particular importance is the method of authentication and whether it supports two-factor authentication that includes public key infrastructure. This type of authentication “really buys us a lot of strength in security,” he emphasizes.
+
+Greenwell relates that DISA published an endpoint security system request for information last year to gather more information about products and capabilities in the marketplace. The goal is to evolve endpoint security and address it from multiple approaches. These could include patches for detected vulnerabilities or malware containment, for example.
+
+Above all, DISA needs to understand industry capabilities better, Greenwell suggests. Industry as a whole offers many different security solutions, and the agency struggles to keep tabs on all of them.</text>
+  <imgalttext>
+    <img>A serviceman monitors his computer during the Cyber Guard 2015 exercise. Efforts within the Defense Information Systems Agency (DISA) may lead to defense personnel receiving a cybersecurity lesson every time they log on to a military network.</img>
+  </imgalttext>
+</article>

@@ -1,0 +1,37 @@
+<article>
+  <type>blog</type>
+  <title>Four Teams Win IARPA's ASpIRE Challenge</title>
+  <author>Sandra Jontz</author>
+  <date>September 11, 2015</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>The Cyber Edge</tag>
+    <tag>IARPA</tag>
+  </tags>
+  <abstract>Four teams will share a grand prize of $110,000 for their work on the speech recognition challenge Automatic Speech Recognition in Reverberant Environments, or ASpIRE.</abstract>
+  <text>Four teams will share a grand prize of $110,000 for their work on the speech recognition challenge Automatic Speech Recognition in Reverberant Environments, or ASpIRE.
+
+The winning teams are from Johns Hopkins University, Raytheon BBN Technologies, the Institute for Infocomm Research and Brno University of Technology, according to the Intelligence Advanced Research Projects Activity (IARPA), within the Office of the Director of National Intelligence.
+
+Speech recognition systems were developed to optimally operate on speech recorded in environments mirroring the environments in which they are used. The ASpIRE contestants pushed their work a step further and worked to build accurate systems that would automatically transcribe speech recorded in noisy and reverberant environments, regardless of the type of recording device or condition of surrounding acoustics, according to an IARPA news release.
+
+Contestants received a telephone speech they used to develop and train their systems using different speech recordings collected in noisy rooms of various sizes, shapes and microphone configurations.
+
+The ASpIRE challenge winners delivered systems with more than a 50 percent reduction in word error rate (WER) compared to the IARPA baseline system. The rate is the standard measure of accuracy for speech recognition systems; lower WER scores indicate more accurate systems.
+
+The winners in the Single Microphone category are:
+
+The team from the Center for Language and Speech Processing, Johns Hopkins University: Vijayaditya Peddinti, Guoguo Chen, Daniel Povey and Sanjeev Khudanpur.
+	The multi-institutional team from Raytheon BBN Technologies: Jeff Ma, Roger Hsiao, William Hartmann, Rich Schwartz, Stavros Tsakalidis; Brno University of Technology: Martin Karafiat, Lukas Burget, Igor Szoke, Frantisek Grezl; and Johns Hopkins University: Sri Harish Mallidi and Hynek Hermansky.
+	The team from the Institute for Infocomm Research, A*STAR, Singapore: Jonathan William Dennis and Tran Huy Dat.
+The winner in the Multiple Microphone category is:
+
+The team from the Institute for Infocomm Research, A*STAR, Singapore: Jonathan William Dennis and Tran Huy Dat.
+“We’re delighted with the diversity of solutions submitted by the ASpIRE challenge contestants,” Mary Harper, IARPA’s program manager for the ASpIRE challenge, says in a statement. “Their performance under rigorous evaluation conditions suggests that accurate speech recognition—even for speech recorded in environments for which training data are unavailable—is possible.”
+
+The challenges is part of the White House's Strategy for American Innovation, programs to spur cost-efficient methods of collecting cross-disciplinary solutions to difficult problems and stimulate breakthroughs in science and technology.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

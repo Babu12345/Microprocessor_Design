@@ -1,0 +1,37 @@
+<article>
+  <type>article</type>
+  <title>A Joint Environment Changes Everything</title>
+  <author>Max Cacas</author>
+  <date>July 1, 2013</date>
+  <departments>
+    <department>Event Coverage</department>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Acquisition</tag>
+    <tag>Air Force Technologies</tag>
+    <tag>Army Technologies</tag>
+    <tag>Battlespace Information Systems</tag>
+    <tag>cloud computing</tag>
+    <tag>Coast Guard Technologies</tag>
+    <tag>command and control</tag>
+    <tag>data management</tag>
+    <tag>electronic warfare</tag>
+    <tag>mobile</tag>
+    <tag>modeling and simulation</tag>
+    <tag>Navy Technologies</tag>
+    <tag>research and development</tag>
+    <tag>July 2013</tag>
+  </tags>
+  <abstract></abstract>
+  <text>Rear Adm. Robert Day Jr., USCG, assistant U.S. Coast Guard commandant for command, control, communications and information technology, sees the Joint Information Environment as an opportunity to resolve some of the most pressing information technology problems in the years to come as he faces a future with more challenges and fewer resources. He says a military-wide common operating environment will establish “enterprisewide mandates that programs cannot ignore.”
+The admiral told the recent AFCEA Solutions Series–George Mason University Symposium, “Critical Issues in C4I,” the Joint Information Environment (JIE) will allow for more efficient system configurations and facilitate consolidation of the Coast Guard’s information technology work force. As the director of the U.S. Coast Guard Cyber Command, he also is mindful that the JIE will improve his ability to control what devices are attached to the network, giving him, for example, the opportunity to quickly detect and order the removal of an unauthorized USB thumb drive inserted into a secure network computer.
+	Hewing to the reality of doing more with less, the admiral also told conference attendees that within the next eight months, the Coast Guard is expected to move to the U.S. Defense Department’s enterprise email system. Adm. Day stated that even though this move initially may cost more in some cases, the long-term benefits to the service will mitigate and justify some of those costs. In addition, acknowledging the futility of reinventing the wheel, he noted that the Coast Guard is adopting the U.S. Air Force’s Virtual Flight Bag, which replaces nearly 300 pounds of printed manuals and charts carried aboard aircraft by crews. Apple iPads will be loaded with digital copies of the same material.
+	One of the Defense Department’s top information technology officials echoed Adm. Day’s view of the JIE in his own keynote speech to the George Mason University C4I conference. David DeVries, the department’s deputy chief information officer, Information Enterprise, believes that whether a company sells to the military or the service is at the tip of the spear for warfighter technology, it is best to toss out all old thinking about information technology programs. “The JIE is not a program,” DeVries stressed. The JIE encompasses work going on simultaneously in the realms of data center consolidation, identity and access management and mobile. In the area of mobile, DeVries told conference attendees that part of making the JIE work is realizing that such devices need to be managed and policies set to maximize their value to warfighters.
+	The most important challenge to the U.S. intelligence community is sifting though and coping with the amount of data that is coming in from multiple environments to support the warfighter, John Marshall, senior information systems technologist for Joint Staff Intelligence Directorate (J-2), told a panel discussing “Big Data and the Evolving Enterprise.” Big data includes information being captured constantly and relentlessly by more than 50 million mobile devices globally, and he asked, “The question is how do we successfully mine through that data for those nuggets that my colleagues and I need?”
+	Interoperability can be literally a matter of life and death for warfighters. Dr. Michael Hieb, research associate professor, Center for Excellence in C4I, George Mason University, said that along with improving information sharing, the common operating environment also will enable military staffs to more readily use command and control software as needed. Hieb, who is also a top-level adviser to the U.S. Army in the area of modeling and simulation, noted that trends in interoperability suggest the apps model of developing small software applications designed to do a limited set of tasks will leverage the strengths of the common operating environment.
+	To many in the federal information technology community, big data goes hand in hand with cloud computing. Frank Konieczny, chief technology officer in the Office of Information Dominance and the Chief Information Officer, U.S. Air Force, reminded everyone that in his office, the promise of cloud computing is an empty one if it does not fulfill Air Force mission requirements and help airmen to complete the mission. Geoffrey Raines with MITRE noted that significant challenges remain on the road to cloud computing in the Defense Department; among them, portability and interoperability; risks associated with data center consolidation; and finally, managing cost expectations widely touted as a benefit of cloud computing.
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

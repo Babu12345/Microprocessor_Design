@@ -1,0 +1,21 @@
+<article>
+  <type>blog</type>
+  <title>Information Leaks Can Sink Agencies</title>
+  <author>Prenston Gale</author>
+  <date>December 2, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+    <tag>DRC</tag>
+    <tag>Dynamics Research Corporation</tag>
+    <tag>guest bloggers</tag>
+    <tag>Information security</tag>
+    <tag>Cyberspace</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Thousands of data breaches occur as a result of internal information leakage rather than an outside attack. There is a critical need to further educate government personnel on how to keep sensitive information secure. Guest blogger Prenston Gale weighs in with insight on how to achieve this important goal.</abstract>
+  <text>Earlier this year, detailed information about the bomb resistance of a new Department of Defense (DoD) building in Virginia was compromised. Reuters broadcast the information worldwide. The news organization did not obtain the document by hacking network systems, but rather accessed the "official use only" document on the Army Corps of Engineers website. This incident is just one example of the thousands of data breaches that occur as a result of internal information leakage rather than an outside attack. In their 2011 Information Security Report, the U.S. Government Accountability Office (GAO) shed light on why internal leaks are so prevalent. The report's survey of 24 major federal agencies found that employees with significant responsibilities are not properly trained on security measures. To that end, there is a critical need to further educate government personnel on how to keep sensitive information secure. With tightening budgets and increasingly demanding performance requirements, agencies must resist the temptation to be compliance-driven and exclusively rely on quick fixes. A holistic approach bringing together people, processes, and technology into an enterprise-wide solution and a strong risk management framework is a viable and effective strategy for improving cybersecurity. The U.S. Military engages in full simulations and digital war games to train for battle, and these methods and best practices can be repurposed for the cyber battlefield. Government workforce education and training that is regularly practiced and put in action will help prevent data leakage and save budget dollars. Frequent penetration testing, simulated cyber and social engineering attacks, or even something as simple as a pop-up tip of the day on an employee's computer will help make agencies more secure inside and out. After all, policies are only as effective as the people enforcing and enacting them. Benjamin Franklin once said, "A small leak can sink a great ship." Investing in the education of the government workforce, utilizing proactive training methods, and aligning policy, technology, and people can ensure smooth sailing. Prenston Gale is the lead internal Subject Matter Expert for Information Security within Dynamics Research Corporation (DRC). He also serves as a solutions architect for emerging government requirements, building new frameworks and customized methodologies that are deployed in service of government clients.  The views expressed by our guest bloggers are their own and do not necessarily reflect the views of AFCEA International or SIGNAL Magazine.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

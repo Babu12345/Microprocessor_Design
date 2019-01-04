@@ -1,0 +1,23 @@
+<article>
+  <type>blog</type>
+  <title>Geolocation Data to Go Small Scale</title>
+  <author>Beverly Schaeffer</author>
+  <date>April 27, 2012</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>3-D mapping</tag>
+    <tag>GeoGlobe</tag>
+    <tag>GeoPDF</tag>
+    <tag>handheld mapping devices</tag>
+    <tag>US Army</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>The U.S. Army is working to enable its current GeoGlobe database to operate on smaller, more intricate platforms such as handhelds, but will warfighters in the field benefit from this capability soon?</abstract>
+  <text>The U.S. Army is working to compress large amounts of geospatial data into an amount that is manageable on a handheld device. Imagery from the GeoGlobe database currently seeing use in Afghanistan soon may become available in PDF format, placing crucial imagery and information directly into the warfighter's hands. In his article "U.S. Army Expands Combat-Proven GeoGlobe" in this issue of SIGNAL Magazine, Technology Editor George I. Seffers discusses how 3-D terrain visualization imagery will go compact for handheld applications. Todd Blyler is a team leader within the Warfighter Geospatial Production and Support Directorate, Army Geospatial Center (AGC), Corps of Engineers facility. He explains that the individual soldier has no need to access the full-scale information stored in the GeoGlobe database. Instead, Blyler says of the warfighter:
+
+	He just needs his area of operations. So, he connects to the server, figures out his area of interest, chips out a little piece of the database onto a PDF, maybe stores it on a handheld, and then runs disconnected from the network on a low-end device, so that he has a visualization capability that will help him to complete that mission.
+GeoGlobe currently isn't available at lower levels or on handheld devices simply because abundance of data it contains, and because handhelds don't have "quite the horsepower" to run real-time 3-D visualization, Blyler notes. They are not quite there yet, he says, and explains that he doesn't think a tablet could do it just yet either. The GeoGlobe system is installed on major command and control systems, such as the Distributed Common Ground System-Army and others. Users can easily integrate intel data from a variety of sources, providing layers of tailored information on top of the terrain imagery. Using the systems, warfighters can view the entire planet or can focus on a particular area down to a 10-centimeter resolution. Until the capability has actually been developed to place GeoGlobe or the Army's BuckEye airborne sensor package onto smaller platforms, AGC officials now are integrating GeoGlobe with a product known as GeoPDF, so that individual soldiers can download smaller chunks of GeoGlobe data prior to a mission and take it with them for greater situational awareness. Geolocation software is evolving, but do other similar systems exist, either in the military or in industry? And if so, have they accomplished the goal of developing data to fit smaller platforms? Share your insights and suggestions with us; we look forward to your input.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

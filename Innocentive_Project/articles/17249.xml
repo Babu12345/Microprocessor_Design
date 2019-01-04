@@ -1,0 +1,60 @@
+<article>
+  <type>article</type>
+  <title>Security Concerns Rising in the Age of IoT</title>
+  <author>Sandra Jontz</author>
+  <date>March 1, 2017</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Internet of Things</tag>
+    <tag>Cybersecurity</tag>
+    <tag>mobility</tag>
+  </tags>
+  <abstract>Behind the headlines of these gee-whiz cyber technologies lurks a shortcoming. It is one that poses significant threats to national security but could be remedied fairly easily, some experts offer.</abstract>
+  <text>The Internet of Things has gone mainstream. Home refrigerators are chattier than ever, and emerging virtual home assistants can order wings for dinner, turn on lawn sprinklers, start the car and purchase pounds of cookies—all without users ever rising from the couch. Yet behind the headlines of these gee-whiz cyber technologies lurks a shortcoming. It is one that poses significant threats to national security but could be remedied fairly easily, some experts offer.
+
+The mobile device and sensor industries lack uniform security standards and a system of checks and balances—something akin to the safety standards for electrical devices and components offered by the global safety consulting and certification company UL, formerly Underwriters Laboratories.
+
+“You can’t sell a blender at Macy’s without it having the Underwriters Laboratories stamp on it,” signals Kevin Kelly, CEO of LGS Innovations, which researches, develops and deploys networking and communications solutions for government and commercial organizations. “They’ve published standards that say, in order for this to be considered safe, you [the] manufacturer must meet the following standards, and you must have your own internal inspection team that tests these devices. 
+
+“The same does not apply for Internet-connected devices. It’s really left the door wide open for bad actors, bad practice and people being careless with developing devices.”
+
+The U.S. government has taken note, acknowledging the benefits of Internet of Things (IoT) systems and services as well as the drawbacks. “IoT security, however, has not kept up with the rapid pace of innovation and deployment, creating substantial safety and economic risks,” reads a document from the Department of Homeland Security explaining risks and suggesting best practices.
+
+The burgeoning environment that is reshaping life in individual homes and entire cities has the dedicated attention of a team of lawyers at the Department of Justice, whose work deviates from traditional models of assessing national security threats, says Adam S. Hickey, deputy assistant attorney general for national asset protection in the National Security Division (NSD). “We tend to think of threats to national security as spies or terrorists,” says Hickey, who manages the NSD’s efforts to combat national security threats from computer intrusions and attacks, economic espionage, proliferation and foreign investment. He also represents the Justice Department on interagency policy committees concerning cybersecurity. “But there is a whole range of activity that targets the private sector, or has a connection to the private sector, that is a national security threat.” 
+
+The team’s work aligns with the government’s heightened cybersecurity mission, proved increasingly important with each new reported case of successful nation-state or terrorist group cyber attacks against U.S. infrastructure. More and more often, the country engages with digital enemies across the globe, encountering everything from Russian hacks of the U.S. presidential election to Chinese and North Korean breaches of private companies and coveted government networks. “During the course of doing our everyday jobs working with the [FBI] to investigate intrusions and attacks, we were noticing that state-sponsored hacking is a real issue,” Hickey asserts. What once was treated as an intelligence issue has bled into law enforcement circles for action, he adds.
+
+The problem is rooted in the open architecture of the Internet; it was not designed with security in mind from the outset. Security is something experts have worked to add. “This is precisely what we want to avoid with the Internet of Things,” Hickey concedes. “As devices proliferate, and as we connect them increasingly to each other and the Internet, security needs to be at the front end. How do we do that? How do we encourage that? That’s the challenge for the government.”
+
+Answering those questions puts policy makers in somewhat uncharted waters because the IoT only gained legitimacy in 2015, when businesses placed those technologies “squarely on their radar,” according to a Verizon report on the topic. Global IoT-related spending will jump from $591.7 billion in 2014 to $1.3 trillion in 2019, with a compound annual growth rate of 17 percent, Verizon predicts. Of note, the number of anticipated IoT endpoints that will exist in the future varies, swinging from research firm Gartner’s prediction of nearly 21 billion in 2020 to Verizon’s forecast of 30 billion for that same year.
+
+Estimations aside, today’s driving force behind IoT innovation is profit, with companies working to deliver products and services that meet consumers’ insatiable appetite for all things smart, Kelly offers. At times, the bottom line trumps security, too often relegated to an afterthought.
+
+Governments are reluctant to overstep policy bounds or to impose restrictions that could stymie innovation, Kelly discusses. “You don’t want to come up with this overbearing regulation and certification regime that will ultimately just drive the price of everything up,” he declares. “We don’t want to slow down the IoT. It has just produced too much value, and frankly, it’s a huge convenience for all of us. But at a minimum, as it relates to cybersecurity, there are some fundamental things that need to be agreed to and standards written.” That should include standards for transparency, open source code, manufacturer obligations to fix vulnerabilities, and requirements to share breaches with consumers, at a minimum.
+
+Security as an afterthought is not solely the manufacturer’s shortcoming, Hickey suggests. “They are building a device—whether it is a refrigerator, a thermostat or a car—and they focus principally on function and cost. That is what consumers are going to look for. We, the government, have a responsibility to make security the [third] thing they think about,” he says.
+
+The notion of devising standards, or what Hickey calls a “security nutrition label,” on Internet-connectable devices easily could gain ground and become a reality, especially as the IoT environment grows. Last year, consumers considered IoT devices largely luxury items—more fun than substance, according to an assessment by the Center for Long-Term Cybersecurity (CLTC) at the University of California, Berkeley. In four years, the opposite will be true, according to the center. Adoption of the technology will permeate society, and that spread will be led by governments seeking significant changes in areas such as education, the environment and public health as well as the growth of smart cities.
+
+“In this world, the IoT will not just mean refrigerators that automatically replace your milk when it runs out or credit cards that vibrate every time an expenditure is charged,” the CLTC document reads. “It will mean smartbands that diagnose health problems as they occur and dispatch medical care without human intervention. It will mean smart metering for oil, gas and electricity, traffic lights that automatically change based on congestion patterns, and wearable sensors—the successor to Google Glass—that help classroom teachers track whether students are paying attention.”
+
+It also will mean a greater attack surface. The growth of sensors, device connectivity and machine-to-machine communication will create an explosion of new data points that could inundate systems and help U.S. adversaries, who are tapping the technology for their own good as much as to bring down the United States, Hickey says. “We have to work doubly hard to keep up with and get ahead of them,” he says.
+
+The government already uses thousands of mobile devices with little to no security protections on them because there is no mandate to do so, says Bob Stevens, vice president of federal systems at Lookout, a global cybersecurity company that provides mobile threat visibility and protection. “Because there is no mandate, it’s not a high priority for any of the government agencies. But a mobile device is just like any other endpoint in your infrastructure, and you need to protect it as such,” he says.
+
+The government already has a sound foundation from which to begin, says Stevens, citing a handful of guidelines from the National Institute of Standards and Technology to help agencies balance the benefits and risks of using mobile apps and data and identity authentication methods. 
+
+Yet a pervasive mindset exists within both the private and public sectors that the lack of a mandate for standards means there is little need to spend money or time on security, Stevens says. “I don’t know why that is. If you think about it, a mobile device probably has more personal information on it than any other device you use. You use it more often, and you take it everywhere you go. I can track where you’ve been for the last 48 hours because you have lots of applications on your device to tell me that,” he says.
+
+Shopping, weather, traffic and map apps all provide companies with the tracking data needed to target user desires and habits.
+
+There is good reason to fear the doomsday scenario that could stem from the explosion in IoT use, Stevens says. Most agencies think mobile device managers (MDMs) secure the IoT environment. “But mobile device managers don’t have an agent on the device that is continuously monitoring the applications and ensuring that they are safe. If you have Google Maps on your device, [the company] pushes updates to that all the time. But an MDM doesn’t evaluate the update to ensure that it’s safe. If you have an agent like Lookout on the device, then we analyze that application after it’s been downloaded, and we tell you within seconds whether it’s safe or if it represents a risk,” he says. 
+
+With no standards, developers build apps using whatever code they want, Stevens continues. “We can’t write code to protect every IoT device out there. We can’t write something that protects the cameras and the Fitbits and the refrigerators and the cars and thermostats. There have to be standards to produce a product that will benefit everyone,” he says.</text>
+  <imgalttext>
+    <img></img>
+    <img>The consumer market for smartwatches is expected to grow from $14 billion in 2016 to a staggering $34 billion worldwide by 2020, predicts CCS Insight. Internet of Things-connected devices such as smartwatches could provide new avenues for cyber criminals to exploit in the quest to steal valuable data. </img>
+  </imgalttext>
+</article>

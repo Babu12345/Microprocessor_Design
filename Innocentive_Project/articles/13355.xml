@@ -1,0 +1,35 @@
+<article>
+  <type>article</type>
+  <title>CBP, Maryland Prisons Look to Industry for Cellular Phone Protective Technology</title>
+  <author>Sandra Jontz</author>
+  <date>August 21, 2014</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>homeland defense</tag>
+    <tag>Law Enforcement Technologies</tag>
+    <tag>Security</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>Defense contractor giant Lockheed Martin’s LUMEN technology aims to protect cellular phone users from rogue, spoofing systems.</abstract>
+  <text>U.S. border patrol agents watched on surveillance videos as suspected drug smugglers chatted on cellular phones. But when agents sought phone records for investigations into the suspected nefarious activity along the Texas-Mexico divide, commercial service providers came up empty-handed. There simply were no logs. How were the smugglers evading commercial providers?
+U.S. Customs and Border Protection turned to Lockheed Martin for its LUMEN Active Defense technology of sensors that can help detect rogue cellular base stations devised to circumvent cellular service providers.
+Technicians installed the enterprise solution on a Lockheed Martin surveillance test system used for a CBP integrated fixed tower demonstration, says Michael Peters, a software engineer. They are using it along the Texas-Mexico border in a test mode. “So if anybody stands up a base station and tries to coordinate across the border, tries to run a drug-smuggling exercise, we can catch that and alert border [control that] ‘hey, something is going to be happening—they’re starting to plan and communicate.’”
+A CBP official declined to comment specifically on the LUMEN technology, citing security considerations, but offered a general statement on protective measures.
+“CBP continues to make numerous technological advancements—both static and mobile systems, which are providing critical situational awareness and intelligence collection capabilities, while at the same time supporting agents during ground operations,” according to a statement. “The current reduction in apprehension traffic is now enabling us to better respond to threats and manage elements of risk.
+“Technology such as primary fencing and vehicle barricades have fundamentally changed the nature of smuggling, and aerial platforms with advanced technology have substantially increased the way we deploy on the ground.”
+Lockheed Martin, a defense contractor giant, devised LUMEN Active Defense as a two-part protection system. One system scans and alerts users to wicked cellular activity trying to penetrate an office building, for example, and the other safeguards cellular phones by letting users know whether they are accessing a legitimate cellular service provider when placing or receiving calls or using text message services, Peters explains.
+With a laptop computer and roughly $800 spent on easy-to-get software-defined radios, people can set up “man-in-the-middle” base stations that work as private networks. For several years now, hackers’ devices have had the ability to spoof cellular phones into disabling encryption mechanisms and rerouting calls from commercial providers to the base stations that emit stronger signals than the GSM towers.
+“Every one of us is out there using our smartphones to talk to employees or send text messages, and none of that is running over a traditional network. That’s running over cellular networks … and that’s not something we tend to think about securing,” Peters says. “We take for granted that when I send a text message, it’s going to get to the recipient, it’s not going to go anywhere in the middle. That’s not true.”
+The technology is ready now for Android phones, and engineers are working final trials for iOS systems.
+Lockheed Martin’s technology piqued the interest, too, of Maryland correctional officials looking to quash problems of rogue cellular phones that plague the prison system. They have expressed interest in the technology.
+Already, the Baltimore City Detention Center uses Managed Access technology by Tecore, which blocks illegal and unauthorized cellular calls within the prison. It can differentiate between authorized and unauthorized cellular devices within a targeted area and works without staff involvement or “jamming” of wireless signals. And unlike cellphone “jamming,” Managed Access does not interfere with calls made from outside prison walls or with emergency calls made from any cellphone, according to Maryland correctional officials.
+Other techniques Maryland uses to curb contraband cellular phone use include cellphone-sniffing dogs and increased penalties for those caught smuggling cellphones into prison.
+“In many ways, Maryland was an early leader in the battle against cellphones inside correctional institutions. They set the standard,” James Gondles, executive director of the American Correctional Association, says in a statement. “Pushing forward with this kind of cellular detection technology definitely keeps [the Department of Public Safety and Correctional Services] in the forefront on this issue and exemplifies their commitment to keeping their institutions among the safest in the country.”
+
+This article has been modified to reflect corrections to statements from the source regarding the Lockheed Martin surveillance test system and the interest of Maryland correctional officials in the technology.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

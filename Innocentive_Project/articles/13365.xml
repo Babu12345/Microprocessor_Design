@@ -1,0 +1,19 @@
+<article>
+  <type>blog</type>
+  <title>NIST Seeks Input on App Testing</title>
+  <author>Maryann Lawlor</author>
+  <date>August 22, 2014</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>mobile</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The National Institute of Standards and Technology (NIST) is preparing recommendations to help organizations leverage the benefits of mobile apps while managing their risks.</abstract>
+  <text>The National Institute of Standards and Technology (NIST) is preparing recommendations to help organizations leverage the benefits of mobile apps while managing their risks. The publication’s authors are seeking public comments about the draft of "Technical Considerations for Vetting 3rd Party Mobile Applications." The deadline for comments is Sept. 18.
+	While apps can improve productivity, they also can introduce vulnerabilities that put sensitive data and network resources at risk. The draft publication describes tests that software security analysts can employ to find and understand these security gaps before the app is approved for use.
+	“Agencies and organizations need to know what a mobile app really does and to be aware of its potential privacy and security impact so they can mitigate any potential risks,” says Tom Karygiannis, NIST computer scientist. A photo shared through a mobile application, for example, could grant access to an employee’s contact list, or individuals might be tracked through a calendar app, social media app, Wi-Fi sensor or other utilities that access GPS.SIGNAL Magazine’s September issue will explore the issues surrounding security and BYOD. Look for a video preview of the issue online soon.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,20 @@
+<article>
+  <type>blog</type>
+  <title>Computer Security Problems at VA Doubled in Six Years</title>
+  <author>Sandra Jontz</author>
+  <date>April 1, 2014</date>
+  <departments>
+    <department>Other</department>
+  </departments>
+  <tags>
+    <tag>Security</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The Department of Veterans Affairs (VA) remains plagued by decades-old problems of unreliable and vulnerable networks and computer systems, putting the veterans they serve at risk, according to a recent government report. Despite years of documented weaknesses, the VA still has failed to shore up vulnerabilities, according to the Government Accountability Office (GAO) report.</abstract>
+  <text>The Department of Veterans Affairs (VA) remains plagued by decades-old problems of unreliable and vulnerable networks and computer systems, putting the veterans they serve at risk, according to a recent government report. Despite years of documented weaknesses, the VA still has failed to shore up vulnerabilities, according to the Government Accountability Office (GAO) report.
+	During the past six years alone, computer security incidents at the VA doubled, from 4,834 in 2007 to 11,382 in 2013, GAO investigators write. Incidents included unauthorized access, denial-of-service attacks, installation of malicious code and improper usage of computing resources, among others.
+	Without adequate security protections, the department fails to protect critical information of the veterans it serves, including their identities, the report’s authors state. The VA’s systems are “vulnerable to exploitation by an array of cyber-based treats, potentially resulting in … the compromise of veterans’ personal information,” the GAO reports.
+	The VA maintains the nation’s largest integrated health care system, which totals roughly 6 million patients. Additionally, it pays and provides benefits to about 4 million veterans and beneficiaries, and maintains 3 million gravesites at 164 properties. Congress is considering laws that might help, including better management oversight.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

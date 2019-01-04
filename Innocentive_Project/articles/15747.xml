@@ -1,0 +1,54 @@
+<article>
+  <type>article</type>
+  <title>Not Just Fun and Games</title>
+  <author>Sandra Jontz</author>
+  <date>March 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Office of Naval Research</tag>
+    <tag>gaming</tag>
+  </tags>
+  <abstract>The Office of Naval Research has been funding several gaming initiatives to help improve training and education through simulation and modeling, particularly in the field of medicine.</abstract>
+  <text>Learning to fight death has become a game—literally. The Office of Naval Research has been funding several gaming initiatives to help improve training and education through simulation and modeling, particularly in the field of medicine.
+
+It is working, says Ray Perez of the office’s Cognitive Science of Learning Program. “[Serious] games motivate players to keep on playing but also give them appropriate practice and give them feedback,” he offers. “That’s the magic sauce.” 
+
+So-called “serious” games are being developed as training tools. Because they look and act like video games, they can be as entertaining as they are educational and can change the way people learn. That is why, experts say, they appeal to a wide segment of the population and are used in a number of industries to improve a range of skills, from damage control on a Navy ship to emergency management and communication techniques.
+
+In fact, researchers want to curb the serious problem of a lack of communication among medical personnel in operating rooms—a malignant issue in both military and civilian hospitals that results in the deaths of thousands each year. Between 2008 and 2011, an estimated 210,000 to 400,000 deaths per year were associated with preventable harm in hospitals, according to a report compiled by the U.S. National Library of Medicine at the National Institutes of Health. The range varies because of health care officials’ irregular reporting criteria. An estimated 70 percent of medical error deaths occurred because of a lack of communication. 
+
+“We expect health care to be risky. It’s complicated,” says Curtiss Murphy, technical director at Alion Science and Technology and developer of serious games for the Office of Naval Research (ONR). “We get it. But what we don’t expect is … to find out that seven out of 10 of those medical error deaths were caused directly as a result of a lack of communication. That’s not acceptable.”
+
+The chain-of-command culture within the military stymies junior personnel from challenging superiors, particularly in front of others, and complicates the communication problems at military treatment facilities, says program officer Perez. “Most of the surgeries that take place in military hospitals … are performed by a pickup team—whoever is on duty at the time,” he adds. “A surgeon may not necessarily be familiar with that particular surgical nurse or that anesthesiologist. This may be the first time they work together. So you can imagine all of the different kinds of idiosyncratic ways that people communicate with each other.”
+
+Alion developed the “Safe Surgery Trainer,” a 30-minute immersive video game that puts players inside operating rooms and teaches proper communication skills as it guides them through real-world surgery scenarios. The company has teamed with the ONR on other projects, including a serious game that teaches ship damage control lessons that netted positive results, Perez says. Game-playing sailors made 50 percent fewer errors and learned skills in one-third the time it took peers who trained using traditional programs. Validation studies following use of the “Safe Surgery Trainer” showed that players increased their communications knowledge by 32 percent and demonstrated 300 to 600 times greater use of appropriate safety language, Perez reports. 
+
+“We don’t think playing a game is the magic bullet,” he says. “The games are motivational tools, built on basic science. As long as we build the instructional components into [them], we think we can be successful. It’s not just the technology—it’s the underlying science that helps guide the design of the technology.”
+
+The ONR’s investment in serious gaming is part of the Defense Department’s Joint Program Committee-1/Medical Simulation and Information Sciences (JPC-1/MSIS) Research Program to address skill gaps identified by the Military Health System. Game- and computer-based simulations are designed with embedded training strategies to facilitate learning.
+
+In addition to the ONR’s focus on improving communication in the operating room, the office has invested in a serious gaming effort out of Saint Louis University to better train general physicians in the field of pediatrics. The game offers seven scenarios that represent uncommon yet high-stakes pediatrics cases—ideal for military doctors assigned to the U.S. Navy’s hospital ships, for example, who provide acute service to troops and medical care for children after disasters or during humanitarian relief efforts, Perez says. Medical personnel train to treat septic shock afflicting an 8-year-old in one scenario, a cardiac arrhythmia (SVT) distressing an infant in another and anaphylactic shock besting yet another child patient.
+
+Saint Louis University and Maryland-based BreakAway Ltd. developed the pediatrics-based game to instruct civilian and military physicians and medics in pediatric emergency medicine. “There are a number of unique challenges in training physicians to take care of pediatric patients,” says Dr. James Gerard, professor of pediatric emergency medicine at Saint Louis University’s School of Medicine. “In adults, there is a kind of one-size-fits-all method—the doses of drugs, the size of the equipment—everything is pretty much the same. In pediatrics, we see this wide range.”
+
+The game scores players’ performance based on programmed metrics and can be played in two modes. The tutorial mode is used as a teaching tool and is geared toward lower-level learners, such as medical students. The game stops and provides feedback on a player’s treatment decisions. The nontutorial mode provides no feedback beyond the virtual patient’s response to treatment.
+
+Sometimes, if the simulated patient dies, that is a good thing. It provides a critical teachable moment, Gerard says. “From a patient safety standpoint, it’s good that people see the consequences of their actions” without harming patients, says the professor, who is also the director of research at the school’s Division of Pediatric Emergency Medicine. “I think there is some value to letting people make mistakes and learning from those mistakes. In the real world, I can’t do that.” 
+
+In October, testing of the game at Saint Louis University and three military sites—Walter Reed National Military Medical Center in Maryland, Naval Medical Center San Diego and Brooke Army Medical Center in Texas—yielded positive feedback from players of all ages, Gerard says. “The feedback that we got from the players, even the older adults who told us they never game, [was that] the scenarios are very engaging, and it’s a realistic way of training. The digital natives will tell you they really like having something they can train on when they want to, where they want to, and the game allows people to do that,” he says.
+
+The gamification of teaching even resonates with students who are not part of the generation born into the computer age, Perez says. At first, military surgeons balked at learning via a video game. “When we [proposed] using games to train for serious kinds of activities, of course, we had a lot of skepticism from the older officers,” Perez says. But attitudes changed “once they saw the results that we got.”
+
+Games provide a critical virtual connection in the teaching process, Gerard says: “If I sit and listen to a lecture or look at a PowerPoint slide, I’ll get some knowledge about what septic shock is. But until I am working with a patient who is in septic shock, there is going to be a deficiency in my ability to take care of that patient.”
+
+Researchers’ next steps are to make several enhancements, such as improved animations, longer scenarios, the opportunity to run a second round of tests and the ability to adapt the scenarios to different ages. For example, the septic shock case features only an 8-year-old child and SVT only an infant. 
+
+Gamification will play a prominent role in future training efforts, Perez says: “We’re building virtual environments, immersive environments where you not only see, but you touch, you feel, you smell—all to make it as realistic as possible.”
+
+?</text>
+  <imgalttext>
+    <img>A “serious game” developed by Alion Science and Technology puts players inside virtual operating rooms to teach proper communication skills as it guides players through real-world surgery scenarios.</img>
+  </imgalttext>
+</article>

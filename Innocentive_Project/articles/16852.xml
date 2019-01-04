@@ -1,0 +1,40 @@
+<article>
+  <type>article</type>
+  <title>A New Dimension in Radiation Detection</title>
+  <author>Matthew Dallimore</author>
+  <date>November 1, 2016</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>Led by the World Customs Organization, the industry is moving from a simple detection model to intelligent detection, which employs holistic solutions to improve radiation detection universally.</abstract>
+  <text>Radiation detection is critical to security across the globe. Led by the World Customs Organization, the industry is moving from a simple detection model to intelligent detection, which employs holistic solutions to improve radiation detection universally.
+
+Until now, the major focus has been on screening containerized cargo for radioactive materials, from the benign to the potentially dangerous. The process often relies on inherently expensive fixed infrastructures at a nation’s border. While this activity has proved effective at detecting contaminated cargo, it is rather inefficient, unsophisticated and can be a major contributor to border delays when screeners have little or no background information on shippers or their cargo.
+
+This dilemma often necessitates additional checks on what typically ends up being perfectly harmless cargo, which at times contains naturally occurring radioactive materials (NORMs). In addition to unproductive delays, these inefficiencies drive up costs in the supply chain and reduce operational focus.
+
+One potential solution discussed within industry circles is the application of an intelligent system used by other customs authorities. Trade compliance forms the basis of a trusted supply chain made up of organizations that have been audited by government agencies and have proved to be in control of their business operations. As such, trade compliance moves the supply chain from a transaction-based entity to an integrated, end-to-end process allowing partners—for example, shippers, logistics providers and even governments—to exchange relevant information, develop closer cooperation, relieve bottlenecks at border posts and build trust. This model is similar to programs such as Global Entry or TSA Precheck, which fast-tracks vetted travelers through security.
+
+The same approach can be applied to radiation detection. A trusted shipper would enter a detailed manifest into a globally accessible system so that when a container is presented for scanning, the inspecting authority knows what to expect based on certified information from a trusted shipper. The shipper would include details of any legitimate radioactive sources as well as any NORM content in the cargo. If the scanned data yields an expected result, the shipment quickly is sent on its way. Noted discrepancies in scan data or intelligence would focus additional screening or counterterrorism activities for threat detection. 
+
+A sophisticated intelligent-detection approach also can screen shipments that are not yet part of the trusted pipeline or detect when and where otherwise trusted shipments might have been tampered with. As with immigration or customs procedures, radiation detection relies on multiple layers for screening, with each layer more stringent than the preceding check.
+
+Screeners seek automated and holistic solutions with large operational savings. With recent significant enhancements to polyvinyl toluene (PVT)-based radiation portal monitors (RPMs), for example, cargo can pass through screening detectors at speeds of up to 12 mph with no loss of capability and still provide NORM classification by isotope. When cargo shows no trace of radiation, or is part of a trusted supply chain and raises no non-NORM red flags, that cargo rapidly is sent on its way. Cargo requiring more scrutiny can go through a new class of advanced sodium iodide-based RPMs that automatically screen and identify special nuclear materials in real time without returning false positives that can cause significant operational inefficiencies. 
+
+Screening technology also has found applications beyond port security. It has been used in scanning buildings, sports venues and areas surrounding visiting dignitaries—challenges that require multitiered security approaches. Once an area is secured, the strategy is simple: Ensure it remains clear of threats. The exact tools needed depend on the size and layout of the area. Screening can be done by vehicle-mounted mobile units that provide coverage of large areas and access points and by wearable and handheld systems for detailed searches. The exact implementation and hierarchy of detection methods depend on the area and its volume of traffic, but relocatable or pop-up RPMs almost certainly will be used to scan vehicular traffic and pedestrians.
+
+An integrated approach to radiation detection offers a number of benefits. In the same way that the supply chain becomes more efficient through integration, search scenarios also improve from integration and coordination. It is immediately apparent that most search operations involve tiered layers, with each level of search requiring different equipment, personnel and training.
+
+When deploying an entire radiation detection system of systems with different types of equipment, it is critical to minimize the training burden and likelihood of mistakes. Given that equipment is not used every day, especially in the case of contract staff in event-based scenarios, training and support materials and real-time expert oversight are invaluable. Recent scanning products include innovations to make them more suited to multitiered scanning. For example, radiation detection and identification company Symetrica has launched a real-time operational and asset management system that enables remote control of fully stabilized handheld devices, backpacks, demountable and vehicular mobile systems and modular RPMs. This operational capability provides quick response to rapidly evolving threat situations, and a key benefit is that multiple layers of screening can be deployed by law enforcement and controlled remotely by expert users in real time to maximize the efficiency of front-line officers.
+
+With advances in technology creating new possibilities for improved concepts of operation, the trend toward intelligent and integrated detection clearly will bring efficiencies to radiation detection globally.
+
+ 
+
+Matthew Dallimore is director of Symetrica.</text>
+  <imgalttext>
+    <img>A radiation portal monitor (RPM) is used to scan vehicles and containerize cargo contaminated with naturally occurring radioactive materials (NORMs). Photo courtesy of Symetrica.</img>
+  </imgalttext>
+</article>

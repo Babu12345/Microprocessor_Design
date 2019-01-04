@@ -1,0 +1,24 @@
+<article>
+  <type>blog</type>
+  <title>BYU Wins Award to Develop Cybersecurity Technology </title>
+  <author>Julianne Simpson</author>
+  <date>December 21, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>Thanks to an award from the Department of Homeland Security Science and Technology Directorate, Brigham Young University is developing a web middleware tool that will improve the Internet website authentication process and online security.</abstract>
+  <text>Brigham Young University (BYU) is developing a web middleware tool that will improve the Internet website authentication process and online security. TrustBase, an open-source product, will support mobile and desktop operating systems using local and cloud-based services. Operating systems will enable the middleware to notify the user of untrustworthy sites independent of the application in use.
+
+The Department of Homeland Security (DHS) Science and Technology (S&amp;T) Directorate awarded BYU $527,112 to complete the task. The award is part of the Homeland Security Advanced Research Projects Agency Cyber Security Division’s (CSD) Internet Measurement and Attack Modeling (IMAM) project, which works with researchers in academia and the cybersecurity community to develop solutions in the areas of resilient systems, modeling of Internet attacks and network mapping and measurement.
+
+“We need a better solution to web authentication that will increase Internet security and decrease the vulnerability of individuals and businesses to cyber attacks,” said DHS Under Secretary for Science and Technology Dr. Reginald Brothers. "The BYU authentication middleware tool will jumpstart movement toward this important objective.”
+
+The IMAM project is aligned with the 2016 Federal Cybersecurity Research and Development Strategic Plan to develop realistic experimental data that rivals external adversarial activities and defensive behavior. It also is aligned with the S&amp;T Strategic Plan’s goals for the CSD to develop new tools and techniques for mapping several layers of the Internet to detect and mitigate malicious behavior.
+
+For more information about the CSD, visit www.dhs.gov/cyber-research.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

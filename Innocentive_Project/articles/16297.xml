@@ -1,0 +1,65 @@
+<article>
+  <type>article</type>
+  <title>Robotic Systems May Take a Bullet for Soldiers</title>
+  <author>George I. Seffers</author>
+  <date>July 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Robotics</tag>
+    <tag>autonomous systems</tag>
+  </tags>
+  <abstract>Every U.S. Army soldier in 2040 may have a personal robot. It also is possible that autonomous systems will carry heavy loads, establish ad hoc mesh networks, act as communications retransmission stations, file spot reports on enemy forces and be the first to engage adversaries on the battlefield.</abstract>
+  <text>Every U.S. Army soldier in 2040 may have a personal robot. It also is possible that autonomous systems will carry heavy loads, establish ad hoc mesh networks, act as communications retransmission stations, file spot reports on enemy forces and be the first to engage adversaries on the battlefield. 
+
+Army officials already are examining the possibility of equipping unmanned systems with weapons such as a .50-caliber machine gun. While the vehicle will need to have a degree of autonomy, the weapon itself will be controlled by a remote operator, points out Robert Sadowski, the robotics senior research scientist, Research, Technology and Integration Directorate, U.S. Army Tank Automotive Research, Development and Engineering Center, Warren, Michigan.
+
+“What we’re looking for with robotics is to keep a person in the loop to make a lethality decision. That’s where the humans make really good decisions,” Sadowski says. “Everyone asks when the Terminator is coming. Never. Nobody wants to have the Terminator. We’re not going to trust an autonomous weapon system out on the battlefield, at least for certain operations.”
+
+Technology almost certainly will allow for the possibility of fully armed and autonomous systems on the battlefield, but that is not a path the United States wants to take, according to Sadowski and other officials across the military. “Could it be done theoretically? Absolutely. There’s nothing to say you cannot do infrared sensing of heat [and use] person recognition,” Sadowski declares. “We know how to pick out human figures based on all the work done with car companies. And then [to] say I’m going to fire up every human I see—that is a very dangerous road to go down.” 
+
+Robotics on the battlefield will not change the laws of war, he explains. “In the end, the commander is still going to be responsible for the actions of the units and elements that are underneath him. You don’t get to wave the law of land warfare just because you have a robot,” Sadowski asserts. “You have to look at the law of land warfare in terms of proportionality and legality of targets. You don’t drop a 500-pound bomb when a 10-pound bomb will do.”
+
+Still, it is possible that U.S. forces one day will face fully autonomous killer bots. “Do I foresee some bad actor probably doing that? Yeah,” Sadowski predicts. “If an adversary has that, why the heck am I going to try to put a person up against a robotic system on the adversary’s side? Why would I not want to take it out with another robotic system? Why would we not want a robotic system, even with a person in the loop, to be that first contact?”
+
+He adds that as the price of unmanned systems drops, robots could become “attritable,” or expendable enough to take the first bullet or become “bullet catchers” for soldiers.
+
+That could be a game changer. “Instead of the machine gunner having to get down with his assistant gunner right next to him—particularly in an urban environment, where they’re going to be more exposed—maybe a robot can be exposed and actually be the thing that lays down suppressive fire, or cover fire,” Sadowski says. 
+
+Furthermore, with a robot to do the heavy hauling, dismounted soldiers could use a weapon, such as the .50-caliber machine gun, which they wouldn’t normally have available. “That gives me an advantage so that it’s no longer a fair fight with infantry on infantry using small arms,” Sadowski states.
+
+Service officials are working on a strategy for robotic and autonomous systems that may be released this summer. The document will lay out the short-term, midterm and long-term strategy for both air and ground unmanned systems. The year 2025 is considered midterm, with long term being out to 2040. 
+
+That strategy document likely will call for robotic systems to be used “pretty much across all Army formations” to perform a wide array of missions, Sadowski indicates. Unmanned ground vehicles may be equipped with mine rollers for route clearance. They can carry heavy loads for soldiers. They might have enough intelligence, surveillance and reconnaissance sensors—and artificial intelligence—to recognize and report the presence of enemy tanks, their direction of movement and possible intent. They may haul generators for recharging all the batteries soldiers need on the modern battlefield. “I can actually put a tethered unmanned aerial vehicle on it, or a telescoping antenna system, so now I’ve got something else doing a mobile ad hoc mesh network in my dismounted formation,” Sadowski offers. Ultimately, every soldier may have an individual robotic platform, he adds.
+
+The Army has so many projects for developing robotic or autonomous technologies that Sadowski says he cannot possibly list them all. One project uses a tethered unmanned aircraft with foliage-penetrating sensors to deliver 4G communication in a jungle environment. The service also is working with a bevy of international partners, such as Australia, Canada and the United Kingdom. 
+
+With Australia, for example, the Army is exploring extremely long-distance teleoperation. The concept involves sending signals through fiber optic cables across the ocean to a satellite hop to control a vehicle navigating around a desert course. “There’s a large list of international partners who now want to start working with us on autonomy,” he reports. 
+
+Ideally, one platform will be capable of playing an array of roles. “What we want is a multimission, plug-and-play capability so that I load out my robot for whatever I’m doing,” the service’s chief roboticist states. 
+
+But to get there, the service first needs to build unmanned systems smart enough to maneuver on the battlefield. And unmanned systems, like their human counterparts, must crawl before they walk and walk before they run. The service will take a major step this fall when soldiers at Fort Bliss in El Paso, Texas, will experiment for the first time with a convoy of semiautonomous trucks known as the Palletized Load System, which is used for hauling supplies.
+
+The Army has demonstrated that the trucks—sans drivers—can follow a lead truck. Each vehicle has been outfitted with a kit that controls the brakes, throttle and transmission. In addition, the conventional steering column has been replaced with an electronically controlled steering system. The trucks also carry radar and day-night cameras for sensing the environment.
+
+An October exercise will allow soldiers during regular training to use the robotrucks to haul supplies just as they would during normal military operations. The vehicles could wind up bouncing along tank trails and other tough terrain. Sadowski compares the event to previous demonstrations on steroids.
+
+“We’re going to actually let the soldiers run around with the leader-follower technology. This will be the first real experiment we’ve done with some of this technology in an operational setting to see how it behaves,” he explains. 
+
+Just as soldiers of yesteryear had to learn how horses and donkeys would behave on the battlefield, today’s soldiers—and the technologists who support them—have to learn robot behavior. “The goal is to eventually get ... about 30,000 to 50,000 miles traveled across the convoy, which pales in comparison to what Google has done. Google is still orders of magnitude better,” Sadowski allows. 
+
+“Our goal is to demonstrate we can go from two soldiers in the cab down to one soldier. Their purpose is to make sure the autonomy system is keeping the thing in check,” he says, adding that officials intend to demonstrate a zero-rider capability by the fall of 2018.
+
+Overall, two capabilities are critical to the Army’s robotics goals, Sadowski says: a fully secure and reliable network and a military version of the Robotic Operating System, which will be known as ROS-M.
+
+“It is important to make sure you have a good, solid, secure network. Just like you need to talk to your soldiers, you have to talk to your robotic and autonomous systems,” he says. Sadowski indicates that he often hears concerns that the military’s robotic systems will be easily hackable. “One would hope we will be able to design a system that is anti-tamper and anti-exploit, and that to the best of our abilities, there’s a way to do secure transactions,” he counters.
+
+Meanwhile, Sadowski is helping to put together a consortium to develop ROS-M, which he describes as more of an ecosystem than an operating system. “It has its own simulation environment so you can do hardware and software in the loop. We can set up a code repository. We can do all the checking for cyber assurance,” he says. “It also enables me to plug into a training environment so we can start looking at how soldiers will interact with this in a synthetic space ... and then we can do live training as well.”
+
+Robots may have a long way to go, but change is coming. “My mission is to try to deliver the capability the warfighter needs so that robotics and autonomous systems are as ubiquitous as apps on your cellphone and are viewed as teammates rather than just a tool,” he says.</text>
+  <imgalttext>
+    <img>An all-terrain, search-and-rescue humanoid robot at Fort Detrick, Maryland, simulates how a soldier or item up to 500 pounds can be lifted and carried and how it can grasp fragile objects without damaging them. Unmanned systems of the future may be the first to encounter enemy fire.</img>
+    <img>U.S. Army soldiers will receive supplies delivered by semiautonomous trucks during operational training in October at Fort Bliss in El Paso, Texas. The experiment is considered a major step forward for autonomous vehicle leader-follower technology.</img>
+  </imgalttext>
+</article>

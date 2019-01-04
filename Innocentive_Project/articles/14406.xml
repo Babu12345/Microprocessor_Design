@@ -1,0 +1,48 @@
+<article>
+  <type>blog</type>
+  <title>A Three-Pronged Attack Against Cybersecurity Threats</title>
+  <author>Ed Bender</author>
+  <date>April 15, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>insider threat</tag>
+    <tag>BYOD</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>Welcome to the security world, where agencies worry about cyber attacks from the outside as much as from the inside. Guest blogger Ed Bender highlights some surprising results from a recent survey in which respondents lament the insider threat; both from those who intend harm and those who inadvertently invite it.</abstract>
+  <text>Government information technology administrators long have been trained to keep an eye out for the threats that come from outside their firewalls. But what if the greatest threats actually come from within?
+
+According to a recent federal cybersecurity survey conducted by my company, SolarWinds, and Market Connections, that is a question that many Defense Department and government IT managers struggle to answer. In fact, the majority of the 200 respondents said they believe malicious insider threats are just as damaging as malicious external threats. Further, one-third of respondents said they believe accidental insiders can be as dangerous as those who harbor malicious intent.
+
+Welcome to the post-Edward Snowden and Bradley Manning world of federal IT. It’s a world where the threat of a careless user storing sensitive data on a USB drive left on a desk can raise just as much of a red flag as an anonymous hacker. It’s also a world where technology, training and policies must be consistently deployed, and work together, to ensure lock-down security.
+
+Technology
+
+With the number of devices and users rapidly increasing, manual network monitoring no longer is feasible. As such, survey respondents identified tools pertaining to identity and access management, intrusion prevention and detection, and security incident and event management or log management as “top tier” tools to prevent internal and external threats.
+
+Each solution offers continuous and automatic network monitoring, removing most of the day-to-day burden from IT managers. The tools alert administrators of anomalies, including breaches, data leaks, suspicious activity and unauthorized users and devices. Problems accurately can be traced to individual users and devices, helping identify the root cause of potential insider threats. Most importantly, administrators can address any potential issues far more quickly than ever before.
+
+Ideally, tools should be easy to install and configure so they can deliver immediate value to any IT organization without first having to do extensive customization by outside consultants. However, tools are just that—tools. They need to be supported with proper procedures and trained professionals who understand the importance of security and maintaining constant vigilance. 
+
+Training
+
+According to the survey, 53 percent of respondents claim careless and untrained insiders are the largest threat at federal agencies, while 35 percent stated “lack of IT training” is a key barrier to insider threat detection. The result reflects the importance of agency-wide training. IT personnel should be trained on technology protocols and the latest government security initiatives and policies and receive frequent and in-depth information on agency-specific initiatives that could impact or change the way security is handled throughout the organization.
+
+All employees should be aware of the dangers and costs of accidental misuse of agency information or rogue devices. Forty-seven percent of survey respondents stated employee or contractor computers were the most at-risk sources for data loss, with 42 percent granting that designation to removable storage devices such as USB drives or CDs. Human error often can prove far more dangerous than explicit intent.
+
+Policies
+
+When it comes to accidental or careless insider threats, 56 percent of survey respondents were somewhat confident in their security policies, while only 31 percent were “very confident.” 
+
+Agency security policies, combined with federal policies such as the Defense Information System Agency’s Security Technical Implementation Guides and the National Institute of Standards and Technology’s Federal Information Security Management Act, serve as a security blueprint and are therefore extremely important. They should plainly outline the agency’s overall security approach and include specific details such as authorized users and use of acceptable devices.
+
+It’s alarming that one survey respondent stated, “Security holes begin at the top … [senior managers] expect that they are protected and they are above any security holes—to the effect, they insist on admin rights to network resources.” Authorized administrative users should not be based on rank, with access limited only to those who absolutely need to get to specific data. The list should be small and continually monitored and adjusted. IT administrators also should maintain a list of authorized devices allowed to touch the network. This device “white list” is critically important, especially as more devices begin to proliferate on the network, and bring-your-own-device remains a security challenge.
+
+As one of the survey respondents said: “Security is a challenge, and the enemy is increasingly sophisticated.” More and more, the enemy attacks from all fronts—externally and internally. Federal IT managers clearly need to be prepared to combat the threat using their own three-pronged attack of technology, training and policies.
+
+Ed Bender is lead federal systems engineer at IT management software provider SolarWinds, based in Austin, Texas. </text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,36 @@
+<article>
+  <type>article</type>
+  <title>With IC 'Swimming in Sensors and Drowning in Data,' Analysts Seek Big Data Solutions</title>
+  <author>Sandra Jontz</author>
+  <date>April 14, 2015</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>big data</tag>
+    <tag>ISR sensors</tag>
+    <tag>Defensive Cyber Operations Symposium 2015</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The U.S. intelligence community's leading edge in the information-age technology race, particularly in the intelligence, surveillance and reconnaissance domain, has put the Defense Department at a self-imposed disadvantage, marked by some warfighters behind the curve when it comes time to process and analyze the vast amount of information collected. </abstract>
+  <text>The U.S. intelligence community's (IC's) leading edge in the information-age technology race, particularly in the intelligence, surveillance and reconnaissance (ISR) domain, has put the Defense Department at a self-imposed disadvantage, marked by some warfighters behind the curve when it comes time to process and analyze the vast amount of information collected, a former general says. 
+
+“There is this romance with sensors, platforms, planes and unmanned vehicles,” says Maj. Gen. John Custer, USA (Ret.), who once served as head of intelligence for U.S. Central Command and commanding general of the Army’s Intelligence Center in Arizona. “We forget that’s worth nothing without putting some value to it. The problem with our ISR … is that we have always been platform- and sensor-centric. In other words, that is where money is to be made. Everybody wants to hear about the platform and the sensor, not about the analytics and the analysts.”
+
+He uses as an example the Army's now-canceled Future Combat Systems modernization program, for which planners envisioned creating brigades equipped with three dozen unmanned aerial vehicles each so commanders could have 15 to 20 up at all times. “Do you know how many imagery analysts there were in that brigade?” Custer asks. “Four.”
+
+Analysts cannot keep pace with the amount of generated big data. “And now there are sensors that can collect a petabyte a day,” says Custer, who is director of federal strategic missions and programs at EMC Corporation. “[W]e simply don’t have the capability to look at everything we collect. That’s why, most important to me now, are the analytics, that big data piece. How are we going to add value to everything we can collect?”
+
+This week, the Defense Advanced Research Projects Agency (DARPA) unveiled a new program to develop near-zero-power technologies that would let wireless sensors operate for years without needing a battery recharge. The Near Zero Power RF and Sensor Operations program, which the agency calls N-ZERO, seeks not only to diminish reliability on power but to create smart sensors that use persistent sensing capabilities so they could be triggered "awake" when needed.
+
+“It is the waiting for a specific event or activity that constrains mission life and drains the battery energy of these essential electronics,” Troy Olsson, DARPA program manager, says in a press release. “By cutting reliance on active power and enhancing battery life, N-ZERO aims to enable wireless, ubiquitous sensing that is energy efficient and safer for the warfighter. Our goal is to use the right signal itself to wake up the sensor, which would improve sensors’ effectiveness and warfighters’ situational awareness by drastically reducing false alarms.” The research agency is in the process of collecting proposals for the program.
+
+As the Defense Department seeks better technologies, officials seek big data management opportunities as more information is drawn in via signal intelligence, geospatial intelligence, video, imagery and even cyber analytics. “We continue to sidestep that problem to ensure we continue to build more and more sensors and platforms,” Custer says. “You have to be able to analyze and work on what you can collect, and we’re miscued right now. We’re out of whack and have been for some time.”
+
+The intelligence community recently began adopting management capabilities and seeking out refined software specifically for analytics, such as the open-source software Hadoop, Custer offers. And the National Geospatial-Intelligence Agency has sought analytic capabilities and solutions from industry and academia.
+
+“We are swimming in sensors and drowning in data,” Custer says. “And we’re realizing that we have to have applications that allow us to analyze and better manage it all.”  </text>
+  <imgalttext>
+    <img>DARPA's N-ZERO program aims to develop wireless, event-driven sensors that would remain dormant until triggered by physical, electromagnetic and other activity. The technology could increase mission life, reduce battery size and reduce the maintenance costs of unattended wireless sensors.</img>
+  </imgalttext>
+</article>

@@ -1,0 +1,47 @@
+<article>
+  <type>blog</type>
+  <title>Gearing Up for a Security Audit to Start the New Year</title>
+  <author>Joel Dolisy</author>
+  <date>February 25, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>network systems</tag>
+    <tag>NIST</tag>
+    <tag>DISA</tag>
+    <tag>compliance</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>Your New Year’s resolutions are probably distant memories, but resolutions to improve agency IT security should be yearlong endeavors. Before gearing up to move forward with implementing new fiscal year 2016 IT initiatives, it is a best practice to conduct a security audit to establish a baseline and serve as a comparison to start thinking about how the agency’s infrastructure and applications should change, and what impact that will have on IT security throughout the year.</abstract>
+  <text>OK, your New Year’s resolutions are probably distant memories, but resolutions to improve agency IT security should be yearlong endeavors. Before gearing up to move forward with implementing new fiscal year 2016 IT initiatives, it is a best practice to conduct a security audit to establish a baseline and serve as a comparison to start thinking about how the agency’s infrastructure and applications should change, and what impact that will have on IT security throughout the year.
+
+It’s critical to maintain a consistent focus on security all year long. Security strategies, plans and tactics must be established and shared so that IT security teams are on the same page for the defensive endeavor.
+
+Unique Security Considerations for the Defense Department 
+
+Defense Department policy requires agencies follow the National Institute of Standards and Technology’s (NIST) Risk Management Framework to secure information technology that receives, processes, stores, displays, or transmits DOD information. I’m not going to detail the six-step process—suffice it to say, agencies must implement needed security controls, then assess whether they were implemented correctly and monitor effectiveness to improve security.
+
+That brings us back to the New Year’s security audit: A great way to assess and monitor security measures.
+
+Improving Security is a Year-Round Endeavor 
+
+The DOD has a complex and evolving infrastructure that can make it tricky to detect abnormal activities and ensure something isn’t a threat, while also not prohibiting legitimate traffic. Tools such as security information and event management platforms automate some of the monitoring to lessen the burden.
+
+The tools should automate the collection of data and analyze it for compliance, long after audits have been completed. Some tools automate but require others to do the analysis. Aggregating is one thing, but a failure to pull knowledge from the data endangers a network.
+
+It should also be easy to demonstrate compliance using automated tools. For example, some agencies try to manually pull data from disparate locations, which takes a great amount of time and effort. Automated tools should help to quickly prove compliance, and if the tools come with Defense Information System Agency Security Technical Implementation Guides and NIST Federal Information Security Modernization Act compliance reports, that’s another huge time-saver.
+
+Infrastructure performance monitoring tools also improve security posture by identifying potential threats based on performance anomalies. Network, application, firewall and systems performance management and monitoring tools with algorithms that highlight potential threats effectively ensure compliance and security on an ongoing basis.
+
+Five additional best practices help ensure compliance and overall secure infrastructure throughout the year:
+
+Remove the need to be personally identifiable information (PII) compliant, unless it’s absolutely critical. For example, don’t store stakeholder PII unless required by agencies processes. Not storing the data mitigates responsibility risks for securing it.
+	Remove stored sensitive information that isn’t needed. Understand precisely what and how data is stored and ensure what is kept is encrypted, making it useless to attackers.
+	Improve network segmentation. Splitting the network into discrete “zones” boosts performance and improves security, a win-win. The more a network is segmented, the easier it will be to improve compliance and avoid holes in the network that developed over time. Don’t fall into this trap.
+	Eliminate passwords. DOD Chief Information Officer Terry Halvorsen declared war on passwords at an AFCEA conference last year, stating: “We have to kill passwords.” Using default accounts is not compliant, but systems that are a part of the audit zone can be easy to overlook, and they might have default passwords. Think about all the systems and applications that fall within an audit zone. Better yet, eliminate passwords and implement smart cards, recognized as an industry best practice.
+	Build a relationship with the audit team: Most agencies use contractors for security compliance audits. A close relationship with the audit team ensures they can be relied upon for best practices and other recommendations.
+Joel Dolisy is chief information officer at IT management software provider SolarWinds in Austin, Texas. </text>
+  <imgalttext>
+  </imgalttext>
+</article>

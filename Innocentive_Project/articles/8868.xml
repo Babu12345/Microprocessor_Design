@@ -1,0 +1,17 @@
+<article>
+  <type>blog</type>
+  <title>Out With the Old, In With the New</title>
+  <author>Beverly Schaeffer</author>
+  <date>November 10, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>desktop virtualization</tag>
+    <tag>PaaS clouds</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>In his final installment in a series on Defense Department information technology, Paul A. Strassmann says the greatest agents of change are mindsets and money.</abstract>
+  <text>The Defense Department needs a fresh new approach to running its information technology (IT) systems. One idea is platform-as-a-service (PaaS) cloud computing, which would reduce the number of stovepipe systems. The biggest challenge ahead: convincing department decision makers to accept PaaS as a solution and to encourage its funding. The first step is separating the defense infrastructure from the applications, according to Paul A. Strassmann in his article, "Two Barriers Block New Architecture" in this issue of SIGNAL Magazine. From there, systems can be organized into a modular, interoperable, upgradeable structure. Only then will it be feasible to place application-specific programs, sans attached infrastructure code, on top of an enterprise standard Defense Department private PaaS cloud. Once PaaS is accepted, the department must migrate from thousands of incompatible legacy systems into a much less complex environment. This can't be achieved by retrofitting legacy systems with fixes, conversion routines, software bridges, emulations and patches. When finally installed, PaaS clouds will offer superior service levels, security and savings. To reduce IT spending, the Defense Department must concentrate on generating short-term cash savings to finance the creation of PaaS clouds. In the long run, PaaS will create the greatest opportunities for cost savings for the department. Currently, 30 percent of the Defense Department's $36.5 billion IT budget goes to new development and upgrading existing systems. The remaining 70 percent goes toward operations and maintenance, but that amount doesn't include military and civilian personnel payroll. Desktop virtualization, the primary cash generator, will shift manpower costs from onsite support to server farms managed by automated network control centers. This will break up the contractor-controlled versions of operating systems, along with the dependency on unique hardware. Over an estimated period of five years, the cost of desktops would continue shrinking as devices are replaced by mobile wireless connections and thin clients. More savings are realized with the addition of desktops from the Reserve forces, the National Guard, the service academies and contractors. Experts want to revolutionize Defense Department IT services and make them run efficiently for the benefit of all involved. And PaaS cloud architecture offers the brightest hope on the horizon. What are the pros and cons of PaaS-and cloud computing-for the Defense Department? Read the full article and share your thoughts and ideas here.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

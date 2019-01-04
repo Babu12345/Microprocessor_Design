@@ -1,0 +1,28 @@
+<article>
+  <type>article</type>
+  <title>Cyber Contest Hones Military Cadets' Skills	</title>
+  <author>Henry S. Kenyon</author>
+  <date>February 6, 2014</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>training</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract></abstract>
+  <text>The U.S. Defense Department launched a new competition to promote cybersecurity education and training in the nation’s military service academies. Beginning last November, the three service academies created teams to compete in the Service Academy Cyber Stakes, which culminated in a major interschool event held over the weekend of February 1-2 at the Carnegie Mellon campus in Pittsburgh.
+	For some years, the Defense Department has been working to increase the number of cybersecurity personnel. One major goal is to have some 4,000 specialists trained by 2017. To get the number and quality of cyber experts needed, the Defense Department has focused on training and educating—especially for future officers who will be charged with defending national cyber assets.
+	The Defense Advanced Research Projects Agency (DARPA), Carnegie Mellon University and New York University’s Polytechnic School of Engineering managed the Cyber Stakes event. It involved some 50 cadets and midshipmen from West Point and the Naval and Air Force academies participating in individual and small team competitions, explains Dr. Daniel Ragsdale, DARPA program manager. While the cadets competed against one another, they shared a large room. This proximity promoted team building and participation between the competitors, which helped with information sharing. More importantly, this competitive yet cooperative atmosphere will be important in helping create long-term professional relationships between these junior officers as they begin their careers, Ragsdale says.
+	The service academies have a tradition of cyberdefense exercises dating back to 2000, Ragsdale notes. One of the goals of DARPA’s Cyber Stakes is to provide cadets with a “full spectrum” education to develop a skill set that will make them more effective cyberwarriors. It is insufficient just to teach defensive techniques, Ragsdale explains. Students must understand how attackers look at networks for vulnerabilities and how to reverse engineer software to exploit such weaknesses. Being able to view their networks from the perspective of an attacker helps cyber commanders better defend Defense Department networks, Ragsdale says.
+	The event featured a custom-built server that was used in a capture the flag exercise referred to as the “machine under duress.” For the capture the flag event, the teams were given a network infrastructure that they had to defend while simultaneously attacking the other competitors.
+	Another contest consisted of providing the teams with Linux code binaries. The teams had a limited amount of time to locate any weaknesses through the use of automated tools. The team that won first place in this event found some 100 weaknesses in the code binaries to exploit, Ragsdale says. The results of this event will be made available to the open source software community, he added.
+	Another contest was called “the bomb,” where the teams had to use any available software tools to identify and exploit vulnerabilities in a binary code. At the end of the allotted time, a Mentos pellet dropped into a soda bottle to create the “bomb.” Ragsdale notes that the soda bomb was in a container to provide a visual spectacle while keeping the event’s computer equipment safe.
+	The event also included a timed cryptography cracking contest, where the teams were given a list of 20,000 passwords of varying strengths that they had to break with automated tools. Another contest was a reverse hacking event where participants had to crack a binary code with hidden information by reverse engineering it. This particular event required significant software coding skills, Ragsdale observes.
+	One of the final events was a lock picking contest, where the teams had to pick a physical lock. The lock picking event is a traditional component of most software hacking contests that is designed to help participants build problem solving skills and a better understanding of how to locate vulnerabilities in systems, Ragsdale explains.
+	This is the first year pilot for the Cyber Stakes. There are several possibilities for the event’s future, Ragsdale says. The first is to have DARPA continue to manage the event in some capacity, either directly or in conjunction with other organizations, while the second choice may be to have the Army or the Defense Department sponsor the event. But the ultimate fate of the event remains to be seen, he adds.
+	The Cyber Stakes event helps complement ongoing cyber education and competitions that the service academies currently provide. Ragsdale notes that the goal of the academies is to provide its graduates with a well-rounded military education, but some of the schools such as the Naval Academy already provide a cybersecurity major, and the Air Force Academy has a similar initiative as well.
+	Cyber Stakes will help prepare cadets for follow-on training in their service branches and units after graduation. The Defense Department already has a series of cybercompetitions such as the Cyber Command’s Cyber Flag and the National Security Agency’s Cyber Guard events, Ragsdale observes. He adds that established events, such as the Air Force’s Red Flag exercise, now have significant cybercomponents.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

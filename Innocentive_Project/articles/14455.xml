@@ -1,0 +1,65 @@
+<article>
+  <type>article</type>
+  <title>Commercial Cyber Vulnerabilities Challenge Transportation Command</title>
+  <author>Robert K. Ackerman</author>
+  <date>May 1, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>U.S. Transportation Command</tag>
+  </tags>
+  <abstract>The U.S. Transportation Command, in charge of providing land, sea and air mobility to U.S. forces worldwide, now finds itself tasked with its own form of conflict in the cyber domain.</abstract>
+  <text>The U.S. Transportation Command, in charge of providing land, sea and air mobility to U.S. forces worldwide, now finds itself tasked with its own form of conflict in the cyber domain. Its use of commercial assets has opened it to foreign cyber intrusions that could potentially threaten U.S. military operations in a time of conflict as they depend heavily on mobility for force projection and logistics support.
+
+The command has instituted a cyber center from which it hopes to maintain a degree of security among key cyber assets. This center is working with unified and combatant commands as well as the Defense Department on cybersecurity measures. But, it must reconcile these measures with efforts among commercial networks and organizations that maintain different levels of cybersecurity.
+
+This heavy reliance on unclassified and commercial networks is unusual compared to geographic combatant commands, explains Col. Kyle D. Mikos, USAF, deputy chief, Joint Cyber Center, U.S. Transportation Command (TRANSCOM). Most of TRANSCOM’s execution work is done on its nonsecure Internet protocol router network (NIPRNet), while most geographic combatant commands conduct work on secure or encrypted protected networks. More than three-quarters of TRANSCOM’s execution operations are supported by commercial providers, and this opens up a unique area of risk to transportation operations for force projection and distribution, he continues.
+
+A 2014 Senate Armed Services Committee report examined intrusions into TRANSCOM networks over a 12-month period spanning 2012 and 2013. It identified 50 successful intrusions or other cyber events targeting TRANSCOM contractors, and at least 20 were attributable to an “advanced persistent threat”—in this case, all from China. The report noted TRANSCOM was made aware of only two of the 50 intrusions.
+
+The report blamed gaps in reporting requirements and a lack of information sharing among government entities for TRANSCOM being left in the dark about the intrusions among its commercial networks. The Chinese intrusions ranged from penetrations that stole documents, flight details, credentials and passwords to one that accessed multiple systems aboard a commercial ship contracted by TRANSCOM. The Senate Armed Services Committee declared these cyber intrusions into TRANSCOM contractors “pose a threat to U.S. military operations.”
+
+Col. Mikos describes this report as “eye-opening” in how it identified how adversaries are looking to exploit or affect logistics operations. The colonel adds TRANSCOM receives tens of thousands of attempted actions against its networks.
+
+He continues that adversaries are becoming more complex and sophisticated. As the Defense Department implements new efforts to secure its networks, these adversaries turn to targets of opportunity that are less protected. This is why TRANSCOM is worried about its commercial providers, the colonel offers.
+
+“We are concerned when information leaves the dot-mil proper and is out in the wild,” he explains. TRANSCOM has conducted risk assessments based on longtime information to help protect information on those networks.
+
+Another cyber challenge defined by TRANSCOM’s nature is that it must operate in every geographic command and in league with every operations plan another command is implementing. So, any risk in TRANSCOM can be passed on to the geographic command, and TRANSCOM must protect against that.
+
+At the heart of TRANSCOM’s cyber operations is its three-year-old Joint Cyber Center (JCC). Its primary mission is to plan, integrate and direct cyber operations for the command. Col. Mikos emphasizes the JCC does not perform computer network defense, but it does supplement and support TRANSCOM operations in the cyber domain. This includes mission assurance in the cyber domain.
+
+The integration aspect probably is the most understated part of the JCC’s mission, the colonel continues. The center must reach out to its service components, which in turn do most of the command’s execution. And, it must work with commercial entities—the commercial networks as well as facilities such as ports. All this information must coalesce in the JCC so the TRANSCOM commander can make operational risk determinations and pass necessary information on to the geographic combatant commanders, Col. Mikos states.
+
+The JCC also works to integrate cyber into operations plans. And, the U.S. Cyber Command (CYBERCOM) has introduced cybermission forces into the JCC’s day-to-day operations. The center is using them in various environments to provide a layer of cyberdefense, the colonel allows. Part of this cyberdefense effort includes working with the Joint Force Headquarters Department of Defense Information Network, or JFHQ DODIN.
+
+Col. Mikos notes that typically, if TRANSCOM might be conducting operations on an Air Force network, it would have to go to the 24th Air Force to resolve any issues. The same would hold true for the other services. But, with the JFHQ DODIN’s new command and control model, the JFHQ DODIN would provide a common operational picture with global situational awareness. The colonel describes this development as promising in that the JCC wants to be able to leverage it to support its own mission. “Guess what—we also operate on a global basis,” he says.
+
+While TRANSCOM relies on the JFHQ DODIN for military networks, it relies on CYBERCOM for security beyond the military domain. This might include a global threat picture as it relates to cyber, for example, but the cybermission forces at the JCC generally serve as the basis for activities using the tools that CYBERCOM brings to bear.
+
+One element of TRANSCOM’s cyber activities is known as Cyber Key Terrain. It comprises commercial vendors and their systems, which are managed by system program offices. Because TRANSCOM has only a limited amount of cyber resources and personnel to watch over these systems, it relies on the Cyber Key Terrain effort to establish priorities instead of being ineffective by spreading itself too thin. Operations personnel are helping identify the importance of people, processes, technology and infrastructure so the JCC can focus on defending and protecting those priority assets.
+
+Funding is not as much of a problem for the JCC as it is for other parts of the defense community. Key resources come from organizations outside TRANSCOM, such as CYBERCOM. Col. Mikos allows that the JCC does see itself short of people; however, the rising importance of cyber has mitigated truly damaging budget cuts in that domain. “We’re tightening our belt, but I don’t think we have to tighten it so far that we’re down to the last notch,” he analogizes.
+
+Still, TRANSCOM’s top priority for cybersecurity remains industry, and information sharing is what the JCC needs most from its commercial partners. “If we know they’re having problems, we can help, but at the same time we need to reciprocate and provide information,” the colonel offers. “There are limitations to what we can do, but information from industry [is important].” This information can help identify needs and bring those concerns forward to the stakeholders, he notes.
+
+And, industry needs to help provide the cyber professional work force TRANSCOM needs. The JCC has found it difficult to bring in people with the skills and capabilities required for today’s cyber issues. “We’re not looking for folks who are real good programmers or just good with zeroes and ones,” the colonel explains. “We’re looking to bring in those who understand the larger operational picture and bring in that cyber integration to support any operation—be it the transportation operation or that of a geographic combatant commander.
+
+“They [industry] are going to have the majority of that subject matter expertise, specifically in those areas where you really need a lot of depth—which is cyber,” Col. Mikos adds.
+
+For network security, commercial firms vary in terms of effectiveness. Some are top performers, while others may give the bottom line more priority, he observes. The important approach is to adhere by a set of standards, such as those established by the National Institute of Standards and Technology (NIST). TRANSCOM includes in its contracts a clause determining if the commercial provider is NIST-compliant, Col. Mikos notes. Establishing a minimum level of standard cybersecurity will eliminate most risk, as will keeping standard practices of cyber hygiene and associated efforts.
+
+Col. Mikos analogizes cyber with his branch of service, the Air Force. The military began toying with aircraft in World War I, but it didn’t begin full air operations until World War II, shortly after which it became an independent service. He views cyber as still in the infancy phase, comparing it to aircraft in 1925—15 years after the military began using aircraft. The military still is trying to figure out how to use cyber best in military operations.
+
+For the future, TRANSCOM aims to bring the cyber domain into support aspects—being able to provide the commander with risk assessment across the entire global environment, the colonel offers. A TRANSCOM commander would be able to break down that risk among different elements such as individual ports, and how that would affect the commander’s ability to conduct operations. That risk assessment in turn would be represented to geographic commanders.
+
+Achieving this goal is more an issue of being able to work through various challenges such as identifying priorities, especially with regard to timing and tempo, Col. Mikos says. “As we move through operations, certain things become more important to us,” he explains. “If we’re in the beginning of planning an operation, then planning systems are vital. If we are in execution, then infrastructure and other assets become more important as we transit various areas.
+
+“Being able to identify those Cyber Key Terrains and provide that risk assessment to our commander—so he can inform his other geographic commanders of the risk they’re taking on so they can make informed decisions—that’s where we need to be,” the colonel declares.</text>
+  <imgalttext>
+    <img>Personnel with the 618th Tanker Airlift Control Center coordinate global operations from Scott Air Force Base, Illinois. The U.S. Transportation Command (TRANSCOM) finds itself amid battles in cyberspace as intrusions on networks owned by its commercial partners pose a significant threat to U.S. military operations.</img>
+    <img>Workers prepare to offload shipping containers from a U.S. Military Sealift Command ship in Kuwait. Foreign cyber intrusions into commercial shipping networks have allowed cybermarauders access to significant information about cargoes and schedules.</img>
+    <img>U.S. military vehicles are loaded onto railroad flatcars for transportation to locations within the United States. Foreign cyber intrusions offer the potential for adversaries to learn about logistics support as well as to change information in manifests, thus denying vital supplies to U.S. forces at key moments.</img>
+  </imgalttext>
+</article>

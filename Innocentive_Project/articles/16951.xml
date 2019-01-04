@@ -1,0 +1,40 @@
+<article>
+  <type>article</type>
+  <title>Disruptive by Design: Turning Analysts' Thoughts Into Digital Models</title>
+  <author>Jesse Nielsen</author>
+  <date>December 1, 2016</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>Disruptive by Design</tag>
+  </tags>
+  <abstract>The U.S. intelligence community (IC) must transform its ability to discern threats from hundreds of millions of data points that flood databases each day and provide timely, actionable findings to warfighters and government officials.</abstract>
+  <text>The U.S. intelligence community (IC) must transform its ability to discern threats from hundreds of millions of data points that flood databases each day and provide timely, actionable findings to warfighters and government officials. As it stands, agencies devote too much time, money and talent to reading data and must find new ways to keep their edge over adversaries. One way of addressing the problem is turning analysts’ thoughts into digital analytic models.
+
+You read that correctly.
+
+In shoptalk, analytic modeling is the digital representation of an analyst’s hypothesis of adversarial behavior related to a key intelligence topic. In simpler terms, it is mapping anticipated conduct and putting it into an easily understandable format that can be leveraged by analysts and computers. For example, this could be the expected linear and temporal steps an adversary would take to perform a missile launch, represented in a human- and machine-readable format. 
+
+On a basic level, analytic modeling has a foundation in mathematics, and businesses have applied the technique to tailor product pitches to specific customers. 
+
+To be clear, this approach does not advocate replacing intelligence analysts with computers. Instead, it complements the analytic work force and, for the first time, leverages the power of cloud computing and advanced algorithms to understand thoughts that otherwise would be trapped inside analysts’ heads. Applying analytic models and digitizing those thoughts lets the IC pivot more quickly to assess and address the vast amount of incoming information.
+
+Digitizing analyst thought also allows for more critical thinking. According to one IC evaluation, analysts spend 80 percent of their time doing recursive searching on known targets. In an eight-hour day, an analyst searches for information on six of them, leaving only 20 percent of their time for critical thinking.
+
+With search results netting tens of thousands of hits, human analysts do not have time to sort through every relevant hit. Analytic models can exhaustively look at data in ways humans cannot. The potential impact could be massive and incredibly disruptive to U.S. adversaries.
+
+How can we get there? An initial step to combat data overload is to align IC data scientists with top analysts in each intelligence discipline to capture hypotheses on adversarial behavior. Data scientists then can digitize the human thought process into analytic models, which evaluate the data the same way a human would—only much, much faster. As the models return results and insights, analysts can work with data scientists to refine the models and ensure that they reflect mission needs.
+
+Speed is a major advantage. Shifting from human analysis to digitized thought and analytic models could detect actionable intelligence from large datasets in mere minutes rather than hundreds of hours.
+
+Implementing the approach across the IC would not be easy. It would require patience, organizational change management and a good communication plan to explain its value to mission stakeholders. It also would require connecting new analytic modeling activities to the mission—and properly communicating that connection—to foster work force engagement and reduce organizational resistance. 
+
+To highlight the critical need for this radical approach to data analysis, we need look no further than the mobile sensation Pokemon Go. Within two weeks of its introduction, the game had attracted more than 15 million players, who daily streamed geotagged data of the places to find Pokemon. Imagine if terrorists gained access to the Pokemon network and spoofed a rare Pokemon figure in Central Park, drawing thousands of people to a single location where they planted explosives. Without leveraging digitized analyst thought in the form of analytic models, it would be difficult to determine that there was a network intrusion, let alone who did it. 
+
+As more devices, applications and objects connect to the online world, it will be critical to unlock thoughts and hypotheses from analysts’ brains so the IC can apply the power of cloud computing to the nation’s most critical problems. These are not problems that can be addressed by hiring more and better analysts alone.
+
+Jesse Nielsen is the founder and managing director of VXIT Analytics. He is a member of AFCEA’s Emerging Professionals in Intelligence Committee (EPIC). The views expressed here are his alone.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

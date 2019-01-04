@@ -1,0 +1,55 @@
+<article>
+  <type>article</type>
+  <title>Automation Aids Cybersecurity for Financial Sector</title>
+  <author>George I. Seffers</author>
+  <date>July 1, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>A U.S. cybersecurity threat analysis center that allows financial institutions around the world to share cyber attack data and solutions is adopting an automated system that permits information to be disseminated more quickly and efficiently, enhancing protection for the financial segment of the critical infrastructure.</abstract>
+  <text>A U.S. cybersecurity threat analysis center that allows financial institutions around the world to share cyber attack data and solutions is adopting an automated system that permits information to be disseminated more quickly and efficiently, enhancing protection for the financial segment of the critical infrastructure.  
+The Financial Services Information Sharing and Analysis Center (FS-ISAC), a member-owned, nonprofit organization, was launched in 1999 in response to the previous year’s Presidential Decision Directive 63. The directive mandated that the public and private sectors share information about physical and cybersecurity threats and vulnerabilities to enhance critical infrastructure protection. That directive was updated in 2003 with Homeland Security Presidential Directive 7. FS-ISAC works with government agencies, including the Treasury Department, the Secret Service and the FBI, to disseminate critical information regarding the financial sector.
+Using current technologies and processes, members can share information and implement solutions fairly quickly. But to foster even faster results, FS-ISAC has turned to automation. The organization created a joint venture, Soltra, through a partnership with The Depository Trust and Clearing Corporation. The joint venture developed the Soltra Edge software, which Bill Nelson, FS-ISAC president and CEO, describes as a “beaconing system used to warn of invaders.”
+
+The on-premise software collects cyberthreat intelligence from various sources, converts it into an industry standard language and provides actionable intelligence to help users better protect their organizations and customers. The system uses open standards, including Structured Threat Information eXpression (STIX), a uniform format for the threat information, and Trusted Automated eXchange of Indicator Information (TAXII), a protocol for routing that threat data.
+
+Members use a secure portal or emails to send incident alerts. “If you do it through email or through the secure portal, some of that’s manual. The alerts go pretty fast, but because there’s so much information, your ability to consume the information and get it into your security systems to delete the malware, block the attacker’s Internet Protocol address or whatever can take at best 10 or 15 minutes because you have to do it manually. At the worst, it may take hours,” Nelson says. “Even in the manual environment that we’re in today, we’ve been fairly successful, and the process is pretty fast. It’s not taking days or weeks or months to detect this stuff. But there are all these data elements you can automate, so you can do this almost instantly—machine-to-machine speed—to block these attacks before they’re successful.”
+
+The FS-ISAC announced the general availability of Soltra Edge in December. Soltra and other vendors are developing adapters to integrate the product with commonly used cybersecurity tools and solutions. Soltra also offers two premium versions with additional features that support scalability and redundancy. The company will provide fee-based maintenance and support for the platform as well as professional services to assist with deployment, configuration and integration.
+
+“Automation is a big step in the right direction. I think that’s probably the most valuable thing,” Nelson adds. “The move toward automation will revolutionize information sharing. We’ve made huge progress already, but automation will be icing on the cake.”
+
+And the technology is gaining ground outside the financial sector as well. In early May, Soltra announced the National Health ISAC also will use Soltra Edge.
+
+The FS-ISAC’s current process includes the Traffic Light Protocol, a ratings system for information. Red signifies the information is for recipients’ eyes only. For example, the name of the firm that was attacked and is sharing the information may be classified as red.
+
+Data tagged amber can be shared with other members. “In general, that information is kept behind the secure portal. It might have some attribution added, or it might be something coming from the government. It might be a special FBI or Secret Service alert,” Nelson explains. “It could be talking about tactics, techniques and procedures used by the attacker. And it may be something that you don’t want the bad guy to know that you know what they know.”
+
+Green data can be distributed more broadly. “The threat indicators, as we call them, are green, so you can share that with other members. You can share it with your suppliers, third-party service providers, maybe your customers, but just not the press. It’s still limited in that regard,” he reveals, adding that the system includes white for information that can be shared with the media.
+
+He emphasizes the FS-ISAC does not share personally identifiable information, such as victims’ names or account data. “It’s more about sharing information about these attackers and the attacks themselves so that financial institutions can protect their enterprise and protect their customers,” Nelson points out.
+
+The organization also has created peer groups among its members. Small banks and credit unions or insurance companies, for example, can share information just among their groups. “That way, even though you’re sharing with attribution, you’re sharing with peers you know and trust,” Nelson offers.
+
+FS-ISAC members include financial institutions of all sizes, such as banks, credit unions, payment processors, broker-dealers, insurance companies, clearinghouses and stock exchanges. Until 2012, membership was limited to companies with a U.S. presence. But a major payment processor in the United Kingdom with no U.S. presence wanted to join, so the FS-ISAC board of directors created a new set of criteria for membership, which has allowed the organization to grow rapidly.
+
+Member firms come from about 45 countries, including Great Britain, Australia, Singapore, South Africa, Brazil, Malaysia, Thailand and India. “In 2004, we had 68 members. We have 5,500 today. We added 10 members today,” Nelson reports. “It’s becoming more of a worldwide vehicle to share information because an attack that’s happening in the Netherlands today, you might hear about tomorrow in Australia or here in the United States.”
+
+Members are organizations rather than individuals. “There might be multiple individuals within a company who have access to that information. It could be tens of thousands of people,” he says.
+
+The FS-ISAC is not the only thing that has evolved. Nelson reports the cyberthreat has become more widespread and destructive in recent years. From 2008 to 2010, the financial services sector saw a major uptick in criminal activity. “It’s gotten even worse since then. There are more attempts at stealing money and launching other types of attacks, and as a result, we’ve had more information sharing,” he says. “In 2012 and 2013, we saw some sophisticated denial-of-service attacks from a nation-state that were launched against about 50 financial systems, mostly in the United States, but in other countries, too.”
+
+In addition, attacks on Saudi Aramco and other companies have wiped hard drives on thousands of computers and left them unbootable. Even the attack on Sony Corporation, which gained widespread attention because titillating, celebrity-related gossip was revealed, was more destructive than many realize, Nelson says. “There was destructive malware put on their systems. They were able to attack and destroy Sony’s financial systems and other systems, including the backups. The ability to reproduce that is really made very difficult, and Sony is still dealing with that,” he says, indicating the attack could affect Sony’s financial report.
+
+“Cybercriminals are still there. ‘Hacktivists’ appear from time to time. We saw sophisticated disruptive attacks. And now we’re seeing destructive malware, so it’s almost like an evolution from criminal behavior to disruption to destruction. That’s an alarming trend,” he adds.
+
+One recent trend involves criminals emailing what appear to be legitimate invoices from one business to another. “That company pays it, but it’s actually being paid to a fraudulent entity. The money gets re-sent to some other country, usually in Eastern Europe or China, and it’s gone. There have been a lot of cases recently of that happening,” Nelson reports.
+
+He also reveals he now has a personal interest in thwarting financial crimes. “I got a notice from my bank recently for a breach of my mortgage information. That had my email address. I think it had my Social Security number and a bunch of other stuff, so I got free credit monitoring for the next three years. It’s nice, but it doesn’t solve the problem with my stolen information,” he states.
+
+One major advantage of belonging to the FS-ISAC, he says, is that companies do not have to act alone. “We’ve become almost like a community. One of our members called it hive intelligence, where there’s a threat and all the workers band together to attack the threat, like bees attacking a bear approaching the hive. One company’s incident becomes the whole industry’s response,” he says.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

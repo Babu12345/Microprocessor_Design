@@ -1,0 +1,23 @@
+<article>
+  <type>blog</type>
+  <title>JIE May Enable Faster Mobile App Deployment</title>
+  <author>George I. Seffers</author>
+  <date>April 7, 2014</date>
+  <departments>
+    <department>Cyber</department>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Acquisition</tag>
+    <tag>DISA</tag>
+    <tag>mobile</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>Once the Joint Information Environment (JIE) is in place, the U.S. Defense Department may be able to deploy secure mobile apps much more quickly than it can with today’s cumbersome process, according to Teri Takai, Defense Department chief information officer.</abstract>
+  <text>Once the Joint Information Environment (JIE) is in place, the U.S. Defense Department may be able to deploy secure mobile apps much more quickly than it can with today’s cumbersome process, according to Teri Takai, Defense Department chief information officer.
+	“My hope is that, as we get more agile, as we create a standard security architecture through JIE, with our mobile devices we’ll be able to bring on applications much more quickly onto a secure, standard platform and get them fielded much faster and much more responsively than today,” Takai said during the Security Through Innovation Summit, Washington, D.C. She added that today’s process is necessarily difficult because, “We don’t have that kind of standard platform that we can ensure everyone’s activities and their data and their communications are secure.”
+	Currently, mobile devices require access to encryption through the user’s common access card (CAC), but department officials are seeking a solution for encrypting communications without the need for a second device, Takai reported. “One of the things we’re exploring with NSA right now is the ability to certify the device and then not have to have that device continually connected to the [encryption] authentication,” she said.
+	The department has certified “four or five” unclassified devices and is working with the NSA to certify platforms for classified information, including top secret. The department needs to be able to remotely wipe a device clean and lock it up if it’s lost, even if it carries only information classified as for official use only, she added.For more on Takai's Security Through Innovation Summit presentation, read Technology Editor George I. Seffers' article "Lightening the Workload for Cyber Command."</text>
+  <imgalttext>
+  </imgalttext>
+</article>

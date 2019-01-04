@@ -1,0 +1,40 @@
+<article>
+  <type>blog</type>
+  <title>Getting Federal Agencies Cyber Ready for CSIP</title>
+  <author>J. Wayne Lloyd</author>
+  <date>April 6, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Federal agencies clamor for industry best practices to implement findings resulting from last year's 30-day "Cybersecurity Sprint," part of the administration’s broader effort to bolster federal cybersecurity. A new mandatory directive for all civilian government agencies, the Cybersecurity Strategy Implementation Plan, provides a series of actions to further secure federal information systems.  </abstract>
+  <text>Federal agencies clamor for industry best practices to implement findings resulting from last year’s 30-day “Cybersecurity Sprint,” part of the administration’s broader effort to bolster federal cybersecurity. A new mandatory directive for all civilian government agencies, the Cybersecurity Strategy Implementation Plan (CSIP), provides a series of actions to further secure federal information systems.  
+
+To shore up cybersecurity and work toward ensuring network resiliency, the CSIP addresses issues through a number of points, including prioritized identification and protection of high-value assets (HVAs), timely detection and rapid response to incidents, rapid recovery from breaches, recruitment and retention of a highly qualified cyber workforce, and effective acquisition and deployment of technologies.
+
+However, the CSIP does not address other issues, such as how agencies should continuously measure, monitor and increase network resilience; how knowledge of network infrastructure increases the odds of a successful CSIP implementation; and how cyber incident training increases digital resilience.                 
+
+Protecting high value information assets
+
+The CSIP provides a clear definition of the HVAs that should be identified, prioritized and protected, and because of the dynamic nature of cybersecurity risks, recommends the efforts to safeguard that data be an ongoing activity. But it doesn’t pose a key question that agency officials must ask themselves: Do we need this data? In some cases, the answer is no. Agencies should eliminate unneeded data rather than spend resources protecting it. The nonessential data can be consolidated and isolated, with agencies continuously verifying that the data segmentation is implemented as intended.
+
+Know your network terrain
+
+Under the CSIP, it’s not enough to identify HVAs—the document also requires identification and knowledge of the agency’s network terrain. An agency’s HVAs probably will have hundreds of thousands of endpoints and vulnerabilities, which means agencies should create checklists to understand detailed impacts of cyber incidents  on the assets, and ensure appropriate cybersecurity protections are in place. Checklist questions could include: Where are the vulnerable hosts? Is the network configured for security? What if defenses fail? And how resilient is my network? Answers will determine how prepared teams are to handle a cyberthreat.
+
+The only way to effectively address these questions and really understand a network is to create a model and war game it, which can identify perimeter weaknesses; verify assets are segmented and protected; show where intruders can gain access; and pinpoint how to cut them off. Simulated model approaches help cybersecurity teams understand their entire, as-built network, including cloud and virtual networks, and achieve digital resilience to fight cybersecurity attacks.
+
+Train and practice
+
+The need to practice, and then practice again, rings true within cybersecurity as with other industries, from the rigorous training for firefighters to specialized professional athletes. Practice sessions must develop proficiency and specific skill sets necessary for success. Proper training and practice will not happen without management support, which means agencies must allocate time and resources and provide training and education to retain a qualified workforce.
+
+Overall, to achieve network resilience and make rapid response capabilities a part of a CSIP-approved cyber plan, agencies must identify the HVAs worth keeping, model networks to put those assets into context, use standardized metrics to track resiliency and set up continuous training schedules.
+
+For more on this subject, listen to this RedSeal webinar, “Is Your Agency Ready for CSIP?”
+
+J. Wayne Lloyd is the federal chief technology officer at RedSeal.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

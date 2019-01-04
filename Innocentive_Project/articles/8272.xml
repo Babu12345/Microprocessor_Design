@@ -1,0 +1,28 @@
+<article>
+  <type>blog</type>
+  <title>Czechs Find Balances in Electronic Security</title>
+  <author>Beverly Schaeffer</author>
+  <date>June 17, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>ALUCID</tag>
+    <tag>ANECT</tag>
+    <tag>authentication system</tag>
+    <tag>Czech Republic Ministry of Culture</tag>
+    <tag>electronic security</tag>
+    <tag>IT</tag>
+    <tag>Level Asymmetric Cryptography</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>A Czech Republic company has melded eSecurity with simpler, more streamlined eAccess, making cyberspace communications both safer and more efficient.</abstract>
+  <text>With a new authentication framework that automatically provides identity, the Czech Republic is proving that electronic security access doesn't have to be compromised for ease of use. The system, known as the Automatic Liberal and User-Centric Electronic Identity, or ALUCID, gives users the best of both worlds. According to Petr Jirásek in his article, "Automatic Electronic Identity Provides Information Security," in this issue of SIGNAL Magazine, ALUCID was developed by Czech company ANECT and launched in a pilot case by the Czech Republic Ministry of Culture in 2009. The system now is being used in national and regional government organizations. Where many INFOSEC experts seemed resigned to residual risk acceptance, ANECT instead spent two years researching user-centric authentication to develop ALUCID. Company officials believe it ends the need for choosing between acceptable access protection and ease of use. Libor Neumann, who developed the automatic electronic identity concept, elaborates:
+
+	The infrastructure is designed to transmit all authentications in information and communications systems via secure authentication layer. It takes over the risks related to authentication processes from the users and system administrators.
+Following the 2009 ALUCID prototype launch, it was used in the Vysocina Regional Authority's eHealth project in 2010. According to Petr Pavlinec, regional authority CIO:
+
+	We were facing a situation where users from regional hospitals were accessing the DRG [Diagnosis Related Group system for patient classification] application installed and administered in our facility. This was why we were looking for a secure access control solution that would be user friendly at the same time. The native authentication of DRG application was login- and password-based, while the system contains highly sensitive patient data.
+Automatic electronic identity works using five principles: a user-centric concept; an anonymous electronic identity (eID); a new approach to organizational procedures for eID management; cooperation between the information and communications systems in interlinking and disconnecting online; and integrated management of eID security. The objective is to eliminate all need for login names and passwords. In ALUCID, users only have their Personal Electronic Identity Gadget (PEIG), which contains all of their eIDs. PEIGs can be installed on PCs, mobile phones or USB memory sticks. Once the gadget is activated, its owner can use it to authenticate to all systems accepting ALUCID, without entering any login information. The electronic identifier that transmits over the network is anonymous and independent of the user's real identity. ANECT has announced launch of an ALUCID-based product line that aims at eHealth and eGovernment. The firm plans to focus on a variety of PEIG types using various hardware gadgets, and it's finishing versions that work on Android mobile phones. Have other organizations in the international arena developed similar systems or achieved corresponding results? What additional applications exist for this technology? Share you ideas here.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

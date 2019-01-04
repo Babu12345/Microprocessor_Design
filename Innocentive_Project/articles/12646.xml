@@ -1,0 +1,19 @@
+<article>
+  <type>blog</type>
+  <title>RoboRoo: Leap-Ahead Technology</title>
+  <author>George I. Seffers</author>
+  <date>April 14, 2014</date>
+  <departments>
+    <department>International</department>
+  </departments>
+  <tags>
+    <tag>Festo</tag>
+    <tag>robot</tag>
+    <tag>New Products</tag>
+  </tags>
+  <abstract>The BionicKangaroo mimics the unique way a kangaroo moves. Like its natural model, it can recover the energy when jumping, store it and efficiently use it for the next jump. The kangaroobot intelligently combines pneumatic and electrical drive technology to produce a highly dynamic system.</abstract>
+  <text>The BionicKangaroo mimics the unique way a kangaroo moves. Like its natural model, it can recover the energy when jumping, store it and efficiently use it for the next jump. The kangaroobot intelligently combines pneumatic and electrical drive technology to produce a highly dynamic system. The stable jump kinematics plus the precise control technology ensure stability when jumping and landing. The system is controlled by gestures. Festo paid particular attention to the mobile energy supply on the artificial kangaroo, even developing two different concepts—one with an integrated compressor and one with a mobile high-pressure storage device.
+</text>
+  <imgalttext>
+  </imgalttext>
+</article>

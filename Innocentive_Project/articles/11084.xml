@@ -1,0 +1,20 @@
+<article>
+  <type>blog</type>
+  <title>Big Data and Cloud Computing Present Opportunities, Challenges</title>
+  <author>Max Cacas</author>
+  <date>May 22, 2013</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>cloud computing</tag>
+    <tag>AFCEA SOLUTIONS</tag>
+  </tags>
+  <abstract></abstract>
+  <text>The term “big data” means different things to different people. To a bank, big data represents the ability to gain business intelligence from financial transactions. To the United States intelligence community, big data’s challenge comes in trying to sift through information from multiple environments in support of the warfighter.
+John Marshall, senior information systems technologist for the Joint Staff Intelligence Directorate (J-2), Joint Chiefs of Staff, said big data includes information being captured constantly by more than 50 million mobile devices, and “the question is, how do we successfully mine through that data for those nuggets that my colleagues and I need?” He appeared on a panel, “Big Data and the Evolving Enterprise,” at the the AFCEA SOLUTIONS Series – George Mason University Symposium, “Critical Issues in C4I."
+	The second panel of the day focused on an examination of cloud computing. Frank Konieczny, chief technology officer, Office of Information Dominance, and chief information officer, Office of the Secretary of the Air Force, reminded attendees that in his office, the promise of cloud computing is an empty one if it does not fulfill Air Force mission requirements and help airmen to meet the mission.
+	Fellow panelist Geoffrey Raines, a cloud infrastructure engineer for the MITRE Corporation's National Security Engineering Center, noted that significant challenges remain on the road to cloud computing in the Defense Department; among them, portability and interoperability; risks associated with data center consolidation; and managing cost expectations, which have been widely touted as a benefit of cloud computing.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

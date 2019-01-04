@@ -1,0 +1,36 @@
+<article>
+  <type>blog</type>
+  <title>Using Predictive Analytics to Identify External Threats</title>
+  <author>Eddie Garcia</author>
+  <date>December 16, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>insider threat</tag>
+    <tag>predictive analytics</tag>
+    <tag>big data</tag>
+    <tag>Intelligence</tag>
+    <tag>guest bloggers</tag>
+  </tags>
+  <abstract>Stopping insider threats has become a unifying cybersecurity mission, particularly in the defense and intelligence communities. And for good reason. Typically, the words "insider threat" might conjured up the likeness of Edward Snowden. But the reality is much scarier, writes blogger Eddie Garcia.  </abstract>
+  <text>Stopping insider threats has become a unifying cybersecurity mission, particularly in the defense and intelligence communities. And for good reason. While in the recent past, mention of the words insider threat conjured up the likeness of Edward Snowden, the reality is much scarier. More often than not, insider threats result from innocent people making simple mistakes rather than the common misconception of malicious employees or whistleblowers.
+
+Predictive analytics monitors interactions between people and systems to identify who is doing what, when and from where, and successfully identifies and stops insider threats. It’s a complex undertaking, yet pales in comparison to the challenges of detecting external threats. Organizations have the right to monitor employees’ emails, track online activity and surveil what they post on social media. When it comes to the government, particularly from the defense and intelligence communities, this type of monitoring raises significant privacy concerns.
+
+Believe it or not, this is where big data analytics can help. By its nature, big data is big. The process can find anomalies in large groups, as opposed to scrutinizing a single individual’s actions. By reviewing massive data sets, patterns of normal behavior can be identified, drawing attention to abnormal behaviors that might call for further analysis. This pattern and anomaly detection facilitates predicting threats while retaining user privacy.
+
+Specific tools exist to help agencies predict and prevent external threats. Most organizations have systems that help secure networks or monitor traffic to prevent an attack. Big data algorithms and machine learning tools take this prevention a step further, letting agencies collect and analyze massive amounts of data to predict threats. However, agencies hesitate to apply them to external threats because it’s largely unchartered territory. It’s a catch-22; agencies are unwilling to try these systems because they are not fully vetted by other agencies, but someone needs to make the first move to vet them. To overcome the quandary, the government should look to the success of similar applications in commercial markets.
+
+For example, the Financial Industry Regulatory Authority (FINRA), an independent regulator overseen by the Securities and Exchange Commission to safeguard the investing public against fraud and bad practices, receives data feeds containing orders, quotes and trades from securities firms and various exchanges and identifies patterns of normal behavior to then single out abnormal behaviors for further investigation. For example, recurring small transactions or extremely large deals to overseas or unheard-of institutions would raise a red flag and likely lead to probing for potential money laundering.
+
+Apache Hadoop software is the foundation of FINRA’s platform—a good technological fit for the regulatory purpose. Its open source nature facilitates cost savings and rapid innovation cycles. The architecture lets FINRA use a public cloud infrastructure, in this case provided by Amazon Web Services. This cloud-based implementation delivers the elasticity, cost-savings and enterprise-grade infrastructure support that FINRA needs. Cloudera was selected as the Hadoop distribution for the critical process of building the market event graph database and providing rapid access to the data for regulatory analysts, which lets them identify patterns and anomalies. FINRA also uses other Hadoop-based tools, including Apache HBase, which provides random, real-time read/write access to large data sets. These tools and others in the open source ecosystem could be applied to defense and intelligence use cases. Apache Accumulo, for example, is a popular alternative to HBase for the government, as it was built by the National Security Agency and offers fine-grained access controls.
+
+Agencies wanting to use predictive analytics to prevent external threats don’t need to start from scratch. We don’t have the years it takes to develop new tools or fully vet them in the federal environment. The tools already exist and have been used successfully in highly regulated environments to look at petabytes of data and find the proverbial needles in the haystack to stop the bad guys while protecting the good guys.
+
+Eddie Garcia is the chief security architect for Cloudera, the modern data management and analytics platform built on Apache Hadoop and the latest open source technologies. With more than 20 years of experience building security-related software and two patents for data security under his belt, Eddie helps users address security requirements for sensitive datasets on the Cloudera platform.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

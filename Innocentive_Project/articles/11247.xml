@@ -1,0 +1,24 @@
+<article>
+  <type>article</type>
+  <title>Army Makes Battlefield Cellular Networks Whole</title>
+  <author>Rita Boland</author>
+  <date>June 26, 2013</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Army Technologies</tag>
+    <tag>mobile</tag>
+  </tags>
+  <abstract>The Multi-Access Cellular Extension project develops the foundational architecture to integrate the equivalent of commercial cellular technologies into future force networks to enable communications by filling in gaps in fixed infrastructure.</abstract>
+  <text>Soldiers in austere environments are closer to enjoying cellular capabilities in part because of a program bridging the developments in Nett Warrior and the Warfighter Information Network-Tactical (WIN-T). The Multi-Access Cellular Extension (MACE) project develops the foundational architecture to integrate the equivalent of commercial cellular technologies into future force networks to enable communications by filling in gaps in fixed infrastructure.
+	The U.S. Army has made a big push with Nett Warrior and WIN-T to advance 4G LTE technology. However, using such a network in the field poses challenges not present in civilian settings. “The biggest problem with deploying tactical networks that are cellular based is that they can’t provide seamless coverage,” says Benjamin Foresta, chief of the Commercial Technology Integration and Evaluation Branch at the Communications-Electronics Research, Development, and Engineering Center. Commercial networks have hidden assets that pick up gaps in coverage; MACE aims to create an ad hoc network that will fill in the discontinuities in coverage common in theater so that users experience service hand offs and features, such as security transfer from one point to another, transparently. Foresta explains that most of the Army’s applications rely on multicast technologies, which are types of enhancements that MACE offers.
+	The gap-filling effort kicked off in 2012, and already its capabilities are at technology readiness levels of five or six. Program personnel showcased their work to Nett Warrior and WIN-T officials at an exercise earlier this year. The various parties are working through formal transition agreements so that all the tools can be deployed in the fiscal year 2015 to 2016 time frame.
+	MACE is scheduled to end in fiscal year 2014 when it transitions to the other programs. After that time, developers will turn their attention to the Secure Wireless Infrastructure Technologies (SWIFT) project, which will focus on addressing vulnerabilities in commercial cellular networks. The effort will examine how to prevent adversaries from accessing the communications to carry out subversive actions such as listening in, spoofing, geolocating or jamming.
+	A consideration for the present and upcoming work is creating solutions for both current and future theaters of operations. Foresta emphasizes that if the Army wants to leverage commercial capabilities, it has to ensure they function in any environment. Challenges to overcome when deploying cellular networks include interoperating with current systems and gaining host nation approval to turn them on in addition to addressing the inherent security concerns, which increase based on the sophistication of local adversaries. Developers already are designing their tools with coalition operations in mind, establishing program agreements and data exchanges with countries including the United Kingdom, Israel and France.
+?One of the battlefield areas that will benefit from the availability of 4G cellular capabilities is telemedicine. Medics in this field are experimenting with the technology for their efforts to improve care from point of injury. Norbert Reis, MACE project lead, explains that shared audio and visual information allows for enhanced remote triage. One application enables medical personnel at a distant location to hear the internal organ sounds of a patient through various 4G technologies that transmit the sound to a stethoscope. The tools were demonstrated in May and June, and troops could start using them now. In the future, such technology could monitor entire squads, alerting leaders when individuals are unfit for duty. In the same way, the capabilities can make each soldier a sensor in the broader sense, feeding their individual pieces of information into the decision-making process.</text>
+  <imgalttext>
+    <img></img>
+    <img></img>
+  </imgalttext>
+</article>

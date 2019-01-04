@@ -1,0 +1,36 @@
+<article>
+  <type>article</type>
+  <title>The Cyber Implications of Acquisition Speed: Part VI</title>
+  <author>Wesley Kaplow</author>
+  <date>October 1, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Acquisition</tag>
+  </tags>
+  <abstract>The intelligence community recently has directed activity toward creating common resources to increase collaboration and speed up the delivery of information technology tools for the government.</abstract>
+  <text>Sixth in an ongoing series of articles
+
+The intelligence community recently has directed activity toward creating common resources to increase collaboration and speed up the delivery of information technology tools for the government. The need for modern and cost-effective information technology solutions is paramount. However, complex, paper-heavy, time-consuming information-assurance processes steal capital required to modernize. This unproductive cycle affects both U.S. government systems and the industrial base that develops mission systems for the government.
+
+Developing technology for the intelligence community (IC) is unique because the process is more complicated than that of industry. The industry tools the IC needs must be specially configured and “authorized” before they can be used. They also are isolated from normal Internet-based ecosystems. While vital in ensuring that the end products are not compromised, this adds more delays and costs due to government being extensively “in the middle.” To change this, government needs to realize that corporate profits are related directly to customers’ trust in, and the security of, information technology products and services. Government can leverage this reality—and speed up the acquisition process—by placing risk right back on the companies whose products form the foundation of the IC’s information technology systems.
+
+It is important to distinguish between government and industry. For government, the IC Information Technology Enterprise (ICITE) set of services—the network, the desktop, the cloud—eliminates the slew of agencies building and running redundant services. Industry, on the other hand, must be free to create and use the best tools to perform on their contracts without the government acting as the middleman.
+
+To meet this need, the National Reconnaissance Office (NRO) established an industry partner access (IPA) office to focus on industry’s ability to perform. The IPA office develops the technical guidelines and, more importantly, the business structure to satisfy a comprehensive set of goals. These include the rapid and cost-effective delivery of bandwidth to enable access to classified networks; collaboration services for voice, video and web; and resources in classified cloud systems.
+
+To bring this office together, the NRO acquired a managed service provider (MSP). The principles of the MSP are critical. First, industry directly pays the MSP via a fee-for-service plan. Second, new services are created in response to customer needs, with government oversight rather than direction. Third, the MSP is responsible for assessment and authorization, or A&amp;A, using “statements of assurance” and “fit for purpose” representations to speed up the delivery of products and services. Last, the contractor assumes financial liability for updating and replacing any product or service that fails information assurance.
+
+So far, this approach has led to several accomplishments. These include secure, managed voice and video services with a rich and expanding range of features and devices provided to more than 100 companies. More importantly, industry can select the services that are precisely right for their business needs and negotiate cost-effective volume discounts. Other improvements include rapid service delivery and installation intervals; reduced in-house government engineering and operations staff; the addition of a major new service set enabling the purchase of ICITE services on commercial terms; and comprehensive information-assurance reporting.
+
+This change cannot mature fully without industry adjusting, however. Historically, government has assumed the risks of developing and deploying noncommercial systems. This has functioned almost as an incentive for traditional development contractors to create business models that can increase costs dramatically based on delays attributed to government. This cost model must be broken if real change is going to happen.
+
+Industry supporting the IC must step up and embrace a competitive landscape where cost, risk and profits are balanced and shared. This happens with technology startups that are willing to stand behind their products and capabilities while competing on cost and performance. The IPA effort is a beginning, enabling government agencies and contracted companies to share costs and best allocate risk. Yes, some will profit and others not so much. That is how it should work. Innovation and bold thinking should be rewarded when they lead to success. 
+
+ 
+
+Wesley Kaplow, Ph.D., is a member of the AFCEA International Cyber Committee. He is vice president, network solutions, and chief technology officer for Polar Star Consulting LLC, Chantilly, Virginia.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

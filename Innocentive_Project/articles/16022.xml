@@ -1,0 +1,51 @@
+<article>
+  <type>article</type>
+  <title>DARPA Chips Away at Spectrum Challenges</title>
+  <author>George I. Seffers</author>
+  <date>May 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Spectrum</tag>
+    <tag>DARPA</tag>
+  </tags>
+  <abstract>U.S. Defense Department researchers recently announced the development of an analog-to-digital converter chip that processes spectrum at the previously unheard of rate of 60 billion times per second—fast enough to potentially ensure the uninterrupted operation of spectrum-dependent military systems, including communications and radar, in contested and congested electromagnetic environments.</abstract>
+  <text>U.S. Defense Department researchers recently announced the development of an analog-to-digital converter chip that processes spectrum at the previously unheard of rate of 60 billion times per second—fast enough to potentially ensure the uninterrupted operation of spectrum-dependent military systems, including communications and radar, in contested and congested electromagnetic environments.
+
+The electromagnetic spectrum consists of component energy waves, from trillionth-of-a-meter-wavelength gamma rays to multikilometer-wavelength radio waves. It is a physical phenomenon. Analog-to-digital converters (ADCs) transform physical, or analog, data on the spectrum into digits that a computer can analyze and manipulate, an important capability for understanding and adapting to dynamic electromagnetic environments, Defense Advanced Research Projects Agency (DARPA) officials explain in a written announcement. 
+
+DARPA’s ultrapowerful ADC measures 32 nanometers. For perspective, an IBM white paper says more than 4 million 32-nanometer transistors could fit on a period at the end of a sentence. A 32-nanometer transistor contains gates so small that 3,000 of them could fit across the width of a human hair, and the transistor can switch on and off 3 billion times in one second. It would take a person 4,000 years to flip a light switch that many times.
+
+Today’s ADCs process data within a limited portion of the spectrum at a given time. As a result, they can temporarily overlook critical information about radar, jamming, communications and other potentially problematic signals. However, DARPA’s new ADC semiconductor detects and analyzes any signal at 30 gigahertz (GHz) or below, essentially providing a one-stop shop for processing radar, communications and electronic warfare signals.
+
+“It’s really unheard of to take in this much spectrum at once. Ten years ago, no one would have ever dreamed they could bring in this much spectrum all at one time into the digital domain,” says Troy Olsson, DARPA’s Arrays at Commercial Timescales (ACT) program manager. The chip is being developed under the ACT program in partnership with GLOBALFOUNDRIES, a manufacturer of highly advanced semiconductor chips.
+
+That blistering fast performance does not come easy, though. The amount of data generated reaches nearly a terabyte per second, a data rate so high it requires on-chip data-management circuitry. The circuitry allows signals to be processed locally, reducing the amount of information passed on to neighboring electronics. “It’s likely there are other challenges, now that we have this capability, that have to be addressed, like how to process all that data and how to route all that data around in an energy-efficient form factor. In many cases, there may be other challenges that need to be addressed before we can see the useful output of this converter in a fielded system,” Olsson offers. 
+
+DARPA’s next step is to figure out where and how the ADC first may be used. Olsson suggests that the converter may offer situational awareness of the radio frequency (RF) spectrum. “We’re very early on in the exploration of the analog-to-digital converter chip. We just recently achieved this level of performance, and we’re looking [to determine] how we can leverage it to give us information or cognition about what’s going on in our radio frequency environment,” he explains.
+
+For example, the ADC could “take in this broad swath of RF spectrum and see where there are RF emitters in your spectrum,” Olsson offers. He hypothesizes that it could be integrated into a Humvee, “where maybe power consumption isn’t the biggest problem you have,” and then later adapted to “the handheld soldier level, where energy efficiency becomes much more critical.”
+
+Spectrum situational awareness is more vital and more challenging in the military sector than in other domains. “The interference in a commercial application really isn’t very strong. In a Defense Department application, we have dynamically changing RF environments that are not preplanned. We don’t know what to expect, and so our transmitters and receivers need much higher performance,” Olsson states.
+
+Designing technology for military use presents other challenges as well. “We have to design our systems not with preplanned infrastructure and spectrum in mind, but [we must] also design them to what the spectrum might look like five to 10 years from now,” Olsson points out.
+
+His team plans to develop a 14-nanometer semiconductor that uses 50 percent less power than current technology while sampling greater swaths of spectrum. “We’re always conducting additional tests. We’re actively seeking to improve performance,” Olsson says. 
+
+The ADC breakthrough is possible, in part, because of three trends in the commercial sector. First, over the past decade, a type of ADC known as a successive approximation register (SAR) converter has seen significant performance improvements while its size and energy consumption requirements have shrunk considerably. Those advances have led to the creation of a new architecture in which the SAR converters are linked in parallel to achieve greater speeds. As many as 128 data converters can run in parallel, each one sampling the signal at a slightly different instance in time, which is very efficient. “This is called massive time interweaving,” Olsson explains. “You take the outputs of those converters, and you stitch them back together on the back end to get an overall very wide bandwidth sampling rate.”
+
+Additionally, technologists have dramatically increased the number of digital transistors that can be integrated inexpensively into 32-nanometer and 14-nanometer semiconductors. “The added digital transistors enable precise compensation for the imperfections that inherently exist in the analog portions of the ADC,” Olsson adds. 
+
+Furthermore, transistor performance has improved. “That allows us, with lower energy, to be able to sample a much larger bandwidth of RF spectrum. When you put those things together—better transistor performance, more transistors for calibration and new architectures of massive time interweaving enabled by the underlying integrated circuit technology—those are the things that really make this type of data converter possible,” the program manager elaborates.
+
+Overall, the ACT program aims to shorten design cycles and updates for arrays and push past the traditional barriers that lead to 10-year development cycles, 20- to 30-year static life cycles and costly service-life extension programs. Researchers intend to develop a digitally interconnected building block from which larger systems could be formed. The desired building block will be composed from a common module and with a reconfigurable electromagnetic interface, making it scalable and customizable for each application without requiring a full redesign.
+
+“The ACT program is really about building common hardware that can be reused across many different RF systems. That will allow us to share the development cost and reduce the time frame ... so that the department can upgrade its hardware [just as] Apple upgrades the hardware in its iPhone every couple of years, rather than it being a 10-year development and upgrade cycle,” Olsson adds.
+
+Program officials estimate that developing a new phased array—and upgrading it when necessary—will take about half the time it does today. Cost savings could vary substantially, but Olsson estimates that the cost of hardware upgrades also could be halved. “What we’re trying to do is to make systems more modular so that we can put in specific components as they are upgraded, and we’re trying to make them more digital so that software and firmware can also add new capabilities,” he says.</text>
+  <imgalttext>
+    <img>Two EA-6B Prowler electronic warfare aircraft fly over Turkey to support combined task force operations. The analog-to-digital converter chip being developed by DARPA ultimately could benefit a wide range of communications, radar and electronic warfare systems.</img>
+    <img>The solid-state phased array radar system at Alaska’s Clear Air Force Station is approximately 11 stories tall. Defense Advanced Research Projects Agency (DARPA) researchers are developing an analog-to-digital converter semiconductor that could help reduce development and upgrade times for phased arrays while providing greater situational awareness of the spectrum environment.</img>
+  </imgalttext>
+</article>

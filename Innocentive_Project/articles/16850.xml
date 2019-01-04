@@ -1,0 +1,104 @@
+<article>
+  <type>article</type>
+  <title>Connecting the Dots Between Disruptive Technologies</title>
+  <author>Robert K. Ackerman</author>
+  <date>November 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Internet of Things</tag>
+    <tag>cloud computing</tag>
+    <tag>mobility</tag>
+    <tag>big data</tag>
+  </tags>
+  <abstract>A cluster of macrotechnologies offers the potential for a new wave of innovation that revolutionizes all aspects of government, military and civilian life. The more these technologies advance, the more their synergies increase.</abstract>
+  <text>A cluster of macrotechnologies offers the potential for a new wave of innovation that revolutionizes all aspects of government, military and civilian life. Many of these technologies are familiar, and their effects are well-known. What may not be common knowledge is that the more these technologies advance, the more their synergies increase.
+
+A collection of experts from government, industry, academia and the military is tackling the challenge of parsing these related technologies and determining their futures. The experts already have designated some top technology areas and identified key related issues as they work in trend groups. Ultimately, they hope to develop a menu of technology forecasts that describes future advances and their potential effects—especially on government, for which these predictions could guide acquisition and implementation.
+
+The trend groups run the gamut of vital technologies: cloud computing, mobility, big data analytics, smart manufacturing and cybersecurity, including supervisory control and data acquisition (SCADA) and the Internet of Things (IoT). Other technologies the experts may consider include quantum computing, software-defined systems, wireless spectrum/bandwidth and autonomous systems and robotics.
+
+Bob Childs is chairman of the AFCEA International Technology Committee, which spawned the Technology Trends groups. He explains that each trend, or vector, is explored on three levels. The foundational level determines the key issues of each technology. The next level examines subtopics within each vector. The third level taps findings to generate likelihoods and possibilities. Any of these vectors can be broken down into a large number of subtopics. 
+
+For example, the cloud is undergoing a significant transformation across both the commercial world and the government, states Al Mink of Systems Spirit, who leads the cloud vector group. Most of the challenges facing the cloud are similar to those of past technology waves, such as mainframes, PCs and networks, he observes.
+
+One of the big benefits of cloud computing is that it streamlines management for the organization using it—hardware, servers and patches no longer are the user’s responsibility. Security is the greatest concern, Mink allows.
+
+This worry has generated what he describes as the most significant challenge with the cloud: helping the government feel comfortable with adopting the cloud and understanding its implications. One government concern lies in being able to extract data from its legacy systems, which is more complicated than it seems. Another is the potential for being locked into a single cloud provider. And expunging sensitive data that inadvertently is placed in an accessible cloud could have substantial ramifications, including in contracting.
+
+The vector group has broken down cloud issues into the subtopics of virtualization, application migration to the cloud, security, data warehousing and server consolidation. But the area that excites Mink the most is containers. His group is focusing on this issue, which he says is gaining traction commercially and in some sectors of the military. It entails placing an application in a container built of pieces of software. The software-wrapped app works in a single cloud environment, but it also can be transferred relatively easily to a different cloud. The container construct also provides layers of trusted security. 
+
+Mink offers that the container approach may quell the fears of organizations that do not trust a commercial cloud provider to store sensitive data. Currently, providers such as Google will not locate a cloud inside a Defense Department firewall, and the department in turn is reluctant to place data in a publicly located commercial cloud. Sensitive but unclassified data could be stored in a commercial cloud using containers, he suggests. 
+
+Another issue with the cloud is that it tends to preclude small business, Mink notes. Any firm that builds a cloud and attracts customers soon no longer qualifies as a small business. Also, a small business that acts as a go-between for government and a large cloud provider might not be as secure or as efficient as the original cloud provider. The cloud vector group will be considering roles that small businesses could play, such as helping with migrations or monitoring security, he offers. 
+
+Meanwhile, a separate mobility vector group is focusing on the great potential of mobile solutions in business and the military. With effective mobility, the military can increase its speed of operations, and nonmilitary organizations can gain a competitive advantage, points out Cecilia Phan, co-lead of the Defense Department Mobility Working Group in the Office of the J-6/Chief Information Officer and mobility vector group leader. She adds that work force productivity improves with the ability to collect data in real time.
+
+Her group is focusing on four elements of mobility: infrastructure, devices, applications and enterprise services. Phan says the Defense Department’s stance on mobility highlights some of the issues in this area. Department officials view a partnership with industry as very important to advancing communications, she reports. “We would like to leverage commercial technology to the maximum extent possible, rather than build our own if we don’t have to,” Phan says.
+
+Anitha Raj, president of ARAR Technology, which specializes in information technology strategy, enterprise integration and program management, points out that mobile links allow greater and faster collaboration among workers. Mobility also contributes to better decision making because people have more information at hand—an advantage being examined by the vector group.
+
+Phan observes that mobility’s two key assets, flexibility and agility, must be balanced with security and cost. Accordingly, her group is focusing on infrastructure and policy along with enabling technologies. She continues that Internet-based mobility tends to exist in two realms. One, which largely entails personal devices such as smartphones and smartwatches, is the “Internet of Me.” The other, which comprises information collection devices such as cameras and sensors, is the Internet of Things (IoT). Securing mobile devices while keeping up with rapidly changing technologies is a challenge, Phan says.
+
+Truly reaping the benefits of mobility also will require meeting the challenge of integration, she declares. Instead of putting all their eggs in one basket, the Defense Department and other organizations should support multiple vendors and different operating systems. Additionally, applications should be consolidated for ease of use.
+
+Identity management is another issue facing mobility. Public key infrastructure (PKI) probably offers the best option, Phan says.
+
+She emphasizes that while mobility is evolving, so are its challenges. As new capabilities emerge across the technology spectrum, they likely will influence mobility.
+
+Among these capabilities is big data analytics, which is advancing quickly, notes Victoria Huttar, Defense Department account executive for Hortonworks and leader of the vector group. Big data itself is a growth sector, especially with the advent of new sensor data. In addition, people still are discovering big data analytics and its options, she continues. “You can’t wait another 10 years to figure out how you’re going to manage your data anymore,” Huttar emphasizes.
+
+She says big data analytics encompasses two approaches: data in motion, for perishable knowledge, and data at rest, for historical insights. Apache Hadoop and Apache NiFi are two open source technologies, one for each discipline, respectively, that organizations are using to meet big data requirements.
+
+Big data analytics is affected strongly by advances in the other vectors. For example, built-in security is now an expectation. Ten-year-old Apache Hadoop originally did not have it. It was only added over the past couple of years, which also is emblematic of how fast the market is changing, Huttar offers. 
+
+She points out that the world’s digital information used to double every century. Now, it doubles every two years. This explosion is driven by the IoT, mobile devices and the ability to generate more digital content than ever. She adds that the digital universe will grow from 4 zettabytes of data in 2013 to 44 zettabytes in 2020. 
+
+The challenge is to manage data in a cost-effective way, Huttar says. “This is the largest business innovation cycle in history, and these changes threaten existing data strategies,” she emphasizes. “Many companies have big plans for big data, but existing data architectures make our data inaccessible, incomplete, irrelevant and expensive. As data streams in at accelerating rates, the cost to store, reformat and retrieve it grows more quickly than the value it may provide.”
+
+Huttar’s group sees two major concerns surrounding the discipline of big data analytics: education and the lack of trained engineers. Many people trained in one system are not trained in another. A customer can collect a large amount of structured and unstructured data, which in turn requires a higher level of analytics. Doctorates in mathematics may be necessary to assemble more sophisticated data algorithms, she suggests.
+
+Other issues include the dynamic nature of the market. As new components and functionality are included in big data analytics, planners must be able to determine when and how to incorporate them. And interoperability will be a challenge as different databases must be capable of exchanging information to reap their full potential. “It will allow companies, defense and the federal agencies to become more efficient at less of a cost,” Huttar declares.
+
+“The amount of data that can be analyzed would surprise people,” she adds. “With new types of data added to the mix, users increasingly will develop new insights.” Sciences such as human genome and predictive analysis in particular will benefit. “What will surprise people is what they can find in the data that they never knew they could even ask before,” she posits.
+
+Huttar’s group members are collaborating with each other on different aspects of big data analytics based on their individual expertise. Ultimately, their work may come down to which capabilities can be brought into each sector of the field and how this can be enabled.
+
+Still another group is addressing challenges and opportunities with smart manufacturing. This vector encompasses many other disciplines that dominate the digital revolution, largely the ability to “collect and extract information regularly and dynamically” for process assessment, says Vicki A. Barbur, former chief technical officer at Concurrent Technologies and smart manufacturing vector group leader. It also can be viewed as data logging and Internet connection with a high-technology flavor, such as 3-D printing and additive manufacturing.
+
+These technologies can apply to polymers and metals—a prime interest of the government, she continues. Additive manufacturing, which describes the technologies that build 3-D objects by adding layer upon layer of material, can connect business operations with the manufacturing floor because of its digital nature. It offers opportunities in just-in-time production for delivery of parts with low demand or a short shelf life.
+
+But whenever requirements, designs, material characteristics or process operations are digitized, system resilience becomes an issue, Barbur says. Digitizing the manufacturing process brings with it the same threats faced by other information technologies. “You need to know you have integrity in that system, and effectively its parameters are not being manipulated in any way that would lead to anything other than first-class output,” she declares.
+
+Digital systems could be opening up critical points for infiltration by criminals, Barbur continues. Intruders could penetrate attack vectors that are not even known to supply chain managers, and the result could be counterfeit parts that lack authenticity or reliability. This digital thread has many attack vectors, and managers must install appropriate cybersecurity measures, she emphasizes.
+
+The economics of digitizing manufacturing also must be considered, Barbur notes. Producing scarce or even unique components will not provide as much profit as mass production. Consequently, the technical advantages gained by just-in-time manufacturing must be balanced against its economic challenges.
+
+The smart manufacturing group is working to develop information to help increase awareness of these challenges, Barbur offers. The next step will be to identify resources for countering them, including security guidelines. 
+
+She continues that small manufacturers are more vulnerable than their larger counterparts to these challenges—possibly because they are less aware of the many drawbacks and have less exposure to the nuances and threats of the process. Also, small businesses often lack the resources needed to use appropriate controls.
+
+Barbur hopes that her group can “put these kind of gaps on the table” to increase awareness and deploy the resources necessary to close them. The group aims to present the first part of its case early next year.
+
+While all these vector groups are interconnected in one way or another, cybersecurity is the common denominator linking each trend. Gil Duvall, president and CEO of Data Security Strategies and leader of the cyber group, characterizes his group’s activity as casting a forward look at threat profiles. Its focus is threat vectors and the technologies needed to counter these threats.
+
+The group is emphasizing four areas. The first is counterfeit components and technologies. The group is examining new ways of detecting faux products, particularly in cyber technology. The second area involves data breach issues. Duvall explains that the group is concentrating on network microsegmentation to address this threat.
+
+The third area is the erupting IoT. The group is focusing on how to protect information generated by countless sensors and actuators and different IP addresses on devices. Lightweight encryption will be the key to protecting this information, Duvall offers.
+
+The fourth area is ransomware. Large-scale installations of all kinds have been stopped in their tracks by hackers who encrypted their data for criminal profit. Duvall says the group is addressing this challenge through work on machine-to-machine security.
+
+He emphasizes that the potential solutions his group is weighing are by no means the final word. Other ideas as well as trends may come to the fore as the group continues its work. Similarly, the four challenge areas are a place to start rather than exclusive focal points.
+
+Industry already is at work on solutions to these cyber challenges, and government agencies are conducting research in the same areas. The key to implementing solutions may lie in determining how all the interconnected technologies and capabilities actually function in real infrastructures, Duvall says.
+
+Ultimately, before the group recommends implementing solutions, it will determine where to tap expertise so that government can seek advice from the best sources. The goal is to bring awareness of problems, and potential solutions, to the government. “If people know about it, they can begin to ask about it,” Duvall says. This also will help government and industry form strategic partnerships to pursue solutions.
+
+That approach extends across the other vector groups as well. Childs allows that the groups are looking to involve Washington, D.C., area colleges and universities in this effort. By early 2017, the groups hope to add more experts from academia and industry to their efforts. Ultimately, the teams aim to generate conclusive forecasts in their subject areas by late 2017.
+
+Different leading-edge technologies are changing the daily lives of people in government, industry and the private sector. Forecasting future trends for these technologies is complicated by their synergistic effect on each other.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

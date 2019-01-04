@@ -1,0 +1,31 @@
+<article>
+  <type>blog</type>
+  <title>Codebreakers Report: NIST Needs Solutions for Looming Quantum Computer Threat </title>
+  <author>Sandra Jontz</author>
+  <date>December 21, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>NIST</tag>
+    <tag>News Briefs</tag>
+    <tag>quantum computing</tag>
+  </tags>
+  <abstract>Calling all codebreakers. The National Institute of Standards and Technology, or NIST, needs the public's help to head off what officials say is a looming threat to information security: quantum computers.</abstract>
+  <text>Calling all codebreakers. The National Institute of Standards and Technology, or NIST, needs the public's help to head off what officials say is a looming threat to information security: quantum computers.
+
+It is believed that futuristic quantum computers significantly will outperform the supercomputers of today, an advancement that potentially could break encryption codes used to protect privacy in digital systems. The agency needs methods and strategies from the world’s cryptographers.
+
+Government and private researchers tout quantum computing as the holy grail of quantum research. Eventually, quantum encryption could be impossible to crack, but until then, supercomputer-generated codes could be at serious risk. 
+
+Therefore, NIST's Call for Proposals for Post-Quantum Cryptography Standardization, published in the Federal Register, is the first formal step toward countering the potential danger of an advanced digital information age. “Though practical quantum computers have yet to be built, their design—which would draw upon very different scientific concepts than conventional computers—would enable them to break some of the cryptographic algorithms commonly used to protect electronic messages,” according to NIST officials.
+
+Over the next several years, NIST will gather, test and offer new algorithms—with the public's help—that would be less susceptible to a quantum computer’s attack. Cryptographers must send their proposed algorithms to NIST by November 30, 2017. A priority is algorithms for public key cryptography, a common method of protecting information using electronic keys to unlock secrets. Public key cryptographic systems, such as those used for electronic banking, use pairs of very large numbers as keys for decrypting a message. The numbers are multiplied together to produce even larger numbers that conventional computers cannot easily factor. However, a quantum computer would be able to find the initial two numbers quickly, breaking the encryption.
+
+“We’re looking to replace three NIST cryptographic standards and guidelines that would be the most vulnerable to quantum computers,” says NIST mathematician Dustin Moody, referring to FIPS 186-4, NIST SP 800-56A and NIST SP 800-56B. “They deal with encryption, key establishment and digital signatures, all of which use forms of public key cryptography.”
+
+Full details of NIST's efforts are posted online.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

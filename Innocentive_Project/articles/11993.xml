@@ -1,0 +1,26 @@
+<article>
+  <type>article</type>
+  <title>Threat Grows for Cyber-Physical Systems</title>
+  <author>Robert K. Ackerman</author>
+  <date>November 21, 2013</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Security</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The critical infrastructure must address cyberthreats in a manner different from that of conventional information technology systems.</abstract>
+  <text>The rapid adoption of commercial firmware and software for cybersystems serving the critical infrastructure is increasing vulnerabilities that potentially could lead to devastating system failures, according to a report issued by a cybersecurity organization. In some cases, these diverse systems also are threatened by their legacy nature, which is a barrier to implementing necessary cybersecurity measures.
+	The term cyber-physical systems, or CPS, is given to elements of the critical infrastructure that manipulate sectors such as power and water, industrial systems, transportation, medical devices and building automation. CPS tend to have security needs that are different from those of more common information technology elements. Serious failure in these systems could result in loss of life as well as significant economic damage.
+	The growth of CPS around the world also is increasing their access to attackers. Many longtime systems use inherently insecure protocols that increase risks in connected operations, and older systems even may lack the memory or processing power to integrate badly needed security protocols. The need to operate some of these infrastructure systems continually often prevents the incorporation of needed changes or upgrades.
+	These findings, along with several recommendations, are presented in a report on designed-in cybersecurity for CPS issued by the Cyber Security Research Alliance (CSRA), which draws from a workshop held earlier this year in conjunction with the National Institute for Standards and Technology (NIST). Ron Perez, a senior fellow and security architect at Advanced Micro Devices and treasurer of the CSRA, states that this report marks the beginning of what will be a long process for securing cyber-physical systems.
+	CPS are set apart from other information technology elements in that they have moving parts, Perez continues. Yet the underlying thread tying together diverse CPS is how they are used. They tend to be replaced over longer periods of time—often as long as a decade or more, which represents several generations of information technology improvement. And, the oldest CPS may not even have been designed to be connected to external sources, and now they face threats because of their increased degree of connectivity. Any kind of industrial control system is high on the vulnerability list, Perez allows.
+	At the top of the recommendations is to develop the right taxonomy for classifying threats to the diverse CPS. The community must agree on attack models and vulnerabilities, as well as determine where progress in other sectors of the information technology industry can be applied to CPS, Perez offers.
+	Developing more resilient and responsive CPS is another recommendation that may draw on the taxonomy. Responsiveness may need to be in real time, Perez suggests.
+	Defining economic and business incentives for secure CPS is a complicated recommendation because of the diverse nature of these systems. An element in the critical infrastructure may be of utmost importance to a large part of the population, but that does not always factor into purchasing decisions, Perez notes. A balance between the cost of security and the cost of failure must be determined and defined.
+	Many of the 10 recommendations are elemental, Perez admits. However, in generating the them, the group did not want to assume that some ideas would be obvious to all. The recommendations go in depth and, in some cases, are divided among short-term and long-term. “Keeping some things as simple as possible at some level always is a good thing to do and always helps manage complexity,” he says.
+	With the release of this report, the next phase is to start executing these recommendations, Perez states. Creating the taxonomy is the first step, but the alliance is working on other projects as well. It hopes to complete most of these projects within the next nine to 12 months. The CSRA also is working to expand its public-private partnership beyond NIST.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

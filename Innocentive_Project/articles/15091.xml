@@ -1,0 +1,43 @@
+<article>
+  <type>article</type>
+  <title>Touchy Subject: NIST Works to Verify Contactless Fingerprint Technology </title>
+  <author>Sandra Jontz</author>
+  <date>September 10, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>fingerprints</tag>
+    <tag>biometrics</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The U.S. government wants in on the resurgence of developments in contactless biometric technology, seeing smart applications of such devices in places such as airport security. But before device deployment, officials need to make sure the scanners and sensors actually do what they say they do—safely and accurately. </abstract>
+  <text>The U.S. government wants in on the resurgence of developments in contactless biometric technology, seeing smart applications of such devices in places such as airport security. But before device deployment, officials need to make sure the scanners and sensors actually do what they say they do—safely and accurately.
+
+The National Institute of Standards and Technology (NIST) is working with a handful of private companies to develop data format standards, best practices and methods for certification testing on new products before any can be used.
+
+Contactless fingerprinting isn’t anything new, and the U.S, government has been interested in the technology for more than a decade, says Michael Garris, NIST biometrics senior scientist.
+
+“There has been a resurgence of technology being developed to address contactless fingerprinting,” Garris says. “Some of the reasons for why this is showing up again at this time has to do with the improvements in the overall technology of automated fingerprint matching and algorithms.”
+
+And there is a market for it, he adds. “The data breaches and things like that that have been headlined in the news show there is a need for stronger authentication, and fingerprinting can help. Remote authentication to support electronic commerce transactions is also a big desire—things like Apple Pay that are supported by a fingerprint now.” 
+
+Over the next year, NIST researchers will work with contactless fingerprint devices now offered by MorphoTrak LLC and 3M Company through Cooperative Research and Development Agreements (CRADAs), which are federal contracts with industry and academia to leverage resources for research and development.
+
+Government researchers want to develop methods for how to test and evaluate new devices, and establish consistent and scientific methods to validate them for government use, Garris says. “These devices produce a new type of fingerprint. They look like the ridges and valleys on a fingertip, but to human examiners, the fingerprint images themselves are of a different quality and a different nature. … Now we’re talking about a person not touching a sensor, so the skin on the finger is not being flattened out." Other variables between devices include the distance away from sensors people being scanned can stand and the speed at which they swipe their hand. 
+
+Morpho (Safran) launched its MorphoWave device, which provides a biometric access solution featuring high-speed contactless fingerprint matching. The device captures four fingerprints with a single wave of the hand. 3M is developing several biometric solutions, including automated fingerprint and palmprint identification systems and mobile biometric identification devices. The technology is geared toward helping law enforcement and public safety organizations reduce crime. “We are not yet at an appropriate point to discuss a touchless solution, but I can tell you that touchless technology is the next evolution in biometrics,” says a company spokeswoman.
+
+Development of the overall technology offers unprecedented speed and hygienic solutions to conventional fingerprint readers. In addition to deciphering standards to ensure devices are reliable, NIST seeks to verify they will work with the legacy systems that house millions of existing contact-based fingerprint records.
+
+With current touch-based sensors, many companies produce devices that fundamentally use the same underlying technology for optical fingerprinting, Garris explains. “When you touch the glass with your finger, it’s sensing the fingerprint using very similar optical technology. We don’t have that right now with contactless fingerprints. With contactless fingerprints, every vendor’s device can be significantly—and it’s expected that they will be—different in terms of what the technical approach is.”
+
+NIST seeks additional CRADA partners for that reason. “We need more devices. We want to see consistency or we want see what works across all of these different types of approaches.”
+
+The agency researchers also work to advance the use of image-based biometric technologies through evaluation and standardization, focusing on not just fingerprints, but face- and iris-capture technology.
+
+“NIST is a trusted member of the technology community,” Garris offers. “We’ve set up this CRADA so that developers can come into this trustworthy, safe environment with their intellectual properties and we can all work together in an appropriate way to make sure that these devices work well for their intended job and are ready for the marketplace.”</text>
+  <imgalttext>
+    <img>©Axstokes/Shutterstock.com/NIST</img>
+  </imgalttext>
+</article>

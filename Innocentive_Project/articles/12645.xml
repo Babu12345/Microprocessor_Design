@@ -1,0 +1,16 @@
+<article>
+  <type>blog</type>
+  <title>Mitigating the Heartbleed Cyberthreat</title>
+  <author>Rita Boland</author>
+  <date>April 14, 2014</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The Department of Homeland Security (DHS) has released guidance to help citizens protect themselves from the recent Heartbleed cyberthreat. This bug makes websites that use OpenSSL vulnerable to attacks that could be used to obtain names, passwords and credit card numbers.</abstract>
+  <text>The Department of Homeland Security (DHS) has released guidance to help citizens protect themselves from the recent Heartbleed cyberthreat. This bug makes websites that use OpenSSL vulnerable to attacks that could be used to obtain names, passwords and credit card numbers. Steps the department recommends for the public are: change passwords every few weeks; set strong passwords, ideally with letter, number and symbol combinations; use different passwords for different websites; and never share a password. The DHS also has a blog posted outlining what the organization is doing to mitigate Heartbleed along with other basic protection tips. More cybersafety information is available through the Stop.Think.Connect. campaign.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

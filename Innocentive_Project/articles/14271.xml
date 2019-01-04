@@ -1,0 +1,60 @@
+<article>
+  <type>article</type>
+  <title>Networked Medical Devices Deliver Benefits, Drawbacks</title>
+  <author>Sandra Jontz</author>
+  <date>March 19, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>health</tag>
+    <tag>Internet of Things</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>Experts today trumpet the very same warnings voiced two years ago, when then Vice President Dick Cheney’s heart implant drew public attention and fervor to the mounting warnings of lax cybersecurity on wireless medical devices, some worn and some implanted inside the body. </abstract>
+  <text>Experts today trumpet the very same warnings voiced two years ago, when then Vice President Dick Cheney’s heart implant drew public attention and fervor to the mounting warnings of lax cybersecurity on wireless medical devices, some worn and some implanted inside the body. Few improvements have been developed to protect implanted insulin pumps, for example, from hackers who can then dispense lethal doses or to safeguard pacemakers from breaches delivering deadly shocks.
+
+“This could be a new wave of terrorism that we see,” U.S. Rep. Diana DeGette (D-CO), whose daughter wears an implanted insulin pump, said this week at a panel discussion hosted by the Atlantic Council on the issue.
+
+While the market of networked medical devices boomed over the past two years, security to protect the ubiquitous Internet of Things failed to keep pace.
+
+“What we’ve noticed are material weakness in a lot of these devices,” said Joshua Corman, chief technology officer (CTO) of Sonatype, referring to an array of connected networks, from automobiles to medical devices. “It just stands to reason that in many ways, it was a failure of the security industry. We allowed people to believe we had a pretty good handle on cybersecurity.
+
+“We think we have a lot of ground to make up,” continued Corman, an innovator who co-founded Rugged Software and IamTheCavalry to draw public attention to lapses and promote security on digital infrastructure. “The answer isn’t to scare people. … The answer isn’t to point out failures in legacy devices. It’s to be a helping hand instead of a pointing finger.”
+
+With the Internet literally embedded in some people, both medical professionals and patients stand to benefit from the technological advances. But with the convenience, improved health care and quality of life, and health care savings come added risks that could be mitigated by a focus on security, collaboration between manufacturers and security experts and a change in the regulatory approval paradigm, experts said.    
+
+“Hacktivists, thieves, spies and even terrorists seek to exploit vulnerabilities in information technologies to commit crimes and cause havoc,” reads a portion of a new report, a collaboration between Intel Security and the Atlantic Council’s Cyber Statecraft Initiative at the Brent Scowcroft Center on International Security. “However, when a networked device is literally plugged into a person, the consequences of cybercrime committed via that device might be particularly personnel and threatening.”
+
+The report “draws attention to the delicate balance between the promise of new technologies such as networked medical devices, but also society’s ability to secure the technological and communications foundations of these devices,” Jason Healey, one of the authors and director of the Initiative, said this week during a public presentation of the report.
+
+Protecting patient privacy remains a paramount concern, especially now that “the underground community is placing a higher value on patient data than credit card data,” said Pat Calhoun, senior vice president and general manager of the Network Security Business Unit at McAfee.
+
+According to PricewaterhouseCooper’s Global State of Information Security Survey 2015, cited in the Atlantic Council report, the number of information security breaches reported by health care providers soared 60 percent from 2013 to 2014, almost double the increase seen in other industries.
+
+Some numbers, however, tell a positive story. For example, 48 percent of medical personnel already integrated consumer devices into their information technology systems, and more than 60 percent conducted security audits on devices, Calhoun said. “So the good news is that practitioners are seeing [security breaches] as a potential challenge, and they’re taking this into their own hands.”
+
+Some of the medical device manufacturers, such as small businesses trying to keep up or make inroads in the market or lacking the budgets for cybersecurity, are turning to open source code and libraries for security solutions, Corman said. As CTO at Sonatye, he is custodian of a large repository of open source code. “There is a stunning number of automakers, industrial control systems and medical device manufacturers using very old, known-vulnerable, highly exploitable code in their products,” he said. “The shared value we get out of open source code … becomes a shared attack surface and a shared risk.”
+
+This point highlights a key problem in the industry, Calhoun voiced. “If a manufacturer is trying to build a device and has a plethora of different open source libraries that they can go after, they don’t necessarily have the people to do security audits of all that code, and that’s the challenge.”
+
+According to one estimate, these technologies could save $63 billion in health care costs over the next 15 years, with a 15 to 30 percent reduction in hospital equipment costs.
+
+Minimizing risks means building security into the devices from the outset, a practice commonly referred to as “baked in, not bolted on,” said DeGette, who is drafting bipartisan legislation aimed at encouraging industrial innovation while addressing patient protections. Part of the Congressional 21st Century Cures initiative seeks to streamline the Food and Drug Administration (FDA) with the National Institutes of Health in terms of biomedical research and promote data sharing among agencies that have an impact over health care, she said.
+
+The FDA’s Center for Devices and Radiological Health wants to regulate some wearables, such as those that administer medications, make specific medical claims or have some risk associated with treatment, said Suzanne Schwartz, director of emergency preparedness/operations and medical countermeasures at the FDA.
+
+“The challenge for us is to ensure that new developments adhere to the Software Act, which seeks to clarify the FDA’s ability to regulate those new technologies. … Fostering that type of innovation is indeed very, very important to us, and doing it within the framework of what would be safe and effective,” Schwartz said. “Our core mission is to protect but also to promote and advance public health.”
+
+And while the FDA established a mechanism by which manufacturers can report breaches or security lapses, there is no federal mandate requiring them to do so, she said.
+
+“The possibility of being able to eliminate all risk does not exist, and we recognize that,” Schwartz said. “That’s why everything is a risk-related decision. That is how the FDA regulates drugs and biologics and devices as well. You’re never going to be able to eliminate all risk. You’re never going to be able to eliminate all vulnerability. But it’s the idea of being able to manage that risk appropriately, and for us to articulate to industry what the tools are to manage the risk and what our expectations are with respect to that.”
+
+ 
+
+Editor’s note: AFCEA International’s Cyber Committee recently released a white paper on the emerging dangers to safety, identity protections and privacy issues presented by the Internet of Things. The paper, “The Security Implications of the Internet of Things” highlights weaknesses in the budding technology and offers suggestions to build in and enhance security.</text>
+  <imgalttext>
+    <img>From left to right, Jason Healey, Suzanne Schwartz, Joshua Corman and Pat Calhoun discuss the impact of lack cybersecurity on the Internet of Things and health care. </img>
+    <img>U.S. Rep. Diana DeGette (D-CO) talks about proposed legislation to safeguard patient privacy amid booming market of medical devices connected to the Internet.</img>
+  </imgalttext>
+</article>

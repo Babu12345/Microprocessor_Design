@@ -1,0 +1,40 @@
+<article>
+  <type>blog</type>
+  <title>Predicting the Cyber Future</title>
+  <author>George I. Seffers</author>
+  <date>August 3, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>TechNet Augusta 2016</tag>
+    <tag>cloud computing</tag>
+    <tag>mobility</tag>
+  </tags>
+  <abstract>One of the biggest advances in the near future likely will be the convergence of major military networks into one unified Department of Defense Information Network (DODIN), predicts Ronald Pontius, deputy to the commanding general, U.S. Army Cyber Command and Second Army. And that network will be operated and maintained by Signal Corps soldiers.</abstract>
+  <text>One of the biggest advances in the near future likely will be the convergence of major military networks into one unified Department of Defense Information Network (DODIN), predicts Ronald Pontius, deputy to the commanding general, U.S. Army Cyber Command and Second Army. And that network will be operated and maintained by Signal Corps soldiers.
+
+The convergence will include the department’s unclassified and classified networks known as NIPRNET and SIPRNET, along with the Joint Worldwide Intelligence Communications System, Pontius told the audience at the AFCEA TechNet Augusta conference taking place in Augusta, Georgia. Pontius said the Army’s progress in the cyber domain has been “remarkable” since establishing the service’s cyber center of excellence at Fort Gordon about six years ago. He used that history to launch a series of predictions about what will happen over the next six years.
+
+“The Signal Corps will not only be highly relevant it will be central to everything that occurs on and across the DODIN,” Pontius asserted.
+
+He reported that with the Joint Regional Security Stack (JRSS) initiative, the Defense Department already is taking major steps toward network modernization. “The JRSS provides foundational elements for enhanced situational understanding, one of our critical capability gaps. JRSS allows us to see and understand the DODIN like never before,” Pontius said.
+
+Complementing the JRSS with a dedicated and secure infrastructure and big data analytics technology, the department is poised to enable warfighters to conduct operations while defeating cyberthreats, he added. “The implementation of JRSS and multi-protocol label switching is also allowing us to increase bandwidth significantly, critical to moving toward a cloud-based and virtualized architecture,” Pontius said.
+
+Cloud services also will play a critical role. “Cloud services will enhance warfighter mobility, providing on-demand, secure, global access to data and enterprise services, enabling home station mission command where Army forces will be able to plug into the same networks they use for home station anywhere in the world,” he said.
+
+Another major advancement will be the adoption of new types of multi-factor authentication. “That could include biometric-based identity authentication systems at the enterprise tactical levels. Coupled with end-point security, we will improve user security and increase our situational understanding of everything and everyone that is on or accessing our networks,” Pontius stated.
+
+The very nature of the network will evolve to include platform security, cloud capabilities, virtual, wireless, mobile, advanced encryption and advanced computing “that will continue to evolve and disrupt” and “data encryption will become the norm,” he said.
+
+Pontius also stressed the need for a convergence of electronic operations. “To bring the collective power of all cyber capabilities to the combined arms fight will require the integration of electronic warfare, signal, information operations, intelligence and fires capabilities to deliver operational effects to our commanders. The integration of cyberspace operations is important to our success,” he said.
+
+Pontius also touched on the Internet of Things and how it will affect military network operations. “As more and more devices become connected to the network in a growing Internet of Things world, platform security and mission assurance will increasingly become a major concern,” he said.
+
+He called on industry to supply tools—including artificial intelligence—that will make it more difficult, time-consuming and costly for adversaries to attack U.S. military networks. He emphasized the need for tools that will automatically respond to changes at machine speed and free up network operators. “We need to have more capabilities that are autonomous or semi-autonomous, and we need systems and capabilities that are more mobile and self- contained,” he said. “We will need industry’s help in deploying artificial intelligence or machine learning systems that can monitor our data and learn how we behave so the system recognizes when an adversary is in our network.”</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

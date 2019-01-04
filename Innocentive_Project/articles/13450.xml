@@ -1,0 +1,79 @@
+<article>
+  <type>blog</type>
+  <title>Sponsor Blog: How to Execute Backup/Archiving for Half the Cost</title>
+  <author/>
+  <date>September 11, 2014</date>
+  <departments>
+    <department>Other</department>
+  </departments>
+  <tags>
+    <tag>Sponsor Blog</tag>
+  </tags>
+  <abstract>There is an enormous opportunity in the Defense Department information technology to streamline operations, reduce costs and increase security. Two enabling policies from the Federal CIO are Cloud First and Shared First.</abstract>
+  <text>This article is written by our sponsor Riverbed. Views expressed do not necessarily reflect view of AFCEA International or SIGNAL Media.
+
+There is an enormous opportunity in the Defense Department information technology to streamline operations, reduce costs and increase security. Two enabling policies from the Federal CIO are Cloud First and Shared First.
+
+Riverbed provides actionable advice for tackling a low-risk, high return-on-investment (ROI) cloud project.
+
+Today’s Status Quo
+
+Every organization has backup and archiving as part of its data protection operations. It isn’t glorious or exciting, but it is absolutely critical for IT operations—and mandated in Defense Department IT policy. 
+
+Today, two primary methods used for backup/archiving include:
+
+Backup-to-tape: This is man-power intensive, error prone, recoveries are slow and requires physical security trade-offs when storing tape off-site.
+	Backup-to-disk: This addresses the shortfalls of tape but at a high cost.
+Recent innovations in cloud and cloud storage gateways provide a cost-effective alternative.
+
+Riverbed’s SteelStore cloud storage gateway delivers more than 50 percent cost savings over backup-to-tape, with the convenience and full automation of backup-to-disk. It empowers storage administrators to securely and cost effectively manage their data in the cloud of their choice with Federal Information Processing Standards (FIPS) 140-2 Level 1 certified data-at-rest and inflight encryption. 
+
+How Optimized Cloud Backup Works
+
+SteelStore is available in various models and form factors, ensuring you can leverage it in almost any environment—be it a huge data center, tactical command post or the cloud itself.
+
+SteelStore simply drops into existing storage architectures. You configure a cloud target in SteelStore, copy your existing backup jobs and point them to the SteelStore common Internet file system (CIFS) or network file system (NFS) mount point. 
+
+
+
+As SteelStore ingests the data, its byte deduplication reduces the data volumes by greater than 90 percent and encrypts the data-at-rest with FIPS 140-2 Level 1 certified cryptography. SteelStore transmits the deduplicated and encrypted data over a Defense Information Systems Agency (DISA) security technical implementation guide (STIG) compliant transport layer security v1.2 session to the cloud of your choice—three to five times faster than other cloud solutions due to the innovative data reduction.
+
+Recent backups and pinned data sets are available locally on the appliance, so they are always fast to recover and require no trips to the cloud. When recovering long-term data from the cloud, SteelStore has a configurable ‘quota’ that limits how much data it extracts over time, enabling you to optimize your cloud costs.
+
+SteelStore’s unique cloud agility feature enables you to easy migrate your data between cloud providers. This prevents cloud provider lock-in and streamlines migrations should a contract change down the road.
+
+The Business Case
+
+Cloud storage pricing wars have brought the cost down to 1 to 3 cents per gigabyte per month. When combined with SteelStore’s 10- to 30-times reduction, the long-term operational costs are greater than 50 percent lower than tape, and several hundred percent lower than disk backups. Here is a recent tape vs SteelStore operating cost ROI for a 75TB dataset with 25 percent annual growth and a 3-times initial deduplication rate.
+
+
+
+With many Federal Risk and Authorization Management Program (FedRAMP) certified options available, and at increasingly higher security levels, the Defense Department has few reasons not to put unclassified data in a public cloud. From a cloud storage perspective, there are very few moving parts, which makes certification and accreditation straight-forward—especially when the data is encrypted twice with FIPS 140-2 Level 1 cryptography in International Traffic in Arms Regulations (ITAR)-certified architectures, with the option of being directly connected to your network with no public Internet access. 
+
+Amazon S3, Amazon Glacier, Microsoft Azure and AT&amp;T Synaptic are not only three FedRAMP-certified cloud storage options, but they have earned a place in the Gartner Cloud Storage Leaders Quadrant. SteelStore supports turnkey integration with all of these industry-leading FedRAMP-certified cloud providers.
+
+If you’re concerned with security, or have classified data, you may want to consider a private cloud. Two common options are to use open-source OpenStack Swift (RedHat has a FIPS/CC version) and commercially available EMC Atmos.
+
+Taking Action
+
+As George Patton once said, “A good plan, violently executed now, is better than a perfect plan next week.” To help you get started today, we’ve provided an action plan.
+
+Research your internal and external cloud options. If appropriate, leverage FedRAMP’s portal for acquisition and accreditation guidance.
+	Select a cloud with object storage as your backup/archive target.
+	Contact Riverbed at 1-877-483-7233, or your favorite partner, to architect your end solution.
+	Apply for a SteelStore proof of concept or demo VM. If you act before October 9, you can get a free 8TB SteelStore with six months of 8TB of AWS S3 storage. 
+	Work with them to configure SteelStore for your environment.
+	Copy a few test backup jobs from your backup server, and configure them for SteelStore.
+	After three to four weeks, analyze your savings, jointly develop your business case, and make a go/no-go decision.
+	Take appropriate next steps.
+We appreciate your time and consideration.  If you desire more technical details please dive into the resources below or contact Riverbed.
+
+Video: Configuring SteelStore with AWS Glacier Cloud Storage
+	Video: Configuring SteelStore with NetBackup
+	Video: Configuring SteelStore with BackupExec
+	SteelStore tech publications and solution integration guides
+	SteelStore splash user community
+If you would like to learn more, please contact me, Sean Applegate.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

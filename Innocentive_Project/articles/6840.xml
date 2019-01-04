@@ -1,0 +1,33 @@
+<article>
+  <type>blog</type>
+  <title>It Sees Through Walls, Leaps Tall Buildings...</title>
+  <author>Henry Kenyon</author>
+  <date>March 31, 2010</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Iridium</tag>
+  </tags>
+  <abstract>Dismounted ground troops stay connected via a netted satellite network. Can the DTCS put troop security at risk? What other possible uses exist for this communications infrastructure? Share your thoughts here.</abstract>
+  <text>Well, almost. ... It may not be Superman, but the Distributed Tactical Communications System (DTCS) being deployed in Afghanistan gives troops quick access to reliable voice and data capability.
+
+With DTCS, warfighters are no longer stuck with only one option: climbing to the top of a mountain to get a signal. Brig. Gen. Bernard K. Skoch, USAF (Ret.), focuses on how the system overcomes limitations posed by mountainous terrain his article, "Extraterrestrial System Sharpens Tactical Eyes on the Ground," in this issue of SIGNAL Magazine.
+
+DTCS is a family of narrowband voice and data communications that are beyond line of sight, over the horizon and on the move. Lead contractor Iridium Communications worked with the NSWC, Dahlgren, Virginia, to develop, test and field the system.
+
+This "Netted Iridium" system's slogan could be "We've got you covered." It's designed around the company's constellation of 66 low-earth-orbit cross-linked satellites and commercial off-the-shelf, ruggedized handheld satellite transceivers. Other systems depend on land-based wireless infrastructures, geostationary satellites or line-of-sight communications that don't provide coverage in deep valleys or other restrictive terrain. The DTCS covers the entire communications area with an extraterrestrial "net," in essence draping the terrain in an invisible covering of connectivity-peaks and valleys included.
+
+The DTCS evolved from an infrastructure originally intended for a global telephone network that uses various generations of satphones with mobile voice only. Software changes to the satellites and hardware upgrades to the land-based equipment ensure connectivity and conserve bandwidth resources.
+
+Leaders within U.S. CENTCOM have shown great interest. C4 Systems Director Brig. Gen. Mark Bowman, USA, says:
+The DTCS offers the best potential to date for fulfilling command and control on-the-move requirements. The DTCS may be the most significant tactical communications improvement developed and fielded during the ongoing operation in theater.
+Security is always a top concern, and the NSWC is coordinating with the NSA to enhance protection that still lets the system operate unimpeded. The handheld devices have all the latest bells and whistles, and with the DTCS' spiral development process, the system can be continuously upgraded as new technologies arrive.
+
+In addition to being outfitted with GPS receivers, the handhelds feature a capability called troop position locator information (PLI). Every time a user pushes to talk, the DTCS lets the handset display that user's position, as well as members of the selected network. The PLI can also send data from net users to a secure Defense Department Iridium gateway in Hawaii where data is aggregated.
+
+With the touch of a button, troops have instant connectivity at their fingertips. But is it possible to achieve complete security so the technology doesn't fall into the wrong hands and put warfighters at risk?
+
+What do you think? Are there others uses for this netted communications infrastructure? Share your thoughts here.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,48 @@
+<article>
+  <type>article</type>
+  <title>Elections at Risk in Cyberspace, Part IV: Securing the Vote</title>
+  <author>Robert K. Ackerman</author>
+  <date>October 14, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Election Cyber Risks</tag>
+    <tag>cyber</tag>
+  </tags>
+  <abstract>Standardizing voter registration processes, voting machines and vote tabulation is the key to eliminating most vulnerabilities plaguing U.S. elections, according to several cybersecurity experts. These standardizations would embed security, enable backups and eliminate many backdoors through which hackers and vote fraudsters currently can warp the results of an election.</abstract>
+  <text>Last in a four-part series on election cyber vulnerabilities.
+
+Standardizing voter registration processes, voting machines and vote tabulation is the key to eliminating most vulnerabilities plaguing U.S. elections, according to several cybersecurity experts. These standardizations would embed security, enable backups and eliminate many backdoors through which hackers and vote fraudsters currently can warp the results of an election.
+
+While voting is administered at the state and local levels, these remedies would need to be applied nationwide. The current web of diverse processes may increase the difficulty for wide-scale election tampering, but they also ensure that achieving security is too broad a challenge for any single remedy to be applied. This diversity also virtually ensures that some location will have a vulnerability that, if exploited effectively, could cast doubt on a nationwide election result.
+
+Microsegmenting voter lists away from accessible parts of the process can help security, says Maj. Gen. Jennifer L. Napper, USA (Ret.), group vice president, defense and intelligence, Unisys Federal Systems and a former director of plans and policy for the U.S. Cyber Command. Terminals connected to these voter databases should not have access to the Internet, and microsegmentation would allow separate access protocols for the Internet and databases without connectivity even when no physical barriers exist.
+
+States should perform scans when an attempted hack is detected. And, the election system should have a way of validating data integrity on a regular basis—“pre-, during and after” the vote, she says. The only way to ensure data validity is to be able to check its integrity regularly, so states should design in voter data integrity checks throughout the election life cycle to allow their experts to detect alterations.
+
+Where the vote meets the Internet, common sense reigns supreme. Brian Calkin, vice president of operations, Center for Internet Security, maintains that general best practices—cyber hygiene—are the measures needed for improving election security. “Keeping all the systems that are Internet-facing up to date and fully patched,” is important, he says. “The types of vulnerabilities that can allow voter registration data to be tampered with can be detected with better vulnerability scanning. Then they can be fixed.”
+
+Ultimately, having election systems “not Internet-facing” is the right course of action, Calkin declares. The recent move toward online voting is not a good idea, he offers. Keeping elections off the Internet is a better way to ensure security. “The folks who are going after us—not just for voting but also in terms of cybersecurity in general—have unlimited amounts of time. And, with enough time, anything can be hacked in some way.”
+
+Nationwide standardization, as opposed to existing voluntary guidelines, might be the key to securing voter lists and identification. Chuck Brooks, vice president of government relations and marketing for Sutherland Government Solutions, suggests creating a backup list system on a national scale based on census data. And the best solution for individual voter security would be biometrics such as iris or fingerprint identification.
+
+Most experts agree that standardizing nationally is a big step toward election-day security. Brooks believes that standardizing machines, ensuring that manufacturers are tamper-proof and having vote backup can and should be done. Brooks and Napper offer that the most secure voting machines are those that include a scanned paper ballot that serves as backup if votes need to be audited or even recounted.
+
+Brooks adds that training state and local election machine workers in basic cyber hygiene also would be a factor in stopping the insider threat. And, any data being sent to a tabulation database should be encrypted.
+
+Auditing capabilities are important, says Ron Bandes, network security analyst in the CERT division of the Software Engineering Institute of Carnegie Mellon University. He also is president of VoteAllegheny, a nonpartisan election integrity organization.
+
+“We need to use technology that can be audited meaningfully,” he says. Even benign mistakes such as scanner errors can be checked against an audit trail such as paper ballots. More modern scanners even can overcome voter errors by using high-resolution scanning processes that do a better job of determining a voter’s original intent by taking an actual photograph of the ballot, he says.
+
+Most localities have legislation that mandates audits, Bandes notes. However, he adds, not every locality actually follows through on this requirement.
+
+A relatively new technology in very limited use is a risk-limiting audit, which makes intelligent use of statistics to determine the need for an audit. For example, a runaway victory for one candidate obviates the need for an audit, but a close vote count flags the need for auditing a lot of ballots, Bandes explains.
+
+Active measures similar to those used by the military could help increase vote security. As a former Defense Department director of cybersecurity plans and policy, Napper believes states should bring in wargaming professionals to identify real weaknesses while outlining specific steps to mitigate them. Larger states might have to red-team the systems that are below the state level in the election hierarchy.
+
+All these vote security measures are the government’s responsibility, and the voting public needs to ensure that it follows through, experts emphasize. “We’re looking at a public policy issue as well as a security issue,” Brooks states. And Napper says, “Our citizens need to hold our government accountable—that it does the right thing and does not take a shortcut.”</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

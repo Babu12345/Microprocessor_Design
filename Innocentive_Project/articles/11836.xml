@@ -1,0 +1,45 @@
+<article>
+  <type>article</type>
+  <title>Social [Media] Security</title>
+  <author>Dr. Scott A. Wells</author>
+  <date>October 10, 2013</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Cyber Savvy</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>Dr. Scott Wells, co-founder and chief architect of the Social Media Security Professional (SMSP) certification, Ultimate Knowledge Institute, shares some little-known facts about the threats social media pose to organizations and individuals.</abstract>
+  <text>Facebook now has 1.15 billion users who share 4.75 billion content items such as comments, photos and status updates and send more than 10 billion messages each day. When added to other social media platforms such as Twitter, LinkedIn and Google+, the number of users is staggering. With so many people disclosing personal details and often unknowingly leaking confidential organizational information, social media has become the main platform for hackers to execute social media engineering attacks, phishing attacks and identity theft; social networking is now the main vehicle for spreading malware.
+	Here’s how a social media user can compromise an organization’s information security: Let’s say a health care professional accesses Twitter via a mobile device and clicks on a malicious link in a tweet, which installs malware on his smartphone. The malware opens up his phone to external access, enabling a hacker to access a secured hospital website via the cached information on the smartphone and tap into confidential patient health care information.
+These dangers shouldn’t stop social e-interaction. Here are some social security tips:
+
+		Keep in mind that the information you share on social media channels is near permanent.
+	
+		Be mindful of indicating your location. Some social networks do not automatically remove geotags from the images you take with smartphones, but most smartphones allow users to turn off geotagging for some or all applications. 
+	
+		Don’t treat security as an afterthought. Review and modify the default security settings of your profile to fit your unique situation. A study the Gartner Group conducted showed that roughly 60 percent of Facebook users have not changed the default security settings. Many of these users end up displaying their information publicly.
+	
+		Do not share vital information such as birth date, hometown, high school and current address, which can be used in an identity theft attack.
+	
+		Check that friend requests are from real people and actual friends. More than 75 percent of all Facebook users refer to the number of friends they have in common as the most compelling reason to accept an incoming friendship request. But, if that friend hasn’t already checked for authenticity, you may be dealing with a hacker.
+	
+		As tempting as it is, don’t access social media sites from public Wi-Fi spots. Many people understand the dangers of accessing their bank account information from these locations but fail to apply the same logic to social media. A hacker who’s accessing the same Wi-Fi network can use a tool to execute a session hijack, gather enough information to mimic your mobile device then access your bank account. From there, the hacker can conduct unauthorized purchases.
+Organizations also must take care that their employees don’t inadvertently allow access to corporate information when using social networks.
+
+		User training is the most effective way to protect information because of the strong social engineering component present in many social media breaches.
+	
+		Implement safeguards such as two-factor authentication, which adds another layer of security to authenticate a login request, forcing an SSL connection. Keep in mind that few automated mechanisms can detect many of the common social media hacks such as an evil twin attack where a hacker can impersonate users without their knowledge.
+	
+		Develop a social media policy customized to your unique business model and strategy. Outline guidelines for responsible social media conduct as part of official and unofficial social media engagement and protect the organization and employees from violating rules, regulations and laws through social networking channels.
+Social media has captured an enormous audience and will continue to play a large role in our lives, which makes it an increasingly attractive target for cyber criminals. With the current proliferation rate, it will continue to directly influence the future of the Web. Sites and apps are relying more and more on single sign-on through social media, which can be convenient but may increase the risk of private information falling into the wrong hands. It is crucial that information security professionals as well as users familiarize themselves with the risks involved in social networking and are prepared to defend their personal and their organizations’confidential information to prevent potentially devastating security breaches.
+ 
+Scott A. Wells, Ph.D. teaches the AFCEA Professional Development course “Social Media Management and Governance.” He is the co-founder and chief architect of the Social Media Security Professional (SMSP) certification powered by CompTIA, Ultimate Knowledge Institute (UKI). He has worked and consulted for corporations such as Microsoft, Digital and Cisco as well many other Fortune 100 companies. In addition, Dr. Wells has developed and taught hundreds of information technology and cybersecurity training programs for the U.S. Defense Department, federal agencies and Fortune 500 enterprises.
+Facebook: https://www.facebook.com/UltimateKnowledgeInstitute
+Twitter: @UKI_SM https://twitter.com/uki_sm
+LinkedIn: http://www.linkedin.com/company/ultimate-knowledge
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

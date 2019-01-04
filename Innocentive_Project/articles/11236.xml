@@ -1,0 +1,28 @@
+<article>
+  <type>blog</type>
+  <title>Government Coping With New Round of Cyber Attacks</title>
+  <author>George I. Seffers</author>
+  <date>June 25, 2013</date>
+  <departments>
+    <department>Cyber</department>
+    <department>Event Coverage</department>
+  </departments>
+  <tags>
+    <tag>homeland defense</tag>
+    <tag>Networks</tag>
+    <tag>Cyber Symposium 2013</tag>
+  </tags>
+  <abstract></abstract>
+  <text>U.S. government officials are traveling the country warning companies about a new round of cyberattacks that have targeted 27 companies, compromised seven and may ultimately affect up to 600 asset owners, according to Neil Hershfield, deputy director, control systems security program (CSSP), Industrial Control Systems-Cyber Emergency Response Team (ICS-CERT), Homeland Security Department.
+	Hershfield made the comments while taking part in a critical infrastructure protection panel discussion as part of the July 25-27 AFCEA International Cyber Symposium, Baltimore.
+	“The reason we’re out and about across the country is that we’re seeing a new adversary taking a new approach—rather than spearphishing, they are going after vulnerabilities with [structured query language] injections, and they’re then trying to get across the networks as fast as they can as broadly as they can,” Hershfeld reported. “We’ve been working with our intelligence community partners on this and we’re now going around the country letting people know about it. We basically do this jointly with the FBI, with field offices across the country. When we’re done, we’ll probably talk to 500-600 asset owners.”
+	Getting the word out is crucial because “the mitigation strategy here for this kind of exploit is significantly different than what you might use in other cases,” he added.
+	Hershfield is part of an industrial control systems working group, a public-private partnership that is co-led by one person from the private sector and another from the government sector. The group typically meets in-person twice a year, sharing information between the public and private sectors.
+	That need to share information was a major focus for the critical infrastructure protection panel. Multiple panelists mentioned the Defense Department’s program for sharing information with the defense industrial base, often referred to as the DIB program. In the past few years, the government has shared more than 18,000 cyber-related reports with industry, but industry has sent more than 62,000 reports to the Defense Department, said Dennis Gilbert, senior advisor for cybersecurity, Office of the Defense Department Chief Information Officer.
+	So far, participation in the DIB is voluntary, with more than 90 companies now participating, but Congress may remove the voluntary element, Gilbert pointed out.
+	Section 941 of the Fiscal Year 2013 National Defense Authorization Act contains language that will make participation mandatory. “On [Capitol] Hill things are changing slightly,” Gilbert said. “[The act] contains language that leans toward a more mandatory requirement for our defense partner contractors. They actually have to be active in the effort to establish procedures and criteria for defense contractors to report to us when their information systems are successfully penetrated and intrusions affect the information they have on our acquisition and sustainment programs.”
+	He added, however, that the Defense Department must also protect proprietary information, trade secrets, personal data and information about the network breach itself. 
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

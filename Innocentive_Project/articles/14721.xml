@@ -1,0 +1,35 @@
+<article>
+  <type>article</type>
+  <title>NSA's Open Source Software Releases Expected to Surge</title>
+  <author>George I. Seffers</author>
+  <date>June 24, 2015</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>NSA</tag>
+    <tag>cyber</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The National Security Agency’s recently established GitHub presence could become a focal point for releasing new technologies into the open source community.</abstract>
+  <text>The National Security Agency’s (NSA’s) recently established GitHub presence could become a focal point for releasing new technologies into the open source community. Sharing software could benefit the nation’s cybersecurity while also benefiting businesses and economic growth, officials say.
+
+The NSA recently established two GitHub pages. The agency’s Information Assurance Directorate (IAD) established the first in late 2013 and a year later released policy guides onto the site for the first time. Those policy guides normally would be released on the agency’s website in a PDF format, meaning users would have to retype or copy and paste and properly format the code in order to use it. With GitHub, the code is downloadable and immediately usable.
+
+Officials followed up the IAD page with an NSA-wide GitHub site that will link to technologies released across the department. Now that the sites are up and running, officials say they expect a flurry of activity in the coming months. “There are a lot of pent up projects and creative energy here. I think there will be a big burst and then it will become more regular and normalized as things go along,” predicts James Lampton, a senior computer scientist in the NSA director’s science adviser office.
+
+In March, officials shared the Security Integrity Management Platform (SIMP) on the NSA corporate site. The tool is used to ensure technology architectures comply with Defense Department specifications, but it also could benefit a broad array of users. “Any organization with strict architecture compliance procedures could use SIMP, anybody who has to protect information to some standard—financial or medical institutions or research labs that have constraints on how their data or systems are configured. They definitely could use the stuff we’re building,” Lampton declares.
+
+Linda Burger, director of the NSA’s Technology Transfer Program, says businesses also can benefit from SIMP. “You don’t have to have an existing global infrastructure to employ SIMP. If you’re just starting a small business, this could be of value to you. Maybe it’s a health care IT business with heavy compliance standards,” she posits. “This is a tool that’s free for you to use for your own business and change it how you need it to be, but it’s free. That’s a tremendous way we can move things from the lab to the marketplace.”
+
+Sharing open source technology boosts both innovation and the national economy, Burger says. “This is one more way we can be agile and engage with the community and share some of the assets, resources and innovations that we have with the public for the public good. This is all about long-term strategic economic improvement,” she states.
+
+In fact, before GitHub, the NSA shared software through the Apache open source community, which is more structured and requires more effort than GitHub. And at least two of those products have had businesses launched around them, Burger reports. Sqrrl Data Inc. launched around the NSA’s Accumulo, a data storage and retrieval system. And Onyara uses Niagarafiles (NiFi) technology, a data flow automation system. “New companies are forming, and new jobs are being created. It’s about economic stimulation, economic impact and how we’re moving these basic research innovations into the marketplace so that they benefit everyone,” Burger offers.
+
+Lampton reveals that officials are discussing the possibility of releasing cybersecurity tools to help protect the nation’s infrastructure. And Burger points out that SIMP already offers some cyber-related benefits. “It’s about securing our Linux clusters and everything like that, so we’re making sure we’re getting the basic security out of the way so that the organization can concentrate on its mission,” Burger reports. “I see this as a cybersecurity tool, because if we put a new cluster out there, [SIMP] immediately configures it to the predefined specification and then checks on a periodic basis to ensure it remains in that secured state, that compliant state.”
+
+Sharing software offers a win-win for the agency and everyone involved, Lampton stresses. “Any time you have software used by different people in different ways, you get improvement. NiF is such a rich tool that we’ve built and pushed to probably the edges of what we could possibly develop it for. By releasing it, the rest of the taxpayers get the bang for their buck when they’re able to download it, but also the rest of the world can push it in directions we didn’t expect,” he concludes.</text>
+  <imgalttext>
+    <img>NSA officials intend to increase open source software releases through GitHub.</img>
+  </imgalttext>
+</article>

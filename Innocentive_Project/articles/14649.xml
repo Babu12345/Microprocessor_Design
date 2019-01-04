@@ -1,0 +1,42 @@
+<article>
+  <type>blog</type>
+  <title>Building the Modern Federal Data Center Through Virtualization and Automation</title>
+  <author>Brian Roach</author>
+  <date>June 9, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Virtualization</tag>
+    <tag>Networks</tag>
+  </tags>
+  <abstract>The increased dependence on interconnected networks propelled the Defense Department to seek viable solutions to not just counter the upsurge of cyberthreats, but to do so at much quicker speeds. There's a catch, though.</abstract>
+  <text>The increased dependence on interconnected networks propelled the Defense Department to seek viable solutions to not just counter the upsurge of cyberthreats, but to do so at much quicker speeds.
+
+“The cyberthreat is also growing and evolving, driving us to move faster to increase our cyber resilience,” says Lt. Gen. Mark Bowman, USA, director of command, control, communications and computers/cyber for the Joint Chiefs of Staff.
+
+It is a great concept that led to challenges for federal information technology professionals and the convergence of the three pillars of the data center—network, compute and storage assets—to create a single, flexible and agile entity that might be, unfortunately, impossible for federal information technology administrators to manually control.
+
+Fortunately, open standards-based virtualization and network automation solutions address the challenges and needs of the Defense Department, and can help managers better direct and scale their networks while providing unprecedented flexibility and intelligence into network activities. Forget about mainframes or managing individual boxes. Virtualization and network automation are the new building blocks for today’s modern federal data centers.
+
+Creating a flexible platform
+
+Federal data centers are highly application-driven, with speed a high priority. Applications must be brought up, down or moved rapidly in order to respond to changing conditions and maximize resources. Accomplishing this requires a highly agile framework.
+
+Virtualization solutions like software-defined networking and network function virtualization provide the flexibility to address the needs. Like a stack of virtual Legos, a virtualized base panel provides a platform upon which Defense Department network administrators can continually and easily build. They can change underlying hardware to take advantage of new, best-of-breed technologies, or increase performance by creating a faster data dump. They also are able to augment functionality and become more nimble and provide greater intelligence into how much data flows through the network and who accesses that data.
+
+Alleviating burdens 
+
+Network automation is the next logical—and critical—step after establishing a virtual platform. Data center consolidation made it impossible for administrators to manually handle operation provisioning, management and orchestration. Today, each task can and should be automated to make federal data centers more adaptable and responsive to changing needs and environmental conditions.
+
+Network automation also can help federal information technology professionals better manage the increased demands on department networks. Growing popularity of video and the cloud, communications and surveillance—all of which are used heavily every day—means data usage surged. Through network automation, managers receive alerts about usage patterns and receive real-time information about events impacting the network, a function that allows them to rapidly adapt to changes. Additionally, they can use automation to plan network resources around future events.
+
+Committing to open standards
+
+None of this would be possible without a commitment to the open standards that provide a highly adaptable platform upon which to build virtualized and automated networks. Much of the technology driving the federal information technology conversation now—software-defined networking, network function virtualization, virtualized control planes and more—resulted from open standards; the basis of a modernized network. Those who embrace open standards will be able to take advantage of many innovations that will make their networks more agile and manageable—while those who do not will suffer vendor lock-in and ultimately be left behind.
+
+Brian Roach is vice president of National Government at Juniper Networks.</text>
+  <imgalttext>
+    <img>The U.S. Navy Enterprise Data Center in San Diego at SPAWAR Systems Center Pacific provides a centrally managed and secure application hosting environment for Navy customers. </img>
+  </imgalttext>
+</article>

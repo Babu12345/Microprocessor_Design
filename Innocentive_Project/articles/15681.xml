@@ -1,0 +1,43 @@
+<article>
+  <type>article</type>
+  <title>Tech-Savvy Solutions Helping Secure Super Bowl 50</title>
+  <author>Sandra Jontz</author>
+  <date>February 5, 2016</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>predictive analytics</tag>
+  </tags>
+  <abstract>Maybe public safety officials in California can’t exactly call in advance the winner of Sunday’s Super Bowl match up, but they have been using fine-tuned predictive analytics to help protect the scores of people descending on the Bay Area.</abstract>
+  <text>Maybe public safety officials in California can’t exactly call in advance the winner of Sunday’s Super Bowl match up, but they have been using fine-tuned predictive analytics to help protect the scores of people descending on the Bay Area. 
+
+Virginia-based Haystax Technology’s scalable, cloud-based big data tools gives analysts a manageable method to make sense of hundreds of thousands of data leads from numerous sources as they work to mitigate threats.
+
+All week, public safety agencies in San Francisco have been in “hyper-drive” using the California Common Operating Picture for Threat Awareness (CalCOP) platform, a Haystax-developed data sharing environment that provides high fidelity situational awareness tools that processes hundreds of thousands of data points into actionable intelligence, says Chief Technology Officer Bryan Ware. 
+
+The company’s software provides advanced analytics and cybersecurity solutions for “real-time visibility to emerging threats,” he says. 
+
+The program pulls data from a number of sources, including police and fire dispatches, weather reports, maps, news agency articles, social media activity and video camera feeds, to name a few Ware lists. Fine-tuned algorithms then process the huge amounts of collected sensor data, which is processed in real-time to deliver critical information in the form of alerts to decision makers.
+
+Additionally, as part of the extensive solution, Haystax Technology developed a secure app used by ground-based personnel who snap photos or send messages to log possible suspicious behavior. The app not only augments data collection efforts, but can draw attention to possible environmental patterns, Ware says.
+
+CalCOP is based on the company’s overarching Constellation Analytics Platform, which can be tailored to serve many other applications. For example, a Missouri school system uses the technology to determine whether students can leave campus during lunch hours on any given day. If the system logs any security issues in the vicinity of the school, students must remain on campus. In another use case, fire departments load building schematics to use for rapid response planning before sending in firefighters to battle a blaze.
+
+Unlike threat assessment solutions of the past, the scalable program can be used all year round, not just for major event monitoring needs. For example, the CalCOP solution includes sensors that measure reservoir water levels in California fire departments use to draw water. During the recent drought, some departments would make a run to a reservoir only to find it had already run dry. The sensors now feed real-time water level data to the daily-monitored CalCOP system. 
+
+Sunday’s Super Bowl 50, taking place in Santa Clara at Levi’s Stadium, marks the seventh year Haystax provided real-time situational awareness during Super Bowl week. The software also has been used for other high-profile events, such as the Chicago, Los Angeles and Boston Marathons, the Indianapolis 500, the U.S. Open, America’s Cup, the Emmys and the Oscars.
+
+“Advanced threat analytics are critical to both mitigating and responding to potential threats during the week leading up to a high-profile event like the Super Bowl,” Ware says. “We’re pleased that federal, state and local public safety officials have chosen Haystax Technology to provide the situational awareness capabilities required of an event of this scale.”
+
+The predictive analytics solution offers the California Urban Areas Securities Initiatives (UASIs) to share statewide a wide variety of information from risk management to critical infrastructure assessment—all in real-time, a critical factor because it lets public safety personnel respond to potential threats immediately. 
+
+Past attempted attacks at worldwide stadiums demonstrated the importance for first responders to tap into threats real-time. “Maintaining a common operating picture among all public safety agencies during the days leading up to Super Bowl 50 is absolutely necessary for effective information sharing,” Mike Sena, director of the Northern California Regional Intelligence Center, said in a statement. “CalCOP’s ability to provide situational awareness with real-time data gives our public safety officials the information they need to quickly and effectively coordinate an emergency response to potential threats and hazards.”
+
+In addition to helping predict an attack, the program can help officials determine well in advance of dispatching personnel whether an incident amounts to a hoax or a false alarm, Ware says. Having that level of intelligence can save money, time and personnel, and avoids diverting much-needed attention for real threats.</text>
+  <imgalttext>
+    <img>Rob Kerr, chief software architect for Haystax Technologies, demonstrates a predictive analytics tool used to deliver high fidelity threat assessments for Super Bowl 50.</img>
+    <img>Interns Jose Cantu, left, a student at Georgetown University and Scott Jaster, a student at Dartmouth College help monitor for threats at Super Bowl 50.</img>
+    <img>Nazia Naeem, Haystax's operations lead for the analyst team, uses a predictive analytics tool for situational awareness.</img>
+  </imgalttext>
+</article>

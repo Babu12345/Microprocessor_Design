@@ -1,0 +1,15 @@
+<article>
+  <type>blog</type>
+  <title>Architecture Assures Interoperability</title>
+  <author/>
+  <date>March 28, 2012</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The next generation of the Software Communications Architecture (SCA 4.0) has been approved for use. The SCA 4.0 includes technology that tailors the operating system size for a radio and its mission.</abstract>
+  <text>The next generation of the Software Communications Architecture (SCA 4.0) has been approved for use. The SCA 4.0 includes technology that tailors the operating system size for a radio and its mission. By adopting the SCA 4.0, memory and processing overhead are reduced significantly; architectural enhancements improve security by enabling faster boot-up times and reconfiguration of the radio. The latest version also enables radio frequencies to be reprogrammed and permits a waveform written for one radio to be ported to another radio with interoperability ensured. In addition, the SCA 4.0 enables government and military radio users to access applications created in the commercial market. The Joint Program Executive Office Joint Tactical Radio System approved the SCA 4.0 in conjunction with the Wireless Innovation Forum.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

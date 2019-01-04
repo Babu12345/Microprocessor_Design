@@ -1,0 +1,23 @@
+<article>
+  <type>blog</type>
+  <title>Crowd-Sourcing Disaster Relief</title>
+  <author>Christine Robinson</author>
+  <date>March 29, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>General</tag>
+  </tags>
+  <abstract>Following the triple disasters of the earthquake in Japan, the tsunami, and the continuing nuclear crisis, I interviewed Dr. Lin Wells, Director, Center for Technology and National Security Policy at the National Defense University, concerning his thoughts about emergency preparedness and disaster recovery efforts in Japan. Wells is a well-known expert in emergency preparedness and disaster recovery who has provided leadership and expertise in preparing for and responding to some of the worst disasters in our recent history</abstract>
+  <text>Following the triple disasters of the earthquake in Japan, the tsunami, and the continuing nuclear crisis, I interviewed Dr. Lin Wells, Director, Center for Technology and National Security Policy at the National Defense University, concerning his thoughts about emergency preparedness and disaster recovery efforts in Japan. Wells is a well-known expert in emergency preparedness and disaster recovery who has provided leadership and expertise in preparing for and responding to some of the worst disasters in our recent history. His efforts to promote coordinated approaches are helping advance response and preparedness capabilities around the world. Wells has been interested in Japan since he was a teenager, is a graduate of their National Institute for Defense Studies, and still has many friends and colleagues there.
+
+During our discussion, Wells drew upon many of his experiences with past disasters and populations under stress, noting some unique elements of the situation in Japan. The nuclear element has added an additional level of uncertainty. His first notification of what was happening in Japan was from a friend's text message during or right after the first shocks. Thus, he has been involved on several levels from the beginning. But Wells hesitated to offer too many opinions about Japan because, while he has been deeply involved, it has been in relatively narrow channels while the U.S. government and many relief organizations have been engaged much more broadly.
+
+It may be instructive to compare the role of open source, volunteer communities, such as the "CrisisMappers," in Haiti and in Japan.  In Haiti, the open technology community provided near-real time information often not available through other sources (such as OpenStreetMap displays of the situation in Port au Prince).  This was partly due to the damage done to Haitian government institutions by the earthquake, as well as the low initial information baseline.  In Japan, the technological base is much higher, and the Japanese government has been more able to coordinate rescue and recovery efforts.  Nonetheless, useful outside information was made available for Japan, such as plots of radiation levels and imagery-derived maps of badly damaged areas.
+
+The model Wells has been developing "is to complement what is going on with the official responses by making use of crowd sourced information as well as other non-traditional sources," he says. "The crowd-sourced community has matured since Haiti, and will generate information whether governments want it or not.  Organizations need to build a bridge to what the crowd is saying."  Crowd-sourced information won't remain secret, and its volume and velocity can overwhelm organizations. Thus, we need to channel such information to decision-makers, turn it into situational awareness, and then complete transactions to make a difference "on the ground" (people rescued, supplies delivered, contracts fulfilled), and give people feedback.  Each geographic area is going to be different.  Open-source Geospatial Information System (GIS) products are increasingly becoming available to support emergency operations around the world. Wells and others view GIS and crowd-sourcing as inputs that can complement formal domestic and international crisis response structures. Some of this will be tested in the virtual Exercise 24 (X24) Europe happening this week; interested parties are welcome to join (x24.eushare.org).
+
+Consequences of a disaster spread far beyond the initial event or events. To surge and sustain the emergency response model requires the participation of the private sector.  Wells said, "the long-term solution is not going to be government, the long term solution is going to be the private sector." Private sector, non-profit and government efforts from around the world are under way to assist Japan.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

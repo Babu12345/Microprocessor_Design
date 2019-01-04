@@ -1,0 +1,19 @@
+<article>
+  <type>blog</type>
+  <title>Software-Defined Networking Looms as Next Big Technology</title>
+  <author>Robert K. Ackerman</author>
+  <date>May 12, 2014</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>JIE14</tag>
+  </tags>
+  <abstract>The most important innovation looming in information technology may involve virtual networks. Software-defined networking will open a new door to network architectures and activities that will rival previous advances, according to a panel of industry chief technology officers at AFCEA's three-day JIE Mission Partner Symposium being held in Baltimore.</abstract>
+  <text>The most important innovation looming in information technology may involve virtual networks. Software-defined networking (SDN) will open a new door to network architectures and activities that will rival previous advances, according to a panel of industry chief technology officers (CTOs) at AFCEA’s three-day Joint Information Environment (JIE) Mission Partner Symposium being held in Baltimore May 12-14.
+	“SDN is as big as the original packetization in the network,” declared Stephen B. Alexander, senior vice president and CTO for Ciena. “We can light fiber as much as physics will allow. We can create terabit flows; but you’ll want to slice these terabits into different missions. SDN will virtualize networks—user-bespoke networks,” he explained. This will be especially important as the move to the cloud puts a lot of the onus back on the network, he added.
+	Sam Ceccola, CTO for Federal HP, said, “You can’t solve cyber without the role of SDN. You need to make decisions on who gets the data and who doesn’t, what goes to the analyst and what doesn’t.”
+	Chris Smith, former CTO and now vice president of technology for AT&amp;T Government Solutions, said that SDN is “nothing less than a transformation” for AT&amp;T.
+	Ceccola applied its importance to the theme of the symposium. “You cannot accomplish the goals of JIE without SDN,” he declared.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

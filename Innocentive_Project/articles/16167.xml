@@ -1,0 +1,41 @@
+<article>
+  <type>article</type>
+  <title>The Cyber Implications of Acquisition Speed: Part II</title>
+  <author>Lt. Gen. Jeff Sorenson, USA (Ret.)</author>
+  <date>June 1, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Acquisition</tag>
+    <tag>Army</tag>
+    <tag>COTS</tag>
+    <tag>common operating environment</tag>
+  </tags>
+  <abstract>Among the latest steps the federal government has taken to reform the acquisition process, the U.S. Defense Department initiatives Better Buying Power 2.0 and 3.0 aim to improve the affordability of weapon system development and reduce the bureaucracy of program acquisition.</abstract>
+  <text>The second in a series of articles
+
+Among the latest steps the federal government has taken to reform the acquisition process, the U.S. Defense Department initiatives Better Buying Power 2.0 and 3.0 aim to improve the affordability of weapon system development and reduce the bureaucracy of program acquisition. In addition, Congress recently passed H.R. 1232, the Federal Information Technology Acquisition Reform Act, which seeks better ways to obtain and manage federal information technology systems.
+
+The question is, are these new regulations and laws enough to reduce federal information technology costs? According to recent headlines, the answer is no. But changing the way the federal government acquires information technology is a work in progress. The innovation required to procure information technology rapidly and at a reduced cost calls for culture changes that invariably take longer to embrace than new policies or laws do.
+
+During a panel discussion about acquisition reform at a recent conference, an audience member inquired about the impact of proposed legislative remedies—which call for more involvement from respective service chiefs—on the requirements process. Simply stated, the questioner sought to know what is needed to transform a rigid, bureaucratic system for development of requirements into a more flexible process that can respond to disruptive, warp-speed changes in the command, control, communications, computers, intelligence, surveillance and reconnaissance (C4ISR) and cyber sectors.
+
+Oddly enough, the question was passed to the acquisition expert on the panel instead of the requirements expert. Nonetheless, he provided an excellent answer, stating that requirements developers needed to create more trade space to allow acquisition specialists the latitude to react more quickly to technology advances. 
+
+His response mirrored my experience as Army chief information officer (CIO). During my initial visit to theater, the senior communication officer noted that official Defense Department programs of record (PORs) provided 40 percent of his information technology support, and the other 60 percent was derived from commercial off-the-shelf (COTS) capabilities that the military and contractors built and operated to meet immediate warfighter demands. 
+
+Clearly, the department’s method of meeting those demands with robust, current technology was not working. A change was required to: 1) define a full spectrum of architecture that satisfied warfighter needs throughout all phases of operations and 2) determine a set of approved standards to enable quick development of secure and interoperable applications across a variety of computing environments—server, client, mobile devices, sensors and platforms.
+
+As a result, the Common Operating Environment (COE) was established. The COE is a standards-based document co-signed by the Army acquisition executive and Army CIO to develop scalable commercial solutions and capabilities across the enterprise. More importantly, the COE provides guidance about the relevancy of emerging commercial technologies by continually assessing protocols and standards for currency and abandoning those that are obsolete—similar to commercial industry practices. 
+
+The COE initially stipulated four control points within the Army’s enterprise network and associated computing environments to simplify the development process and allow industry to make associated trades within defined boundaries. Those control points were: enterprise to major command post (fixed secure communication links supporting high-level combatant command and joint operations); enterprise/command post to combat platform/soldier/sensor (stable command post network to disadvantaged mobile network links); enterprise/command post to soldier (stable command post network to commercially supported network); and platform/soldier to sensor (information flows between both, and both can be on the move). 
+
+Standard commercial and Defense Department protocols were established at each control point to define data requests and translation for gateways, interoperability for data exchange and data boundary controls for security. Solutions for each of these areas then would be developed to optimize network performance and minimize bandwidth use. Developers and contractors, therefore, had wide latitude to create solutions “within the sandbox” to deploy emerging technologies rapidly instead of waiting for detailed requirements documents to be defined and produced. 
+
+The COE integrates a technical vision with future development and procurement actions to create a culture shift that helps define and quickly deploy emerging technologies that meet warfighters’ operational needs. The COE will not create a more interoperable and secure network overnight. However, by defining the sandbox, developers and contractors can integrate new capabilities faster than ever before. Employing a COE-type approach, other organizations also can accelerate innovative solutions while maintaining adequate control of requirements.
+
+Lt. Gen. Jeff Sorenson, USA (Ret.), is a member of the AFCEA International Cyber Committee.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

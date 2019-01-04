@@ -1,0 +1,27 @@
+<article>
+  <type>blog</type>
+  <title>Baked-in Cybersecurity Goodness</title>
+  <author>Max Cacas</author>
+  <date>August 16, 2012</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>TechNet Land Forces East 2012</tag>
+  </tags>
+  <abstract>The next generation of cybersecurity will not deal with securing computer networks but rather with ensuring the inherent security of devices that connect to those networks. That's the prediction of Steven Sprague, president and chief executive officer of Wave Systems, who delivered a plenary address to kick off the final day of the TechNet Land Forces East conference in Baltimore on Thursday.</abstract>
+  <text>The next generation of cybersecurity will not deal with securing computer networks but rather with ensuring the inherent security of devices that connect to those networks. That's the prediction of Steven Sprague, president and chief executive officer of Wave Systems, who delivered a plenary address to kick off the final day of the TechNet Land Forces East conference in Baltimore on Thursday.
+
+Sprague's company develops special, highly encrypted security applications for the Trusted Platform Module (TPM), a chip that has been a part of more than 600 million devices ranging from smartphones to desktop personal computers and servers. The TPM embeds a suite of applications and protocols designed to allow continuous, fully encrypted security verification of the devices in which it is installed. The TPM is the basis around which the Trusted Computing Group was formed. The group represents 130 information technologies around the world that build devices around the TPM and its specifications.
+
+The TPM makes possible a significant redefinition of mobile, which Sprague describes as "a transition of the network architecture from a network based on connections to a network based on identity."
+
+Sprague said until recently, only a handful of products used the security verification capabilities of the TPM, including Apple. Windows 8 smartphones, due to be introduced this fall, will finally be able to use the TPM for security verification, and Sprague predicts that in the years to come, more manufacturers will choose to turn on the "baked in" security capabilities of the chip. 
+
+Indeed, forthcoming smart ID specifications set to be published by the National Institute of Standards and Technology this fall will call for more embedded security protocols in badges and other devices.
+
+The TPM makes it possible to produce "a smartphone that is safe to lose," said Sprague, and the latest iterations of the chip help to power self-encrypting, solid-state electrical disk drives. The self-encryption makes it possible to remotely disable a device and, if needed, erase critical data. It also makes remote management of devices possible. 
+
+Sprague declared that, "This will be the most important technology in the next decade," and he believes that the TPM will herald a cybersecurity doctrine, which he dubs "Only Known Devices."</text>
+  <imgalttext>
+  </imgalttext>
+</article>

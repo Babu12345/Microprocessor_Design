@@ -1,0 +1,25 @@
+<article>
+  <type>blog</type>
+  <title>What Needs to Change?</title>
+  <author>H. Mosher</author>
+  <date>May 20, 2009</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Acquisition</tag>
+    <tag>AFCEA SOLUTIONS</tag>
+    <tag>Information Sharing</tag>
+    <tag>Event Coverage</tag>
+  </tags>
+  <abstract>Chris Gunderson of the Naval Postgraduate School posited some interesting ideas during yesterday afternoon's plenary sessions about why everyone keeps hearing the same things about changes that need to be made. Certain things, he suggested, we should just acknowledge and move past.</abstract>
+  <text>Chris Gunderson of the Naval Postgraduate School posited some interesting ideas during yesterday afternoon's plenary sessions about why everyone keeps hearing the same things about changes that need to be made. Certain things, he suggested, we should just acknowledge and move past:
+Gunderson believes that we have all the policy we need; we don't need to add more policy.
+He added that there is a federation issue. If you can't federate systems, you can't be netcentric.
+Considering the engineering and boundary perspectives, engineers just can't bolt on security after the fact--have to make sure it's in up front. David Minton of Raytheon, who partnered with Gunderson to create the World Wide Consortium for the Grid, explained this with a metaphor: Safety is built into commercial airplanes, because the models they are based on are built to high-end specifications. To make airplanes (or airlines) affordable for consumers, engineers have to consider what to take out, and it won't be the safety features. Minton said this model can help us understand how to put security in the enterprise.
+Resonating with other panels at SOLUTIONS, Gunderson emphasized that there isn't not a technology issue anymore. Service-oriented architecture, cloud technology, and open source communites can get us there.
+However, given facts of life with regard to scale, time and cost, there is no way to get there from here, as he put it, outside "Main Street." Many times, the solutions we need are already on the shelf.
+ Gunderson advocated for an integrated perspective in which the acquisition model is not segregated from the command and control it supports. "Continuing improvement of business is part of C2," he said.
+Gunderson focused on the acquisition piece for the rest of his presentation, noting that there were ways of accelerating the process that included using more off-the-shelf solutions. "If the government aims at closing the gaps in technology for military missions ... the competitive process will ensure that more off-the-shelf solutions are available," he said.One of the problems Gunderson observed with the current acquisition process is that by the time an off-the-shelf solution is available, its already out of date. As a result, "After many years and  billions of dollars spent,  the promise of SOA in DoD is largely unfulfilled," Gunderson said.What really needs to change is that perspectives must broaden, Gunderson said. It's no longer enough to monitor quality and security, "It's not just quality, but value, which is reliability and trusted significant content with continuous improvement. Information assurance is not just security, Assurance includes supportabilty and availability as well," he said.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

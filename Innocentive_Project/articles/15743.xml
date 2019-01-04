@@ -1,0 +1,57 @@
+<article>
+  <type>article</type>
+  <title>Backing Up GPS</title>
+  <author>George I. Seffers</author>
+  <date>March 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>GPS</tag>
+    <tag>Global Positioning System</tag>
+    <tag>PNT</tag>
+  </tags>
+  <abstract>When it meets this summer, the National Executive Committee for Space-Based Positioning, Navigation and Timing likely will discuss reviving an enhanced version of a World War II timing system to augment signals from global navigation satellites.</abstract>
+  <text>When it meets this summer, the National Executive Committee for Space-Based Positioning, Navigation and Timing likely will discuss reviving an enhanced version of a World War II timing system to augment signals from global navigation satellites. Portions of the nation’s critical infrastructure, including defense, transportation and finance sectors, depend on those signals, which are potentially vulnerable to a wide range of threats, including wartime adversaries, terrorists, hackers, natural phenomena and commercially available but illegal jammers. 
+
+The national executive committee is the senior-level government body representing both civil and military departments and agencies with a significant stake in positioning, navigation and timing (PNT) issues. PNT refers primarily to the Global Positioning System (GPS) but also includes GPS augmentations and other global navigation satellite systems. Established by presidential directive, the committee advises on and coordinates PNT issues among member departments and agencies responsible for the strategic decisions regarding policies, architectures, requirements and resource allocation for maintaining and improving the U.S. space-based PNT infrastructure. The secretaries of defense and transportation jointly chair the committee.
+
+An independent advisory board provides the committee advice on GPS-related policy, planning, program management and funding profiles for national and international satellite navigation services. The board reviewed a study presented to the committee last fall estimating that GPS contributes up to $70 billion to the U.S. economy, a deliberately conservative estimate, says John Stenbit, who chairs the National Space-Based PNT Advisory Board.
+
+“Our group has looked at that and believed it was a sound, conservative estimate. We accepted the comments of the economic prognosticators. It is very difficult to pin some things down, and they did not want to overestimate. The bottom-line economic benefit they came up with was on the order of $60 billion or $70 billion annually,” Stenbit says. 
+
+But this system that the United States and much of the world depends on is considered vulnerable. Jammers, which are illegal to market, sell or use in the United States, present one problem. They can block a wide array of legal communications, including 911 calls and communications among first responders. In 2013, a New Jersey man who worked for an engineering company was fined nearly $32,000 after the jamming device in his pickup interfered with Newark Liberty International Airport’s satellite-based tracking system. 
+
+Jamming devices are used increasingly by commercial drivers who do not want to be tracked by their employers. For example, taxi drivers have been caught using them to steal fares that are not in their area. 
+
+Sometimes industry proposes technologies that could threaten GPS signals. In a recent example, Stenbit cites so-called GPS enhancers being considered in some countries for emergency personnel. “For firemen or first responders in buildings where the GPS signal doesn’t penetrate very well, they would build boosters to allow better accuracy within the buildings. To me, that’s an M-band jammer,” Stenbit says, referring to the spectrum band the U.S. military uses. “If you took that enhancer out of the building and stuck it out in the middle of the street, it could interfere with the local GPS signals.”
+
+Stenbit adds that those nations already may have solutions in mind but that the issue requires additional study. “All I’m saying is there are lots of ideas, some of which may be very helpful and some of which may not,” he states.
+
+The mantra for GPS governance is to “protect, toughen and augment” the system. For augmentation, the advisory board has backed the idea of implementing an enhanced version of the GPS predecessor known as LORAN (long-range navigation). LORAN was a tower-based radio navigation system developed during World War II. An enhanced version, eLORAN, could be put in place for anyone needing timing data in case GPS is not available. The eLORAN system would be less susceptible to jamming in part because it is a low-frequency system.
+
+“One could build a rudimentary timing system that would work across the United States. It would have holes in certain areas because the United States is big and basically rectangular, and radio signals are circular,” Stenbit explains. “It would have variable performance based on terrain.” 
+
+The eLORAN system could provide timing data measured in microseconds, which is one-millionth of a second. “[The system’s] performance in 95 percent of the country would be on the order of one to 10 microseconds,” Stenbit elaborates. “Microsecond timing is good for a lot of systems, like supervisory control and data acquisition, which is the control system for electric grids, automatic teller machines and some communications activities that are not really high bandwidth.” 
+
+GPS timing, by contrast, is measured in tens of nanoseconds or billionths of a second. “If deployed, eLORAN could augment GPS by providing a countrywide timing signal. It’s not as good as the best GPS can do, but it’s better than a hole in the head if you don’t have any timing references,” Stenbit declares.
+
+In its most rudimentary form, eLORAN would provide only timing information. Because it is two-dimensional, the system could not provide altitude data, but positioning data is a possibility. “If you want to convert [timing data] into position—which is what the Coast Guard and some others would do with it—it would cost more. You have to have more calibration sites that then feed into a network to make sure it’s all synced up because you need timing from more than one place,” Stenbit explains. “You need to triangulate. To do that, the number of stations you need goes up dramatically, so then instead of talking about tens of millions of dollars, you’re probably talking about hundreds of millions of dollars, and that would provide accuracy within tens of meters across the country.” 
+
+One challenge—and a point of disagreement among experts—is the potential cost of the system and who would pay for it. “There are all kinds of arguments about what that would cost,” Stenbit offers. “It’s tens of millions of dollars and maybe over $100 million, but it’s not, like GPS, billions.” 
+
+Committee officials asked the advisory board to examine the possibility of the private sector contributing funds to help pay for the system. While Stenbit declines to discuss specifically what the board likely will recommend this summer, he does indicate a partnership between the government and industry is feasible. “It’s possible in the same sense that GPS is. If the government would build the system and make it go, there are people who would build receivers and sell them. There’s no question about that in my mind,” he maintains.
+
+Not all experts, however, are sold on eLORAN. Gene McCall, the former chief scientist with the Air Force Space Command and an early advocate for GPS, describes eLORAN as inadequate and obsolete.
+
+“[Using] eLORAN as a backup for GPS is analogous to backing up the Dallas Cowboys with a high school football team. The high school can field 11 players who know the rules. That satisfies the requirements for a game, but they are unlikely to make, or to prevent, a touchdown,” McCall says.
+
+While eLORAN may be less vulnerable to jamming, it is still susceptible to atmospheric interference. “Also, you would have transmitters located in shacks kind of sitting out by themselves, which are susceptible to a terrorist attack or to general vandalism,” McCall offers.
+
+He suggests cracking down on the use of jammers. “[The] sale and use of GPS jammers is only a civil offense. I believe it is time for Congress to make it a criminal one,” McCall states. “What the Homeland Security Department ought to do is to create a national GPS jammer detection and location system and train some local responders, like police and fire departments perhaps, to find and disable jammers and arrest the people who are using them.” McCall adds that locating jammers would likely be less expensive than building eLORAN.
+
+GPS and the need to protect, toughen and augment it is much more important than many people realize, Stenbit points out. Some smart, well-educated and well-informed people, he says, believe GPS will no longer be needed in the next 10 or 20 years, in part because of the advances they see now in PNT technology. Stenbit disagrees. “The current assessment is that no foreseeable alternative to GPS can deliver equivalent accuracy and continuous worldwide availability,” he says.</text>
+  <imgalttext>
+    <img>The final GPS IIR-M satellite was launched in August 2009. A critical GPS governance committee is weighing the possibility of augmenting GPS with an enhanced long-range navigation system, similar to the GPS predecessor first developed during World War II.</img>
+  </imgalttext>
+</article>

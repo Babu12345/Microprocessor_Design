@@ -1,0 +1,45 @@
+<article>
+  <type>article</type>
+  <title>Federal IT Administrators Struggle With Legacy Systems</title>
+  <author>Sandra Jontz</author>
+  <date>August 16, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+    <tag>modernization</tag>
+    <tag>GAO</tag>
+    <tag>OMB</tag>
+    <tag>Defense Department</tag>
+  </tags>
+  <abstract>Information technology modernization has reached a precipice within the federal government as agencies struggle to manage many moving parts and jockey for the same pot of money and talent. Add to the fray the results of a new survey showing an alarming reliance by federal agencies on outdated information technology systems.driving a lot converging technology needs all jockeying for the same pot of money and talent. Add to the fray the results of a new survey that show an alarming reliance by federal agencies on outdated information technology systems to run important applications.</abstract>
+  <text>Information technology modernization has reached a precipice within the federal government as agencies struggle to manage many moving parts and jockey for the same pot of money and talent. Add to the fray the results of a new survey showing an alarming reliance by federal agencies on outdated information technology systems.
+
+Despite prioritizing system upgrades for their agencies, 71 percent of federal IT decision makers said they use old operating systems to run important applications, according to an online survey of 100 decision makers by research firm PSB. The survey was conducted in May and sponsored by Dell.
+
+Its findings prove surprising, given the government’s intense focus on modernization and clear direction offered by the Federal Information Technology Acquisition Reform Act (FITARA), passed by Congress in 2014, says Cameron Chehreh, chief technology officer for Dell Federal. FITARA, which marked the first major overhaul of federal IT in almost 20 years, expands oversight of nearly $90 billion in federal IT spending and streamlines the process. 
+
+Since FITARA’s enactment, the White House’s Office of Management and Budget has published guidance to ensure that the law is applied consistently across the government.
+
+FITARA goals, coupled with the changes championed by U.S. Chief Information Officer Tony Scott and other agency CIOs, should have offered a good sense that progress is being made, Chehreh says. “It’s a little surprising we’re still at that point, given the years that have been invested into this modernization strategy. A lot of the systems are eight, 10 and sometimes even 15 years old, and the original manufacturers no longer support the operating systems,” he says.
+
+Cybersecurity topped the survey respondents’ list of challenges associated with legacy IT, followed by the cost of system support. The federal government spent more than 75 percent of the total amount budgeted for information technology for fiscal year 2015 on operations and maintenance investments, according to a U.S. Government Accountability Office report. Such spending has increased over the past seven fiscal years, resulting in a $7.3 billion decline from fiscal years 2010 through 2017 in development, modernization and enhancement activities, the report states.
+
+Some older operating systems no longer are supported by a development life cycle, meaning they become unsustainable and vulnerable to attacks, Chehreh says.
+
+In an effort to bolster cyber protections and streamline IT costs, the Defense Department plans to deploy Windows 10 early next year. “Transitioning to a single operating system across the department will improve our cybersecurity posture by establishing a common baseline,” Defense Department CIO Terry Halvorsen has said. 
+
+While Windows 10 offers an opportunity for the government to begin to provide better defenses of internal systems, there is still the issue of legacy systems impeding progress because of interoperability concerns, Chehreh says. “[Windows 10] strongly encourages and creates a significant positive opportunity for the government to address the largest attack surface across any mission area,” he says. “When you look at user devices and user endpoints, that’s really where technology of internal government systems meets the Wild West of having to do mission execution.
+
+“But the way that legacy software for government off-the-shelf—GOTS—has been written makes it very difficult for them to migrate at times, which is really the crux of the modernization challenge.”
+
+Suggestions for improvement include adding virtualization technology, software-defined networking and virtualized data centers as well as taking small, incremental steps toward modernization to mitigate risks, Chehreh offers.
+
+“But it’s also about dealing with the people element,” he suggests. “Culture is an extremely strong and powerful element of modernization within the federal government. It’s getting people in the organization to rally behind the real imperative to modernize.”
+
+The IT modernization effort is where the adage “you have to spend money to save money” rings true, he adds. “These technologies create the ability to gain massive efficiencies due to the use of automation and leveraging the innovation of the technology today. It simply requires less personnel and resources in order to get the scale the government needs to create agility and efficiency.”</text>
+  <imgalttext>
+    <img>A Louisiana Army National Guard chief communications plans officer trains members of the Cyber Defense Incident Response Team to defend the state’s cyber assets in November 2015. Photo courtesy DOD</img>
+  </imgalttext>
+</article>

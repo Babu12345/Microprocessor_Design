@@ -1,0 +1,25 @@
+<article>
+  <type>blog</type>
+  <title>Cryptography Advisory Group Addresses NIST Ties to NSA</title>
+  <author>George I. Seffers</author>
+  <date>July 14, 2014</date>
+  <departments>
+    <department>Cyber</department>
+    <department>Defense Operations</department>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>electronic warfare</tag>
+    <tag>homeland defense</tag>
+    <tag>Networks</tag>
+    <tag>Security</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The National Institute of Standards and Technology (NIST) primary external advisory board today announced a report calling for the agency to increase its staff of cryptography experts and to implement more explicit processes for ensuring openness and transparency to strengthen its cryptography efforts. In making its recommendations, the Visiting Committee on Advanced Technology (VCAT) specifically addressed NIST’s interactions with the National Security Agency (NSA).</abstract>
+  <text>The National Institute of Standards and Technology (NIST) primary external advisory board today announced a report calling for the agency to increase its staff of cryptography experts and to implement more explicit processes for ensuring openness and transparency to strengthen its cryptography efforts. In making its recommendations, the Visiting Committee on Advanced Technology (VCAT) specifically addressed NIST’s interactions with the National Security Agency (NSA). The report states, “NIST may seek the advice of the NSA on cryptographic matters, but it must be in a position to assess it and reject it when warranted.”
+	The committee recommends that NIST explore expanding its programs to engage academia and outside experts to aid in the review of specific technical topics. The report also recommends that NIST review the current requirement for interaction with the NSA and recommends changes in instances where it “hinders [NIST’s] ability to independently develop the best cryptographic standards.”
+	In the fall of 2013, Patrick D. Gallagher, former NIST director, requested that the advisory group review NIST’s cryptographic standards and guidelines development process in response to community concerns that a cryptographic algorithm in a NIST standard had been deliberately weakened. NIST already has taken several steps to strengthen the process for developing cryptographic standards and will carefully consider the advisory group’s recommendations, officials say.
+	The Federal Information Security Management Act (FISMA) of 2002 gives NIST responsibility for developing information security standards and guidelines for non-national security federal information systems. The standards and guidelines have been widely adopted by U.S. industry and the international community. FISMA also directs NIST to consult with other agencies, such as the NSA, to promote coordination and avoid conflicting standards. The report notes that, “It is of paramount importance that NIST’s process for developing cryptographic standards is open and transparent and has the trust and support of the cryptographic community.”</text>
+  <imgalttext>
+  </imgalttext>
+</article>

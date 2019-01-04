@@ -1,0 +1,81 @@
+<article>
+  <type>article</type>
+  <title>Marines Bring the Cloud to the Tactical Edge</title>
+  <author>Robert K. Ackerman</author>
+  <date>June 1, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Marine Corps</tag>
+    <tag>JIE</tag>
+  </tags>
+  <abstract>The U.S. Marine Corps is looking toward its major information technology support projects to serve its tactical command, control, communications and computers needs.</abstract>
+  <text>The U.S. Marine Corps is looking toward its major information technology support projects to serve its tactical command, control, communications and computers needs. This represents a melding of two traditionally separate disciplines, but one that is necessary to enable tactical forces to have the same capabilities found in garrison. These efforts are taking place against the backdrop of the Joint Information Environment, with which they would interoperate.
+
+The target is to bring these garrison capabilities down to the tactical edge. The Corps anticipates using its own private cloud to serve as the source for applications and data that could be accessed by a variety of different user-friendly devices. This would provide greater mobility and flexibility for deployed forces, which in turn would have a smaller logistical footprint.
+
+These efforts begin with the Marine Corps Enterprise Network Unification Plan, which comprises collapsing five unclassified networks into one. This plan supports the Defense Department’s Joint Information Environment (JIE), explains Brig. Gen. Kevin Nally, USMC, director, command, control, communications and computers (C4), and chief information officer (CIO), U.S. Marine Corps. The Marine Corps enterprise security stacks are comparable to the JIE regional security stacks (JRSS) that are part of the JIE.
+
+Gen. Nally emphasizes the Corps is building its information technology construct to meet the JIE. Currently, the JRSS constitutes the primary focus, and the Marine Corps’ security stacks exceed the capability and capacity of JRSS versions 1 and 1.5, he relates. With its security stacks in hand, the Corps will take a close look at being part of JRSS version 2.0. The Corps may retire some pieces of its enterprise security stacks if the new JRSS version meets its needs.
+
+Above all, the Corps is working with JIE groups to ensure Marines can access the network wherever they happen to be deployed. Gen. Nally says the Corps wants to work through the JRSS effort to make certain it can carry out its mission and control its own destiny while supporting the JIE infrastructure.
+
+Kenneth W. Bible, deputy director, C4, and deputy CIO, U.S. Marine Corps, explains, “We’re taking the active components of the network and trying to fold them up into these regional sites. We’re putting in dense-wave division multiplexing pipes in the bases so we can pull all the transport—all the data that is coming off the bases—together. And, those deployed units coming out of a base [will have] their data coming back into that backbone as well.”
+
+He continues that multiprotocol label switching (MPLS)-capable routers are emplaced at the regional level so they can meet up with the JRSS and the big pipes provided by the Defense Information Systems Agency (DISA). This provides connectivity with the Marine Corps’ private cloud in its Kansas City, Missouri, Marine Corps Enterprise Information Technology Services (MCEITS) facility. Some elements of the private cloud may be running at regional sites as well, Bible notes, if the Corps needs proximity or mission assurance.
+
+The Corps has been moving applications and programs into MCEITS (SIGNAL Magazine, March 2011, page 19, “U.S. Marines Creating Island …”) over the past two years. Gen. Nally points out that business case analyses have shown the Marines can realize cost savings in MCEITS as opposed to outsourcing app and program hosting. Several Marine Corps organizations have a presence there, including the Marine Corps Installations Command and logistics, manpower and programs and resources. The Corps has signed a 15-year lease for this facility with an option for another 15 years, he notes.
+
+Gen. Nally analogizes that the Kansas City facility is the Marine Corps’ federated piece; Marine Air-Ground Task Force information technology support centers are the distributed piece; and the tactical piece will be whatever the Marines can take with them. “You can’t cut the snake’s head off and be separated from the network,” he says.
+
+Bible points out this construct is different from reach-back to the garrison cloud. The Marines cannot function with that other model, and this sets the Corps apart from the other services, he adds.
+
+Gen. Nally offers that the Corps’ challenge is bandwidth. Aboard ships, the Marines lack the bandwidth they need—especially when intelligence, surveillance and reconnaissance requirements are factored into the equation. Also, individual Marines deployed in remote sites around the world must have access to that data.
+
+“We don’t want the operational reach of our deployed forces to outpace the reach of our C4,” Gen. Nally declares.
+
+On the tactical side, networking on the move (NOTM) constitutes a major Marine C4 activity. Ground forces already have it, and the Corps is working to extend it to aviation assets. Marine Aviation Weapons and Tactics Squadron One (MAWTS-1) has received what Gen. Nally describes as “command and control­ airborne” that extends beyond traditional aviation communications connectivity. The Marines have installed Wi-Fi aboard the V-22 Osprey, and the KC-130J aircraft that accompanies Ospreys now has access to the Secret Internet Protocol Router Network (SIPRNet) cloud.
+
+This enables the KC-130J aircraft to transmit SIPRNet data to the Osprey, where Marines aboard it can access constant situational awareness information using the latest commercial smartphones and tablets. This permits Marines to know what is happening on the ground before they land there, instead of learning only after they land in their target zone. Gen. Nally notes that these NOTM experiments have gone well, and each Marine Expeditionary Force (MEF) now wants the capability.
+
+With the advent of the Next-Generation Enterprise Network, which has transferred ownership of the Navy/Marine Corps Intranet to the government, the Corps now is looking to extend the Marine Corps Enterprise Network to the tactical edge seamlessly, Gen. Nally offers. In some cases, Marines deployed to different places around the world operate on networks belonging to the other U.S. services. This requires sending these forces deployed site transport boundaries, accompanied by approval from the other services to tunnel through their networks to the Marine Corps Enterprise Network. This approval takes time, the general notes.
+
+Currently, each MEF can extend the network to the tactical edge, but each one does it differently. The Corps can bring the network to the tactical edge seamlessly—with great difficulty—but it wants this extension to be seamless across the MEFs. This would permit a Marine to take an office-based laptop or tablet from garrison to the field while maintaining the same email, access and phone number. “We have a plan for it, and we’re moving forward,” Gen. Nally says.
+
+The key is to make this capability lightweight, power-efficient and easy to operate across the occupational specialties. This would include reducing a logistics tail of logisticians and communicators who take away seats from infantrymen, Gen. Nally says. The Corps wants systems that it can teach any Marine to operate. “What we don’t need are any more one-trick ponies,” he states.
+
+Bible emphasizes the importance of reducing the seams between garrison and the tactical edge. Time is of the essence when deploying, and forces do not have the luxury of configuring new gear as they head out the door. “We can reduce those seams by unifying the Marine Corps Enterprise Network and coming up with the technologies that allow us to just go with the gear that we were using in the office the day before,” he declares.
+
+This becomes even more important as the Marine Corps has fewer resources for buying this type of gear, he adds. And, with future deployments potentially featuring smaller self-contained units, the Corps must support these formations with the right gear and services. Gone are the days when equipment could be stripped out of one battalion and provided to another without a second thought.
+
+Gen. Nally allows that the Corps receives some of its best ideas from its newest Marines. For example, for the Global Combat Support System (GCSS)–Marine Corps, Marines who have tablets and Toughbooks note they can have 3G and 4G connectivity on their commercial smartphones and devices. They would like the same connectivity on their Toughbooks so they could use them for their GCSS programs. The Corps now is striving to install wireless connectivity within maintenance facilities so Marines can use their Toughbooks to input requisition data in a repair bay instead of filling out forms.
+
+“The young Marines are so used to modern technology at home or in the barracks, and then they come to work and they rightfully say, ‘How come I can’t have access to this for my needs at work?’” the general relates.
+
+Bible says this challenge around personally owned, corporately enabled devices is incredibly important. The Corps has limited resources to buy end-user devices, and it wants to be able to “take the device out of the equation” and just provide personal organizational data in a secure way on whatever device a Marine owns.
+
+“We can’t stay ahead of that curve in terms of deploying all the new smartphones and tablets that are coming out,” Bible emphasizes. “It doesn’t make sense for us to try to keep up with that, and it constrains that end user to what they’re familiar with and want to use. If we can take that out of the equation and give them access to the manpower or training or other types of applications and secure that data, that’s a real game changer.
+
+“I think that young Marines 10 years from now will have a very different experience in terms of their access to their official work apps and data than perhaps they do today,” he offers.
+
+The Marine Corps is moving forward with its commercial bring-your-own-device (BYOD) efforts. Gen. Nally relates that he was asked by other participants in the most recent JIE Executive Committee meeting to share the Corps’ mobile strategy. He says the Marine Corps is “a little bit further ahead” on this within the Defense Department because it has been working with commercial wireless connectivity providers as well as the Space and Naval Warfare Systems Command (SPAWAR).
+
+“We’ve run it through the legal gamut; we’ve done a Marine Corps-wide survey about how the Marines feel about the BYOD piece,” Gen. Nally elaborates. “It’s interesting because the older generation likes the idea, but the younger generation doesn’t like the idea so much because if their information is compromised, they don’t want their personal data wiped off the phone.” Bible offers that personal data erasure might not be necessary, as technology exists that would allow the isolation of data to be removed.
+
+Bible notes the Marines’ private cloud allows for the possibility of delivering application capability differently in the future. “If I can separate the application logic from the data, I can properly tag that data,” he continues. “I can expose it to application developers building those lightweight apps to ride on mobile devices. With those mobile devices in garrison, I can use ‘personally owned, corporately enabled’ to access those corporate applications.
+
+“Tactically, I might still need to have government-issued equipment, but I’m not as limited to what platforms I choose there,” Bible adds. “I can use Android, Windows or iOS devices tactically as that decision comes down. But I’m using the same data, and because I’ve done the virtualization inside of that private cloud—this is where the construct of that private cloud may be a little different than what others services are looking at—I can take entire capabilities or mission sets of applications and move them around the network to where they’re needed,” he declares.
+
+For example, for a tactical unit that might have an intermittent connection, an entire capability might be moved to a “tactical cloudlet,” Bible offers. This might take the shape of a small form factor box that rides with the Marines in the V-22 and provides the same services they had when they were connected to the backbone. He wants industry to offer solutions for moving services out to smaller and smaller units of action in smaller form factors.
+
+Bible also is seeking good technologies for the private cloud—specifically around platform as a service. This would constitute the development environment, the items above the operating system that can be introduced and automated.
+
+Gen. Nally emphasizes that any equipment from industry must be Marine-transportable—a two-person carry at the most—as well as lightweight, energy efficient and easy to operate. “If you could put a data center in a small box that supports a MEF-size level, that’s what we’re looking for,” he says.
+
+Related Content: Marine Cloud Aims to Dissipate the Fog of War</text>
+  <imgalttext>
+    <img>A U.S. Marine staff sergeant radios pilots during an exercise in South Korea. Marine Expeditionary Forces (MEFs) often must tap assets of other services when deployed—a situation the Corps is trying to eliminate.</img>
+    <img>A U.S. Marine corporal at Camp Lejeune, North Carolina, works to set up a network so he and other Marines can share information via satellite. The Corps is working to ensure that capabilities Marines have in garrison can be taken to the field and operated seamlessly during a deployment.</img>
+  </imgalttext>
+</article>

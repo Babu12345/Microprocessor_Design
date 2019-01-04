@@ -1,0 +1,21 @@
+<article>
+  <type>blog</type>
+  <title>You Can Play Intelligence Analyst for a Day</title>
+  <author>by George I. Seffers</author>
+  <date>August 7, 2014</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>data management</tag>
+  </tags>
+  <abstract>Will you be able to guess a location by analyzing an image?</abstract>
+  <text>We’ve all seen those scenes in spy movies where intelligence analysts scrutinize a photograph, looking at the buildings, the plants, vehicles or visible wildlife to deduce where the picture was taken because, of course, doing so is critical to discovering the bad guy’s whereabouts and saving the planet. In real-life, the Intelligence Advanced Research Projects Activity (IARPA) Finder program, detailed in my August article "Tag Teaming Big Data," is designed to help analysts locate non-geotagged imagery, whether photographs or video.
+For imagery without geolocation tags, analysts deduce as much as they can using reference data from many sources, including overhead and ground-based images, digital elevation data, existing well-understood image collections, surface geology, geography and even cultural information.
+Now, you too, can play intelligence analyst for a day. Just click on https://geoguessr.com/world/play, which was recommended by IARPA officials. With Geoguessr, you can zoom in or out or view a scene from different angles. When you’re ready, click on the map to indicate where you think the photo was taken and click “Make Guess.”
+If you’re like the SIGNAL staff, you will get a message telling you oh how wrong you really are.
+And then report your results back to us via Twitter, the SIGNAL Facebook page or the comments section below this blog. You’re on the honor system, and we trust you. We really do.
+Whoever does best gets bragging rights for exactly 15 minutes, or until your coworkers get annoyed and throttle you, whichever comes first.
+Go ahead. Give it a try. We double dog dare you.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

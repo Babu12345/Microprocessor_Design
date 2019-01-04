@@ -1,0 +1,38 @@
+<article>
+  <type>blog</type>
+  <title>OMB’s Cybersecurity Implementation Plan Should Measure Agency Resilience</title>
+  <author>Ray Rothrock and J. Wayne Lloyd</author>
+  <date>November 19, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>Following the distressing headlines that cataloged repeated cyber breaches of U.S. federal computer networks—some that compromised the personal data of millions of people—government officials have implemented a patchwork of safeguards to shore up vulnerabilities, including the identification of high value assets. An OMB memo gives agencies a multi-step plan, but it might not go far enough. </abstract>
+  <text>Following the distressing headlines that cataloged repeated cyber breaches of U.S. federal computer networks—some that compromised the personal data of millions of people—government officials have implemented a patchwork of safeguards to shore up vulnerabilities, including the identification of high value assets.
+
+The Office of Management and Budget (OMB) recently released a memo, the Cybersecurity Implementation Plan (CSIP) for Federal Civilian Agencies, which provides a multi-step plan for agencies to identify their high value assets. The CSIP was driven by findings from the first 30-day cybersecurity sprint, launched this summer by the White House, that in turn drove creation of the CSIP, which mandates federal agencies examine and run necessary patches on IT networks. The changes were prompted by the massive breaches of the Office of Personnel Management systems.
+
+The CSIP covers five issues intended to shore up federal civilian agency cybersecurity and ensure network resiliency:
+
+Prioritized identification and protection of high value information assets;
+	Timely detection of and rapid response to cyber incidents;
+	Rapid recovery from incidents when they occur and accelerated adoption of lessons learned from the sprint assessment;
+	Recruitment and retention of the most qualified cybersecurity workforce talent for federal jobs;
+	Efficient acquisition and deployment of existing and emerging technology.
+Identifying high-value assets (HVAs), defined as systems, facilities, data and datasets deemed of particular interest to potential adversaries, is very important. As much as we agree that the CSIP is long overdue, we are surprised that there was no mention of validating the need for data to be kept on HVAs to protect sensitive controls, instructions or information used in critical federal operations. This is key since the data could be of interest to criminals and politically motivated or state-sponsored actors for either direct exploitation or to cause a loss of confidence in the U.S. government.
+
+Agencies must know which devices store, process and disseminate the critical information that bad guys might want to target. However, after using the criteria provided by both the cybersecurity sprint team and the National Institute of Standards and Technology in the Federal Information Processing Standards Publication 199 to identify the HVAs, agencies should determine if a valid requirement exists to retain the data; if the data should be stored on that particular HVA; or if it can be moved to another system storing and processing the same or similar information. The end goal is to reduce the potential attack surface.
+
+Experts must also determine if the hackers can reach the HVAs through an agency’s network infrastructure. Technology to prevent attacks can only do so much. Experts must know how the network is built and what entry points and pathways intruders might take. All of the cybersecurity technology in the world will only get you so far in accomplishing timely detection and rapid response. Agencies must practice and train for detection and response, much like emergency response personnel. Firefighters do not wait for the alarm to sound to then figure out how to put out a fire. They train and practice continuously. Equipment alone will not douse the flames unless responders know exactly how to use every tool.
+
+The same goes for agencies’ cyber incident response teams; simply selecting people who might be IT or cybersecurity savvy, and bestowing a label of incident response team, is not going to cut it. Certifications and experience alone are not enough. Cyber responders must train using the equipment and technology available to them to be proficient and determine if the solutions are sufficient to accomplish the job. This means agencies must mandate and set aside time for incident response team staff and supporting personnel to train. The Department of Defense takes this concept seriously and runs information assurance ranges to provide prevention and rapid recovery training exercises for its cyber protection teams.
+
+Resilience should be the goal of the agency’s leadership. In the digital network sense, resilience means the ability to recover quickly from an attack both in terms of determining what happened and also in eliminating the threat within the network. To successfully implement a capable defense to cyber attacks the Department of Homeland Security (DHS) must score the resiliency of agency networks using standard measurements to provide a baseline metric. DHS officials then can rank each agency network based on a resilience scorecard, not compliance. For example, financial institutions use collected data points to determine if consumers pose high credit risk. Agencies could use a similar metric to quantify the resiliency of an agency’s network infrastructure without publicly airing specific weaknesses. Agencies can internally compare scores and start conversations to improve resiliency scores.
+
+While the CSIP is long overdue, it is never too late to take appropriate steps to shore up an effective defense. Making a network resilient in this age of cyber attacks is a continuous process. It takes senior leadership to establish measures and goals.
+
+Ray Rothrock is CEO of RedSeal, a cybersecurity analytics solution provider to federal agencies and Global 2000 organizations to help maximize digital resilience. J. Wayne Lloyd is the federal chief technology officer at RedSeal.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

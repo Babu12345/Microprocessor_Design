@@ -1,0 +1,54 @@
+<article>
+  <type>article</type>
+  <title>Gotcha! Program Looks To ID Cyber Criminals </title>
+  <author>Sandra Jontz</author>
+  <date>August 1, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>DARPA</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>In an ambitious effort slated to begin in November, DARPA plans to delve into developing technologies and processes that would allow authorities to access and then operate inside the networks and systems of cyber adversaries.</abstract>
+  <text>The U.S. government wants to hack the hackers—and be able to talk about it. 
+
+In an ambitious effort slated to begin in November, the Defense Advanced Research Projects Agency (DARPA) plans to delve into developing technologies and processes that would allow authorities to access and then operate inside the networks and systems of cyber adversaries, says Angelos Keromytis, program manager in DARPA’s Information Innovation Office.
+
+The goal of DARPA’s Enhanced Attribution (EA) program is to create technologies that would generate “operationally and tactically relevant information about multiple concurrent independent malicious cyber campaigns, each involving several operators, and the means to share such information with any of a number of interested parties,” according to the Broad Agency Announcement. The requirements for the research and development effort are vast, including technologies from physical, engineering and life science fields.
+
+For the next four and a half years—the anticipated duration of the EA endeavor—researchers will seek to make transparent the opaque world of cyber crime. They also hope to increase the government’s ability to publicly reveal hackers and their malicious activities without compromising sources or investigative methods, Keromytis explains. “Attribution means many things to different people. From my point of view, the goal is to find out who the bad guys are. When I say ‘who,’ I actually mean their personal identities. I want to go that far—names, where they live, what they do—that sort of thing. We also want to get as real time as possible a picture of their activities when they are engaging with us [and] when they are attacking us,” he says.
+
+Cyber criminals and nation-state hackers operate with little fear of being caught. If they are caught, rarely can they be brought to justice because the U.S. government is reluctant to publicly divulge how investigators managed to track them, Keromytis says. “Right now, attribution is such a hard and sort of hit-or-miss proposition that it is not seriously considered in most cases. The goal is to be able to tell a bigger story, or a full story, to any of our partners at any level of detail without damaging our ability to continue telling the story,” he says.
+
+Attributing nefarious Internet activities can be done, but it is extremely difficult, time-consuming and costly, and it reveals tactics, techniques and procedures that officials do not want the general public—much less adversaries—knowing.
+
+“It ends up being a, ‘Trust us, we know, but we can’t really tell you’ situation,” Keromytis laments. “That is unsatisfactory, both intellectually and very much practically, because we cannot convince ourselves—we can’t convince the public, we can’t convince the courts, we can’t convince the lawyers—that we truly know who did it. Otherwise, we’d have to give away sources and methods. We’d have to reveal how we know what we know.”
+
+At best, what is achievable is the type of post-breach finger-pointing that might draw public scrutiny, but little else. Consider the recent pair of breaches—dubbed Cozy Bear and Fancy Bear—of the Democratic National Committee’s (DNC’s) network that CrowdStrike Services managed to attribute to two groups closely linked to Russian intelligence services. “We’ve had lots of experience with both of these actors attempting to target our customers in the past and know them well,” wrote Dmitri Alperovitch, co-founder of CrowdStrike, in a blog about the company’s investigative efforts on its website. “In fact, our team considers them some of the best adversaries out of all the numerous nation-state, criminal and hacktivist/terrorist groups we encounter on a daily basis. Their tradecraft is superb, operational security second to none, and the extensive usage of ‘living-off-the-land’ techniques enables them to easily bypass many security solutions they encounter.”
+
+CrowdStrike identified advanced methods consistent with nation-state-level capabilities and tracked habits hackers used to evade detection for as long as possible. “Both adversaries engage in extensive political and economic espionage for the benefit of the government of the Russian Federation,” Alperovitch said in the blog. 
+
+Experts can uncover criminal identities primarily because people are creatures of habit and tend to leave behind behavioral breadcrumb trails that form cyber profiles. But this is not indisputable forensic evidence that would connect a specific Russian spy or hacker to a breach, offers Wallace Sann, public-sector chief technology officer and regional vice president of systems engineering for ForeScout Technologies.
+
+Breach after breach, investigators can build more nuanced criminal profiles. Take last year’s Office of Personnel Management breach that exposed the sensitive information of 22 million people. Sann says it had the trappings of a China-backed heist because of the massive exfiltration of data, among other clues. Russian hackers display different characteristics, such as lengthy periods of time spent within a network to monitor activity and extract bits of intelligence. 
+
+“Until technology catches up, attribution will be done by the profiling method,” Sann says.
+
+This is precisely the reason behind DARPA’s EA efforts, Keromytis says. Cyber attribution is made difficult, in part, because of the Internet infrastructure’s lack of end-to-end accountability, which allows network defenders only a partial peek into systems, including who might be at the controls, he says. 
+
+The DNC breach was an embarrassing cyber event that should serve as a wake-up call for every organization. Networks are not immune from cyber attacks, no matter their defenses, says Ray Rothrock, CEO of RedSeal, a cybersecurity analytics company. 
+
+Because perimeter defenses, firewalls and virus scans are not foolproof, he looks forward to the solutions the Defense Department’s futuristic research arm might deliver. “This is the perfect project for DARPA,” Rothrock says of EA. “I’ve always thought a good piece of technology to develop would be ‘friend’ or ‘foe,’ like beacons used on airplanes and other vessels. It will have to be trusted or secured so the ID could not be spoofed like [Internet protocols] are. Imagine you’re in a cyber war—literally, networks under attack in real time. Wouldn’t it be nice to know which packets were yours and which packets were theirs?”
+
+EA has the potential to create a dramatic shift in Internet security, Rothrock adds. “Imagine what the Internet would look like if every source for a communication exchange was reliably identified. This was not a design criterion when DARPA first launched the projects that eventually became the Internet, but it is clear that this is the most critical shift that needs to occur for the overall security of the Internet and everything that is connected to it,” he says.
+
+Keromytis’ inspiration for EA stemmed from the successes of DARPA’s Active Authentication program, a government-industry partnership focused on developing a behavior-based system to replace traditional authentication methods required to access networks. “The current standard method for validating a user’s identity for authentication on an information system requires humans to do something that is inherently unnatural: Create, remember and manage long, complex passwords,” Keromytis says. The program designs “cognitive fingerprint” algorithms that learn the distinct ways a user swipes smartphone apps, manipulates a computer mouse or types on a keyboard to create a behavioral road map unique to each person.  
+
+“That work has been very successful. It has seen quite a bit of transition, mostly outside of [the Defense Department], in the commercial sector,” Keromytis says of Active Authentication. “That led me to think, ‘Could we apply the same kinds of techniques in a different context … to track the identities of operators, assuming that we have a presence on their devices and their systems?’
+
+“Imagine that I knew somehow that you are a foreign adversary operator engaging in cyber activity against us, and I could look over your shoulder as you’re typing,” he continues. “What could I glean from that? What could I get from that if I put a machine to look at your actions?”</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

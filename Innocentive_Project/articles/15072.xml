@@ -1,0 +1,49 @@
+<article>
+  <type>blog</type>
+  <title>Attestation and Inception: Deciphering Secure Reality from a Dream</title>
+  <author>Justin Marston</author>
+  <date>September 8, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>BYOD</tag>
+    <tag>smartphone</tag>
+  </tags>
+  <abstract>One of the greatest security challenges for mobile apps running on mobile end points is attestation. In the context of secure mobility, the goal of attestation is to prove to a third party—an app or user—that a computing system is intact and trustworthy, an endeavor that is harder than it sounds, especially if you don’t “own” the end point device. How can you know it hasn’t been modified or infected by a bad actor, asks blogger Justin Marston. You can ask the system, but how do you know it isn’t lying to you, and the attacker cunningly covered his or her tracks?</abstract>
+  <text>"She’ll need a totem. Some kind of personal icon. A small object that you can always have with you, and that no one else knows. ... I can’t let you handle it. That’s the point. No one else can know the weight or balance of it. So when you examine your totem ... you know, beyond a doubt, that you’re not in someone else’s dream." – Arthur in Inception (Warner Bros. Pictures, 2010)
+
+Inception was a great movie. The gist of the plot was that people can insert themselves into each other’s dreams—when the mind is most vulnerable—to steal valuable information without the subject knowing. Its premise raises interesting questions: How do you know whether you are real or a fabrication in someone else’s dream? How do you know if you are dreaming? To deal with the problem, the lead character Cobb, portrayed by Leonardo DiCaprio, comes up with a totem—a physical object that only he knows how it behaves. For Cobb, it’s a spinning top. For Arthur (Joseph Gordon-Levitt), it’s a loaded set of dice.
+
+What does this have to do with security and attestation? Turns out, one of the greatest challenges for mobile apps running on mobile end points is attestation. In the context of secure mobility, the goal of attestation is to prove to a third party—an app or user—that a computing system is intact and trustworthy, an endeavor that is harder than it sounds, especially if you don’t “own” the end point device such as in cases of bring-your-own-device (BYOD). 
+
+How can you know it hasn’t been modified or infected by a bad actor? You can ask the system, but how do you know it isn’t lying to you, and the attacker cunningly covered his or her tracks?
+
+To extend the Inception analogy, if dreamers (attackers) figure out the loaded dice totem always rolls a five, they will make sure that whenever you roll the dice, the returned answer is always five. Similarly, sophisticated attackers can make it difficult for smartphone users to detect compromised devices. If attackers accurately predict the questions users might ask, they can ensure the operating system returns the correct answers so that everything appears “normal.”
+
+Modern iOS and Android smartphones and tablets have greater built-in security than traditional desktop systems. For example, they typically leverage a “secure element” (hardware security module) out of the box and have superior containerization of apps, making it harder for one bad app to attack another. Often, the first step in attacking a mobile device is to try to jailbreak (iOS) or root it (Android), though this is not always necessary, as evident with the recent MMS attack on Stagefright. Many users root or jailbreak their devices to change network carriers, allow downloads from third-party app stores or customize them more heavily than the devices can support right out of the box. Rooting a device turns off many of the OS protection mechanisms, which can invalidate the warranty and leave it more vulnerable to attack.
+
+There are several attestation mechanisms in the mobility ecosystem, with variable impact on end point devices and levels of assurance, or confidence they are telling the truth:
+
+Software Query: An app can ask a set of questions of the OS, which can be a few simple questions or more sophisticated device fingerprinting. The advantage of this approach is that it can be used in BYOD scenarios with no need to own the end point device. The problem is that a clever attacker can change the OS to make it give the “all clear” signal. Enterprise mobility management/mobile device management companies such as AirWatch and MobileIron use this approach, as do mobile security companies like Lookout. At Hypori, we use it too, and let an administrator decide whether to permit connections from rooted/jailbroken devices.
+
+Hardware Mechanisms: Hardware attestation mechanisms are more robust but must be implemented by the physical device manufacturer. More secure devices might embed a trusted platform module (TPM) or trusted execution environment (TEE) to enable a hardware root of trust (RoT). TPMs and TEEs routinely are used for encryption key storage in mobile devices, but less often are used for device attestation. This is beginning to change for several reasons. First, Microsoft Windows has supported trusted boot on desktop PCs with TPMs for quite some time and added it as an option for Windows 10 mobile devices. Also, Apple tried to do the same in a bootchain (chain of trust), containing the initial code in read-only memory in the processor. It decrypts and validates each stage of the boot process. As iOS goes “rootless” in iOS 9, it will get really tough to root iPhones. Finally, Android 4.4 and later versions support verified boot through an optional device-mapper-verity, leveraging the ARM TrustZone security processor. While more enterprise-focused manufacturers like Samsung leverage this processor in Samsung KNOX, it is not mandatory. Samsung is investing significant effort in its security architecture.
+
+Unfortunately, significant attestation issues remain. Here are some of the challenges:
+
+SMS messages can impact all kinds of management and system operations on phones, which is why many enterprises we’ve spoken to are worried about carrier-based attacks in hostile nations.
+	If trusted boot only works when starting up a device, what happens if an attack occurs after boot? The device could be compromised for long periods of time before a reboot.
+	If the trusted boot process only attests the core boot processes, other parts of the OS image can be modified without detection. (Learn more on extending the secure boot chain of trust to the OS from our presentation at LinuxCon).
+	Attacks like the recent MMS attack on Stagefright can achieve elevated privileges in the OS without rooting the device, which still can harm devices with verified boot mechanisms.
+	What about over-the-air updates? How do you validate they are legitimate, and that it is the code performing the check?
+	Few mainstream mobile devices today actually integrate attestation servers (Samsung appears to be the exception), so there’s no way to validate the root of trust on the device.
+Hypori’s virtual mobile devices that run SEAndroid have the advantage of splitting the OS from the user data partition in storage, making the entire OS image read only. A system administrator can update the template image via a privileged process in the SELinux infrastructure outside of the user virtual machines and processes. As a result, an attacker could still pursue the running OS image and attempt to attack it, but SEAndroid protects against privilege escalation in the guest OS. We are also working on other monitoring techniques from the underlying infrastructure layer.
+
+On the actual physical mobile end point—smartphone or tablet—we are big fans of hardware advancements in attestation. But attestation is hard, and really a kind of cat-and-mouse game between attackers and device manufacturers. BYOD increases the challenge, as enterprises can be at the mercy of a big ecosystem of device manufacturers for integrating and distributing security patches. Choose-your-own-device (CYOD) from an approved devices list might ease this challenge, if employees will accept it.
+
+So, here's the bottom line. If knowing whether you are dreaming or not is hard, attesting your mobile device could be even harder.
+
+Justin Marston is CEO and co-founder of Hypori. He holds multiple patents, is a published author and holds a master’s degree in chemistry from Durham University.  This is the first in a a series of blogs Marston will pen on some of the terms he often addresses. To spice things up, he will incorporate a movie theme in each. Future blogs will address derived credentials, crypto, data at rest, mobile malware and privacy.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

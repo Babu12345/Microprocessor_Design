@@ -1,0 +1,71 @@
+<article>
+  <type>article</type>
+  <title>How a Mini IoT Could Transform Public Safety</title>
+  <author>George I. Seffers</author>
+  <date>October 1, 2016</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>Internet of Things</tag>
+    <tag>first responders</tag>
+    <tag>Wi-Fi</tag>
+    <tag>Carbon Black</tag>
+  </tags>
+  <abstract>Homeland security researchers are defining the specifications for a central hub device that will protect, connect and inform the next generation of first responders and may be one step toward a miniature Internet of Things designed specifically for emergencies.</abstract>
+  <text>Homeland security researchers are defining the specifications for a central hub device that will protect, connect and inform the next generation of first responders and may be one step toward a miniature Internet of Things designed specifically for emergencies. The hub may be a personal cellphone that will provide a customizable feed of voice, video and data from an array of Internet of Things sensors, enhancing response efforts and ultimately saving lives.
+
+Under the Incident Management Information Sharing (IMIS) pilot program, researchers with the U.S. Department of Homeland Security (DHS) Science and Technology (S&amp;T) Directorate will harness the capabilities of the Internet of Things (IoT) to improve first responders’ situational awareness during emergencies. They intend to use an open standards approach to drive interoperability for IoT sensors that apply to emergency personnel. The program builds upon the smart city concept—an urban development vision to integrate information technology and IoT solutions securely to manage a city’s assets—and sensor technologies, but DHS officials want to see it applied to small towns and rural areas as well.
+
+The idea is that first responders will be able to tap into a variety of sensors, including traffic, security and body cameras, unmanned aerial surveillance systems and even wearables that monitor a responder’s own vital signs, to aid their work. Ideally, all that data will be fed through one device, a central hub that each responder will carry. 
+
+“We’re trying to integrate these different capabilities—communications, sensors, personal protective equipment—into this broader ensemble for the next-generation first responder,” says Jeffrey Booth, IMIS program manager within S&amp;T. “Our goal is to make it affordable, interoperable, vendor-agnostic and basically get it to market in a way that industry can take advantage of our interoperability efforts and apply their technology and make it commercially viable for the first responder.”
+
+The hub will be capable of accessing information in a cloud computing environment and will allow communications among first responders on the scene, the on-site coordinator and the operations center. “Right now it is conceptual in nature. We want a software-driven hub to meet certain open standards specifications,” Booth explains. 
+
+“Basically, think almost like a cellphone, if your cellphone was open and could just plug into a feed from a video camera, from a traffic camera, from a heads-up display, from a drone. We want that hub to be able to accept those different feeds and then to be able to display them,” he adds.
+
+The hub also must provide location data to the first responders. “If we can identify, for instance, where a first responder is located in a building and then use some of our technologies to identify where Wi-Fi signals are located, we can route that first responder to that Wi-Fi location, hopefully for the faster extradition of that potential victim,” Booth explains. 
+
+The IoT and smart buildings associated with it may provide first responders much of the information they need before they even arrive on scene. Booth suggests that smart building sensors can detect and report a fire faster than individuals can call 911. “That building could then, if it had it, download the computer-aided diagrams of that building to the fire truck, so that as they are literally en route, they will know the layout and the best access and egress,” he offers. 
+
+Emergency personnel also might have access to traffic camera data. And traffic lights could be timed to allow a faster response. 
+
+“Then you tie in things like Wi-Fi locations in that building and the proximities of cellphones. If the building were to collapse, let’s say, you then know, given the diagram of that building and the concentration of those cellphones, to immediately go to the southeast corner of that building because that is the highest concentration of cellphones, and therefore, it is the highest chance of saving lives,” Booth elaborates.
+
+Exactly what form the hub will take is yet to be determined. “The core hub could be a hockey puck kind of an idea. It could be a cellphone where you bring your own. We really haven’t gotten that far,” he says. “We’re designing the core functional specifications now.” 
+
+The personal cellphone may be the favored option because most first responders already carry one. Also, cellphones include some of the necessary data and applications, such as Global Positioning System (GPS) location and navigation. Moreover, many local emergency organizations do not have the funds to supply responders with customized equipment. 
+
+For the bring-your-own-device concept to work, however, the DHS may need to influence the cellphone market, primarily through the development of open standards. “If we can start to make recommendations for the standards these devices would build to, their application-programming interfaces, then we’ve opened up a whole new market area for those entrepreneurs who want to build apps and make them available,” Booth states. “If we can design specifications, open standards, that allow these feeds ... to be accessed through perhaps a personal device ... we do believe the cellphone will be a hub-like delivery mode for us.”
+
+Part of the challenge is providing the right information to the right responders. Medical personnel need patient data, but police officers do not, for example. One solution, at least within smart cities, may include some sensors that will “self-register” to a catalog in the cloud. Specific data will be available to those with a need to know, but only for a limited time. 
+
+“In an event when sensors are deployed or sensors exist in the environment, they could be registered to the cloud for that event,” Booth offers. “It doesn’t have to be there permanently. After the event, that public cloud incident could be turned off.”
+
+The primary goal for the IMIS program was to verify that disparate IoT sensors from various vendors could be interoperable. The researchers did that during two demonstrations earlier this year: one in January, the other in May.
+
+The first demonstration involved a hazardous materials truck in a traffic incident and included 45 sensors, such as physiological, unmanned aerial and hazmat types. The second centered on a building explosion scenario with people trapped inside. First responders participated in both events, which evaluated the sensors in every phase of each emergency, including response, recovery and mitigation.
+
+The S&amp;T team invited partners from nine nations to participate. “We tasked them with seeing how we can make these sensors interoperable so that we could have a plug-and-play approach. That turned out so well in terms of demonstrating these open standards that for the second demonstration, we expanded the scope to include communications—land mobile radios and wireless networks,” Booth reports.
+
+The team also assessed a newer technology known as data casting. “When a wireless network is either congested or disrupted during an incident, we looked at using data casting through the broadband network in the public broadcast system for conventional television to broadcast these various sensor feeds to the first responders,” he reveals. 
+
+Booth indicates that the team faces various challenges: delivering data to rural areas; jurisdictional boundaries on data; privacy issues; cybersecurity; indoor mapping and location; and size, weight and power issues for new equipment that could burden first responders. Still, other problems surfaced during demonstrations. At one point, a participant playing the role of a first responder brought his own device and used up his entire data plan. Another time, the unmanned aerial vehicles had to be grounded because a military exercise in the area included Black Hawk helicopters.
+
+“So, we have to work with [the Federal Aviation Administration] on the drone requirements that may be unique to a first-responder environment,” he says.
+
+But he also stresses the program’s accomplishments thus far. “We learned that we can have proprietary commercial sensors interoperate with one another using open standards. That may sound trivial, but it’s not,” Booth observes. “Interoperability will drive competition, drive innovation commercially and hopefully drive down costs.”
+
+His team intends to include lessons learned in an engineering report to be released to the public, a practice the researchers will continue following each spiral of development. The aim is to advance “the whole engineering reporting concept so that vendors can start taking advantage of this,” Booth says.
+
+Once the core hub concept is defined, the S&amp;T team will present it to the first-responder community for feedback. The first of those meetings may take place this month in Boston. “We would like to actually develop this core hub thing with engineering specifications for the open standards so that we can put it out in maybe a trial environment with industry,” Booth says. The idea is for the community to “take it, break it and tell us what works and what doesn’t work and what we need to do to make it work.” 
+
+Given how rapidly technology evolves, Booth says his team needs to get something viable to industry within 18 months. That will allow vendors to begin developing sensors for the first-responder community by the end of next year.
+
+In some emergencies, the general public may receive data as well. “In the future ... we see these many sensors being another input for situational awareness for first responders and the public. The example could be IoT flood sensors, where we want first responders to be notified so they may prevent or respond, but we may also want geotargeted alerts to a citizen’s cellphone if they are in a certain proximity to the hazard,” Booth says. “We are just touching the tip of the possibility iceberg with providing alerts and warnings with IoT.”</text>
+  <imgalttext>
+    <img>Interoperable sensors deployed across a city can feed information to first responders, improving disaster response efforts.</img>
+    <img>Future firefighters may wear shirts with sensors that monitor their vital signs. They and other emergency personnel also may carry a central hub device for accessing critical data from sensors deployed across a city or other areas.</img>
+  </imgalttext>
+</article>

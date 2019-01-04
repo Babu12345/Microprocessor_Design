@@ -1,0 +1,27 @@
+<article>
+  <type>blog</type>
+  <title>Guest Blog: A Brief Look into the Cybersecurity Framework</title>
+  <author>Matthew Smith</author>
+  <date>April 23, 2014</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Guest Blogs</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>Whether a well-established company or one just getting started with cybersecurity risk management programs, those in the industry often can use a little help navigating the cumbersome and technical systems. This snapshot features pointers to clarify existing guidance and help organizations manage cybersecurity risk.</abstract>
+  <text>Whether a well-established company or one just getting started with cybersecurity risk management programs, those in the industry often can use a little help navigating the cumbersome and technical systems. This snapshot features pointers to clarify existing guidance and help organizations manage cybersecurity risk.
+	The National Institute of Standards and Technology (NIST) was chartered to lead the creation of a “prioritized, flexible, repeatable, performance-based and cost-effective” Cybersecurity Framework. To accomplish this goal, NIST convened a series of industry-led workshops across the country and posted a request for information and a subsequent request for comments. From the data received, NIST published iterative versions of the framework before releasing the final publication [PDF] on Feb. 12.
+	Under Executive Order 13636 [PDF] “Improving Critical Infrastructure Cybersecurity,” NIST outlines the framework, which is made up of these three components: Framework Core, Framework Implementation Tiers and Framework Profiles. The Framework Core is a set of high-level cybersecurity activities (functions) coupled with categories and subcategories of security outcomes and examples of informative references to achieve them. Tiers provide an organization the ability to make a statement regarding its overall approach to cybersecurity risk management. Profiles provide a method to communicate, to internal and external stakeholders, either a current cybersecurity state or a desired (target) posture.
+	While all of these components work independently, some might wonder how they fit together. The framework offers a few suggestions in Section 3: How to Use. This section describes four primary framework uses, from performing a basic review of cybersecurity practices to establishing or improving a cybersecurity program, communicating cybersecurity requirements with stakeholders and identifying opportunities for new or revised informative references. Little guidance exists, however, on how to fit the components into an organization’s cybersecurity risk management process. So here are some suggestions on how to determine where your organization might utilize the framework to lower your cybersecurity risk.
+The steps outlined in Section 3 provide a high-level overview of a risk management approach tailored for cybersecurity using components of the framework. By translating cybersecurity activities to risk, an organization can manage the cybersecurity threat in terms commensurate with brand risk and financial risk. The steps also support a continuous monitoring program.
+	Profiles could be used to communicate the state of a cybersecurity program. In the acquisition phase of production, a profile could be used to set high-level cybersecurity requirements for the supplier. While not a stand-alone service level agreement, a profile could be used to identify cybersecurity concerns quickly and drive action plans for remediation. The use case is just one of many that could be modeled by the use of profiles.
+	While the framework is a living document, organizations will need to respond in real-time to a changing threat environment. To accommodate the adaptive nature of cybersecurity, the framework was built with the flexibility to add new categories and subcategories as new requirements arise. The framework is just that—a framework; the individual components are extendable. If a new threat emerges requiring a new technique, just plug the new category/subcategory into the framework and continue managing the risk.
+The current version of the framework provides many good concepts to work with. The steps to creating your cybersecurity program are based on the risks companies face, the mission served and the resources available. The framework gives users a toolbox; it is the next challenge to build and/or improve a cybersecurity program that meets needs and improves the nation’s cybersecurity posture.
+This process can be used by organizations just getting started with cybersecurity to begin their knowledge acquisition of cybersecurity activities. On the other end of the spectrum, large organizations can utilize this process to see where their activities and the framework’s activities overlap. An organization may be aligned with the framework by its current cybersecurity activities.
+Matthew Smith is a technical task lead at G2. Inc, an innovation centric cyber solutions and services company located in Annapolis Junction, Maryland. Core competencies include cloud analytics, big data ingest and security automation. Customer focus includes both public and private sector organizations. Follow G2 on Twitter at @G2_Inc.
+	The views expressed by our guest bloggers are their own and do not necessarily reflect the views of AFCEA International or SIGNAL Magazine.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,28 @@
+<article>
+  <type>article</type>
+  <title>This 4-Legged Robot Can Leap, Balance and Crouch</title>
+  <author>Maryann Lawlor</author>
+  <date>March 3, 2017</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Robotics</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The Chihuahua-size robot known as the Ghost Minitaur has been updated for better adaptation and reaction to unstructured and changing environments. Recently, robotics have flourished in size and type to meet growing demand.</abstract>
+  <text>The four-legged Chihuahua-size robot known as the Ghost Minitaur has been updated with advanced reactive behaviors for navigating grass, rocks, sand, vertical terrain, snow and ice fields, urban objects and debris. The platform boasts users including the U.S. Army Research Laboratory, Carnegie Mellon University and Google.
+
+Improvements to gaits allow the lightweight, direct-drive robot to adapt and react to unstructured and changing environments while maintaining balance, ascending inclines up to 35 degrees and striding up nearly 6-inch stairs. The Ghost Minitaur can even crouch to fit into 10-inch crawl spaces and leap onto 15-inch ledges and across 30-inch gaps. It also can balance on two legs. ?
+
+
+
+In recent years, robotics have flourished not only in size but also in type. Researchers, developers and manufacturers are responding quickly to meet demand for robots that satisfy a growing list of uses, from gathering military intelligence to delivering personal packages. 
+
+?Ghost Robotics co-founders Gavin Kenneally and Avik De say their primary focus since releasing the robot late last year has been to expand its behaviors, allowing it to traverse a wide range of terrains and real-world operating scenarios. "In a short time, we have shown that legged robots not only have superior baseline mobility over wheels and tracks in a variety of environments and terrains but also exhibit a diverse set of behaviors that allow them to easily overcome natural obstacles. We are excited to push the envelope with future capabilities, improved hardware as well as integrated sensing and autonomy," the two noted in a release.?
+
+Future improvements to the patent-pending Ghost Minitaur will include enhanced mobility and built-in manipulation capabilities to enable the robot to interact with objects. In addition, the company plans to integrate more sensors, build in greater autonomy and increase mechanical robustness and durability for operation in harsh environments. </text>
+  <imgalttext>
+    <img>The Ghost Minitaur can now navigate grass, rocks, sand, vertical terrain, snow and ice fields, urban objects and debris.</img>
+  </imgalttext>
+</article>

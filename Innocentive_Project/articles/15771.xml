@@ -1,0 +1,24 @@
+<article>
+  <type>blog</type>
+  <title>U.S. Defense Department Announces 'Hack the Pentagon' Pilot Program</title>
+  <author/>
+  <date>March 2, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Pentagon</tag>
+    <tag>cyber defense</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>Pentagon officials launch the U.S. federal government's first cyber bug bounty program.</abstract>
+  <text>The Defense Department announced today that it will invite vetted hackers to test the department’s cybersecurity under a unique pilot program. The “Hack the Pentagon” initiative is the first cyber bug bounty program in the history of the federal government.
+
+Under the pilot program, the department will use commercial sector crowdsourcing to allow qualified participants to conduct vulnerability identification and analysis on the department’s public webpages. The bug bounty program is modeled after similar competitions conducted by some of the nation’s biggest companies to improve the security and delivery of networks, products and digital services. The pilot is the first in a series of programs designed to test and find vulnerabilities in the department’s applications, websites and networks.
+
+Participants in the bug bounty will be required to register and submit to a background check prior to any involvement with the pilot program. Once vetted, these hackers will participate in a controlled, limited duration program that will allow them to identify vulnerabilities on a predetermined department system. Other networks, including the department’s critical, mission-facing systems will not be part of the bug bounty pilot program. Participants in the competition could be eligible for monetary awards and other recognition. 
+
+The pilot program will launch in April and the department will provide more details on requirements for participation and other ground rules in the coming weeks.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

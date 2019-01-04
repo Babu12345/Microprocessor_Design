@@ -1,0 +1,51 @@
+<article>
+  <type>article</type>
+  <title>Ready, Set, Go! U.S. Army Revs Up SETS Project</title>
+  <author>Carl Morris and James Christophersen</author>
+  <date>February 1, 2017</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>U.S. Army</tag>
+    <tag>Satellites</tag>
+    <tag>SATCOM</tag>
+    <tag>WGS</tag>
+  </tags>
+  <abstract>U.S. Army satellite ground stations are getting a much-needed total makeover—considering that several hail from the same era as the Vietnam War, the Kennedy presidency and the space race.</abstract>
+  <text>U.S. Army satellite ground stations are getting a much-needed total makeover—considering that several hail from the same era as the Vietnam War, the Kennedy presidency and the space race. 
+
+Their high-tech moniker—Satellite Earth Terminal Stations, or SETS—belies the actual nature of these facilities. The structures appear to more closely resemble corrugated steel warehouses for auto parts than suitable environments for cutting-edge satellite communications (SATCOM) equipment. During the 1960s, digital SATCOM was hardly a twinkle in the eye of technologists. SATCOM speed, volume and complexity would increase by many orders of magnitude over the next five decades.
+
+Through these humble SETS travel massive amounts of communication data directed by switches through large-scale satellite antennas to the military’s Wideband Global SATCOM (WGS) system and other constellations orbiting 22,300 miles above Earth. But all that is about to change with the construction of new state-of-the-art stations.
+
+Army leaders are taking the 1960s facilities and readying them for the types of conflicts the military will face in the 2020s, says Col. Joel Babbitt, USA, product director for the Army’s Product Lead, Wideband Enterprise Satellite Systems (PL WESS) office, which directs the effort for the service’s Program Executive Office for Enterprise Information Systems (PEO EIS). “Think about it: Way back in the 1960s, did we have full motion video? No. Did we have [Internet protocols]? No. We hardly had digital communications,” he says.
+
+Some 50 years of incremental renovations to expand the SETS and accommodate additional equipment have led to a point where more renovations are impractical, Col. Babbitt shares. “There’s only so much communications equipment you can put in a facility ... before you realize that your facility just doesn’t work for what you’re trying to do anymore, and you need to upgrade. [I]t’s cheaper to construct a new building than to try to patch up the old facility and make it something it was never designed for,” he says.
+
+One by one, the Army will shift users over to new facilities in the SETS relocation (SETS-R) program. The move stems from the March 2006 Enterprise Wideband SATCOM Terminal System (EWSTS) Capability Production Documents (CPDs) that mandate infrastructure improvements at Army SATCOM facilities, allowing them to leverage WGS satellite capabilities and emerging technologies. The new facilities are designed to accommodate capabilities that have emerged from the nation’s wars during the past 15 years. They will support “the total force of the future, not just the Army,” Col. Babbitt points out.
+
+Planners have taken a long-term view toward achieving their goal of building facilities that can accommodate current and future technologies, thanks to a climate of austerity that could continue indefinitely. “If the past is any indicator, this will set us up for the next 20 to 50 years,” Col. Babbitt says. “This is a once- or twice-a-century project that we’re undertaking.”
+
+And there is no margin for error. One of the greatest challenges will be avoiding service disruptions to the critical SATCOM missions that run around the clock. Throughout the entire relocation, the system must maintain 99.9 percent operational availability—in other words, interruptions must be virtually nonexistent. “The communications traffic routed through the facility at Landstuhl, Germany, provides critical capabilities to the soldiers, sailors and airmen serving throughout the world,” says Maj. Patrick Horvat, USA, project leader for SETS-R at PL WESS. “Any gap in service, no matter how brief, could stop time-sensitive reconnaissance of an enemy position reaching a battlefield commander, prevent supply depots from filling [a] soldier’s urgent request for supplies or repair parts, or interrupt specialized medical personnel remotely coaching a forward operating base’s medics through a complex, life-saving surgery.”
+
+To avoid such gaps, the Baseband Systems project office within PL WESS leads a large cross-organizational, geographically diverse team to relocate carefully selected baseband equipment owned by stakeholders such as the Defense Information Systems Agency, the Space and Naval Warfare Systems Command and the Army’s Warfighter Information Network–Tactical. The baseband office will buy new equipment to replicate system architecture, then seamlessly install and integrate it into the SETS.
+
+“We’re not just building out a new facility and then swapping all the users over to the new facility with new equipment,” Col. Babbitt explains. “Rather, we’re essentially employing a ‘tri-brid’ approach. 
+
+“We first build out a new facility with the new capability in it. Then we swing the users over one by one onto the initial capability, which then frees up the existing capability that we can then move over as well,” he continues. “Finally, we’re bringing in projects that will allow us to field brand new, first-of-their-kind equipment into these new facilities. That threefold approach is allowing us to make a world-class facility on a budget.”
+
+The Army is obligated to responsibly spend taxpayer dollars, says Col. Charles Stein, USA, project manager for Defense Communications and Army Transmission Systems (PM DCATS). “Our enemies are drastically evolving their communication methods as well as their efforts to thwart our ability to share information,” says the colonel, whose program has oversight of PL WESS. “We have to be smart in how we build out our infrastructure to maintain our advantage while being fiscally responsible, and the SETS-R project is a great example of a wise investment.”
+
+SETS-R positions DCATS to support current and future military long-haul communications. It improves the overall ground piece of SATCOM that provides combatant commanders, soldiers and other Defense Department personnel with secure, high-capacity satellite connectivity. “The beauty of the SETS-R project is not just the upgrading of obsolescent equipment, but the co-locating of previously isolated systems into one state-of-the-art facility,” Col. Stein says. “This consolidation will enable the [operation and maintenance] community to manage its equipment in a more efficient manner, which ultimately benefits the warfighter.”
+
+In addition to the project at Landstuhl, similar SETS-R efforts are in various stages of completion, including a recently finished site at Fort Detrick, Maryland, and one underway at Camp Roberts, California. Projects at Fort Buckner, Japan, and Camp Humphreys, South Korea, are in the early planning and design stages.
+
+Each facility affords Army SETS operations and maintenance staff reliable and secure structures with the necessary space to perform daily missions to keep the service’s SATCOM working around the clock. Collectively, the new SETS will set up the Army’s global network to accommodate and leverage developing SATCOM technologies for decades to come. “Technology moves very quickly,” Col. Stein says. “When I joined the Army, we were cleaning radio connectors with pencil erasers. The world is changing, and we must change with it or be left behind.”
+
+Carl Morris has been the project officer for Baseband Systems in PL WESS at Fort Belvoir, Virginia, since 2014. He served four years on active duty as a SATCOM operator at the Landstuhl Earth Terminal SATCOM site. James Christophersen is the public affairs manager contractor supporting PM DCATS. He has supported various offices of the Army acquisition enterprise since 2014, most recently in the Office of the Assistant Secretary of the Army (Acquisition, Logistics and Technology). The views expressed here are theirs alone.</text>
+  <imgalttext>
+    <img>A new state-of-the-art Satellite Earth Terminal Station (SETS) in Landstuhl, Germany, provides improved heating, ventilation and air conditioning and power distribution as well as additional floor space to better accommodate increased systems and subsystems. Photo courtesy U.S. Army-PM DCATS</img>
+    <img>The U.S. Army’s Product Lead for Wideband Enterprise Satellite Systems (PL WESS) directs the service’s SETS modernization effort, which includes upgrades such as this teleport facility in Landstuhl. Photo courtesy U.S. Army-PM DCATS</img>
+  </imgalttext>
+</article>

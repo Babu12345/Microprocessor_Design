@@ -1,0 +1,30 @@
+<article>
+  <type>blog</type>
+  <title>Remotec Unveils Next-Generation Robot</title>
+  <author>George I. Seffers</author>
+  <date>October 19, 2012</date>
+  <departments>
+    <department>Defense Operations</department>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>Remotec</tag>
+    <tag>Northrop Grumman</tag>
+    <tag>robot</tag>
+    <tag>UGV</tag>
+    <tag>Titus</tag>
+    <tag>New Product</tag>
+  </tags>
+  <abstract></abstract>
+  <text> 
+The Titus unmanned ground vehicle (UGV) is smaller, lighter, faster and smarter than its predecessors in the Andros family of systems. Titus weighs 135 pounds and measures 27 inches long, 16 inches wide and 23 inches high. It retains the four-articulator design common to Andros vehicles and also features a unique operator control unit with a hybrid touch-screen and game system-style physical controls.
+ 
+The Andros operating system provides greater information to the operator while easing user workload through more interactivity with intelligent payloads, such as chemical, biological, radiological and nuclear sensors. It also includes preset arm positions and the ability to more easily manipulate objects.
+ 
+Titus was designed using a modular approach, which allows the robot to be adapted for a variety of mission scenarios. Removable articulators, wheels and tracks provide users with the capability to navigate passageways that are only 16 inches wide or race toward a threat at a top speed of 7.5 miles per hour. Industry standard interfaces such as Universal Serial Bus and Ethernet make it easier for users to maintain and upgrade Titus and to incorporate payloads and sensors.
+ 
+The system was unveiled this week by Remotec Incorporated, Clinton, Tennessee, a Northrop Grumman Corporation subsidiary. Remotec is a Northrop Grumman subsidiary.</text>
+  <imgalttext>
+    <img>The Titus unmanned ground vehicle (UGV) is smaller, lighter, faster and smarter than its predecessors in the Andros family of systems.</img>
+  </imgalttext>
+</article>

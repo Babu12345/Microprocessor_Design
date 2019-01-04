@@ -1,0 +1,66 @@
+<article>
+  <type>article</type>
+  <title>Weaving a Web of Synthetic Persistence</title>
+  <author>Robert K. Ackerman</author>
+  <date>January 1, 2016</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>Persistent intelligence is moving from a reliance on time-driven collection to composing information from a broad range of sensors.</abstract>
+  <text>Persistent intelligence is moving from a reliance on time-driven collection to composing information from a broad range of sensors. In photographic terms, it is changing from a time-lapse to a multispectral scene. But this increased reliance on different sources of intelligence also increases the importance of data processing and mandates cooperative efforts among public and private researchers.
+
+Greater numbers and quality of sensors are driving many of the advances emerging in persistent intelligence. Yet many of these new sensors are not under the control of civilian government or the military. Incorporating information from outside the standard suite of capabilities into the persistent picture will require increased understanding of the data and its role in serving the decision maker as well as the warfighter.
+
+The growth of small commercial remote sensing satellites, for example, will shift intelligence, surveillance and reconnaissance (ISR) away from near-exclusive reliance on national technical means. Incorporating the satellite data into the persistent intelligence picture will require new software and concepts of operations.
+
+Some of the greatest enabling technological advances will come in the area of data incorporation. Experts already are working on determining which new ground-based technologies, ranging from straightforward data processing to automated analytic tools, will be needed to exploit advances fully. Other aspects to be determined include the roles for government-owned sensors vis-à-vis commercial sensors.
+
+Early in the war on terrorism, persistent intelligence tended to focus on the realm of ISR. This largely entailed unmanned vehicles loitering over an area for extended periods of time. However, the ensuing decade has seen persistent intelligence evolve to where it is less about dwell time and more about data from various sensors combined to form a comprehensive picture.
+
+During this time, intelligence experts also have learned how to build effective concepts of operations, how to employ sensor types and how to apply emerging ISR technologies more effectively. In particular, combating improvised explosive devices spurred many developments directly applied to the battlefield. Now, persistent intelligence is being exploited increasingly across strategic and tactical activities. Lessons learned in the tactical arena are being applied in the strategic realm as well, where the intelligence challenges are vastly different.
+
+The most effective areas for persistent intelligence likely will be where an adversary’s ability to block U.S. capabilities will be poor, observes Hugh McFadden, manager of emerging intelligence programs at Northrop Grumman. Persistent capabilities will be able to delve in depth into those environments and will be able to penetrate more deeply into contested environments. These improvements largely will come from advances in sensor quality and ubiquity.
+
+Many of the key enabling technologies already exist. The challenge is to consolidate those technologies into a form that provides effective persistent intelligence. Achieving this may involve both novel applications of existing technology as well as the creation of new capabilities in government and industry.
+
+“No one party can do this on their own,” declares Steve Ryan, manager for mission engineering at Northrop Grumman. “The only way we get there is through cooperation among national laboratories, contract research and development, independent research and development—all of those pieces have an important role to play.”
+
+The difficulty lies in integrating data from sensors as diverse as passive and active, for example. This integration must take place at both the metadata level and the low level, where information is derived from the content, McFadden notes. This would enable synthetic persistence by handing information from one space to another. This has worked on a small scale in isolated circumstances, but not on a large scale, he reports.
+
+The ever-growing volume of information from diverse sensors also will spawn poorer quality data that nonetheless must be incorporated into the overall picture. The proliferation of inexpensive sensors—including consumer products such as GoPro cameras—will add important data that, while not on a par with advanced government technologies, will need to be considered. However, the most relevant data from those sources must be culled from the larger body first.
+
+Where the processing actually is done in the data stream may change. Advances may push processing farther upstream closer to the sensor, which already has occurred in the airborne community. Larger integrated airborne or spaceborne platforms eventually could extract value from data before moving it toward users. The result would be these platforms serving as data centers that also stream information rather than just data.
+
+Having multiple functions on a single platform could affect resiliency, however, if a platform becomes unavailable. Solving that problem may be essential to future persistent intelligence architectures.
+
+Some military leaders have spoken of the need to divest in sensors and invest in processing, Ryan notes. The traditional pattern of building a sensor and then adapting processing specifically to suit the sensor does not scale from a technology or resource standpoint. Technology must step up by helping pull out relevant features from the data, at least at the low levels, to allow people to do more higher order sense-making aspects. “I would call that integrated processing, exploitation and dissemination—PED—or an integrated ground architecture,” he says.
+
+The individual services and government are moving toward that all-encompassing approach, he adds, but it will take time because of legacy reasons—many of which are still valid.
+Crowdsourcing might help provide a road map toward achieving this goal. A wholly different approach that mimics the way problems are solved through crowdsourcing could lead to a way of coordinating the sensors, computational power and human cognitive resources. The result would be an increased focus on the problems that matter, along with better masking and improved resiliency against targeted attacks, McFadden offers.
+
+The Internet of Things also can serve as a source of information in a closed or open environment. If troops on a battlefield are wearing multiple sensors linked in a common closed network, this would change both the diversity of data as well as the mentality of individuals who might begin thinking of themselves as sensor platforms. In an open environment, the world of connected sensors would provide even more diverse data.
+
+Extracting valuable information from masses of data remains the focal point of technology development. Key enablers include machine learning, both supervised and unsupervised. The commercial sector’s expertise in determining how people interact with systems would be valuable for building systems that provide information effectively. Usercentric design will help sort data for quick decision making.
+
+And, with data, quality and relevance are everything. Ryan offers that the often-described complaint of “drowning in data” is a fallacy. “As a former intelligence analyst, I can’t remember a time when I or any of my colleagues said, ‘I have too much data,’” he declares. “We were saying, ‘We don’t have the tools to get through all this data in a meaningful way in time to make a decision.’ It wasn’t about the data. It was about the timeliness of being able to comb through it to find those relevant nuggets and deliver that to somebody in time to make a decision.
+
+“Fundamentally, timeliness is the most important aspect of decision advantage,” Ryan emphasizes.
+
+Being able to computationally determine the efficacy of the content—to bring it into focus for analysts and machines—will be a major technological challenge for advancing persistent intelligence. Ultimately, people will need to be able to ask questions of data and obtain answers. The key technology enablers will be those that allow people to ask better and different types of questions faster and receive rapid responses accordingly.
+
+Ryan emphasizes the importance of metadata, which will be essential for validating information. All of its aspects that provide context for the data will help determine its value, especially if the data is tagged automatically. Rather than simply focusing on standardizing a couple of fields of metadata, Ryan offers that space and time should be the key fields around which persistent intelligence should be standardized.
+
+Pulling together all these technologies and capabilities may require partnerships at several levels, from the services to even the national level. In addition to a government-industry effort, this will necessitate participation from nontraditional players such as small business, academia and both military and government laboratories. McFadden offers that “huge leaps have been made” in the commercial sector for understanding human activity. These leaps were conducted for marketing purposes, but the expertise can be applied to persistent intelligence. The key is for government and industry to connect with these nontraditional organizations and bring them into the fold to develop solutions collaboratively, he says.
+
+One question that remains unanswered is whether existing budgeted programs will meet the needs of the persistent intelligence environment. A gap endures between existing programs and ensuring that persistent intelligence principles are carried forward into development, operations and maintenance of future programs. This gap must be eliminated to ensure maximum value from persistent intelligence, and the onus for eliminating that gap may fall on traditional industry players.
+
+Eventually, the multisensor nature of persistent intelligence will meld with cyberspace. Cyber increasingly is becoming a part of the traditional intelligence disciplines, and it will have a role in persistent intelligence that is to be determined.
+
+Ultimately, persistent intelligence may evolve into “end eventual visualization technologies,” which go beyond the idea of the flat map and visualization on glass. Ryan states this would entail leveraging three and four dimensions of the temporal aspect of data along with shapes, colors and sizes. People think natively in three dimensions rather than in two, he notes, so this approach would leverage individuals’ ability to move rapidly through the huge amounts of data that characterize persistent intelligence.</text>
+  <imgalttext>
+    <img>The nature of persistent intelligence is changing from increased loiter time to incorporation of greater numbers and types of sensors. Equipping soldiers with a variety of sensor systems may turn them into nodes in an intelligence Internet of Things. </img>
+    <img>A maritime version of the Northrop Grumman Global Hawk would provide extended surveillance and reconnaissance over broad swaths of ocean.</img>
+  </imgalttext>
+</article>

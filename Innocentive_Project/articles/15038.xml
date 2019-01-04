@@ -1,0 +1,37 @@
+<article>
+  <type>blog</type>
+  <title>Four Core Attributes Federal Data Centers Need for Cost-Effective Security</title>
+  <author>Bill Lemons </author>
+  <date>September 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>data centers</tag>
+    <tag>automation</tag>
+  </tags>
+  <abstract>While federal agencies undertake laudable efforts to consolidate and modernize data centers, security remains an underlying concern that keeps information technology administrators awake at night. Professionals reportedly believe the government’s data center modernization process increased cybersecurity challenges—an assessment, says blogger Bill Lemons, that is hardly surprising. </abstract>
+  <text>While federal agencies undertake laudable efforts to consolidate and modernize data centers, security remains an underlying concern that keeps information technology administrators awake at night. A survey by government research firm MeriTalk, sponsored by General Dynamics Information Technology and Juniper Networks, showed nearly half of the respondents believe the government’s data center modernization process increased cybersecurity challenges.
+
+The assessment is hardly surprising. After all, federal data centers are highly complex systems that consist of a patchwork of standards-based, proprietary, legacy and modern technologies—all with mission-critical implications. Securing systems with such a broad array of technologies is a daunting task.
+
+It does not help that agencies must factor in budget constraints and inevitable costs associated with change. The reality is that federal IT administrators must make data centers secure while “reducing the cost of data center hardware, software and operations,” according to the CIO Council.
+
+As administrators continue down consolidation paths, it’s imperative for them to understand the scope, boundaries and levels of security necessary for each system. The knowledge gives them the ability to implement effective security solutions to handle the growing complexity of modern federal data centers.
+
+These solutions possess four core attributes that can help federal administrators strike a delicate balance between security and budget concerns:
+
+Flexible: A flexible tool lets administrators virtually cover all bases. It deploys new security technologies in a timely manner and augments data centers’ overall security posture for varying applications and the infrastructure as a whole.
+
+Fast: Federal workers’ dependence on data skyrocketed within the data center, as the number of connected devices, unified videoconferencing and big data analytics increased at a rapid rate. This led to the need of security systems handling a large flow of data, while maintaining effectiveness as the data center scales both up and out. This is especially true as the sheer amount of data housed within the centers increases, along with the speed since thousands of government users access it.
+
+Automated: Security tools should be programmable so that federal administrators can adopt an automated, zero-touch policy. Automation effectively prevents errors and reduce operational costs. Automation can mitigate user error and reduce provisioning time for new security technologies, such as next-generation firewalls or dynamic firewall threat mitigation solutions that provide a higher degree of control and automatically respond to cyberthreats.
+
+Open: By basing systems on open technologies, federal administrators ensure the next wave of security devices complements or replaces current services.
+
+Incorporating the core components into technology deployment helps data centers operate more efficiently, reduces costs and sets the data centers up for future success with new technologies. And, most importantly, it lets administrators rest assured that they have an overall secure data center with optimal operations.
+
+Bill Lemons is the director of Federal Systems Engineering at Juniper Networks</text>
+  <imgalttext>
+  </imgalttext>
+</article>

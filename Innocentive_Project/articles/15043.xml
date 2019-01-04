@@ -1,0 +1,44 @@
+<article>
+  <type>article</type>
+  <title>Ransomware Booms as Cyber Attackers' Method of Choice</title>
+  <author>Sandra Jontz</author>
+  <date>September 2, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Internet of Things</tag>
+    <tag>malware</tag>
+    <tag>ransonware</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>Ransomware soared as the preferred malware of cybercriminals, with the number of new samples rising 58 percent over the second quarter of this year, and a whopping 127 percent over this time last year, according to a new analysis by Intel Security.</abstract>
+  <text>Ransomware soared as the preferred malware of cybercriminals, with the number of new samples rising 58 percent over the second quarter of this year, and a whopping 127 percent over this time last year, according to a new analysis by Intel Security.
+
+The firm released a retrospective report five years after acquiring McAfee. Its researchers compared what they thought would happen beginning in 2010 to what actually happened with hardware and software security threats, noting the boom in the number of devices connected to the Internet and a general lack of cyberhygiene contributed to the increase of malware intrusions and ransomware attacks.
+
+The report, McAfee Labs Threats Report: August 2015, provides detailed proof-of-concepts for malware exploiting graphics processing units (GPUs), noting that hackers leverage GPUs for raw processing power, “using them to evade traditional malware defenses by running code and storing data where traditional defenses do not normally watch for malicious code."
+
+“We all thought that more users, more data, bigger networks, and many more types of devices and other targets like the cloud, combined with more attacks, clever new malware and increasingly sophisticated actors were creating a perfect security storm,” reads a portion of the 40-page online report. “Most of these predictions came true. If anything, the adoption of cloud computing, Internet of Things devices and mobile devices moved faster than we expected. Our 2010 prediction of 31 billion Internet-connected devices by 2020 now seems an underestimate.”
+
+Three forces challenge the cybersecurity landscape: the expanding attack surface brought on by the Internet of Things (IoT), the industrialization of hacking and the complexity and fragmentation of the information technology security market, says Vincent Weafer, senior vice president for Intel Security’s McAfee Labs. “To keep pace with such momentum, the cybersecurity community must continue to improve threat intelligence sharing, recruit more security professionals, accelerate security technology innovation and continue to engage governments so they can fulfill their role to protect citizens in cyberspace.”
+
+The deluge that began with mobile phones quickly was surpassed by the use of smartphones, tablets and now wearables—all of which compromise the IoT explosion of tools connected to the Internet, from automobiles to medical devices, home electronics, critical infrastructure, baby monitors, heating and cooling systems, logistics and even city trash removal systems.
+
+Emerging technologies that prove lucrative will attract more attacks, the McAfee Labs researchers warned. While mobile devices experienced rapid growth in malware hits, the attacks ultimately were more exploratory than harmful since the devices' automatic backup features made devices easy to clean if hacked. Today, however, the IoT market is mushrooming faster than Intel Security officials had predicted. While attacks for now are still in an embryonic phase as criminals begin figuring out how to exploit vulnerabilities to get at the data, the sheer volume of connected devices, aided by availability of virtualization and cloud computing, creates a rather massive attack surface. “Cloud adoption has changed the nature of some attacks, as devices are attacked not for the small amount of data that they store, but as a path to where the important data resides,” the report reads.
+
+A byproduct of the booming cyber industry that caught the researchers off guard was the ecosystem emergence of criminals and hackers, or “cybercrime as a service,” as they note. “Cybercrime matured much more quickly than we expected from a hobby to an industry, trying different business models and operating under a mix of criminal, political and military agendas. ... Threats have evolved like a classic arms race, with criminals developing new attacks, the security industry responding with new defenses, and so on. The global Internet and the ‘dark Web’ were instrumental in fueling this race, making it easy for criminals to share techniques and learn from each other.”
+
+Another Intel Security-commissioned study last year estimated the annual cost of cybercrime to the global economy to be $400 billion, taking into consideration that much cybercrime goes unreported. Experts estimate the Internet economy generates between $2 trillion and $3 trillion a year, and that cybercrime extracts between 15 percent and 20 percent of that value.
+
+Another issue that surprised researchers was the continued poor cyberhygiene practiced by professionals and private users alike. What used to be a major concern reserved for government, banks and security vendors seeped into the general commercial space, and today cyber attacks pose a major threat for enterprises and consumers. “Today, we face nation-state cyberwarfare that includes some highly visible, although actively denied, state-sponsored attacks as well as long-term espionage. Again, although we expected and predicted most of this development, the rapid evolution of malware, increase in attack volume, and large scale of nation-state attacks has been surprising,” the report authors penned.
+
+In spite of the bleak assessment, the firm reports some good news. For starters, though the attacks were sophisticated in planning, targeting, stalking and execution, they also were readily detectable. Additionally, security measures have improved, such as augmented signature-based anti-malware that adds a technology to detect the undetectable.
+
+Cybercriminals of the future will be a patient lot, the authors predict. “More and more we see long-running attacks that continue for many months, or those with a long-term view, willing to wait and watch before doing anything malicious.”
+
+However, the report might foreshadow the next battle space target for cyber terrorists. The researchers “continue to wonder at the absence of a successful, catastrophic attack on critical infrastructure. Such attacks do not make sense for cybercriminals because there are no easy payoffs, but they almost certainly make sense for terrorists and perhaps for some nation-states. Although we have observed cyber reconnaissance on critical infrastructure, we suppose political or strategic considerations have kept this from happening—so far."</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

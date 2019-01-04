@@ -1,0 +1,65 @@
+<article>
+  <type>article</type>
+  <title>Cyber Blitz: The Good, the Bad and the Ugly</title>
+  <author>George I. Seffers</author>
+  <date>May 4, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Army</tag>
+    <tag>cyber</tag>
+    <tag>electronic warfare</tag>
+    <tag>Spectrum</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The U.S. Army last week completed an exercise designed to further define how the service adapts operationally to modern threats, including cyber attacks and electromagnetic warfare.</abstract>
+  <text>The U.S. Army last week completed an exercise designed to further define how the service adapts operationally to modern threats, including cyber attacks and electromagnetic warfare. During the exercise, the Army tested the cyber-electromagnetic activities (CEMA) cell concept within a brigade combat team and introduced new, yet-to-be-fielded technologies.
+
+The exercise, known as Cyber Blitz: Converged Brigade Combat Team Main Command Post, was conducted during the entire month of April and hosted by the Communications-Electronics Research, Development and Engineering Center (CERDEC). It brought together elements from different communities, including cyber, training and doctrine, research and development and acquisition.
+
+It also forced warfighters to confront a much more complex threat than they have in recent conflicts. “Unlike in Iraq and Afghanistan, we had to worry about a threat that could see us in the electromagnetic spectrum and could conduct attacks in ways we hadn’t seen in both of those environments,” reports Lt. Col. Brent Clemmer, commander, First Battalion, 21st Infantry Regiment, 25th Infantry Division, Oahu, Hawaii.
+
+Lessons learned from the exercise will be reported in an assessment plan to be delivered to Army leadership this summer, and officials are planning for a Cyber Blitz 2 in the fall. The assessment plan will present “the good, the bad and the ugly” as it relates to doctrine, organization, training, materiel, leadership and education, personnel and facilities,” says Richard Wittstruck, the associate director for field-based experimentation and integration for CERDEC’s Space and Terrestrial Communications Directorate.
+
+“The good are the soldier operators who adapt to be put into a new environment, for which they haven’t been formally trained and for which we don’t have written doctrine,” Wittstruck says.
+
+Within a matter of days, Wittstruck reports, soldiers learned how to integrate new systems they had never seen before. He cites the Electronic Warfare Planning and Management Tool (EWPMT), which is still in the engineering, manufacturing and development phase, as one example. It took a day and a half of familiarization training for electronic warfare specialists and officers to gain expertise. “You would think they had been on that system for a long time. They became very proficient very quickly,” Wittstruck says.
+
+The exercise also included the Multi-Function Electronic Warfare system, which provides electronic attack and electronic support capabilities. Additionally, CERDEC developed new electromagnetic battle management capabilities for the Coalition Joint Spectrum Management Planning Tool (CJSMPT), which allows identification of potential friendly force radio frequency spectrum conflicts and a means to resolve those conflicts. CERDEC officials have dubbed the CJSMPT with additional capabilities the CJSMPT+.
+
+Maj. Robert Braley, USA, an electronic warfare officer for the 25th Infantry Division, says those systems were all “tied together. “All these sensors will be feeding the spectrum information. You will have both your friendly and your gray—which is maybe civilian—and then enemy spectrum and data into these systems so that in real time we can analyze it and help with intel and targeting,” Maj. Braley says. “Several years from now, those will all be combined into one system.”
+
+The CJSMPT+ capabilities are targeted to transition to the EWPMT program, which in 2018 will take over the CJSMPT role as the dedicated spectrum and electronic warfare management tool.
+
+The bad, Wittstruck says, is the unknown. “It’s a very complex [training exercise] scenario that we’ve made even more complicated by bringing in this richness of cyber and electronic warfare,” he explains.
+
+Adding a cyber and electronic warfare cell to a Brigade Combat Team is a new operational concept for the Army, and it created some challenges. “The challenge is you have folks who are very used to excelling in their cylinder of excellence, whether it’s looking at the spectrum or looking at the network. What they’re not used to doing is describing to a commander the risks posed to that network that also pose a risk to operations on the ground,” Col. Clemmer says. “Electronic warfare officers, signaleers, network managers, spectrum analyzers ... now have to also see themselves as analysts.”
+
+He adds that in thinking of themselves as analysts, they will need to ask how much they really know, how much that knowledge could affect brigade operations and with whom they might need to share information. “In the end, there are 4,000 or 5,000 young soldiers in this brigade out in front of us fighting,” Col. Clemmer points out.
+
+Those soldiers will be placed at either an advantage or disadvantage depending on the capabilities provided by the tactical operations center compared to those provided by the enemy, the colonel points out. CW4 Kimberly Oliver, USA, senior information protection technician, 25th Infantry Battalion, echoes that sentiment. “Those soldiers on the front lines depend on us just as much as they depend on air support and ground support and supplies,” she says.
+
+CW4 Oliver agrees cultural change is needed to integrate CEMA cells into Brigade Combat Teams. Normally, network defenders would only communicate with those in related occupational fields. “We didn’t think there was a need to talk to anybody else because all we did was worry about defending the networks. This exercise made us realize ... the necessity of our information that we gathered off of our sensors,” she says. Sharing information, such as an enemy Internet protocol address, “would allow us to have a target ...  to give to the commander to be able to do a possible kinetic or non-kinetic effect,” Oliver adds.
+
+Wittstruck indicates that the ugly part of Cyber Blitz is closely related to the bad. “The ugly of this is trying to figure out how I fight not just the geospatial battle but the spectral battle. We kind of saw this in evolution over time in Iraqistan,” he says, using military slang to refer to back-to-back conflicts in Iraq and Afghanistan.
+
+The spectral combat in those countries was primarily limited to the counter-improvised explosive device mission. “We’re taking it orders of complexity beyond that and saying now we have dynamic electronic warfare and cyber intrusion and engagement going on, overlaid on the geospatial [conflict]. I have to know not just how I am fighting in the geospatial but how I’m fighting in the spectrum,” Wittstruck observes.
+
+Combat commanders may now have to be well-versed in the very technical domain of spectrum warfare. An infantry officer, for example, will have to learn electromagnetic wave theory and understand a radio frequency propagation map. Commanders will have to make decisions not just about maneuvering and firing but about when, where and how to radiate spectrum.
+
+Col. Clemmer supports that contention. “I wasn’t worried about anyone in Afghanistan or Iraq looking at me in the electromagnetic spectrum,” he states.
+
+The colonel recalls that as a second lieutenant, he would climb into his vehicle, and turn his radio on low, cranking it higher only as the situation demanded. “You’d work up until you were radiating enough energy to get your mission done, but not more energy than you needed,” he recalls. “I’m telling you right now, my driver doesn’t do that. None of the soldiers in my infantry battalion do that. They get in, and they turn the power on high and leave it there. That will create risk to the force in the environment we’re likely to fight in for the future.”
+
+Meanwhile, CW4 Oliver says her team brought to Cyber Blitz new capabilities to help overcome the challenge. The Army relies on the Host Based Security System and the Assured Compliance Assessment Solution (ACAS) for enterprise network security. Just as with commercial anti-virus programs, users can click a button to scan and determine if they need an update, which will be pushed down to the system. That update process uses bandwidth, she explains.
+
+The 25th Infantry Battalion incorporated an IBM system known as BigFix Patch, which provides an automated, simplified patching process administered from a single console. It provides real-time visibility and enforcement to deploy and manage patches to all endpoints, on and off the network, according to the IBM website. Clients have reported seeing more than 98 percent first-pass patch success rates. The solution not only increases the effectiveness of the patch process, but it cuts operational costs and reduces patch cycle times, the company reports.
+
+CW4 Oliver’s team would do the initial vulnerability scan with ACAS and confirm with BigFix. “We’re able to reach back to home base to pull down the exact package that we need, so we don’t have to worry about the bandwidth issues,” she offers. “Considering the situation we had here with Cyber Blitz, it was important for us not to have much of a target or much of an emission from our satellites.”
+
+Cyber Blitz sparked a conversation about what it means to positively identify an enemy target. Right now, positive identification relies on what the commander can see with his own eyes, even if it is video provided by an unmanned aerial system. Positive identification may need to include targets detected through electromagnetic traces. “That ought to drive targeting just as effectively as being able to see the whites of their eyes,” Col. Clemmer asserts. “I’ve lost soldiers in combat. Screw the fair fight. Anything I can do to prevent those under my command from dying and to make the other bastard die, I want on my side.”</text>
+  <imgalttext>
+    <img>Soldiers with the 25th Infantry Division conduct fast rope insertion extraction techniques with their Marine Corps and Air Force counterparts. Elements of the 25th participated in the Army’s recent Cyber Blitz exercise, which will help define the future of cyber and spectrum warfare.</img>
+  </imgalttext>
+</article>

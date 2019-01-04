@@ -1,0 +1,52 @@
+<article>
+  <type>article</type>
+  <title>Taking Apps to War</title>
+  <author>Sandra Jontz</author>
+  <date>May 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Apps</tag>
+    <tag>mobile</tag>
+    <tag>Marine Corps</tag>
+  </tags>
+  <abstract>The future of the U.S. Marine Corps lies in apps. Warfighting applications will transform mobility, much like the assembly line did for the automotive industry, predicts Kenneth Bible, Marine Corps deputy chief information officer.</abstract>
+  <text>The future of the U.S. Marine Corps lies in apps. Warfighting applications will transform mobility, much like the assembly line did for the automotive industry, predicts Kenneth Bible, Marine Corps deputy chief information officer.
+
+“The automobile was around for many years before anybody could afford it,” says Bible, also the Corps’ deputy director of command, control, communications and computers (C4). “The idea of an automobile wasn’t really disruptive. It was when the assembly line opened up mass production and drove the cost down that the market changed ... and average citizens could buy a car and retire their wagon and horses.
+
+“In the same way, I don’t know that the original cellphone was particularly disruptive,” he continues. “What really changed the market was the app environment.”
+
+Apps meant cellphones could do more than voice communications. They transformed handheld devices into mini computers that revolutionized everyday life. “This changed shopping, taxis, banking—just about every area has been touched,” Bible offers. And now it is the military’s turn.
+
+Input from industry and Marines will shape the Corps’ metamorphosis. “I see a shift coming,” Bible shares. The government will rely more on rapid and cutting-edge development of solutions from smaller businesses and could seek fixes such as “crowdsourcing of Marines themselves.”
+
+With 62 percent of the Corps’ active duty and civilian work force younger than 25, this shift is a natural progression, Bible offers. “My bet is that most have had some exposure to coding in one form or another. In another five years, the majority will have had some exposure to coding since they were in elementary school,” he says.
+
+Youth—and a revived focus on command and control (C2)—will help the Corps blaze a path to a mobile future. “Our charter from the commandant is to put C2 back into C4,” Bible says.
+
+The democratization of information technology helped drive out C2 capabilities—at least temporarily. “You had functional communities that had requirements that moved faster than the enterprise could provide solutions from a C2 or C4 perspective,” Bible explains. “We need to give [Marines] the C2 agility that allows them to thrive across a range of operations, everything from disaster recovery and humanitarian aid all the way scaling up to more conventional combat.”
+
+Bible’s marching orders come from two primary sources: the January order by Commandant Gen. Robert Neller, USMC, that placed renewed emphasis on the 2015 planning guidance released by his predecessor; and the Expeditionary Force 21 planning document, the Corps’ transformation road map for the next decade that seeks to return the service to its roots.
+
+Successive years of depleting coffers and more than a decade of ground wars in Afghanistan and Iraq compelled the Corps to set aside its expeditionary nature and dig in alongside the U.S. Army for long deployments. “We had data centers in the sand that required huge power requirements and cooling requirements,” Bible shares. “That really wasn’t expeditionary. You couldn’t put them in the back of an MV-22 Osprey. You couldn’t very easily pack those capabilities into something that could deploy in a six-hour window and travel 3,000 miles downrange to an objective. We had to rethink how we packaged those capabilities and how we provisioned the supporting services so we didn’t end up carrying fuel for extensive numbers of generators.”
+
+Part of the solution rests in the migration to the cloud. “We have to get back to lighter weight and more mobile solutions,” Bible concludes. “Can I come up with more efficient ways of developing code that can run on smaller form factor gear that requires less power? I’m not necessarily saying that [one particular] commercial mobile device meets the need, but my smartphone can go for eight or 10 hours on a charge.”
+
+While Marines want to be prepared for full-scale conflicts—conventional warfare—they are much more likely to find themselves in distributed, smaller operations. “From a technology perspective, what we’ve got to do is figure out how to build out capabilities within our Marine Corps enterprise network that make it seamless,” Bible offers. Marines need ready access to data at a moment’s notice, whether in garrison or at the tactical edge. To that end, the mission is guided by six enduring principles: flexibility, reliability, timeliness, interoperability, survivability and security.
+
+“Security is an interesting animal,” Bible points out. “We’ve got to strike a balance between building solutions that we have tested all of the risk out of with solutions that we can manage the risk of.”
+
+Corps leaders rely on a broad range of mobile solutions. The service’s eMarine app, for example, offers a free and easy way for Marines and their families to browse unit updates and to provide contact information from any mobile device. MarinesMobile is a free app designed for anyone who wants access to news, press releases, videos, photos, administrative messages, directives and orders as well as a social media feed.
+
+Such apps are more secure than many traditional desktop apps, Bible offers. “It’s a much simpler piece of functionality, with some very clear left and right lateral boundaries on how the developer can code. I’ll argue that the iOS model is a lot more rigid than perhaps the Android and other models. On top of that, we’re now seeing and investigating active containerization of solutions to put on to the device itself, so that more secure apps can live in a secure container with derived credentials that secure access to the container itself,” he says.
+
+If there is an end-state to be had in the push toward an agile, expeditionary force that can operate from handheld devices, it is reaching what Bible calls a “seamless mix-in.” This means the Corps will leverage cloud-based technologies, virtualization and containerization to maneuver capabilities in cyberspace. “I don’t think we have to compromise in terms of risk approach because the virtualization technologies that are out there, the container technologies that are out there allow us to build software products. The automation from a hardware perspective and a networking perspective to see problems on the network or to see aberrant behavior have accelerated as well. The combination … allows us to think about security in different ways and to become much more agile in how we deliver capabilities,” he says.
+
+The result is the force would be more expeditionary.</text>
+  <imgalttext>
+    <img>A satellite communications operator with the 11th Marine Expeditionary Unit (MEU) adjusts a 1.8-meter inflatable satellite communications dish during an exercise at Marine Corps Base Camp Pendleton, California. As the Marines augment the 11th MEU, their goal during the exercise was to standardize operating procedures and maintain functional command networks to prepare for MEU deployments.</img>
+    <img>The U.S. Marine Corps landed on mobile devices with an official app, MarinesMobile. The free app is designed for anyone who wants access to news, press releases, videos, photos, administrative messages, directives and orders, and a social media feed.</img>
+  </imgalttext>
+</article>

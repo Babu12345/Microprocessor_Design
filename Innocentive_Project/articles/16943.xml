@@ -1,0 +1,48 @@
+<article>
+  <type>blog</type>
+  <title>Leveraging Private and Public Networking to Support Critical Infrastructure</title>
+  <author>David Young</author>
+  <date>November 28, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>DHS</tag>
+    <tag>critical infrastructure</tag>
+    <tag>guest bloggers</tag>
+    <tag>Guest Blogs</tag>
+    <tag>SDN</tag>
+    <tag>internet security</tag>
+  </tags>
+  <abstract>When we think about critical infrastructure, specifically the sectors the Department of Homeland Security has deemed essential to the well being of the country, rarely does the idea center on public networking assets to support critical infrastructure. But a rapid transformation of network technology and security improved processes so that agencies now can take advantage of combined public and private networking to accomplish information technology goals.</abstract>
+  <text>When we think about critical infrastructure, specifically the sectors the Department of Homeland Security has deemed essential to the wellbeing of the country, rarely does the idea center on public networking assets to support critical infrastructure. But a rapid transformation of network technology and security improved processes so that agencies now can take advantage of combined public and private networking to accomplish information technology goals.
+
+The broad term for employing private and public networking resources is hybrid IT. It creates more cost and operational efficiencies, scales more quickly and enables a higher degree of agility—particularly when an agency uses managed services from a trusted third party. Plus, it can fit into existing agency IT infrastructures, which is important given that complete overhauls often are cost prohibitive.
+
+A majority of the network connections agencies employ are private connections. Agencies use multiprotocol label switching (MPLS) access technology because it can be integrated with existing infrastructure, allows for shared network resources while maintaining private routing, scales up and down with ease and typically offers a higher quality of service. MPLS is IP-based and is a proven networking technology, but not the only one agencies use.
+
+How is everything connected?
+A challenge with using different access technologies is integration. Newer networking technologies integrate more easily, so agencies often start upgrading their networks first. Agencies with multiple locations use wide-area network (WAN), ideal for connecting a distributed private telecommunications network but can get expensive. WANs—particularly those based in MPLS technology—are static and have dedicated hardware at each location that must be manually configured. It is a complex and time-consuming process.
+
+This is one reason private companies and government offices leverage the public Internet to route some traffic. More applications now are in the cloud and branch or satellite locations often need to use outside Internet sources for business, such as training videos, ordering supplies or research projects. A more specialized WAN architecture would better balance Internet and data center traffic. Adding broadband to an MPLS deployment, agencies have reliable service with an inexpensive Internet offload. Supporting some applications over a broadband and LTE infrastructure, such as voice, might have a less than desirable performance intermittently, but on the whole, the experience is improved.
+
+A hybrid WAN approach, when implemented correctly, can lead to cost savings and agility without sacrificing performance—important for critical infrastructures that depend on reliable and efficient network connectivity to operate at optimal levels.
+
+Can WAN be virtualized?
+Automation and virtualization are becoming important attributes for network administrators. The merits of a software-defined (SD) network to a WAN deployment enables enhanced use of disparate access technologies. In the simplest terms, SD-WAN relies on software policies and controls to run the network, letting network operators manage the entire WAN through a centralized interface. In addition, SD-WAN automates network selection to ensure all connections, public and private. are used in the most efficient manner. A report by Network World points to SD-WAN’s ability to create a “no-touch branch office,” meaning network administrators can remotely change network configurations.
+
+Initial research by Level 3 Communications indicates that managing security policies is the No. 1 benefit customers want from an SD-WAN deployment. When improved governance is combined with increased functionality, the result is a powerful network management system. SD-WAN is a new technology and somewhat untested in large-scale deployments. According to the consulting firm Frost &amp; Sullivan, barriers to adoption include:
+
+The sunk investment in existing WAN infrastructure.
+	The need to invest in new SD-WAN appliances.
+	Inconsistencies in vendor offerings.
+	The complexity of self-managing large scale WAN deployments versus a managed service approach.
+These aren’t surprises. It’s important to note that the firm also indicates SD-WAN is making waves in the networking solutions industry and anticipates its continued growth. Software and the public Internet can streamline critical infrastructure operations, especially given that the nation’s networks are built on outdated platforms. Critical infrastructures are critical for a reason. By leveraging a combination of public and private networks within a software-defined environment, organizations and the elements comprising these sectors can operate in a faster, more reliable and secure manner.
+
+David Young is regional vice president over the Government Markets Group at Level 3 Communications.
+
+This is the fourth in a series of blogs addressing DHS’ Critical Infrastructure Security and Resilience month.  </text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

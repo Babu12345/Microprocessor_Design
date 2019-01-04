@@ -1,0 +1,31 @@
+<article>
+  <type>blog</type>
+  <title>Guest Blog: Cybersecurity Is Asymmetric</title>
+  <author>Paul Strassmann</author>
+  <date>July 14, 2010</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Cybersecurity leaks originate from insiders. Unchecked social computing can be the attacker's favorite means for data mining. From the standpoint of our enemies, acquiring easily accessible intelligence from inside sources can be simpler than whatever can be obtained by means of hard work to crack Defense Department barriers.</abstract>
+  <text>The Defense Department is spending $3.2 billion/year on information technology to secure networks against incoming malware. Meanwhile, it spent hardly any money to protect against outgoing compromising data from insiders.  Nobody seems to care much about the prevention of exfiltration of information.
+
+Time has come to recognize that cybersecurity has to deal with unequal amounts of inbound and outbound traffic. Our enemies can gain more credible information from easily available disclosures from inside sources than from encrypted data that must be mined through firewalls, virus protection and filtering. That is why the imbalance between the expensive defenses against incoming intrusions vs. the puny amounts spend to deter outgoing leaks can be labeled as asymmetric.
+
+By far the greatest source of information leakage from the Defense Department is via social computing such as through YouTube, Facebook, MySpace Twitter and blogs. The OSD policy on social networking of February 25, 2010 makes such activity "integral to operations across DoD". It orders the re-configuration of the NIPRNET to provide access to Internet-based capabilities from all components. But the "how" of implementing that was left without any guidance on how to arrest the revealing of military information. In short, the current OSD policy has opened the gates to the loss of intelligence to close a billion people now engaged in social computing. A well-informed source tells me that about 20 percent of all Defense traffic is in conducting social communications through public sites which are unprotected as well as potentially toxic.
+
+A recent incident demonstrated that outsiders could use the social media to extract DoD information. A phony "Robin Sage", easily masquerading as an employee of the Naval Network Warfare command, was able to accumulate in a few months 300 friends on LinkedIn, 110 on Facebook and had 141 followers on Twitter. She connected with the Joint Chiefs of Staff, the CIO of the NSA, an intelligence director for the U.S. Marines and the a chief of staff for the U.S. House of Representatives. In all communications there were clues that "Robin" was a fake. In one case "Robin" duped an Army Ranger into friending her. The Ranger inadvertently exposed information about his coordinates in Afghanistan with uploaded photos from the field that contained GeoIP data.
+
+Here is another case of disregarding elementary security which disregarded the asymmetric effects of cyber security. It is a case in which I was involved. A bank's currency trading system was very secure. In its operations it followed best practices and was often praised as an exemplar of good risk management. All of the money transfers-sometimes in hundreds of millions of dollars in a matter of an hour-were securely executed without ever having a problem. The computers, the data center and the transmission lines were locked-down securely.
+
+Yet, suddenly, there was a problem: A large sum of money ($80 million) disappeared in a matter of seconds. When we finally walked through all of the scenarios, the problem was that although the currency applications were absolutely secure, the maintenance programmers (who were supporting money transfer applications) were communicating by open e-mail about software fixes and the next software release. The e-mails were mostly about project management housekeeping, such as when you run the tests and when you do a software update. The e-mails therefore flagged when the money systems were most vulnerable. By keeping track of the programmers' chatter over e-mail the attackers knew exactly when, for a few seconds, the system was naked.
+
+When verifying cybersecurity, the number one rule is that the attackers will first devote their time not on attacking a target directly. Devoting efforts to seek out locations of maximum vulnerability will always take precedence. Therefore, I favor managing social media on the NIPRNET against potential exfiltration as a priority (see http://pstrassmann.blogspot.com/2010/06/tracking-anomalies-in-social-computing.html). Unchecked outgoing traffic will always leave military information vulnerable.
+
+Paul A. Strassmann is a Distinguished Professor at the George Mason University. He is the former Director of Defense Information, Office of the Secretary of Defense.
+
+The views expressed by our guest bloggers are their own and do not necessarily reflect the views of AFCEA International or SIGNAL Magazine.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

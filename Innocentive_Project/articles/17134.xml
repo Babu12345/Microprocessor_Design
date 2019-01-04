@@ -1,0 +1,50 @@
+<article>
+  <type>article</type>
+  <title>New Technology Approaches Can Solve Complex U.S. Navy Problems</title>
+  <author>Cmdr. Jamie Gateau, USN (Ret.)</author>
+  <date>February 1, 2017</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>U.S. Navy</tag>
+    <tag>command and control</tag>
+    <tag>SDN</tag>
+    <tag>NFV</tag>
+  </tags>
+  <abstract>U.S. Navy commanders often struggle to deliver uninterrupted communications at sea without the added complications of providing command and control in denied or degraded environments.</abstract>
+  <text>U.S. Navy commanders often struggle to deliver uninterrupted communications at sea without the added complications of providing command and control in denied or degraded environments. They face a double whammy of operational and technical hurdles. 
+
+Processes for developing concepts of operations are complex, painstaking and exacting. Although technology sets the boundaries for what is possible, most of the hard work is decidedly nontechnical. It lies in determining which signals and messages have priority, which data sources and destinations are critical, and which ones can be relegated—and for how long.
+
+That is not meant to understate the technological obstacles Navy leaders grapple with—hurdles the private sector already has solved. Solutions can be found in software-defined networking (SDN), network function virtualization (NFV) and network policy orchestration. These technologies hold the keys to enabling command and control in a denied or degraded environment (C2D2E) afloat and enhancing security, mission capability and flexibility ashore.
+
+The Navy has begun to embrace server virtualization and cloud computing for added agility. Afloat, the service is leveraging virtualization to provide flexibility and supportability. Ashore, various cloud initiatives are underway, making it possible to spin up new applications and compute resources on demand. Application providers expect elastic computing resources and storage, whether within government data centers or from cloud providers.
+
+Network infrastructure deployments, though, have not come quite as far. Even without the limitations of afloat communications or C2D2E, many military and government organizations still wrestle with the time-consuming task of configuring diverse and proprietary application-specific networking equipment when adding or changing network functionality. The inability to quickly build and scale network and security infrastructure hinders attempts to be more nimble when responding to changing missions and contested cyber environments. SDN brings elastic connectivity to the wide area network (WAN), local area network (LAN) and data centers afloat and ashore.
+
+The SDN framework creates intelligent networks that are programmable as well as more automated and application-aware—benefits achieved by decoupling the network-control plane from the underlying physical infrastructure and making it programmable. This rapidly optimizes the network for changes in traffic flow and enables real-time provisioning and service configuration. When properly implemented, this framework improves network security and availability by letting software controls detect and adjust to cyberthreats and network disruptions.
+
+In the same way that virtualized services revolutionized data centers by replacing servers dedicated to specific workloads, SDN has started a transformation from the top of rack to the network core. Another feature of the framework, NFV, replaces custom appliances dedicated to specific functions with specialized virtual machines running on commodity hardware. Routing, acceleration, firewalls, Domain Name Systems and more become virtual functions that can be deployed, reconfigured, upgraded or removed from a management console without making physical changes to the environment.
+
+There are obvious cost benefits to virtualization. Commodity hardware can be used instead of multiple special appliances, and maintenance and licensing requirements can be reduced. But benefits to mission effectiveness and capabilities that can be derived from NFV dwarf any economic gains. Chiefly, it is no longer necessary to give up either the speed of function-specific hardware or the capabilities of brand-name devices. Nearly all major networking and security manufacturers have deployed virtualized network functions. Users can have Cisco or Juniper routing, firewalls by Fortinet, Barracuda or Cisco, and WAN acceleration from Riverbed or SonicWall—entities users know and trust—all running at line speed on the same commodity hardware.
+
+Coupled with NFV, network orchestration enables agility and elasticity and drastically shortens the timeline required to react to threats or changing missions. When done correctly, orchestration provides a policy-driven operational management framework for security, performance and resiliency. It reduces capital expenditures through a self-monitored automation approach, providing dynamic bandwidth to meet changing demand and ensuring network failures are detected and resolved—all without human intervention. Orchestration facilitates operational efficiency though the real-time automation of service, network and cloud delivery.
+
+In an orchestrated network, predetermined policies are applied when certain conditions are met. For instance, if suspicious traffic is detected, a new firewall rule can be put in place to block the offending traffic. Also, routing and security profiles can be modified automatically as a new service spins up a virtual machine in the data center. These policies are not device-specific configuration files painstakingly crafted by network engineers. Instead, the orchestration engine works to find those configuration files and, if necessary, any new virtual appliances required to implement the policies and deploys them as needed.
+
+SDN, NFV and orchestration clearly can be applied to the technical hurdles of C2D2E. Once a commander’s operational needs have been translated into information technology policies, they can be loaded into an orchestration engine with appropriate triggers and tripwires. When a specific situation arises, a complete set of configuration changes can be deployed across a network, on command, either automatically or by an administrator. These include firewall and routing rule changes, Quality of Service adjustments and reprioritization and, because orchestration is not limited to network devices, application server reconfiguration. Today, providing C2D2E sits at the less complicated end of an SDN capability. Even network upgrades only require downloading a new virtual appliance version and pushing it to the appropriate spot on the network. 
+
+There is no reason to stop there. What if a cyber attack overwhelms the perimeter firewall and sends more packets—and triggers more rules—than the processor can handle? A software-defined and orchestrated network simply can apply more compute resources to the firewall appliance or, by evaluating the attack, reconfigure the firewall to process the attack earlier in the rule set and discard the packets without overloading the system.
+
+When SDN is deployed throughout a network, it makes more sense to talk about numerous firewalls, deployed exactly where needed to maximize effect. Security boundaries can be applied flexibly wherever there is an SDN appliance. Tailored response options can be crafted and applied close to the affected systems. If a new threat is detected that moves between database servers and domain controllers, then routing can be modified to place a security device between the two without making any changes to the perimeter, rolling out new hardware or affecting user functionality and infrastructure.
+
+SDN, NFV and orchestration provide the tools necessary to execute what are now incredibly complex problems. Whether the Navy’s goals are C2D2E, rapid response to changing cyber conditions or enhanced network security and resiliency for users, the capability is available, and industry knows how to supply it. 
+
+Cmdr. Jamie Gateau, USN (Ret.), is the director of strategy and solutions for AT&amp;T Global Business, Public Sector Solutions. He retired after 20 years of service in the U.S. Navy, first as an aviator and then as an information professional officer. The views expressed here are his own.</text>
+  <imgalttext>
+    <img>A U.S. sailor aboard the amphibious assault ship USS Boxer sets up a virtual server administrator account during a training course provided by the Space and Naval Warfare Systems (SPAWAR) Command. The command furnishes fleets with fly-away network operations support teams that offer tailored, hands-on information technology and information assurance training to maintain command, control, communications and computers readiness.</img>
+    <img>A sailor assigned to the Combat Systems Department aboard the aircraft carrier USS Theodore Roosevelt performs maintenance on a computer server.</img>
+    <img>A senior Navy meteorology and oceanography officer and his team monitor computers aboard the command and control vessel USS Mount Whitney during the U.S. European Command’s computer-assisted exercise Austere Challenge 17. The annual large-scale defense exercise consists of computer-based command post simulations to train and prepare headquarters staffs for crises.</img>
+  </imgalttext>
+</article>

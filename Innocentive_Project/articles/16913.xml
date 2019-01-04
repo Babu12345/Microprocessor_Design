@@ -1,0 +1,42 @@
+<article>
+  <type>blog</type>
+  <title>Simplifying Network Complexities Will Galvanize Critical Infrastructure Security</title>
+  <author>David Young</author>
+  <date>November 14, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>DHS</tag>
+    <tag>critical infrastructure</tag>
+    <tag>software</tag>
+    <tag>guest bloggers</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Critical Infrastructure Security and Resilience month serves as a reminder to not only understand, but appreciate, the various critical infrastructure sectors that play vital roles in the national and economic security of the United States. How can networking capabilities within these sectors improve? How can innovation continue? One key approach is to address the vast complexities of the networks, guest blogger David Young writes.</abstract>
+  <text>The Department of Homeland Security’s Critical Infrastructure Security and Resilience (CISR) month serves as a reminder to not only understand, but appreciate, the various critical infrastructure sectors that play vital roles in the national and economic security of the United States. As a veteran of the telecom industry, my focus is to support those network infrastructure centers underlying these sectors. How do we improve networking capabilities within these sectors, not only addressing today’s complicated requirements, but allowing for continued innovation? One key approach is to address the vast complexities of the networks.
+
+Navigating complexities
+The intricate nature of supporting critical government infrastructures gets more convoluted as the reliance on these networks increases. A recent study by Clarus Research Group and Splunk of public sector IT professionals showed 51 percent indicated new IT platforms such as cloud and DevOps add complexity instead of simplifying operations. Understandably so. Given the rapid changes impacting the IT sector, keeping up with changes is difficult, particularly for government agencies that have limited resources, added compliance regulations and more red tape to navigate.
+
+This level of intricacy won’t diminish anytime soon. However, a number of new technologies and resources can create more manageable network infrastructures, particularly software-defined networking (SDN).
+
+SDN-powered services and cloud computing work hand in hand to deliver a virtualized networking solution that offers real-world benefits such as greater visibility and control over network resources. Cloud computing within the government still is a nascent endeavor, with an adoption rate that hovers about 5 percent, according to Deutsche Bank researchers. Recent changes to the Federal Risk and Authorization Management Program likely will speed up the cloud provider authorization process. Given that the rate of technology innovation and adoption in the telecom space is only accelerating, agencies should start getting more comfortable with SDN services as well.
+
+What is SDN?
+SDN allows for automated network control via what is called an orchestrator that automatically provisions, monitors and adapts the network. Until now, networks mostly were configured manually. When an orchestrator is linked to other systems, such as portals and ordering systems, it enables automation of end-to-end workflows and dynamic features available at the push of a button. Here’s an easy way to think about it: An agency with dispersed data centers set up for business continuity and disaster recovery requires guaranteed availability. An SDN-enabled bandwidth on-demand service, when coupled with streaming analytics, sets utilization thresholds to ensure the capacity is in place to ensure synchronous data replication between sites. When those thresholds are reached, the network can adjust bandwidth up until utilization goes back down.
+
+How can SDN be applied in government?
+SDN is a key enabling technology for digital transformation. It can have massive implications in government to simplify networking processes and, perhaps more importantly, save money. For example, if an agency backs up data once a week that requires more bandwidth than normal day-to-day usage, rather than paying for a larger pipe, SDN technology can scale up its bandwidth when needed. SDN also offers increased visibility into the network, letting operators garner more actionable data and more easily make changes to network allotments. Soon, agencies will use SDN to turn up new network connections at the push of a button—network connections that normally require manual build-out.
+
+What does this mean for the critical infrastructure sectors? Plenty. Believing the elements that make up these sectors are seamlessly interconnected is a flawed assumption. Each sector comprises decades of infrastructure woven together and requires a lot of hands-on operation. Adding even a small degree of automation alleviates some of the biggest issues presented by these outdated networks, such as security, slow provisioning and human error. Implementing SDN doesn’t necessarily require a complete network overhaul. It can be added gradually, making implementation much more palatable. Perhaps this is why 37 percent of federal agencies are starting to implement SDN, and another 34 percent have plans for future implementation, according to a study by MeriTalk and sponsored by Juniper Networks and General Dynamics.
+
+We’re just scratching the surface with SDN, but one thing is clear: This technology can revolutionize the government’s network foundation, which could streamline critical infrastructure. It will be incumbent on government officials and industry leaders to work together to best implement SDN technology and make sure that technology is leveraged to address future requirements.
+
+David Young is regional vice president over the Government Markets Group at Level 3 Communications. 
+
+This is the third in a series of blogs this month addressing DHS’ Critical Infrastructure Security and Resilience month. The first blog centered securing the infrastructure within the nation's critical infrastructures, and the second blog focused on new contracting tools to jumpstart federal IT transformation.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

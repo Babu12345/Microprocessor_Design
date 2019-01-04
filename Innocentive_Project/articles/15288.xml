@@ -1,0 +1,26 @@
+<article>
+  <type>blog</type>
+  <title>NIST Seeks Comments on Guidance for Protecting Access to Information Systems</title>
+  <author>George I. Seffers</author>
+  <date>September 30, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>National Institute of Standards and Technology</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>NIST seeks comment on draft guidance for attribute-based access to networks and computers.</abstract>
+  <text>As part of its efforts to provide practical solutions to real-world cybersecurity challenges, the National Cybersecurity Center of Excellence (NCCoE) at the National Institute of Standards and Technology (NIST) is requesting comments on a draft guidance to help organizations better control access to information systems.
+
+Today, many companies use a role-based access control (RBAC) system to determine network access based on a user’s job or role with the organization. If roles change or an employee leaves the company, an administrator must manually change access rights accordingly, often within several systems. As technology advances and businesses expand, so does the diversity of users and their access needs. With current RBAC capabilities, transactions become increasingly difficult and inefficient to manage and audit. An attribute-based access control (ABAC) system, however, can provide flexibility and efficiency by using granular attributes, such as title, division, certifications, training and even environmental conditions, to authorize an individual’s access.
+
+The draft practice guide outlines potential security risks, benefits that may result from the implementation of an ABAC system and the approach that the NCCoE and its partners took using commercially available technologies. The draft guide shows how commercially available technologies can meet an organization’s needs to make access decisions for a diverse set of users and access needs, including those seeking access from external organizations. It includes a detailed description of the installation, configuration and integration of all components.
+
+The guide is one in a new series of publications from the center, called NIST Cybersecurity Practice Guides (Special Publication Series 1800), which target specific cybersecurity challenges in the public and private sectors. The guides show members of the information security community how to implement example solutions that help them align more easily with relevant standards and best practices.
+
+The NCCoE is a national cybersecurity laboratory, addressing businesses’ cybersecurity problem.  The center collaborates with industry, academic and government experts to build modular, open, end-to-end reference designs that are broadly applicable and repeatable.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

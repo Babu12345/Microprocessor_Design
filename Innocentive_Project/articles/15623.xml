@@ -1,0 +1,30 @@
+<article>
+  <type>article</type>
+  <title>Feds Still Scrutinizing Networks Following Juniper Networks Hack </title>
+  <author>Sandra Jontz</author>
+  <date>January 7, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Hacker</tag>
+    <tag>Juniper Networks</tag>
+  </tags>
+  <abstract>The federal government cautioned its agencies and federal contractors of a network vulnerability that could let hackers access systems. The scurry to inform agencies and instruct them to patch for vulnerabilities occurred after the discovery of unauthorized code during a review of Juniper Networks software.</abstract>
+  <text>The federal government cautioned its agencies and federal contractors of a network vulnerability that could let hackers access systems. The scurry to inform agencies and instruct them to patch for vulnerabilities occurred after the discovery of unauthorized code during a review of Juniper Networks software.
+
+Juniper is one of the largest providers of firewalls and network software, and the Defense Department is one of its larger federal customers. The revelation prompted federal oversight into the incident, including by officials from the Pentagon and the Department of Homeland Security, amid fears that the hack could permit spying of users' networks.
+
+The National Cybersecurity and Communications Integration Center’s (NCCIC) U.S. Emergency Computer Response Team (US-CERT) provided information to all federal agencies to patch the potential vulnerability and stands ready to offer further assistance, according to a DHS official. 
+
+The unauthorized code was found in ScreenOS that could allow a knowledgeable attacker to gain administrative access to NetScreen devices and decrypt VPN connections, reads a statement issued December 17 by Juniper’s Chief Information Officer Bob Worrall in an out-of-cycle security advisory. “Once we identified these vulnerabilities, we launched an investigation into the matter and worked to develop and issue patched releases for the latest versions of ScreenOS,” Worrall’s statement reads. 
+
+Officials have not reported any known exploitations stemming from the discovered vulnerability, but are keeping careful watch. “The NCCIC is aware of the report regarding Juniper’s software. As we routinely do when such vulnerabilities are brought to light, we are assessing the potential impact, if any, on federal networks, and will take any appropriate mitigation measures in close coordination with interagency partners,” says DHS spokesman S.Y Lee.
+
+A Juniper spokeswoman said the company has nothing more to report at this time. 
+
+Juniper has posted information and guidance on updating to systems on its Security Incident Response website.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

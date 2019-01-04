@@ -1,0 +1,40 @@
+<article>
+  <type>article</type>
+  <title>DARPA Dabbles With Software Obfuscation Solutions</title>
+  <author>Sandra Jontz</author>
+  <date>September 14, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Academia</tag>
+    <tag>DARPA</tag>
+    <tag>cyber</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The ease at which criminals can reverse engineer software makes for lucrative transgressions with national security implications, prompting government-backed researchers to seek innovations to shore up vulnerabilities. DARPA turned to academia and industry and awarded a multiyear mission to develop obfuscation technology to better safeguard intellectual property in software.</abstract>
+  <text>The ease at which criminals can reverse engineer software makes for lucrative transgressions with national security implications, prompting government-backed researchers to seek innovations to shore up vulnerabilities, officials say.
+
+The Defense Advanced Research Projects Agency, or DARPA, turned to academia and awarded a multiyear mission to develop obfuscation technology to better safeguard software intellectual property, both for commercial and government endeavors. The aim of DARPA’s SafeWare program is to find a solution that would render the software, such as proprietary algorithms, incomprehensible to a reverse engineer.
+
+It’s one thing to devise a protection system to secure software on a smartphone and prevent a competitor, for example, from figuring out how the device muffles environmental noises such as wind to give users clear communications, offers Kurt Rohloff, a professor at the New Jersey Institute of Technology who leads the DARPA team. It’s another game with higher stakes when you’re talking about protecting the software and algorithms on a war-time unmanned aerial vehicle that falls into an adversary’s hands. Rohloff is joined by professors from MIT, the University of California San Diego and defense contractor Raytheon BBN Technologies. 
+
+Up until now, attempts at program obfuscation were more like guesswork and the use of basic hacks, Rohloff explains. “There have been no real formal proof or strong mathematical guarantees that these things will work really well.” Today, obfuscation primarily is based on "security through obscurity" strategies, typified by inserting passive junk code into a program’s source code and cluttering it up, according to the DARPA program office. “Existing program obfuscation methods also do not have quantifiable security models, and so it is difficult even to measure how much security is gained by a given obfuscation effort.”
+
+Roughly two years ago, mathematicians made a fundamental theoretical breakthrough that showed it was possible to protect software from reverse engineering, Rohloff says. They discovered “that it was actually possible to have a fairly strong mathematical guarantee of the ability to encrypt programs … similar to how you can encrypt data.”
+
+“Theoretically, with the recent breakthrough, we can take a program and perform something like an encryption on that program, so that I have some software that I can run on a general computing device and go and run that algorithm on the program,” he continues. “But if someone were to come along and take that encrypted program, they couldn’t necessarily reverse engineer it. They couldn’t take it and modify it in any way. The only thing they can basically do is run the program and nothing else.”
+
+While the theoretical work was indeed a breakthrough, so far it has proven to be extremely inefficient and time consuming, Rohloff says. “We’re talking multiple orders of magnitude. For example, to be able to support fairly simplistic operations like … just comparing two words, seeing if the words match, this would take … take days if not longer. The project I’m running for DARPA right now is a way of basically making that faster.”
+
+The four-year SafeWare program, which started in early August, seeks to develop a method using encryption to obscure software code to stymie any reverse engineering and provide provably secure protections for intellectual property. The researchers want to build an open-source library for lattice crypto technology, he says. Existing technologies such as compilers can circumvent the low-security protection techniques on devices.
+
+The researchers are not yet focusing on any specific application for Safeware, which comes out of DARPA’s Information and Innovation Office. “I have a particular interest in supporting military-relevant applications, but the challenge that we’re facing right now is that this was just a brand spanking new theoretical innovation and there hasn’t been any real serious effort to get this thing to work in a way that would be practical,” he shares.
+
+“The immediate goal that we’re focusing on is knocking off a couple orders of magnitude to get a handle on how efficient these things can be so we can get a handle on what are the specific operations,” he says.
+
+The work they are doing presents a strong cybersecurity angle as well, he offers, using printer drivers as an example. A laptop will have a set of printer drivers that connect a computer to a printer. The drivers rarely are vetted and protected as well as other software running on machines, offering attackers an easy way to break in. “It makes them the right targets for adversaries, for cyber criminals, to go in and perform reverse engineering on the printer drivers and look [for] vulnerabilities that they can exploit and use as a way of getting over to the network and into my laptop and then stealing information from me,” he explains. “Doing something like forming an obfuscation of, for example, the printer drivers, would be an excellent enterprise-type application where, if I can fix this problem, then I could fix the holes in my laptop.” </text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

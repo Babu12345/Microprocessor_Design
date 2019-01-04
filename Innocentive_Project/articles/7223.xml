@@ -1,0 +1,19 @@
+<article>
+  <type>blog</type>
+  <title>Finding Needles in the Cyberspace Haystack</title>
+  <author>Beverly Schaeffer</author>
+  <date>August 27, 2010</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>cyber security</tag>
+    <tag>Cyberspace</tag>
+    <tag>cyberthreats</tag>
+    <tag>intrusion detection</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>NACMAST aims to broaden the view of the cyberwarfare intelligence base, and Seminole is one solid outcome of these efforts. Read the full article to learn more about this testbed and Seminole's components and operation. Share your views on this IDS architecture's current status and its potential for future success.</abstract>
+  <text>Recognizing a threat is the first step to addressing it, and one way to do that is to track incongruities rather than just monitoring the status quo. In this issue of SIGNAL Magazine, Chris Sanders highlights an intrusion detection architecture that does just that. His article, "The Exception Becomes the Rule," focuses on how this system enables a rapid, flexible response to cyberthreats. The Army Research Lab (ARL) and Electronic Warfare Associates have partnered-along with a consortium of reps from industry, academia and government-to bring an advanced intrusion detection system (IDS) capability to fruition. A result is Seminole, a hybrid IDS architecture that detects and characterizes network threats in near real time. Seminole is based on Interrogator 2i, originally developed by ARL solely to monitor Defense Department networks. The Seminole framework allows for the reconfiguration and addition of new analytic tools on the fly. As such, it's not limited by network-based architecture. Seminole automatically detects anomalous traffic and does a basic level of incident correlation. Analysts perform long-term trending and retrospective analysis, connecting several smaller events from multiple sources into a timeline that describes a sophisticated, targeted attack. The Seminole architecture is currently deployed within the Defense Department. And, the Network Attack Characterization, Modeling and Simulation Testbed (NACMAST), which is implemented by the consortium, is working with commercial entities, cleared defense contractors and educational institutions to deploy Seminole extensively by 2011. NACMAST aims to broaden the view of the cyberwarfare intelligence base, and Seminole is one solid outcome of these efforts. Read the full article to learn more about this testbed and Seminole's components and operation. Share your views on this IDS architecture's current status and its potential for future success.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

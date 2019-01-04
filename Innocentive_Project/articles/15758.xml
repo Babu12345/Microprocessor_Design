@@ -1,0 +1,31 @@
+<article>
+  <type>blog</type>
+  <title>Researchers Uncover Surprising Trust Issues with Rescue Robots</title>
+  <author/>
+  <date>February 29, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Robotics</tag>
+    <tag>Georgia Tech</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>People may rely on robots too much for their own safety, a new study suggests. </abstract>
+  <text>People may trust robots too much for their own safety, a new study suggests. In a mock building fire, test subjects followed instructions from an “Emergency Guide Robot” even after the machine had proven itself unreliable and after some participants were told the robot had broken down.
+
+The research was designed to determine whether or not building occupants would trust a robot designed to help them evacuate a high-rise in case of fire or other emergency. But the researchers were surprised to find the test subjects followed the robot's instructions even when the machine’s behavior should not have inspired trust.
+
+The research, funded in part by the Air Force Office of Scientific Research (AFOSR), is believed to be the first to study human-robot trust in an emergency situation. The findings are scheduled to be presented March 9 at the 2016 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2016) in Christchurch, New Zealand.
+
+“People seem to believe that these robotic systems know more about the world than they really do, and that they would never make mistakes or have any kind of fault,” Alan Wagner, a senior research engineer in the Georgia Tech Research Institute (GTRI), said in a written announcement. “In our studies, test subjects followed the robot's directions even to the point where it might have put them in danger had this been a real emergency.”
+
+The researchers recruited a group of 42 volunteers, most of them college students. In some cases, the robot, which was controlled by a hidden researcher, led the volunteers into the wrong room and traveled around in a circle twice before entering the conference room. For several test subjects, the robot stopped moving, and an experimenter told the subjects that the robot had broken down.
+
+Once the subjects were in the conference room with the door closed, the hallway through which the participants had entered the building was filled with artificial smoke, which set off a smoke alarm. When the test subjects opened the conference room door, they saw the smoke and the robot, which was then brightly-lit with red LEDs and white “arms” that served as pointers. The robot directed the subjects to an exit in the back of the building instead of toward the doorway marked with exit signs that had been used to enter the building.
+
+The researchers surmise that in the scenario they studied, the robot may have become an "authority figure" that the test subjects were more likely to trust in the time pressure of an emergency. In simulation-based research done without a realistic emergency scenario, test subjects did not trust a robot that had previously made mistakes.</text>
+  <imgalttext>
+    <img>Georgia Tech researchers built the "Rescue Robot" to determine whether or not building occupants would trust a robot designed to help them evacuate a high-rise in case of fire or other emergency. (Credit: Rob Felt, Georgia Tech)</img>
+  </imgalttext>
+</article>

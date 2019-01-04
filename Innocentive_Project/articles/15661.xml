@@ -1,0 +1,46 @@
+<article>
+  <type>blog</type>
+  <title>Visibility is Critical to Enhancing Cybersecurity</title>
+  <author>Joel Dolisy</author>
+  <date>January 27, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>Cyber attacks increasingly target the U.S. military and other federal departments, causing these agencies to rely on technology to accomplish their goals, which also increases the size of their attack surface. It’s a Catch-22, and staying one-step ahead of hackers trying to infiltrate an IT environment is challenging. It can be nearly impossible if those tasked with protecting that environment don’t have visibility across all of the systems and infrastructure components.</abstract>
+  <text>Cyber attacks increasingly target the U.S. military and other federal departments, causing these agencies to rely on technology to accomplish their goals, which also increases the size of their attack surface. It’s a Catch-22, and staying one step ahead of hackers trying to infiltrate an IT environment is challenging. It can be nearly impossible if those tasked with protecting that environment don’t have visibility across all of the systems and infrastructure components.
+
+Attackers seek out and exploit weaknesses in IT environments, especially those created by technology silos. Attacks cross domains to exploit myopically deployed defenses. Groups that work independently within an IT department, including database, application, network and storage teams, create gaps where attacks are the least likely to be identified. Using unified monitoring software and minimizing redundant systems, on the other hand, gives integrated cross-domain visibility and a solid view of the whole environment.
+
+Let’s take a look at an attack scenario
+How might an attacker get in? Perhaps a hacker gains access through a Web application with a structured query language-injection attack against a database server. The attack compromises the database and exfiltrates data or gains credentials.
+
+With access to the local database or server, the attacker can drop malware that could reverse an administrative session and gain access to other parts of the infrastructure, including routers, switches and firewalls. Attack evidence would likely be found in various places within the environment; traffic might be different than usual, there might be a central processing unit spike or failed authentication attempts registered multiple times. Individually, such evidence might not trigger an alert, but taken together, these events clearly signal a problem.
+
+Visibility leads to quick resolution 
+IT professionals know they cannot prevent all attacks, so they focus on quickly detecting signs of infiltration—often easier said than done. But with comprehensive monitoring tools, clear insight and consistent education throughout the IT team and all agency personnel, the task can seem less daunting.
+
+The tools
+First, make sure monitoring tools are in place to provide deep visibility. These include the following:
+
+Endpoints- User device tracking will provide information about where devices are located, how they connect to the network and who uses them.
+	Data- Make sure you have monitoring in place that will detect and block malicious file transfer activities and software designed to securely transfer and track files coming into and going out of the agency.
+	Patching- In large environments, something always needs to be updated. Therefore, it is important to use software that automatically patches servers and workstations.
+	Servers and applications- Always monitor server and application performance. This will help you find service degradation that could indicate an intrusion.
+	Databases- Create performance baselines for databases to ensure that any anomalies are registered.
+	Systems- Deep visibility into virtual machines and storage devices can provide insight into the root cause of any performance change.
+	Networks- Traffic analysis, firewall and router monitoring, and configuration compliance and optimization are all critical to ensuring the integrity of a network.
+The knowledge
+Once these tools are monitoring what they should, the resulting data needs to be fed into a consolidated view where it can be correlated and analyzed as a whole. Doing so lets IT pros quickly and decisively identify potential threats and take action where needed.
+
+The training
+Finally, it is important to make sure that the people who work on the network receive detailed security training. Based on a survey SolarWinds conducted at the beginning of 2015, insiders tend to be the most widely targeted elements in an agency. Most agencies provide generic security training for everyone, but going further and incorporating real incidents into that training can help make it more robust and meaningful. Making everyone aware of the seriousness of an attack and the role each worker plays in practicing good cyber hygiene—from the IT team to finance and public affairs—can go a long way in creating a more secure agency.
+
+There is no one-size-fits-all solution when it comes to security, and attacks are becoming harder to prevent. That said, implementing the right tools, combining insights across domains and providing in-depth, regular training can improve detection and response capabilities.
+
+Joel Dolisy is chief information officer at IT management software provider SolarWinds, Austin, Texas.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

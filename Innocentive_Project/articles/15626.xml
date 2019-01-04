@@ -1,0 +1,42 @@
+<article>
+  <type>article</type>
+  <title>DISA Banks On Industry for Future Capabilities </title>
+  <author>Sandra Jontz</author>
+  <date>January 12, 2016</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+    <tag>big data</tag>
+    <tag>DISA</tag>
+  </tags>
+  <abstract>Not all of the news surrounding shrinking federal budgets is bad news. Dwindling coffers mean the government increasingly relies on ready-made products and services from private industry for solutions to both carry out day-to-day operations and prepare for the future.</abstract>
+  <text>Not all the news surrounding shrinking federal budgets is bad news. Dwindling coffers mean the government increasingly relies on ready-made products and services from private industry for solutions to both carry out day-to-day operations and prepare for the future.
+
+The Defense Information Systems Agency (DISA), for example, is gearing up for round two of its milCloud effort, a government-offered service that, while not a completely commercial cloud-based system, leverages commercial products. The agency is building its acquisition and requirements strategy for the DISA-run milCloud 2.0, the next program phase, which could be a “completely outsourced capability,” said Alfred Rivera, director of DISA’s Development and Business Center.
+
+The abundance of private cloud-based services makes federal reliance on industry a clear choice, though the push for more industry involvement comes with some restrictions and hesitation, cautioned a panel of DISA leaders presenting Tuesday during an AFCEA DC Chapter breakfast in Arlington, Virginia.
+
+“I think we've passed the peak of inflated expectations on cloud. The question is: Are we down in the trough of disillusionment, or are we going after the plateau of productivity?” asked Chief Technology Officer David Mihelcic, drawing chuckles from the sold-out crowd of more than 500. “Cloud computing is an important technology—it's a paradigm that we have adopted in DISA and the Department of Defense to be more agile. But it doesn't solve every problem. It doesn't guarantee huge cost savings, but it is a technology that we are taking advantage of.”
+
+That said, the overall financial picture DISA officials painted wasn’t all rosy. “Every single time I stand on stage, I tell people the budget is getting worse and worse, and I've always proven to be correct,” said Tony Montemarano, executive deputy director. Already, 7 percent of funds from the agency’s five-year planning document had to be repurposed from national programs inside of DISA, he said. That means “there are a lot of legacy programs … that now will lose funding,” Montemarano said. Of DISA’s $11 billion fiscal 2016 budget, 80 percent comes from the military services that pay the agency for its services. “The bulk of our money is based upon what's happening to the military departments themselves, and they are going through some tough times.”
+
+This explains the need for more industry input, they said. DISA leaders outlined areas in which companies can help government, including software-defined solutions, automation, big data analytics and two-factor authentication solutions. 
+
+A top priority for DISA is “software-defined ‘x,’ and you can insert your term in there,” Mihelcic said. Both DISA and the Defense Department need “software-defined infrastructures starting at the network layer … and within the data center, which is basically the best commercial practice today, and also in the long-haul network."
+
+The agency wants from industry products that offer two-factor authentication—not just for system users, but for system administrators as well, said John Hickey, DISA’s cybersecurity risk management authorizing official. To the attendees, he appealed for an “enterprise capability for privileged management that we can deploy across multiple products.”
+
+The weakest cybersecurity link is still individuals who click or open malicious attachments; 90 percent of all attacks begin with a phishing attempt, panelists said. The agency needs tools and techniques to harden end-user workstations along with server infrastructure. “When someone does manage to push a data-driven attack through our boundary defenses, it won’t necessarily comprise that end-user workstation and, by extension, … the entire network,” Mihelcic added.
+
+Discussions at the breakfast didn’t center only on products and services. Industry should rethink how it trains and educates its work force, Mihelcic offered. “Really, what I want are experienced technical professionals or well-educated entry-level technical professionals who understand the particular technologies that they are managing,” he said. “Instead of someone who has just a focus on cybersecurity certifications, I want a computer scientist, or I want a system administrator who has a deep experience in successfully managing and building IT—and then they have a particular focus on securing that IT.”
+
+In short, DISA doesn’t need just cyber-proficient professionals. The agency wants professionals who understand code, can forecast the next vulnerability and have a “hunt mentality” to go after adversaries, Hickey added. “We’re in a fight. We’re in a fight every day. The threat is real, and we are reacting to that. The biggest change, I would say, both in the [Defense Department] and the commercial world is, we are going out and hunting the enemy on a daily basis.”
+
+ </text>
+  <imgalttext>
+    <img>DISA officials present agency needs to industry during an AFCEA DC Chapter breakfast that included (l-r) Tony Montemarano, David Mihelcic, John Hickey and Alfred Rivera. Photo by Mike Carpenter. </img>
+    <img>Tony Montemarano, executive deputy director of DISA, talks to industry members during an AFCEA DC Chapter breakfast. Photo by Mike Carpenter</img>
+  </imgalttext>
+</article>

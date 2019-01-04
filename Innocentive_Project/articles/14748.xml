@@ -1,0 +1,24 @@
+<article>
+  <type>article</type>
+  <title>Corporate Data Breach Report Sheds Light on Intrusions</title>
+  <author>Robert K. Ackerman</author>
+  <date>July 1, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Verizon</tag>
+  </tags>
+  <abstract>The “2015 Verizon Data Breach Investigations Report,” released this spring, states that the top three industries affected by cybermarauders are public, information and financial services. This is unchanged from the annual report’s results last year. The report adds that the estimated financial loss from 700 million compromised records totals $400 million.</abstract>
+  <text>The “2015 Verizon Data Breach Investigations Report,” released this spring, states that the top three industries affected by cybermarauders are public, information and financial services. This is unchanged from the annual report’s results last year. The report adds that the estimated financial loss from 700 million compromised records totals $400 million.
+
+The financial services sector averages 350 malware events each week, the report states. And that number is low compared with weekly malware events for some other sectors: Insurance averages 575 events; utilities average 772; retail averages 801; and education averages 2,332. The financial services sector tends to detect and clean up its malware infections quickly. The other four sectors face more diverse malware threats and, consequently, do not discover and treat infections as promptly.
+
+The Verizon report cites RAM-scraping malware—in which a device’s memory is attacked to obtain vital data, such as personal identification information—as one of the biggest growth threats. Several new families of RAM scrapers have aimed at point-of-sale systems.
+
+Phishing also has increased, while spyware/keylogger actions constituted a much smaller part of the threat picture. For two years, more than two-thirds of incidents that make up the cyber-espionage patter have featured phishing, the report claims. Nearly 50 percent of recipients open phishing emails and links within the first hour. Polymorphic malware, in which malware is repackaged with the same function but a different footprint to avoid classical detection, also is on the rise.
+
+And the Internet of Things (IoT) may offer security challenges in the future. The Verizon report declines to speculate on the degree of those challenges, but it does predict 28 percent growth in IoT connections during the next five years. By 2020, company experts predict, roughly 5.4 billion IoT devices will be in operation. Echoing the warning of former FBI top cybersecurity official Shawn Henry, the Verizon report states, “It is fruitless to expect security will have the same priority from developers where time to market is so critical.”</text>
+  <imgalttext>
+  </imgalttext>
+</article>

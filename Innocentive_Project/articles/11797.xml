@@ -1,0 +1,36 @@
+<article>
+  <type>article</type>
+  <title>Software Assists Signal Officers</title>
+  <author>George I. Seffers</author>
+  <date>September 30, 2013</date>
+  <departments>
+    <department>Cyber</department>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Army Technologies</tag>
+    <tag>command and control</tag>
+    <tag>data management</tag>
+    <tag>information operations</tag>
+    <tag>Networks</tag>
+    <tag>research and development</tag>
+    <tag>Tactical Operations</tag>
+    <tag>SIGNAL Online Exclusive</tag>
+  </tags>
+  <abstract></abstract>
+  <text>U.S. Army researchers are developing a software program that will provide signal corps officers will an improved common operating picture of the network, enhance the ability to manage the plethora of electronic systems popping up on the modern battlefield, advance information sharing capabilities and allow warfighters to make more informed and more timely decisions. In short, the system will assist in planning, building, monitoring and defending the network.
+	As the number of electronic devices on the modern battlefield rapidly expands, the job of the battalion and brigade signal officer, known as the S-6, grows increasingly complex. The S-6 oversees the deployment of all communications equipment. The communications officer is responsible for the supervision of all automated information systems, network management, computer network defense, electromagnetic spectrum operations and information assurance.
+	Sometimes, however, it is not possible for the communications officer to even know what devices, or how many, are connected to the network. And many factors, such as terrain, weather, technical difficulties and enemy activities, including jamming or cyber attacks, can disrupt the network. But the S-6 Associate software being developed at the Army Communications-Electronics Research, Development, and Engineering Center (CERDEC) will consolidate information on existing systems and simplify network monitoring. Among other benefits, S-6 Associate improves data sharing between systems used by the S-6 and the intelligence (S-2) and training and operations (S-3) functions.
+	“We didn’t want to build another system altogether but rather to enhance the functionality of existing systems by giving them access to data between each other,” says Rob Orlando, acting branch chief, Space and Terrestrial Communications Directorate, CERDEC.
+	The software enhances existing systems, including the Warfighter Information Network-Tactical (WIN-T); the Command Post of the Future mission command system; Visio, the network image building program; and network management systems. In fact, S-6 Associate likely will be transitioning to the WIN-T program office in the near future. “There’s a transition agreement being worked with the WIN-T team right now,” Orlando reveals.
+	The software subscribes to any device with a unique Internet protocol address, providing the ability to monitor all devices on the network. It creates a common operating picture, lays that over the tactical mission, and provides a geographic display of the network as it relates to the mission. The network situational awareness picture provides the commander with information about bandwidth usage and how network disruptions will affect the mission, and it provides possible solutions.
+	CERDEC officials recognized during the service’s Network Integration Evaluation exercises that the signal officer’s job is rapidly becoming more complicated, and they decided to search for a solution. They discovered, however, that a similar project to help intelligence and operations officers already was underway. Because the three staff officers collaborate closely with one another and with the commander, the CERDEC officials decided greater integration is called for, reveals Josip Pilipovic, CERDEC’s lead scientist for S-6 Associate. “So, we put the software package together to connect the systems that we saw in the battalion S-6 office, putting all of them together to do the work,” Pilipovic says.
+	Officials stress that they are simply enhancing existing systems, rather than creating an entirely new system from scratch, which of course saves time and money. “We looked at the systems already built or in the process of development that we can re-use to make this development better, building a screen that can be shared between the S-2, S-3 and S-6,” Pilopovic explains. The existing systems include commercial-off-the-shelf systems as well as government-developed programs.
+	The software also includes some automation capabilities that will eliminate the need to collect and enter reams of network data into several different systems. “The benefit is really a function of time. Automation is one of the key elements, but the other is the correlation of data,” Orlando states, adding that it is challenging for officials to “sit there and look at different systems, different screens, and do that correlation in your head.”
+	The system, developed in partnership with Veloxiti Inc., Alpharetta, Georgia, has been undergoing laboratory testing and internal Army demonstrations. Officials will use feedback from the demonstrations to conduct larger-scale laboratory testing in a more realistic setting. Laboratory testing will be followed by operational field testing at Fort Dix, New Jersey, and during the Network Integration Evaluation at Fort Bliss, Texas, and at White Sands Missile Range, New Mexico.
+	It is too soon to estimate when the system could be fielded, Orlando observes, but officials should have a better idea in the coming months, once the transition to the WIN-T program is complete.
+	Future plans include the integration of an existing information assurance, network defense and cyber situational awareness system known as CRUSHPROOF (Cyber Unification, Security, Hardening and Protection of Operational Frameworks). “CRUSHPROOF is a framework being developed by the Cyber Security and Information Assurance division. For the information assurance piece, we’re looking to leverage what they’re doing,” Orlando offers.
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

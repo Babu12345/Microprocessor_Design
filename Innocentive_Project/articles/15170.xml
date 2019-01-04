@@ -1,0 +1,32 @@
+<article>
+  <type>article</type>
+  <title>NIST Pilot Projects Seek to Improve Cybersecurity, Reduce Online Tax Fraud and Identity Theft</title>
+  <author>Sandra Jontz</author>
+  <date>September 23, 2015</date>
+  <departments>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+    <tag>Internet of Things</tag>
+    <tag>privacy</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>NIST awarded nearly $3.7 million for three pilot projects that seek to fortify online financial transactions and enhance privacy protections for health care, government services, transportation and the Internet of Things. The studies address specific cyber-based missions such as reducing tax refund theft, among others.</abstract>
+  <text>The U.S. Department of Commerce's National Institute of Standards and Technology (NIST) awarded nearly $3.7 million for three pilot projects that seek to fortify online financial transactions and enhance privacy protections for health care, government services, transportation and the Internet of Things.
+
+The studies, awarded by the agency's National Strategy for Trusted Identities in Cyberspace (NSTIC) office, address specific cyber-based missions such as reducing tax refund theft, ensuring better protections of medical information, devising mobile ticketing solutions for use on mass transit and providing secure online data storage, according the agency.
+
+“As ‘America’s innovation agency,’ the Commerce Department is committed to supporting innovation and industrial competitiveness that enhances our economic security,” Deputy Secretary of Commerce Bruce Andrews says in a statement. “These pilots will provide innovative, practical solutions to ensure the trust we need to combat the growing threat of cyber threats and keep our online economy growing.”
+
+One pilot, led by MorphoTrust USA, will focus on preventing theft of tax refunds, an issue highlighted by the Government Accountably Office, or GAO. Though IRS practices prevented an estimated 81 percent of identity theft refund fraud costs in 2013, the GAO estimates that it paid $5.8 billion, or 19 percent, in refunds that later were determined to be fraud. Identity theft refund fraud occurs when an identity thief uses a legitimate taxpayer's identifying information to file a fraudulent tax return and claims a refund.
+
+MorphoTrust will work with state agencies in Georgia and North Carolina and nationwide tax preparer H&amp;R Block to test the feasibility of a high-security online ID to let tax collection agencies verify identities of online filers. The project will determine how agencies might leverage trust during an online driver licensing process, which includes enrollment, verification through biometric identification, authentication and validation, and issuance. 
+
+HealthIDx is developing an innovative, privacy-enhancing technology to protect patients’ identity and information. The idea is to test what is termed a “triple blind” technology, meaning medical service providers will not know which credential service provider an end-user chooses, credential service providers will not know which medical service provider the end-user is visiting, and the identity broker has no knowledge about the transaction’s parties or contents.
+
+Finally, Galois Incorporated has been contracted to build a tool to let users store and share private information online using a solution that will rely on biometric-based authentication. The firm has been tasked with developing a transportation mobile ticketing system that uses equipment riders already own—their smartphones. Galois also will work to secure systems that use the Internet of Things-enabled smart homes and ensuring secure technologies for the online storage of data.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

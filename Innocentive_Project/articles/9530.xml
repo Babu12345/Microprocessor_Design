@@ -1,0 +1,17 @@
+<article>
+  <type>blog</type>
+  <title>Most Cybersecurity Really Isn't</title>
+  <author>Rita Boland</author>
+  <date>May 8, 2012</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>DISA</tag>
+    <tag>DISA 2012</tag>
+    <tag>Event Coverage</tag>
+  </tags>
+  <abstract>Botnet attacks are on the rise in recent weeks, and more devices with no protection will be coming online soon.</abstract>
+  <text>Your network is not secure and your firewalls are blocking nothing. That scary statement was a key message of Dr. Edward Amoroso, chief security officer of AT&amp;T, during his address this morning at the 2012 DISA Mission Partner Conference. "When it comes to cybersecurity we are way out of balance," he stated. He shared that in the last few weeks botnet attacks have seen a dramatic increase, but security professionals cannot confirm which attacks come from two kids in a basement and which might originate from hostile militaries trying to steal specific information. Without that knowledge, the private sector often doesn't know if it should pass collected intelligence to the government. As more and more consumer electronics, including items like refrigerators, become connected to the Internet through IPv6 IP addresses, each one presents an unprotected connection to exploit. Recently, botnets have been found on consumer digital video recorders used for security cameras. Amoroso stated that it is way too easy for someone to break into the network. "We have to do something about it," he added. He illustrated how current cybersecurity methods are not providing adequate protections, but a change in current thinking could provide safer computing. He advocates reducing complexity in favor of placing data in quieter, simpler places.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

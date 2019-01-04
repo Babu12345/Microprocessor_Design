@@ -1,0 +1,21 @@
+<article>
+  <type>article</type>
+  <title>Hacktivism Up, Denial of Service Down in Internet Malfeasance</title>
+  <author>Robert K. Ackerman</author>
+  <date>November 14, 2012</date>
+  <departments>
+    <department>Event Coverage</department>
+  </departments>
+  <tags>
+    <tag>Asia-Pacific</tag>
+    <tag>Security</tag>
+    <tag>TechNet Asia-Pacific 2012 Coverage</tag>
+  </tags>
+  <abstract>People with attitudes represent the current bow wave of Web attacks.</abstract>
+  <text>Hactivists who harvest information and publish it to embarass people or organizations are the leading trend among Internet malefactors, according to a communications security specialist. Marcus H. Sachs, vice president, national security policy for Verizon, told the audience at TechNet Asia-Pacific 2012 in Honolulu, Hawaii, that hack-and-leak activities are becoming the new challenge for young computer minds.
+Conversely, denial-of-service attacks are on the wane as they lose value. New mitigation tools are working to defeat those attacks, and bot armies will be used for distributed computing rather than denial of service. “Real hackers don’t do denial of service,” Sachs declared in commenting on the state of Internet marauding.
+	Bots have not gone away; they just have changed their targets. Sachs reported that investigators in the past two weeks discovered a situation in which stolen credit cards were used to build a botnet in a cloud. The botnet then would launch attacks from that rented cloud. Fraud also is on the rise while software worms are decreasing in number. And, the infrastructure—particularly supervisory control and data acquisition (SCADA) systems—remain “juicy targets,” he said.
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

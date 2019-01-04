@@ -1,0 +1,33 @@
+<article>
+  <type>article</type>
+  <title>Happy Birthday to NIST's Cybersecurity Framework</title>
+  <author>Sandra Jontz</author>
+  <date>February 12, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>NIST</tag>
+    <tag>DHS</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The U.S. government-backed cybersecurity framework for the nation’s federal agencies and critical infrastructure sector—released one year ago today—has received a general thumbs up of approval from industry experts, who say the NIST guideline is proving a successful advent toward a better understanding of cyber risks and organizations’ vulnerabilities. </abstract>
+  <text>The U.S. government-backed cybersecurity framework for the nation’s federal agencies and critical infrastructure sector—released one year ago today—has received a general thumbs up of approval from industry experts. The structured guideline, presented by the Department of Commerce’s National Institute of Standards and Technology (NIST), is proving a successful advent toward a better understanding of cyber risks and organizations’ vulnerabilities, and the development of security programs to protect networks.
+
+The initiative began in February 2013, when President Barack Obama issued executive order 13636, titled "Improving Critical Infrastructure Cybersecurity," which ignited a public-private collaborative effort between industry, academia and the government to develop the voluntary framework that has come to be known as the NIST Cybersecurity Framework, released February 12, 2014.
+
+While the collection of guidelines was based on existing standards and practices used to reduce cyber risks to critical infrastructure, it consolidates and streamlines guidelines and capitalizes on industry best practices to help organizations develop robust cybersecurity programs. More than 3,000 people from industry, academia and the government participated in workshops and webinars to aid in developing the framework.
+
+Shortly after issuance of the framework a year ago, Intel Corporation launched a pilot project to test its usefulness. “Intel believes that the strength of the framework lies in its accessibility and flexibility; we are committed to proactively developing a framework use case to both demonstrate industry leadership and provide key [lessons learned] to drive the evolution of the framework,” according to a company white paper.
+
+“We believe the framework’s evolution is and will continue to be an industry-led effort as we move forward … We have recently completed the pilot project, which clearly demonstrated the value of the framework. We plan to apply what we learned during the pilot to expanding Intel’s use of the framework. Most importantly, we verified that by focusing on risk management rather than compliance, the framework has the potential to transform cybersecurity on a global scale and accelerate cybersecurity across the compute continuum.”
+
+The guidelines can give chief information security officers, for one, direction in finding solutions to let them mitigate threats, says Paul Christman, vice president of public sector for Dell Software. “The framework has been effective in driving a different type of conversation about security—recognizing security as a quality or condition, rather than a destination,” he says. “With an advanced understanding of risks and vulnerabilities, there is a greater emphasis on continuous mitigation and proactive monitoring. Although breaches are inevitable in today’s IT environment, components related to internal security and proactive monitoring outlined by the framework put organizations in the best position to prevent and mitigate damage.”
+
+Among the 16 critical infrastructure sectors within the United States, energy appears to be the most vulnerable, according to Department of Homeland Security statistics. In fiscal 2013, for example, energy had the highest number of responses by the department’s Industrial Control Systems Cyber Emergency Response Team (ICS-CERT), working to reduce risks and cyber attacks across all of the sectors. The 16 sectors are chemical; commercial facilities; communications; critical manufacturing; dams; defense industrial base; emergency services; energy; financial services; food and agriculture; government facilities; health care and public health; information technology; nuclear reactors, materials and waste; transportation systems; and water and wastewater systems.
+
+NIST’s mission is to develop and promote measurement, standards and technology and establish computer- and information technology-related standards and guidelines for federal agencies to use, but many private sector organizations also use the standards and guidelines.</text>
+  <imgalttext>
+    <img>NIST's Cybersecurity Framework of protective guidelines was released February 12, 2014.</img>
+  </imgalttext>
+</article>

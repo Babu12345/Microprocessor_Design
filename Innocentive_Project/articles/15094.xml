@@ -1,0 +1,33 @@
+<article>
+  <type>blog</type>
+  <title>Video Analytics Challenges: Finding the Needles in the Haystack</title>
+  <author>B. Scott Swann</author>
+  <date>September 11, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Video</tag>
+    <tag>digital video surveillance system</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Processing massive amounts of video and images has become a daunting task for many law enforcement agencies, which are turning to technology for help. The solution sets alone won't solve crime, writes blogger B. Scott Swann, but video analytics will play an increasingly important role in the daily lives of those who protect U.S. citizens.</abstract>
+  <text>The time is quickly approaching when video analytics no longer will be an afterthought for supporting investigations or categorized as a nice-to-have. Brute force procedures traditionally used by law enforcement are not effective for handling massive amounts of video and images. In fact, the problem of daunting volumes of video handled by criminal justice organizations today is compounded by heightened public perception that digital evidence must be processed quickly, and increasingly, juries expect to see video presented during trials. Law enforcement executives jest that if a crime is not caught on video, as far as courts are concerned, it didn’t happen. While the hyperbole doesn’t truly represent the state of our criminal justice system, it does capture how U.S. citizens expect government to keep pace with advancements in technology.
+
+Patriot’s Day of April 15, 2013, accentuated the importance of video within investigations. During the course of investigating the Boston marathon bombing, the FBI, working closely with local law enforcement, elicited the public’s help. They were flooded with video and digital images from private citizens, television crews and businesses providing surveillance footage. The video and image collection was too diverse—and too plentiful—for agents to thoroughly process and evaluate in a short amount of time.
+
+Ultimately, through exceptional investigative analysis, the FBI successfully leveraged storefront video and identified the bombing suspects. This case heightened the awareness that enterprise capabilities were much needed to support ingestion, sharing and exploitation of digital evidence from video. The Video Analytics Major Issue Study, commissioned by the FBI shortly after the Boston marathon bombing, instantiated video as an interagency challenge that extends well beyond law enforcement. More than 40 agencies attended the FBI Video Analytics Industry Day held in January 2014 to share issues, needs and to promote collaboration across criminal justice, defense, homeland security and other public safety organizations.
+
+Tragic incidents such as the marathon bombing represent a small fraction of the video challenges facing the criminal justice and public safety communities. Digital evidence is prevalent in a majority of casework at the federal, state and local levels. Surveillance, body cameras and video from custodial interviews contribute to the volume of video evidence requiring review to fight crime and protect our borders from the threat of terrorism.
+
+Today’s technology for processing video offers tremendous new automated capabilities for public safety. However, technology alone will not solve a crime.  As illustrated with the Boston bombing investigation, human capital is still the most critical resource to facilitate a successful investigation. Automation creates an environment that helps facilitate eyes-on the most pertinent data and offers technology that supports the investigators’ expertise in exploiting actionable intelligence as quickly as possible.       
+
+Threats to national security are increasingly complex and criminal tradecraft continues to advance. Video analytic solutions have unparalleled capabilities for resolving identities and creating correlations that were never before possible. Current implementations of video analytic solutions prove the case for the use of automated analytics as a way to free investigators from the time-consuming review of endless raw footage in search of the proverbial needle in a haystack. Investigative solutions that incorporate video analytics demonstrate the value of the solution as a force multiplier, now–not in the future.
+
+Automated analytics are used to search for a person of interest identified in one video against multiple, seemingly unrelated videos. Investigators receive actionable intelligence and leads within hours instead of days. Looking toward the immediate future, research is healthily resourced and on track to provide some astounding future big data and video analytic solutions. Global adoption of this technology will undoubtedly require new skill sets, specialized training, and evolution of policies and standard operating procedures. The rules of data retention and court admissibility will require careful legal review. Even so, it’s inevitable that video analytics will play an increasingly important role in the daily lives of those who protect U.S. citizens.
+
+B. Scott Swann is the senior director of innovation at MorphoTrak, LLC</text>
+  <imgalttext>
+    <img>Courtesy CanStockPhoto via MorphoTrak</img>
+  </imgalttext>
+</article>

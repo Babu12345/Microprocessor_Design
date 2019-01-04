@@ -1,0 +1,45 @@
+<article>
+  <type>article</type>
+  <title>Hiding Comms in Plain Sight</title>
+  <author>Alexander Bordetsky, Stephen Benson and Wayne P. Hughes</author>
+  <date>June 1, 2016</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Navy</tag>
+    <tag>littoral combat ship</tag>
+    <tag>C2</tag>
+  </tags>
+  <abstract>As the U.S. Navy embraces its evolving “forward ... from the sea” strategic concept in a post-Cold War geopolitical reality, it is operating more in contested littorals and facing increasingly compressed decision cycles.</abstract>
+  <text>As the U.S. Navy embraces its evolving “forward ... from the sea” strategic concept in a post-Cold War geopolitical reality, it is operating more in contested littorals and facing increasingly compressed decision cycles. Sanctuaries sanitized of threats have become the exception, not the rule. As a result, the sea service has emerged as a global enforcer—combating pirates, taking out terrorists and responding to disaster-ravaged areas—a role that has brought its missions closer to coastlines.
+
+Conflict in confined, cluttered littoral waters, where defensive and offensive measures are much harder to carry out than in the open seas, has complicated naval warfare. That said, there is a silver lining to this cloud. Physical and electromagnetic concealment are easier in these teeming coastal waters, achievable with practice when aided by a technical and tactical advancement called mesh networking.
+
+Mesh networks in the littorals sustain command and control (C2) and maintain reliable and agile connections. By serving as critical nodes in this type of network, small surface vessels in a class known as the littoral combat ship (LCS) can support missions with other vessels and aircraft, both manned and unmanned, and take on new operational roles.
+
+The presence and usage of four major types of critical networking nodes typically guide the configuration of information networks and their decision-making variants. These nodes include hubs, bridges, routers and gateways, all in a hierarchy of protocol layers to capitalize on the use of stratified nodes performing across a scaled mesh of links. Because LCS vessels are so versatile, they can serve as any of these node types, based on rapid switching, to carry out the mission at hand. Additionally, their versatility enables the delegation of some of these mission roles to nearby or remote vessels, depending on operational needs.
+
+A multilayered mesh network capability adds agility and intermittency throughout the compressed sense-decide-act (SDA) cycle that makes up robotic systems’ primary functions. We coined the phrase “networks that don’t exist” to illustrate how advanced techniques, such as burst communications, make mesh networks, ships and aircraft much less visible to adversaries and protect C2 from countermeasures. New tactics, coupled with these techniques, will help a distributed lethal force carry out surprise attacks—from a relatively short range. Networks that don’t exist will reduce the need to operate in a constant, detectable electronic time and space continuum. Fast-moving human operators, sensors and unmanned systems can run them with limited transmissions in highly discrete moments of time and space. As a result, undetectable mesh networks can deliver a significant amount of time-sensitive information while platforms and operators rapidly change locations. These networks both conceal and deceive in the cyber and physical clutter of the littorals.
+
+Naval Postgraduate School (NPS) research teams have refined techniques that use discrete time and space networking to take advantage of land-, sea- and space-based assets and technologies. One solution, Networking-by-Touch (NbT), is used in urban and maritime environments to leverage social networking to deliver messages or share data when continuous, on-the-move broadband communications might be subject to enemy interception. The proliferation of near-field and Bluetooth-enabled commercial smartphones lets one NPS team explore NbT with swimmers and divers who communicate underwater via wrist-worn devices. In addition, scientists are examining the technology when used with fast unmanned vehicles and manned boats in close quarters, approximating littoral combat clutter.
+
+NPS studies also revealed another example of a network that doesn’t exist in projectile-based networking, which could even be applied to naval gunfire systems. Scientists looked at projectile-based nodes such as the Rafael-developed Firefly, a grenade-type device that provides two-way communications in flight every four to eight seconds. These elevated nodes transmit data at a high speed with no humans present and no support from a networking infrastructure. The signal from a camera is sent back to a handheld computer for storage and analysis. 
+
+Space-based solutions offer a new paradigm in the orbital domain as well. These entail formations of several low-orbit cube satellites and picosatellites that collect and download data in five- to seven-minute intervals.
+
+The interplay of NbT, projectile-based nodes and cube satellite formations creates a fairly complex pattern of discrete networking in time and physical space. When combined with highly directional and intermittent radio links, the mesh network delivers far more secure, less detectable but efficient C2 infrastructure for the lower layers of the Open Systems Interconnection (OSI) stack—ground and air manned and unmanned platforms. Because cyber components continuously carry data, cyber-based networks that don’t exist could provide nearly undetectable C2 while confounding the enemy.
+
+Suppose sailors must quickly execute the “sense” phase of the C2 cycle. In this case, the LCS needed for the mission is a hub type, and it activates for data collection a network that doesn’t exist by shooting projectiles with mesh networking sensor and NbT payloads. The payloads transfer surveillance data in burst transmissions received by the hub via periodic moments of cube satellite orbital node availability, unmanned surface vessels, fast patrol boats and unmanned ground vehicles, all in a coordinated dance. Within four to eight seconds, the projectiles recede from view, and the enemy only vaguely knows the general LCS location.
+
+In general, an LCS force operating in cyberspace combines physical and cyber maneuvering to achieve better attack and defensive positions and make up a better network. For the most part, ship-to-ship networking is dominated by omnidirectional communications. In a cluttered littoral environment, when enemy attack or unintentional neutral or friendly force interference is highly probable, directional links could make the difference between success and failure.
+
+Relatively swift LCS movements accompanied by manned and unmanned systems provide a traditional type of maneuver that creates a nontraditional function: an additional set of virtually undetectable relays and new links to support vessels exchanging critical attack data. Within a few minutes, the location of the LCS changes, confusing an adversary by suddenly appearing as a seemingly new threat somewhere else. Fast movement and grouping in tight clusters cause a temporary high data transfer rate, which in turn generates what are called cyberspace “honey pots” that provide deceiving countermeasures that can foil cyber or kinetic attacks.
+
+ 
+
+Alexander Bordetsky is a tenured professor of information science at the Naval Postgraduate School (NPS) and director of the NPS Center for Network Innovation and Experimentation (CENETIX). Stephen Benson, a retired U.S. Navy commander and surface warfare officer, conducts research as the Saab program manager with the NPS Littoral Operations Center. Wayne P. Hughes is a retired Navy captain whose teaching and research at the NPS center around campaign analysis, operational logistics, theory of combat, naval tactics and analysis, command and control and information warfare. The views expressed here are theirs alone and do not necessarily reflect those of the U.S. government.</text>
+  <imgalttext>
+    <img>The LCS USS Independence conducts maneuvers with the aircraft carrier USS Ronald Reagan (CVN 76) during Rim of the Pacific 2014. </img>
+  </imgalttext>
+</article>

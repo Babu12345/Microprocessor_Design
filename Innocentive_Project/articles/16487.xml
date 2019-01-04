@@ -1,0 +1,33 @@
+<article>
+  <type>blog</type>
+  <title>First Responder Communication Platform Now Available </title>
+  <author/>
+  <date>August 8, 2016</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>first responders</tag>
+    <tag>DHS</tag>
+    <tag>Emergency Communications</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The U.S. Department of Homeland Security (DHS) Science and Technology (S&amp;T) Directorate has announced the Next-Generation Incident Command System, an information sharing tool for first responders, is now available worldwide.</abstract>
+  <text>The U.S. Department of Homeland Security (DHS) Science and Technology Directorate (S&amp;T) has announced the Next-Generation Incident Command System (NICS), an information sharing tool for first responders, is now available worldwide.
+
+NICS is a mobile, web-based communication platform that enables responders on scene at a developing incident to request and receive assistance from remote experts, such as a university researcher or topographic expert, in real time. Conversely, experts can observe an evolving situation and volunteer relevant material or resources.
+
+After successful beta implementation, NICS has transitioned to the open source community for wide accessibility, freely available for any interested party.
+
+“Through strong partnerships within the state of California, responder organizations across the United States and the state of Victoria in Australia, NICS software is deployed as an operational tool in many first responder communities,” said Dan Cotter, director of the S&amp;T’s First Responders Group. “And now that the platform code has been made available to the open source community, first responders can leverage this tool from anywhere in the world.”
+
+The DHS will manage the core NICS open source code and is in the process of transitioning the capability through three venues. First, it is available on the U.S. government’s open source code repository site, GitHub. In addition, the Worldwide Incident Command Services Corporation Inc., a California-based nonprofit, has implemented the NICS code as RAVEN, and in the fall, the NICS capability will be hosted within the DHS Homeland Security Information Network as part of the Geospatial Information Infrastructure for DHS users.
+
+Moving forward, these partnerships will continue collaboration on the NICS open source code.   
+
+DHS S&amp;T has led the funding of the development of NICS with contributions from the U.S. Coast Guard Research and Development Center at the Massachusetts Institute of Technology Lincoln Laboratory since 2010.    
+ </text>
+  <imgalttext>
+    <img>The Department of Homeland Security has made the Next-Generation Incident Command System globally available.</img>
+  </imgalttext>
+</article>

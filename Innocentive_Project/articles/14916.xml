@@ -1,0 +1,30 @@
+<article>
+  <type>blog</type>
+  <title>Mitigating OPM Breach's Damage to National Security: The Potential of Big Data</title>
+  <author>Bryan Ware</author>
+  <date>August 6, 2015</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>security breach</tag>
+  </tags>
+  <abstract>The cyber breach at OPM pilfered the personal information of millions of U.S. federal workers, putting them at risk and highlighting a number of security shortcomings within the federal government. But the true magnitude of the attack has yet to be realized, much less revealed. </abstract>
+  <text>The U.S. government must direct serious attention to fixing the integrity of the nation’s security clearance system, marred by the cyber breach on the U.S. Office of Personnel Management (OPM). The true magnitude of the attack, which exposed more than 20 million federal workers and their families, is even greater than previously reported—now that we know that attack could have multiple repercussions on national security. Charles Allen, a senior intelligence adviser to the Intelligence and National Security Alliance, stated the breach was a risk to national security unlike any he has seen during his 50 years in the intelligence community. Mitigating the compromised security details should be an immediate and ongoing government-wide priority. Analysts should use the most sophisticated tools available—such as those using big data analytics—to identify personnel who could be targeted and recruited to compromise national security. 
+
+Responses by legislators and federal officials focused on immediate risk mitigation for the individuals affected by the breach and on identifying government network and cybersecurity needs. While cybersecurity and guarding against identity theft are important, a focus on these areas alone is insufficient. The most consequential threat the government must address is the intelligence risk posed by the exposure of highly sensitive information of millions of people, many entrusted with the nation’s most sensitive secrets. For example, a person might have admitted to an extramarital affair on standard form 86 (SF86), completed when applying for security clearances. Revelation of such intimate—and compromising—information puts the individual at risk of blackmail, bribery or identity theft.
+
+Policymakers and agency managers should be asking this critical question: What prompts someone to commit espionage? Security reform has been in play for decades, but criteria for investigations still are based on a mentality that predates big data. The compromise of so much information presents an opportunity to refine our understanding of personnel risk and vulnerability and improve our safeguards, while limiting the breach’s impact on programs and personnel effectiveness.
+
+The government must conduct a rapid assessment of the personnel whose information was stolen to identify those with a higher likelihood of being coerced or enticed to commit espionage. The assessments should not only identify the most vulnerable populations among personnel impacted by the breach, but also characterize the nature of the vulnerability so government experts can narrow the analysis and provide targeted help and support to potentially vulnerable personnel. Analytics can aid in rapidly ingesting a lot of data from multiple sources over time to assess risk and vulnerability characteristics of personnel.
+
+Existing big data technology can read all of the relevant documents and identify vulnerabilities derived from the data scan. Haystax Carbon, first used by the U.S. Army as a risk-rating tool for personnel with security clearances, has been successfully tested on populations as large as 100,000 and performed well in pilot studies of increasing complexity over the last three years. Analysts can scale Carbon to calculate within months risk ratings for the more than 20 million personnel. The results could develop counterintelligence programs for the most vulnerable of the workers impacted by the OPM breach, and potentially prevent further damage to national security.
+
+Given the scale of the OPM breach, government leaders must address specific counterintelligence challenges and insider threat vulnerabilities it created. Sophisticated tools using automated processes can help analysts characterize the nature of vulnerabilities within population subsets. Doing so is critical for national security and will also enable government assistance to be informed and targeted, ultimately benefiting those compromised by the breach—individuals. The sooner this work can start, the better chance the government has of limiting the potential damage.
+
+Bryan Ware is president of Haystax Analytics at Haystax Technology, leading the company’s analytics business, technology strategy and research and development activities. He has worked with the Department of Homeland Security, Defense Department and within the intelligence community. He also serves on the board of advisers of a big data trading index firm and holds three patents for risk management. </text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

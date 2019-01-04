@@ -1,0 +1,18 @@
+<article>
+  <type>blog</type>
+  <title>Success Breeds Menace in Critical Infrastructure</title>
+  <author>Robert K. Ackerman</author>
+  <date>November 3, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>TechNet Asia-Pacific 2011</tag>
+    <tag>Cyberspace</tag>
+    <tag>Event Coverage</tag>
+    <tag>Homeland Security</tag>
+  </tags>
+  <abstract>The nation's critical infrastructure, long a potential target of cybermarauders, now faces even greater threats--ironically because of the very information technologies on which it depends for better efficiency of operation.</abstract>
+  <text>The new technologies that are enabling elements of the critical infrastructure to operate more efficiently also are making them more vulnerable to devastating cyberattacks. Advanced mobile connectivity and supervisory control and data acquisition (SCADA) systems have created fertile ground for cybermarauders to target key aspects of the infrastructure a number of ways. These were the findings of a panel comprising a number of experts from Hawaii and the U.S. Pacific Command (PACOM) at TechNet Asia-Pacific 2011 in Honolulu. Rear Adm. Paul Becker, USN, the PACOM J-2, described how the use of SCADA industrial control systems was a primary threat to the infrastructure. These systems are the focus of malevolent hackers, whose growing sophistication has increased the likelihood that they will be able to launch a devastating attack. David Rolla of the Hawaiian Electric Company elaborated on how the SCADA threat has grown. Companies such as his have trended toward more integrated and more sophisticated control systems, and greater interconnectedness means more interdependency. The need for a communications infrastructure, which requires external communication links, also has increased vulnerabilities. Where the threat used to be broad-based-such as simple denial of service-it now takes the form of highly targeted attacks focused on a single entity, Rolla said. "We're coming to a point where there is no such thing as a trusted source," he warned.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

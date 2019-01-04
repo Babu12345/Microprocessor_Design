@@ -1,0 +1,30 @@
+<article>
+  <type>blog</type>
+  <title>C4ISR Systems Must Be Migrated into the Cloud</title>
+  <author>Ralph Wade</author>
+  <date>November 9, 2016</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>C4ISR</tag>
+    <tag>cloud computing</tag>
+    <tag>guest bloggers</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>An impression exists among senior U.S. government officials that moving C4ISR systems into the cloud is overhyped. They question whether the migration would improve operational effectiveness. The answer is yes, and its time has come, writes Ralph Wade, a vice president within Booz Allen Hamilton’s Strategic Innovation Group with a focus on digital solutions/C4ISR across government and military organizations.</abstract>
+  <text>An impression exists among senior government officials that moving command, control, communication, computers and intelligence, surveillance and reconnaissance (C4ISR) systems into the cloud is overhyped. They question whether this will improve operational effectiveness. I admit I once shared these reservations, but recently evolved on the subject and now see a compelling rationale for moving C4ISR into the cloud. 
+
+My epiphany occurred during a conference this summer hosted by Amazon Cloud Services, when a briefer showed a simple graphic—a single chart with two images on it. On the left was a mobile GPS device; the store-bought kind used in cars. On the right was a logo for the Waze traffic app for mobile phones. He used the graphic to illustrate his point that cloud computing, and the infrastructure supporting it, enables small software development teams to rapidly create capabilities such as Waze. Within a matter of days, new applications can be developed, tested and deployed to millions of users. That comparison—between a single GPS device and Waze—crystallized the importance of cloud computing for C4ISR.  
+
+Today in C4ISR, we build and deploy stand-alone capabilities similar to the mobile GPS device. Delivery of these stovepiped solutions requires an acquisition process to design, develop, test, manufacture, install and maintain new capabilities. This process is complex, manpower intensive and extremely slow to deploy across the Defense Department C4ISR landscape. By examining the resources and time required to deliver a new C4ISR capability, it becomes easy to understand the value of cloud computing. 
+
+I recently spoke at an unmanned systems conference of about 150 attendees and asked the audience to pull out their cellphones and open up the app store to search for a certain application. They found it and could have downloaded it in about 30 seconds. This experiment did not require the 150 people to be in the room; they could have been spread across the world and simultaneously updated their devices in a matter of seconds. Using the DOD’s current C4ISR systems acquisition processes, which are optimized for delivering single stand-alone capabilities, deploying a software application the fleet of U.S. Navy ships or a family of Army vehicles would take years, maybe even a decade. The result would be a capability with a complex and unmanageable set of point-to-point interfaces connected to other stand-alone capabilities.
+
+If the DOD stepped up to create a modern digital cloud infrastructure for the national C4ISR enterprise, not only would it streamline development and deployment of new capabilities and result in associated cost efficiencies, but it also would significantly improve operational effectiveness. Analysts could rapidly access information across the enterprise and developers could unleash data science applications to employ new automated techniques and decision aids. New collaboration tools could significantly increase analyst and operator interactions. In short, migration to a cloud infrastructure will enable the DOD’s C4ISR systems, analysts and operators to act as a single, integrated global enterprise. This is the imperative for migrating C4ISR systems to the cloud.
+
+Ralph Wade is a vice president within Booz Allen Hamilton’s Strategic Innovation Group and is focused on digital solutions/C4ISR across government and military organizations.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

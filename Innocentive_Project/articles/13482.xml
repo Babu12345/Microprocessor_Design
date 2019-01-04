@@ -1,0 +1,27 @@
+<article>
+  <type>blog</type>
+  <title>DHS Looks to Replace IDENT</title>
+  <author>Rita Boland</author>
+  <date>September 17, 2014</date>
+  <departments>
+    <department>Cyber</department>
+    <department>Homeland Security</department>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>biometrics</tag>
+    <tag>DHS</tag>
+    <tag>Homeland Security</tag>
+    <tag>cyber</tag>
+  </tags>
+  <abstract>The Department of Homeland Security is looking to roll out a new central biometric system in the next two to four years.</abstract>
+  <text>The Department of Homeland Security (DHS) is looking to replace its Automated Biometric Identification System, or IDENT, in the next two to four years, an official with the department says. IDENT is DHS's central system for stor?ing and processing biometric and associated biographic information for various homeland security purposes. 
+
+The upgrade will match efforts by the departments of Justice and Defense; the former launched a new identification technology, the Next Generation Identification system, last week and the latter is developing one now. Though DHS has no requirements yet, planned attributes of its future capability include more flexibility to allow better queuing and plug-and-play architecture; scalability; and multi-modality recognition such as the already available fingerprinting along with additions of iris, face and possibly voice and DNA. 
+
+IDENT came online in 1994. It has an accuracy rate of 99.7 percent (meaning that humans need to do the matching activities only .3 percent of the time) while processing approximately 300,000 transactions each day. DHS leadership wants to see that accuracy percentage improve with the new system. The official says that if the number of transactions processed becomes too large, the current system will experience slower response times. 
+
+Improvements made to IDENT until the rollout of its replacement will be made with the change in mind. </text>
+  <imgalttext>
+  </imgalttext>
+</article>

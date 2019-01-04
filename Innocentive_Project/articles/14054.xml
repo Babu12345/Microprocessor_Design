@@ -1,0 +1,37 @@
+<article>
+  <type>blog</type>
+  <title>What's Hot in 2015 for the Evolution of Federal IT</title>
+  <author>Ed Bender</author>
+  <date>January 28, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>cloud</tag>
+    <tag>IT</tag>
+    <tag>insider threat</tag>
+    <tag>app</tag>
+  </tags>
+  <abstract>With 2014 in the rearview mirror, federal agencies now are looking ahead to what the next year will bring. For information technology professionals working in the Defense Department and intelligence community, 2015 will be the year of the cloud, application stacks, security challenges and centralization.</abstract>
+  <text>With 2014 in the rearview mirror, federal agencies now are looking ahead to what the next year will bring. For information technology (IT) professionals working in the U.S. Defense Department and intelligence community, 2015 will be the year of the cloud, application stacks, security challenges and centralization. How will each of these trends develop and impact government information technology infrastructures? Here is a look at a few changes in IT that will affect federal IT pros in 2015.
+
+Data centers and applications aim for the cloud
+The federal government will start to see more hybrid IT environments this year as data centers and applications migrate to cloud services. The biggest driver behind this change is the financial benefit, both in terms of infrastructure and personnel, which is becoming hard to ignore. In preparation for this move, the Federal Risk and Authorization Management Program (FedRAMP) security practices have been adopted, which allow for competition among cloud providers and commoditized pricing of cloud services at specified security levels. FedRAMP allows federal agencies and the DOD to closely look at having new applications hosted in the cloud rather than on government-owned servers. Additionally, federal IT jobs will shift from onsite to behind-the-scenes at data centers and even the number of people required to manage the data centers will drop as the infrastructure is streamlined. The end goal of this move to the cloud is to get the federal IT infrastructure to become something the government uses rather than something the government owns.
+
+Streamlining the app-centric world
+As with commercial business, the DOD increasingly is becoming dependent on applications, both for day-to-day operations and for mission-critical situations. However, it seems that insufficient attention has been paid to the vast number of applications and their cross functionality within government agencies. This is why collapsing and consolidating these applications will become a priority in 2015, though it is not a simple case of closing down all the duplicate applications and migrating information—it is much more complicated than that. Both old and new applications will need to be maintained and monitored as information is transferred and consolidated. Also, as applications are collapsed and more users rely on the same application, federal IT professionals will need to focus on performance monitoring both to ensure a smooth transition and to prevent downtime.
+
+Risk Management Framework implementation goes full steam ahead
+As migration and adoption of the new Risk Management Framework (RMF) ramps up in 2015, both organizations and individuals will face challenges during implementation. The National Institute of Standards and Technology published the RMF, and civilian agencies, intelligence agencies and the DOD are adopting it. The agencies will train security staff as they begin the migration from using the DOD Information Assurance Certification and Accreditation Process to the new framework. As the RMF is adopted across the federal government, the knowledge and experience gained will be transferrable. Federal IT experts that learn and adopt the RMF processes quickly will find themselves in high demand by the end of 2015.
+
+Agencies to focus on thwarting insider security threats
+As new external security threats challenge government agencies on an ongoing basis, so do internal threats. Insider security breaches—whether caused accidentally or because of careless actions or malicious intent—will require more attention in 2015. Phishing attacks, deliberate copying of files, authentication and failed authentication to multiple systems and unusual network activity from individual computers must be logged and analyzed more effectively in 2015. Forensic investigations will have to be more thorough, and logging all suspicious internal activities that could expose data or introduce threats to the environment will be expanded. Tools and techniques for aggregating, correlating and reporting on log data to identify internal threats will be a higher priority in many federal agencies in 2015.
+
+Centralized visibility and decision-making
+Integration of IT management tools to provide central visibility into overall situational awareness will be universally recognized as more important in 2015. The benefit of having real-time situational awareness of the status of IT across an entire agency is huge, and when coupled with the benefits of collecting historical data, it will allow leaders to identify trouble spots and respond appropriately. Additionally, most, but not all, government agencies will make IT refresh decisions more centrally in 2015. Most agencies are of an appropriate size to have a strong centralized IT organization that makes commodity technology decisions to refresh their IT systems, but some agencies, specifically the DOD and intelligence agencies, will start to realize that some IT decisions are best made in a somewhat distributed manner. If an agency is too big, and has too many different missions, a centralized IT decision-making process for commodity IT products can introduce procurement delays that cause technology to be obsolete by the time the procurement process is completed and the technology is deployed. Finding the right balance between centralized visibility and policies and distributed action will be a big challenge for 2015.
+
+Ed Bender is lead federal systems engineer at IT management software provider SolarWinds. He is based out of the company’s Herndon, Virginia, office.   </text>
+  <imgalttext>
+    <img>In this file photo, Marines develop their private cloud, focusing on ensuring the right access for the right people.</img>
+  </imgalttext>
+</article>

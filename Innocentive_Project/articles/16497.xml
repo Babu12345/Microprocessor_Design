@@ -1,0 +1,28 @@
+<article>
+  <type>blog</type>
+  <title>When Air Gapping Fails: How to Protect Data</title>
+  <author>John Halksworth</author>
+  <date>August 11, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+    <tag>Hacker</tag>
+    <tag>Guest Blogs</tag>
+    <tag>guest bloggers</tag>
+  </tags>
+  <abstract>Air gapping is a security measure that isolates a computer or a network so it cannot be accessed or hacked by an external entity—a useful technique that adds a layer of security. But it's not a foolproof defense method. For that reason, blogger John Halksworth shares tips in the event of a cyber attack or a data breach.</abstract>
+  <text>Air gapping is a security measure that isolates a computer or a network so it cannot be accessed or hacked by an external entity. It's a useful technique that adds a security layer for companies and government agencies, especially those handling classified, confidential information often susceptible to hacking attempts. Although air-gapping systems offer extra security, recent malware-based attacks and other threats have created a new set of risks that organizations must manage in unique ways.
+
+In the past, cyber attacks typically occurred when an attacker had physical access. But recent malware attacks have shown that dangerous breaches can happen remotely. For instance, some hackers can access data through the radio waves computers emit when they are in use. Others can wirelessly extract sensitive data through nearby mobile phones. Perhaps most alarming is USB-born malware, specifically the new "USB Thief," which spreads across flash and thumb drives and steals sensitive information without users having any idea.
+
+While air gapping is a practical tool, it's not a foolproof defense method. For that reason, organizations must have the proper protective measures in place to guard against cyber attacks or data breaches.
+
+Encrypt all data to avoid information getting into the wrong hands. Most cyber attacks occur because hackers are determined to retrieve confidential or classified information. Encrypted data forces hackers to access secret keys or passwords to decipher what they’ve stolen.
+	Create redundancies within servers so data can be found in multiple places. Because it is unlikely that hackers will have access to every server, this valuable backup plan ensures that important and confidential information isn't lost. If one server is hacked and the data no longer is valuable or readable, another will continue to work, giving controllers access to important information without interruption.
+	Provide technology such as secure KVMs (keyboards, video and mice) and fiber extenders that let users, through USB access control, switch the computers they are working on to a different room, floor or even building. In the event of a cyber attack, this technology lets users stop working on one server or subnet and immediately switch to an uncompromised device without interrupting workflow. This saves time and resources and prevents damage caused by a hack.
+John Halksworth is senior product manager at Adder Technology.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

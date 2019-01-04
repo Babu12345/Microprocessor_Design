@@ -1,0 +1,37 @@
+<article>
+  <type>blog</type>
+  <title>4 Ways GIS Helps the Feds Fight Fraud</title>
+  <author>Marcella Cavallaro</author>
+  <date>June 29, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>big data</tag>
+    <tag>Geographic Information Systems</tag>
+    <tag>app</tag>
+  </tags>
+  <abstract>Big data is prevalent across the federal government, particularly the policy-shaping power of new data streams and better constituent information. Two years ago, President Barack Obama signed into law the DATA Act, which promotes an unprecedented level of transparency in the federal government that many critics argue was well overdue—especially as it relates to the costly problem of government fraud and waste.</abstract>
+  <text>Big data is prevalent across the federal government, particularly the policy-shaping power of new data streams and better constituent information. Two years ago, President Barack Obama signed into law the Digital Accountability and Transparency Act (DATA Act) that prioritized making public government data in an effort to bring transparency to federal processes and harness the collective power of information. The law gives the public  access to data about the nation’s populations, regions, services, economic opportunities and more that can be used by everyone—from local governments and citizens to private business and state agencies.
+
+The DATA Act also promotes an unprecedented level of transparency in the federal government that many critics argue was well overdue—especially as it relates to the costly problem of government fraud and waste.
+
+Fraud continues to be a significant problem. According to the U.S. Government Accountability Office, improper payments made by the federal government cost taxpayers $125 billion in 2014 alone. As officials implement tenants of the DATA Act over the next few years, details such as how the government spends our tax dollars will be publicly accessible, shining a spotlight on the increased need for antifraud and audit analytics. However, managing all of that data is a difficult and arduous task. In an effort to help transform data into insights, agencies resort to data analytics and advanced visualization capabilities of spatial and geographic data to solve the problem. Smart maps and visual representations of critical data feeds will enable agencies to combine geospatial and financial information and deliver improved oversights for citizens to scrutinize.   
+
+Agencies across the landscape already successfully leverage spatial data and visualization tools for accountability, transparency and antifraud workflows to deliver insights and analysis to fight fraud. Location is the universal attribute. Because everything is located somewhere and in relation to something, smart maps based on geographic information system (GIS) data have emerged as the grand unifier across governance and business. Applied to financial data and fraud prevention systems, it brings together—through the locus of the map—essential elements investigators need to see, measure and analyze to combat fraud, waste and abuse.
+
+I have worked with a number of inspector general organizations to establish spatial data and tools for accountability, transparency and antifraud workflows, collaborations that yielded a significant factor in the fight against fraud: Incorporating spatial components of financial data into workflows deepens insight and strengthens analysis. In other words, GIS provides the investigative muscle needed for a schema such as the DATA Act to properly work.
+
+Here are four specific ways smart maps and data visualizations empower fraud investigation:
+
+Sees Interaction: Mapping data shows physical locations and how those places relate to and interact with one another. Want to understand how constituents in a state or county use Supplemental Nutrition Assistance Program (SNAP) benefits? Smart maps can highlight the interaction between the location of excessive electronic benefit transfer (EBT) card requests to indicate possible SNAP trafficking, or the exchange of benefits for cash or other goods or services.
+	Makes Better Predictions: GIS detects and analyzes patterns with more certainty to offer better predictions about future trends. Correlating the impact of an aging population using social services enables legislators, businesses and non-profit organizations to work together to better serve a community’s needs.
+	Gives Holistic View: Using spatial components of any data set provides a more holistic view of problems, which enhances decision-making processes. Better insight helps investigators see the bigger picture quickly and target those who may be abusing the system.
+	Finds Anomalies Faster: Geo-analytics enables the concurrent investigation of attributes and spatio-temporal relationships to discover anomalies in data. The Centers for Medicare and Medicaid Services (CMS), for example, recently estimated that Medicare fraud, waste, abuse and improper payments cost taxpayers $60 billion in 2014. With better insight and powerful visualization tools, investigators can uncover providers who take advantage of the system and recoup lost dollars.
+In the global fight against fraud, GIS provides essential momentum. It’s entrenched in business and government, follows exacting standards and the financial industry conceded it provides a powerful investigative tool. Applying spatial components of any data set provides a holistic view to projects and problems, letting agencies and companies better combat fraud, reduce waste and improve oversight.
+
+Marcella Cavallaro is Esri’s manager for emerging markets.?</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

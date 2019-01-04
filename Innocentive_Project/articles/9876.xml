@@ -1,0 +1,19 @@
+<article>
+  <type>blog</type>
+  <title>Open Source Cybersecurity Software Receives Thumbs Up</title>
+  <author/>
+  <date>July 25, 2012</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Department of Homeland Security</tag>
+    <tag>FIPS140-2</tag>
+    <tag>science and technology directorate</tag>
+    <tag>secure socket layer</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The U.S. Department of Homeland Security's Science and Technology Directorate has unveiled an open source cybersecurity tool for information sharing across the Internet.</abstract>
+  <text>The U.S. Department of Homeland Security's Science and Technology Directorate has unveiled an open source cybersecurity tool for information sharing across the Internet. Open Secure Socket Layer (OpenSSL) version 2.0 is a free, publicly available security application that meets all federal security guidelines and is now available for government agencies. All agencies using cryptographic software validated for Federal Information Processing Standard (FIPS) 140-2 can now use the new version, which applies to cryptography that protect sensitive or valuable data within the federal government. The National Institute of Standards and Technology validated the second version of the software that also allows commercial software developers to integrate it into products they offer to government clients. More information about the new FIPS 140-2 validated Open SSL module is available at OpenSSL.org.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

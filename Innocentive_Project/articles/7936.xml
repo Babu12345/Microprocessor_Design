@@ -1,0 +1,23 @@
+<article>
+  <type>blog</type>
+  <title>Webinar: Detect, Deceive and Defeat</title>
+  <author>Henry Kenyon</author>
+  <date>March 14, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Webinars</tag>
+  </tags>
+  <abstract>To detect and then locate ephemeral, shifting signals demands an advanced signal processing subsystem, combining a very High Probability of Intercept (HPOI) with a unique capability for multi-channel coherency. In an upcoming webinar, Mercury Computer Systems' Marc Couture and Tom Roberts will present the design concepts of such a processing subsystem, with tightly integrated RF tuners and digital receivers</abstract>
+  <text>Join us on April 21, 2011 at noon ET as SIGNAL Editor-in-Chief Robert K. Ackerman talks with Mercury Computer Systems' Marc Couture and Tom Roberts in "Detect, Deceive and Defeat: Increasing the HPOI of your EW System":
+To detect and then locate ephemeral, shifting signals demands an advanced signal processing subsystem, combining a very High Probability of Intercept (HPOI) with a unique capability for multi-channel coherency. This webinar will present the design concepts of such a processing subsystem, with tightly integrated RF tuners and digital receivers. An open architecture helps facilitate the integration with application software. This presentation will also examine a successful case study and some newly available technologies which can enhance future subsystems.
+
+This Webinar will provide insight on designing EW systems with:
+
+* One to many coherent RF channels
+* A High Probability of Intercept
+* An open architecture addressing SWaP and cost constraints
+Registration and archive information for this webinar are here.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

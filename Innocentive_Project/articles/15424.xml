@@ -1,0 +1,37 @@
+<article>
+  <type>article</type>
+  <title>DISA Searching for Big Data and Automation Solutions</title>
+  <author>George I. Seffers</author>
+  <date>November 3, 2015</date>
+  <departments>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>DISA</tag>
+    <tag>cyber</tag>
+    <tag>big data</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The Defense Information Systems Agency (DISA) seeks to use big data analytics to enhance network situational awareness while automating as many cybersecurity capabilities as possible, officials said during the agency’s  forecast to industry.</abstract>
+  <text>The Defense Information Systems Agency (DISA) seeks to use big data analytics to enhance network situational awareness while automating as many cybersecurity capabilities as possible, officials said during the agency’s November 2 forecast to industry in Washington, D.C.
+
+Jack Wilmer, an executive with DISA’s Infrastructure Directorate, said cyber attacks are growing more varied and more numerous but budgets “are not following suit,” requiring greater efficiency. “We have to look at how to do this more efficiently, how to posture ourselves for a more automated cyberdefense, to get to fewer manually intensive tools, fewer manually intensive workflows, fewer screens for network operators,” Wilmer said. We need to get to where we can have these cyber capabilities integrated with each other and automatically defending against things.”
+
+In addition, the agency is searching for big data analysis solutions to help provide cyber situational awareness. “One of the things we’re looking at is how to take the data from the perimeter defenses all the way down to the host defenses and then make some actual decisions. There is a tremendous amount of data that comes in from all the various sensors,” Wilmer said. “We’re looking at two processes here. One is to drive more automation into that process so that instead of an operator having to do something for every single [attack], we can actually have some of them automatically taken care of. The other process is providing tools for the operators so that they can make the most informed decisions possible.”
+
+He also said the agency must determine how much of that data and what kinds of data need to “percolate up to the top so that the operators can actually do some things.”
+
+The agency has two major procurements aimed at big data. One is for the platform itself, the other for the analytics that would rest on top of that platform. Wilmer said he has heard complaints that the agency is simply looking for essentially the same big data platform it already uses. He insisted that is not the case and that the agency will accept whichever solution best helps cope with the massive amounts of data, whether the technology is government-owned or commercially provided.
+
+The Defense Department needs a new approach to cybersecurity, Wilmer indicated. In the past, the department would search for a tool to counter every emerging threat and bolt that solution onto the perimeter of its architecture. “What we’re doing right now is a pretty significant effort. Partners across the Defense Department are basically working together to find the new cybersecurity reference architecture,” Wilmer said. The agency is looking for solutions that run the gamut from perimeter-based, to those integrated into regional stacks or installed on individual servers or laptops.
+
+Current tools are largely signature-based, and that is no longer enough. “I won’t say we’re moving away from signature-based detection—but we’re evolving from signature-based detection,” Wilmer stated.
+
+The Enterprise Email Security Gateway, he reported, uses signature-based detection to knock out 80 percent of incoming emails as spam, phishing or some other kind of attack. “We’re looking at getting beyond signatures to a zero day-type defense, defending against something that has not been seen before,” Wilmer said. “There’s a lot of investment we have in that space. A lot of the balancing act is trying to look at how much of my investment should go toward knocking out the 80 percent of the threat and how much of my investment should be focused on the advanced threat,” Wilmer offered.
+
+Other upcoming procurements include the Internet Café program, a new mission for DISA to provide Internet café services to troops deployed down range. DISA released a request for information in February and should release a request for proposals in the second quarter of fiscal year 2016.
+
+Officials also intend to release a request for proposals in the second quarter of 2016 for the Public Key Infrastructure (PKI) Engineering Support contract with a contract award expected in the third quarter. Additionally, DISA is recompeting the Enterprise Mission Assurance Support Services contract. “We’re looking at everything from how centralized the capability should be but also aggregating information assurance information from across the department and providing a consolidated view for senior leaders,” Wilmer said.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

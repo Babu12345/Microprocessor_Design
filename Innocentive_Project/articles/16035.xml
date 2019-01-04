@@ -1,0 +1,42 @@
+<article>
+  <type>blog</type>
+  <title>Harnessing the Power of Open Data and Today’s Analytics</title>
+  <author>Terry Roberts</author>
+  <date>April 29, 2016</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>The majority of federal, state and local governments continue to pour manpower and operations and maintenance money into “high maintenance” legacy and often proprietary architectures, rather than thoughtfully and pragmatically transitioning to next generation IT infrastructure and software.</abstract>
+  <text>OK, I admit it—on any scale—I am an analytic dinosaur. When I started as an intelligence analyst in the (yes) 1980s—it was truly a lifetime of technology ago. Pong was cool. Wang was cutting edge. All the analysts I worked with had amazing colored charts on the wall, big “scrapbooks,” stacks and file cabinets of message traffic a foot high that came from the communications room. When I established one of the first computer databases that my analytic team had ever seen they thought I had gone rogue.
+
+Oh to be a millennial analyst in a commercial world of open data, easy-to-use analytic platforms, automatic information search, processing, connections and synthesis, and continuous online report generation. Now professional analysis and insights are everywhere; we live in an era of continuous business intelligence, marketing insights and trends, relentless news and impactful analytics. No longer is it the domain of a few, the elite or the intelligence community.
+
+So why are a majority of mission areas across the U.S. government still evolving their IT architectures from a decade or two ago and how they access mission and customer data, parse it, make sense of it, categorize it, collate it, disseminate it, destroy it and retain it?  
+
+The majority of federal, state and local governments continue to pour manpower and operations and maintenance money into “high maintenance” legacy and often proprietary architectures, rather than thoughtfully and pragmatically transitioning to next generation IT infrastructure and software.
+
+Because of this, seamless leveraging and tailoring of commercial cutting-edge IT and applications that are more efficient and flexible, as well as more secure and assured, can't happen.
+
+So let’s pretend we want to satisfy a particular government mission or information need (assuming our IT and software are actually up to date). The amazing thing is we really would not have to take months to years to develop it and transition to it. We could pilot, team and integrate a complementary number of services, approaches and technologies at a very reasonable cost. Let’s explore some exemplars.
+
+How about ready-made insights from Reuters, the world’s largest international news organization, serving more than a billion readers and viewers a day. The overarching company Thomson Reuters has long been the preeminent provider of intelligent information for businesses worldwide, and its massive collection of proprietary data and technology solutions are also directly applicable to the needs of government agencies and those doing business with the government to include:
+
+CLEAR is a leading source of public and proprietary records for law enforcement and other investigative agencies, available via an easy-to-use dashboard interface. It provides real-time access to asset and business information, criminal and booking data, addresses, credit bureau header information and professional licenses and is useful for identifying risk, mitigating fraud, understanding connections between networks of people and businesses, and finding people who don’t want to be found.
+	Threat Intelligence Portfolio (TIP) gathers, scores and filters public records, worldwide social media and proprietary data in real time and identifies risk indicators in populations of interest. It is applicable to personnel vetting, continuous monitoring, investigations, insider threat programs and event and site security.  
+	World-Check is the largest, most comprehensive commercially available database on heightened-risk entities, individuals and organizations located in over 240 countries and territories. Hundreds of deployed analysts conduct research in more than 60 languages to identify and vet derogatory information and build profiles that can serve as an important supplement to U.S. government watch and sanctions lists.
+	MarketPsych Indices quantifies public sentiment and trending topics in news and social media to improve predictive modeling of global markets. Used to predict economic activity and macroeconomic risk, it tracks levels of social unrest and identifies potential risk to individuals or supply chains.
+Isn't this where some government entities should start looking for data and insights before expending the first government resource?  
+
+Next comes the integration of a unique data set, turning your analysis into a targeted and illustrative report or briefing that satisfies daily your core mission or information needs. Thetus has developed one such model with enabled, open standards, multi-source analysis capability to tailor and leverage as a platform or as a service. The model has a unified, collaborative, cloud-ready environment that integrates with existing tools and infrastructures; gathers content from any source (documents, maps, video, analyst’s notebook charts, and more); and creates industry-standard models for import and export. Wow. If only I had this right next to my Wang in 1982!
+
+Or you might want to integrate living apps and analytics into your online approach by piloting and integrating start-up company Tensor Wrench’s substantiation of the ozone widget framework (OWF) approach, originally co-developed with the NSA and then released to the open government community for all to tailor. Tensor Wrench has transitioned and scaled this approach to living analytic widgets for all to take advantage of, no matter the mission or business model and intelligence need.
+
+Today you have all the above and so much more to use as your point of departure. Stop living in the dark ages of the 1990s and early 2000s and venture out to proven, tailorable offerings that cost much less than you are paying for current legacy technologies and approaches that are not keeping up with the speed of innovative technologies and services.
+
+Terry Roberts, a former director of Naval intelligence, is the founder and president of WhiteHawk.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

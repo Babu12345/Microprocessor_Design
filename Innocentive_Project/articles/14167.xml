@@ -1,0 +1,58 @@
+<article>
+  <type>blog</type>
+  <title>Harnessing the Power of IT Interoperability</title>
+  <author>Ed Bender</author>
+  <date>February 26, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>JIE</tag>
+    <tag>Cyber Command</tag>
+    <tag>DISA</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Guest blogger Ed Bender from SolarWinds outlines the steps the U.S. Defense Department should take to secure and streamline information networks successfully toward the realization of the JIE. The department must strive for greater interoperability of NetOps and other IT management tools within the services.</abstract>
+  <text>While it has always been important to strive for interoperability among and across systems within the U.S. military branches and other Defense Department (DOD) agencies, the need now is more critical than ever for the oldest and largest government agency in the United States.
+
+Why now? One primary driving force for a refocus on interoperability is the creation of the U.S. Cyber Command (CYBERCOM). Formally established in May 2010, CYBERCOM’s focus, among other things, is to “lead day-to-day defense and protection of DOD information networks,” according to the agency’s mission statement.
+
+In the past, some of the DOD services have tried to standardize network operations (NetOps) tools across large parts of their agencies, generally with little success. Not only was the size of the organization a deterrent to success—as implementation can take years—but agencies and branches were sometimes required to implement tools that might not meet individual needs.
+
+Today, the department is working toward a Joint Information Environment (JIE) that will consolidate and standardize networks through design, architecture and specifications. While the transition to the JIE will provide more standardized infrastructure, each agency and branch will still have its own systems, networks, applications and information technology methodologies. And they generally will have their own set of NetOps tools to help them achieve their missions.
+
+So, what’s the solution? Interoperability of information technology (IT) management tools.
+
+To successfully secure and streamline the DOD information networks, there must be far greater interoperability of NetOps and other IT management tools within the department’s services.
+
+The Value of Interoperability
+
+Interoperability brings visibility, openness and transparency, with visibility being the greatest advantage of the three. Branches and departments need the freedom to implement the tools that work best for their unique missions, and each must be able to make their own decisions and control their own environments. Interoperability can provide visibility into the broad range of commercial off-the-shelf (COTS) tools implemented across the agency. Local control with global visibility is the goal.
+
+Openness is the next advantage. Openness, first, allows each branch and division to implement the best tools for the job available at the time. Openness also means branches are not getting locked into a single vendor’s toolset, allowing for a best practices-based environment where IT management tools constantly are being refreshed throughout the JIE with the most modern, efficient and easy-to-use commercial-off-the-shelf (COTS) software.
+
+Visibility and openness lead to transparency. Being able to see and understand what is in place, regardless of the NetOps tool vendor of choice, provides a level of transparency heretofore unrealized within the DOD.
+
+How to Get There
+
+The DOD currently is moving toward interoperability starting with network management by allowing each individual branch to harness the power of commercial technology that is both affordable and robust, while also providing easy integration. The first step toward network management interoperability is making sure all the individual tools can exchange information—preferably through a modern Web services API. That API will allow each individual tool to pull or push data to and from other tools and fit into the distributed multivendor architecture.
+
+The next step is to take that ability to exchange data between different COTS tools and create a hierarchy of network management tools based on their different strengths and capabilities. Some tools work best at the lowest levels, providing a wealth of detailed information for hands-on IT pros, while other tools work better at middle and higher echelons, because they combine and visualize information from the lower-level tools. And some tools might work best at the highest echelons, providing the ability to consolidate data and provide visualizations at the highest level of situational awareness, and readiness, for different components of the DOD.
+
+Situational awareness of IT operational status can be provided at each level of the hierarchy by automatically integrating the relevant data stored in individual NetOps tools and appropriately summarizing the data. As NetOps data is shared up the chain of the command, it is consolidated and summarized with only the most relevant information continuing up the chain of command.
+
+One note of caution when creating that hierarchy: Some network management tools present themselves as higher-level tools by saying they are “scalable.” Scalable means something completely different in the commercial world than it does within a government network. Scalable does not mean interoperable, so make sure your network management software supports modern Web services-based APIs, or you could be stuck with a single vendor’s tools that might not keep up with the latest technologies.
+
+Remember, local control with global visibility is the goal. Ensuring interoperability between your IT management tools is the first step to achieving the goal of global visibility into situational awareness.
+
+The Bottom Line
+
+The reality is network management tools are already in place at every agency—some have the ability to interoperate; some do not. As technology gets refreshed and as agencies implement new monitoring tools, you should make it a priority to ensure that newly selected tools are able to “play well with others” in the JIE. Make sure your IT management tools provide Web services APIs for exchanging data, and that they are not closed systems unable to easily exchange data with other vendors’ tools.
+
+Taking this into consideration when you next look at a technology refresh of your NetOps tools will help you on your journey to the JIE by making sure you have interoperable IT management tools in your component of the DOD.
+
+Ed Bender is lead federal systems engineer at IT management software provider SolarWinds, based in Austin, Texas.</text>
+  <imgalttext>
+    <img>U.S. soldiers work on a Mission Event Synchronization List in the Joint Cyber Control Center during Operation Deuce Lightning in 2011.</img>
+  </imgalttext>
+</article>

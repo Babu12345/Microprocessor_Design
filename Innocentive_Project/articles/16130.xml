@@ -1,0 +1,45 @@
+<article>
+  <type>blog</type>
+  <title>Marching Toward Virtualization in Modern Warfare</title>
+  <author>Bob Fortna</author>
+  <date>May 19, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>virtual environment</tag>
+    <tag>software</tag>
+    <tag>guest bloggers</tag>
+  </tags>
+  <abstract>For too long, warfighters have struggled with issues of space, weight and power, each posing major problems in tactical environments. Networking equipment historically has contributed to all three—barriers that must be expunged. Soldiers must travel light. Humvees that barely fit four people must serve as both transport vehicles and portable communication hubs. And networks must be powerful yet agile.</abstract>
+  <text>For too long, warfighters have struggled with issues of space, weight and power, each posing major problems in tactical environments. Networking equipment historically has contributed to all three—barriers that must be expunged. Soldiers must travel light. Humvees that barely fit four people must serve as both transport vehicles and portable communication hubs. And networks must be powerful yet agile.
+
+Virtualization eliminates dependence on bulky and balky legacy systems. Applications run in shared environments, saving personnel the headaches involved in constantly installing, running and managing actual networks. The result is massive time, space and weight savings and better communication and security.
+
+Realizing these benefits, the Army has steadily marched toward network modernization. This is evident through efforts such as the Project Manager Warfighter Information Network-Tactical (PM WIN-T), which emphasizes mobility and agility and space and weight savings via virtualized tools.
+
+The U.S. military could remove two-thirds of its equipment by replacing hardware-based routers and switches with their virtual equivalents. These solutions can be consolidated and powered by fewer devices that are much smaller than traditional networking equipment, resulting in large-scale weight reductions and increased space savings.
+
+Enhancing Job Performance
+
+Virtualization dramatically improves the tactical warfighter's ability to nimbly complete a mission. A Humvee that seats four, for example, now can carry five or six passengers yet become more lightweight. The soldier who carries dozens of pounds of equipment can significantly reduce that load without sacrificing communications and no longer has to install physical networks at every checkpoint. Virtualization completely decouples network resources from hardware.
+
+Virtual networks also greatly improve the ability of IT managers to support troops in the field. Administrators can manage entire networks from a central hub rather than relying on someone on the ground to handle actual equipment. Gone are concerns over dedicated, stand-alone, owner-operated networks, as everything—devices, capacity and resources—can be shared. Managers can respond to requests for updates and new features more quickly and roll those features out to troops almost immediately, wherever soldiers might be located.
+
+Boosting Security and Mobility
+
+Virtualization improves the security posture of military networks, reducing attack surfaces. Because hypervisors are relatively small, this leaves less room for potential vulnerabilities. Administrators can react more quickly to vulnerabilities that arise and even address potential threats before they happen. Virtualization also mobilizes military communications. Troops can use portable networks, such as the Army’s “technical control facility in a box," a mobile version of a stationary communications hub, to take the network with them but keep it away from potential intruders.
+
+Quickening the Pace
+
+Just a decade ago, troops would have to stop, install a remote antenna, pack up and recommence—all to send a simple report. What might have seemed highly effective at the time now seems terribly inefficient.
+
+The battle lines constantly move, and troops must move quickly to keep up.
+
+This is the objective of the streamlined, agile and highly modernized military of 2016. Achieving this aim lies within virtualized environments that give modern warfighters the technologies they need.
+
+Bob Fortna is vice president of the defense sector at Juniper Networks.  </text>
+  <imgalttext>
+    <img>Realizing benefits such as lighter and more agile equipment, the Army has launched a steady march toward network modernization, evident through efforts such as the Project Manager Warfighter Information Network-Tactical (PM WIN-T).</img>
+  </imgalttext>
+</article>

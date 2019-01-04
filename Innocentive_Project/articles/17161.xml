@@ -1,0 +1,44 @@
+<article>
+  <type>blog</type>
+  <title>Automation Provides for Efficient, Secure Data Center Optimization</title>
+  <author>Bill Lemons</author>
+  <date>February 8, 2017</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>guest bloggers</tag>
+    <tag>Guest Blogs</tag>
+    <tag>data centers</tag>
+    <tag>SDN</tag>
+  </tags>
+  <abstract>For the past several years, U.S. federal agencies have undergone a concerted effort to consolidate and streamline their data centers. As such, they’ve ramped up initiatives to drive application requirements to the cloud, used virtualization services whenever possible to improve efficiencies and deployed sensors to monitor power consumption.</abstract>
+  <text>For the past several years, U.S. federal agencies have undergone a concerted effort to consolidate and streamline their data centers. As such, they’ve ramped up initiatives to drive application requirements to the cloud, used virtualization services whenever possible to improve efficiencies and deployed sensors to monitor power consumption.
+
+They also have migrated applications and data to the cloud to free up valuable resources, creating the need to delicately balance security with efficiency. Automation lies at the heart of this effort because it addresses one of the most important issues behind the federal government’s data center optimization initiative: How to continue the migration from the center to the cloud while maintaining security, agility and the effective distribution of labor.
+
+Automation and efficiency
+
+Automation maximizes personnel resources by reducing the number of mundane tasks employees handle. This can range from developing scripts to check for software updates to handling more complex matters such as rooting out security problems, including preventing potential risks that might have resulted from human error, or other repetitive user processes that take a significant amount of time and effort. Automation goes beyond these rudimentary tasks. The technology is incorporated into the data center to handle far more sophisticated workloads. For example, the incorporation of a high-level orchestration system, in conjunction with a software-defined network (SDN), can provision new areas of compute and storage and build an associated network that allows for greater agility through the automated delivery of new applications to specific sets of users.
+
+This represents a far different—and more efficient—approach to data center management compared with traditional methods. In a typical scenario, someone emails a server manager who buys the necessary equipment to build a server. They incorporate the appropriate amount of storage, load required applications and ask the network team to create an infrastructure that delivers applications to consumers. With automation, most of that work goes away, replaced by a generic pool of resources, predetermined parameters and a programmable network that runs much like a utility in the background.
+
+Automated SDNs let managers create a programmable, customizable and manageable data center ecosystem to carry out high-level orchestrations. A generalized management environment makes it easy to securely deploy services, which is really what data center optimization is all about.
+
+Scalability and security
+
+Another challenge is the continuous ebb and flow of where data and applications reside to meet government demands. Global conflicts, natural disasters and political influences affect these demands, so data centers must be able to scale up or down based on users’ needs. Some data will always remain on-premise, but other data and applications can migrate to the cloud and raises concerns around protecting data in-flight. Some practical ways of doing this exist, such as use of Internet Protocol security and encryption. Modern networking solutions can protect data while both in flight and at rest. 
+
+SDN takes security a step further by leveraging the power of security devices to automatically analyze and collect intelligence surrounding data security and taking corrective action based on that intelligence. An SDN ecosystem identifies malicious code in a file, determines where that file resides and selects it for isolation or quarantine. In fact, the primary function of a software-defined secure network (SDSN)—one that leverages SDN to embed security throughout the network—is to automatically instantiate security policy on attached devices and effectively quarantining the infected system. 
+
+An SDSN creates a better security posture while relieving network administrators of the more tedious management aspects. Agencies can leverage security intelligence generated across the network, analyze that intelligence against security policies and have their networks automatically perform enforcement actions on behalf of their operations teams.
+
+Elasticity and ROI
+
+For agencies behind the curve in these efforts, officials can take heart in knowing there’s no line in the sand or set deadline for the completion of optimization initiatives. Instead, there must be continuous improvement and monitoring to achieve a state of elasticity through use of the cloud, which lets data centers expand and contract based on shifting needs. Managers must establish a software level of control, which is key to efficiently running data centers with as few resources as possible and ensuring the highest level of return on investment.
+
+Bill Lemons is the director of federal systems engineering at Juniper Networks.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

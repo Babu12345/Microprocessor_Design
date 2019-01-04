@@ -1,0 +1,27 @@
+<article>
+  <type>blog</type>
+  <title>Are Hackers Honing In On Teleworkers?</title>
+  <author> </author>
+  <date>March 15, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>NIST</tag>
+    <tag>BYOD</tag>
+    <tag>Cybersecurity</tag>
+    <tag>mobility</tag>
+  </tags>
+  <abstract>Coming on the heels of Virginia's big push to reduce the number of commuters last week on area roads with Virginia Telework Week, the National Institute of Standards and Technology (NIST) is updating guidance to include the latest technology available to strengthen remote-access data security, especially as the number of teleworkers trends upward.</abstract>
+  <text>Coming on the heels of Virginia's big push to reduce the number of commuters last week on area roads with Virginia Telework Week, the National Institute of Standards and Technology (NIST) is updating guidance to include the latest technology available to strengthen remote-access data security, especially as the number of teleworkers trends upward. 
+
+"Organizations are realizing that many data breaches occur when attackers can steal important information from a network by first attacking computers used for telework,” NIST computer scientist Murugiah Souppaya said in a statement. The computers include laptops in addition to bring-your-own-devices (BYOD) such as smartphones and tablets.
+
+Unsecured laptops and mobile devices lead to breaches that infect networks or give hackers access to sensitive information. “To prevent breaches when people are teleworking, organizations need to have stronger control over their sensitive data that can be accessed by, or stored on, telework devices,” Souppaya explained.
+
+NIST is revising its telework publications, first published in 2009, to cover the booming use of BYOD and the use of contractor and vendor devices to access organizational resources. The guidance also explains two new technologies critical in securing telework devices. The agency seeks comments on two draft publications—Special Publication 800-46 Rev. 2 Guide to Enterprise Telework, Remote Access, and Bring Your Own Device Security (Draft) and Special Publication 800-114 Rev. 1 User’s Guide to Telework and Bring Your Own Device Security (Draft). The deadline for comments is April 15.
+
+The NIST publications recommend teleworkers understand organizations’ policies, requirements and appropriate ways to protect accessed information. They also call for organizations to strongly consider establishing a separate, external, dedicated network for BYOD devices.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

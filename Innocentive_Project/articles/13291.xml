@@ -1,0 +1,58 @@
+<article>
+  <type>article</type>
+  <title>Micro? Robotics ?Research Pays Off</title>
+  <author>George I. Seffers</author>
+  <date>September 1, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Acquisition</tag>
+    <tag>Army Technologies</tag>
+    <tag>Nanotechnology</tag>
+    <tag>research and development</tag>
+    <tag>Robotics</tag>
+    <tag>sensors</tag>
+    <tag>surveillance and reconnaissance</tag>
+    <tag>Tactical Operations</tag>
+    <tag>unmanned systems</tag>
+    <tag>September 2014</tag>
+  </tags>
+  <abstract>The U.S. Army is preparing—for the first time—to develop and field micro robotic systems under programs of record, indicating confidence that the technology has matured and years of research are paying off. The small systems will provide individual soldiers and squads with critical intelligence, surveillance and reconnaissance data in jungles, buildings and caves that larger systems can’t reach.</abstract>
+  <text>The U.S. Army is preparing—for the first time—to develop and field micro robotic systems under programs of record, indicating confidence that the technology has matured and years of research are paying off. The small systems will provide individual soldiers and squads with critical intelligence, surveillance and reconnaissance data in jungles, buildings and caves that larger systems can’t reach. Ideally, they will become valued combat team members.
+
+The Defense Department already has fielded some small robotic systems, but until now those platforms have been developed under rapid acquisition efforts, largely to meet urgent combat needs. Those efforts are designed to field capabilities as soon as possible, even if the technology is less than perfect. “Right now, there are a lot of robots in the field, even small ones in the throwbot class, but they tend to be basically tele-operated cameras on wheels or wings,” says Brett Piekarski, chief, Micro and Nano Materials and Devices Branch, U.S. Army Research Laboratory (ARL).
+
+As effective as those systems have been in the war zone, they do have drawbacks. “They still require a lot of input by the operator, the soldier. While he’s tele-operating the platform, he’s typically looking at a screen or controller, and while he’s doing that, other soldiers are protecting him,” Piekarski points out.
+
+Now, however, the service is developing small robotic systems through the traditional requirements process, which takes longer but aims for more mature, more capable systems. “There hasn’t been an Army program of record, and that’s starting to happen. The requirements documents are starting to be written and published, and they should be out soon,” says Piekarski, who also serves as the cooperative agreement manager, Micro Autonomous Systems and Technology (MAST) Collaborative Technology Alliance.
+
+For example, researchers at the U.S. Army Natick Soldier Research, Development and Engineering Center are developing a pocket-size aerial surveillance device for soldiers and small units operating in challenging ground environments. The Cargo Pocket Intelligence, Surveillance and Reconnaissance program (CP-ISR) seeks to develop a mobile soldier sensor to increase situational awareness for dismounted troops by providing real-time video surveillance of threat areas within their immediate operational environment.
+
+Additionally, the Army Capabilities Integration Center and the Maneuver Center of Excellence are developing the Common Light Autonomous Robotics Kit (CLARK). The overall intent is to provide squads a set of small remotely controlled or semiautonomous robots that provide the ability to conduct close reconnaissance and to investigate potential threats from safe distances. The CLARK will be designed as a family of small robotic systems, packaged together in an assault pack or other small carrying case.
+
+The CLARK will provide a variety of tactical intelligence, surveillance and reconnaissance options for the dismounted squad. It will include a semiautonomous ultralight reconnaissance robot for ground reconnaissance, an unattended ground sensor to provide stationary persistent surveillance and an autonomous micro-unmanned aerial system to provide an immediate tactical reconnaissance capability where effective use of the ground-constrained ultralight system may be precluded.
+
+The CP-ISR and the CLARK come closer than current systems to meeting the vision of the MAST program, a partnership between ARL and universities to develop miniature robotic systems. “The goal is for something that fits in the palm of the hand, so think of them as weighing 100 grams or less, something the soldier can fit in his cargo pocket or rucksack. He can take it out and deploy it rapidly to provide information about the environment around him,” Piekarski states.
+
+ARL does not intend to develop a specific system. Its task instead is to develop technologies and capabilities that advance systems built by others. MAST researchers have made significant progress, and their accomplishments may help fuel the new programs of record, Piekarski indicates. Sensor technology, for example, has progressed significantly, primarily with improved processing power allowing for ever smaller devices. The research team has demonstrated autonomous flight in environments with and without Global Positioning System availability. Additionally, researchers now better understand how small systems interact with the environment and do seemingly simple tasks, such as using appendages to aid mobility.
+
+Ideally, future platforms will possess greater levels of autonomy than current tele-operated systems. Autonomy, however, requires more sensors, which presents a challenge for smaller drones. Piekarski indicates that one platform could require optical sensors, radar, sensors for detecting wind gusts and navigation measurement systems, such as gyros and accelerometers. One system will need enough sensors and algorithms and intelligence to sense its own orientation within the environment and will need to be capable of sensing direction; detecting a building; detecting specific features, such as an open window; and then be capable of navigating to and through the building on its own. “It may be in a frontier mode or exploration mode where it can go into a building and provide a map and information about any threats. It could either be soldier directed, or it could be somewhat autonomous,” Piekarski offers.
+
+How soon micro-size robots will be fielded depends largely on the definition of “micro.” “Micro might be a misnomer,” Piekarski confesses. “We can do a lot of this now on larger scale, commercial platforms. It may not be a robust solution that we can use in the field, but we can demonstrate a lot of capabilities that we want on something that weighs a kilogram or slightly larger,” he says, adding that a system likely could be fielded in about five years with sufficient funding.
+
+Even smaller systems, of course, will take longer. “To get it down to a sub-100-gram system that has all of those capabilities, I think we’re probably talking five to 10 years out, at least,” he says.
+
+Some of ARL’s research involves biological systems—insects and reptiles, for example—and how they might benefit future robotic systems (SIGNAL Magazine, August 2010, “Army Plans Swat Teams...”). “I would not say we’re trying to mimic any particular insect or animal. We have looked at how biological systems, whether they be lizards or cockroaches or various types of flies, handle the environment, what they use for controls. An insect has a very small processing capability. It has very noisy, small sensors, yet it has a robust flight control system for avoiding obstacles, such as your hand, if you try to catch a fly,” Piekarski explains.
+
+Researchers study insects to see what kinds of control algorithms they employ, how they maneuver or how they detect obstacles. Future robotic systems also may be inspired by reptiles. “Most ground robotic systems today only move by turning the wheels, but if you look at a lizard or alligator, if they really want to turn rapidly or maintain balance in varied terrain, they use their tails,” he says.
+
+Future systems may work alone or in teams. “We also see the potential for collaborative systems. Instead of one large system, we may have a lot of small, cheap systems that could work together,” Piekarski theorizes. “We could send four systems into a building to provide a general map or see if there are any threats, which might speed up the process.”
+
+They also could be networked to share information and the processing load. “They could all be the same, or they could be heterogeneous. There could be a larger system that they download information to, sort of like a mothership. Or they could do distributed processing where each of the systems tackles a different part of the problem,” Piekarski says. “If I send a single platform in and get a view of an object, I’m only getting one view of that object, a certain understanding of what that object is, but if I have three or four platforms that are coming into the environment and seeing that object from different angles, I might have enhanced information.”
+
+The 10-year MAST program will end in fiscal year 2017. This fall, the ARL will conduct a research management board meeting to report progress made over the last three years. In 2017, they will conduct a capstone demonstration to Army management and other stakeholders. “The end goal that we’re shooting for is to develop the robot to be a teammate with the soldier, to be a force multiplier to the soldier in the field,” Piekarski says.</text>
+  <imgalttext>
+    <img>A NATO soldier launches a Prox Dynamics PD-100 nanocopter. The U.S. Army is using the system as a surrogate while developing the Cargo Pocket Intelligence, Surveillance and Reconnaissance system.</img>
+  </imgalttext>
+</article>

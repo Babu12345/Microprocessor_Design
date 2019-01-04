@@ -1,0 +1,27 @@
+<article>
+  <type>blog</type>
+  <title>Guest Blog: Let Go of Central Control to Increase Network Security and Visibility</title>
+  <author>Chris LaPoint</author>
+  <date>April 30, 2014</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>In large federal organizations, tension always exists between local and central personnel who have different priorities, available resources and levels of control. In the U.S. Defense Department, that tension is especially apparent between the information technology professionals at the local level and the folks who oversee all of an agency’s operations.</abstract>
+  <text>When it comes to large federal organizations, tension always exists between local and central personnel who have different priorities, available resources and levels of control. In the case of complex computer networks such as those of the U.S. Defense Department, that tension is especially apparent between the information technology (IT) professionals who keep the systems running at the local level and the folks at headquarters who oversee all of an agency’s operations.
+	While centralized IT sounds like a great idea, if an environment gets too big, working through the necessary processes established by a centralized organization can become more of a time-consuming burden than a benefit to accomplishing the mission. In some cases, fixing a problem might take an hour at the local level, but completing a centrally required set of requests, approvals, signatures and exceptions could double or triple the time to completion.
+	The differences in priorities can create tension as well. From the central point of view, following standard IT protocols might be the deciding factor in what should be done. However, an IT pro on the ground (or at sea) might well see his commander’s priorities as his own and, for example, might prioritize getting a ship’s email running again ahead of a particular compliance policy.
+	Local personnel can see a maze of red tape blocking them from getting work done, while central personnel see a lack of communication and circumvention of policies. Is it any wonder this type of organization creates tension?
+	The solution? Finding the balance between local control and central visibility.
+	The trick is to accept that you can’t control every single activity in a huge government agency, and you must give up a certain amount of control to local personnel. While it is OK to relinquish some control to local IT professionals, it is not okay to give up central visibility. Here are four steps to relieve tension by finding a balance between local and central control.Don’t micromanage—but do measure results.
+	When it comes to local personnel, continuously measure their results, not their ability to navigate potentially cumbersome approval processes. Avoid slowing IT pros down. For example, don’t require approval from headquarters for routine changes to the local environment.
+	Instead, trust IT pros’ knowledge of the situation on the ground and arm them with information. Give them the tools and training—including the rules and regulations they’re expected to follow—and empower them to make decisions rather than forcing central approval for minor changes.Don’t set personnel up to fail.
+	The last thing you want is to be on either end of the dreaded “1,500 mile screwdriver.” Don’t push the latest or most complex technologies to the field if they can’t be supported by the people on the ground. If anything goes wrong, the local personnel will have to waste time waiting for a central expert or fix.Take advantage of the big picture.
+	Put continuous monitoring systems in place to provide the big-picture visibility you need. IT management and monitoring software will let you spot trends, outliers and insecure configurations. These patterns isolate problems that local personnel can’t always see. You can then move resources and make changes as needed to fix crises and secure your networks.Communicate back up the chain.
+	Local IT pros who are hesitant to share information with headquarters should keep in mind that showing their compliance with central information security and other requirements can help them at the local level, too.
+	“Why should I let them see what I’m doing?” local IT pros might ask. What’s in it for them is an extra set of eyes keeping watch on the IT infrastructure for greater insight into areas someone on the ground might not aware of currently. Additionally, they may be able to invest in equipment and systems to fix problems that would otherwise fly under the radar.Chris LaPoint is vice president of product management at SolarWinds, an IT management software provider based in Austin, Texas.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

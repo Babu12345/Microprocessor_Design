@@ -1,0 +1,50 @@
+<article>
+  <type>article</type>
+  <title>CHAMP Prepares For Future Fights</title>
+  <author>George I. Seffers</author>
+  <date>February 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Air Force Research Lab</tag>
+  </tags>
+  <abstract>The Air Force Research Laboratory’s Counter-electronics High-powered Microwave Advanced Missile Project (CHAMP) would deliver microwaves from an aircraft or missile, effectively walloping a target’s data and electronic subsystems.</abstract>
+  <text>U.S. Air Force researchers are refining a first-of-its-kind airborne system that targets electronics. They seek to reduce its size and weight while also designing the technology for integration with a wide array of unmanned platforms and ensuring it doesn’t perform a metaphorical suicide via electrocution. At the same time, the service is conducting a study to establish a forward path for the high-powered microwave pulse weapon and deliver it to warfighters.
+
+The Air Force Research Laboratory’s (AFRL’s) Counter-electronics High-powered Microwave Advanced Missile Project (CHAMP) would deliver microwaves from an aircraft or missile, effectively walloping a target’s data and electronic subsystems. The radio frequency emission has a focused beam that can be accurately pointed at a specific building.
+
+The nonkinetic and nonlethal system is capable of defeating electronics while minimizing collateral damage. It can deliver a functional kill to many targets without destroying buildings or taking lives. The CHAMP weapon will provide the warfighter with the first aerial, high-powered microwave pulse counterelectronics capability that could lead the way to a new breed of nonlethal but highly effective weapons, according to AFRL officials.
+
+“One of the big advantages would be taking out an integrated air defense system temporarily, where you could blind them for the amount of time you might need to do an ingress without actually having to do kinetic damage to these sites,” explains Greg Zacharias, Air Force chief scientist. “You could also go after command and control systems and anything that is dependent on the bits and bytes of adversary systems.”
+
+The effects can range from causing glitches to forcing a reboot to permanently damaging a system. In principle, those results can be preprogrammed. “You can tune the effects on target based on the performance of the system and how far away you can engage with it. Right now, it’s not 100 percent predictable at a given energy level what effect you will have. We’re working on the predictive capabilities. We have some, but there’s still work to go there,” says Kelly Hammett, chief engineer of the AFRL’s Directed Energy Directorate.
+
+The system made headlines in 2012 when Boeing announced a successful flight over the Utah Test and Training Range. A video released by Boeing shows an earlier test in which CHAMP caused a number of computers—and the cameras filming the test—to lose power. The system allows for selective high-frequency radio wave strikes against numerous targets during a single mission.
+
+Now, the Air Force is trying to decide the best way to field the CHAMP capability. “What we’re actually working on is an analytical study to inform us and the rest of the community about what the most appropriate platform might be,” Hammett adds. “The end of this fiscal year is the targeted date.”
+
+For the original flight test, Boeing and the AFRL modified a conventional air-launched cruise missile, but their customers required an array of possible platforms. “We demonstrated [the capability] on a single type of platform, and our customer, Air Combat Command, didn’t really find that platform desirable, as it is not in their inventory,” Hammett reveals. “We’re looking at a range of missiles, unmanned aerial vehicles and potentially even some other unguided munitions. It’s really the full spectrum of systems that are primarily unmanned.”
+
+The study includes Air Combat Command, Air Force Global Strike Command, Pacific Air Forces command and U.S. Pacific Command. “They provide us the targets they would like to engage—essentially, the concept of operations or the concept of employment for the system [and] how many targets they would like to engage with each system. We get those types of things from the major commands that would be employing it, and we fold that into the analysis,” Hammett reports.
+
+The CHAMP team also has held discussions with the Office of Naval Research and the Office of the Chief of Naval Operations to potentially demonstrate and transition a CHAMP-type capability to the Navy. “We engage in technical discussions with them, and we try to transfer the technology and the lessons learned from our demonstrations. There may be something coming down the pike,” Hammett states.
+
+Meanwhile, AFRL officials continue to improve the system, in large part by placing CHAMP on an extreme weight loss plan. “Everything’s easier on the ground with tons of space in a laboratory,” Hammett offers. “One of the biggest problems is designing these systems to be compact, to be reduced in weight and volume, to fit inside these aerial platforms and still allow the platforms to have extended range, to be launched from aircraft and be able to travel long distances and to engage targets.”
+
+The system needs to maintain performance levels while enduring a 30 percent to 50 percent size reduction, depending on the platform in which it will be integrated. The loss is a “not an insignificant fraction,” in Hammett’s words.
+
+Don Shiffler, the AFRL Directed Energy Directorate’s core competency lead for high-powered electromagnetics, adds that virtually everything about the system needs to be reduced. “It’s no secret we want to make everything smaller. That goes the whole way from the prime power system to the pulse power to the microwave source itself to the antenna,” he says.
+
+Integrating the system with a variety of platforms presents other challenges as well. For example, CHAMP could commit a type of inadvertent suicide. “Any kind of weapons platform we have now is very electronic. It has a lot of computers and other electronics onboard. The ironic thing is, we’re flying a weapon on an [electronic] platform designed to kill or disable electronics; therefore, you have to shield the rest of the platform from the payload so it doesn’t kill itself,” Shiffler explains.
+
+While the problem was resolved for the initial demonstration, it will need to be revisited for each platform carrying the CHAMP system. “As we change the design considerations and the layout, the electromagnetic energy will travel different paths, and you’ve got to protect against those things,” Shiffler elaborates. “The newer systems may be more or less susceptible, so you might have to mitigate and change the design. That would be a platform-specific consideration that will have to be addressed.”
+
+The system also must operate under much harsher conditions than those in the lab. “Once it gets off the ground, it has to operate and survive in the airborne environment, so there are huge temperature extremes, there are huge pressure extremes, there’s a huge shock and vibration environment,” Hammett points out.
+Shiffler emphasizes that CHAMP is far different from a nuclear-based electromagnetic pulse (EMP) weapon. “People generally associate EMP with nuclear weapons. [CHAMP] does not affect humans and does not destroy structures,” he explains. “The way high-power microwave works is that a microwave pulse comes out of the device and interferes with the electronics. It affects the chips and the circuits inside.”
+
+A nuclear EMP device emits a short, broadband electromagnetic pulse across a wide range of frequencies—from kilohertz to physical light—and could knock out the electronics over a large area, such as an entire city. High-powered microwaves, on the other hand, work at one discrete frequency. “It’s very narrowband. Right now, we look at frequencies in the gigahertz range,” Shiffler says. “There’s nothing nuclear about CHAMP.” </text>
+  <imgalttext>
+    <img>Air Force Research Laboratory officials are designing the high-powered microwave pulse system, which targets electronics, to fit onto a wide variety of platforms, including unmanned systems, missiles and guided munitions.</img>
+  </imgalttext>
+</article>

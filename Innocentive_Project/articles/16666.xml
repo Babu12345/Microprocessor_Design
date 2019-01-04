@@ -1,0 +1,44 @@
+<article>
+  <type>blog</type>
+  <title>SDN and NFV Can Finish What Data Center Consolidation Started</title>
+  <author>Tim Solms</author>
+  <date>October 3, 2016</date>
+  <departments>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>SDN</tag>
+    <tag>NFV</tag>
+    <tag>Consolidated Data Center</tag>
+    <tag>Acquisition</tag>
+  </tags>
+  <abstract>Networking is the last discipline to be touched by the Defense Department's major disruption for its information technology overhaul, which is where software-defined networking and network functions virtualization come into play, writes Juniper's Tim Solms.</abstract>
+  <text>In 2010, the Defense Department began accelerating toward its information technology future by putting the brakes on data center growth. That year, the Federal Data Center Consolidation Initiative laid the groundwork for government investment in more efficient and modern computing platforms, which led to deployment of disruptive technologies such as the cloud as a key element of the DOD’s IT infrastructure.
+
+Networking is the last discipline to be touched by the major disruption, which is where software-defined networking (SDN) and network functions virtualization (NFV) come into play. These solutions help administrators manage the massively complex networks created by data center consolidation through automation and central control points. They also help agencies build on the significant cost savings obtained from data center consolidation, which tallies $2.8 billion from fiscal years 2011 to 2015, according to a recent report from the U.S. Government Accountability Office. In addition to saving money, the consolidation effort results in greater efficiencies and better network security.
+
+According to a recent global survey conducted by Wakefield Research and sponsored by Juniper Networks, 93 percent of IT decision makers indicated SDN and NFV provided “a significant edge” over competitors, and 70 percent expressed excitement about the opportunities automation create. While the survey applies to the enterprise arena, federal IT professionals have expressed similar sentiments as they too strive for greater efficiencies.
+
+However, data center consolidation was a launch pad for federal network modernization; it’s not the ultimate destination. There’s far more that must be done. Now that we’re seeing traction in consolidation—and excitement over SDN and NFV—the government must focus on other areas to make modernization pay off.
+
+The procurement process for new technologies must be shortened. The government’s procurement process can be unbelievably laborious. Five or six years to acquire new technology is the norm. The technology world evolves at a much quicker pace than that, particularly in regard to cyber threats. Government IT personnel must have access to tools that deliver secure networks to prevent and identify cyber attacks and are adaptable to the ever-changing threat landscape. Automation and centralized management is key, including expanding enforcement beyond the firewall, to leverage the network itself to detect and stop threats.  
+
+The solution to shortening the adoption process means moving from a requirements-based to a needs-based acquisition procedure. It’s a popular discussion, but won’t happen overnight. Or over a year, for that matter. Fortunately, many senior government leaders are on the same page as IT counterparts. They believe it must happen; it’s just a matter of time.
+
+Senior agency personnel must buy into disruptive technologies. Some of the most seasoned federal leaders came up in a world that wasn’t built around SDN and NFV, yet that doesn’t mean they’re beholden to legacy IT infrastructures. Many of them want to explore new solutions that help make those infrastructures more efficient and secure.
+
+This is the opening for federal IT managers. They need to get operational leaders on board with adopting new solutions that modernize networks. They need the support of leaders and the funding to make it happen.
+
+As such, it’s imperative that federal network administrators voice their needs to managers and those who control the purse strings. This will benefit both groups; IT personnel will deliver expected network services and managers will get highly secure networks with “five nines” of availability, meaning the percentage of uptime and reliability of the network is 99.999. 
+
+Vendors must facilitate these efforts. Despite the growing popularity of these innovative technologies, some federal IT professionals dread the move toward adoption of SDN and NFV solutions. Change tends to spur anxiety and people often reject the new.  
+
+Vendors have a responsibility to engage and participate in the discussions among IT managers and operational leaders to better understand the next level of networking. They must facilitate responsible dialogues to get everyone on the same page and educate managers on how SDN and NFV can make their networks more efficient, secure and ready for the future.
+
+Federal agency workers—from IT on up—need knowledge, tools and partners. This combination is critical as they build on data center consolidation efforts and move toward the ultimate objective: automated, scalable and secure networks.
+
+Tim Solms is vice president and U.S. federal and managing director of worldwide government for Juniper Networks. </text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

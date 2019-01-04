@@ -1,0 +1,51 @@
+<article>
+  <type>article</type>
+  <title>Securing Communications By Skipping the Server</title>
+  <author>Robert K. Ackerman</author>
+  <date>December 1, 2014</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>mobile</tag>
+  </tags>
+  <abstract>With the information world marching en masse to the cloud, one global firm is offering direct peer-to-peer encryption to reduce the threat of an intervening cyber intercept. This approach is applicable to dedicated hardware as well as to commercial off-the-shelf consumer communications equipment, and its operation is relatively transparent to the user.</abstract>
+  <text>With the information world marching en masse to the cloud, one global firm is offering direct peer-to-peer encryption to reduce the threat of an intervening cyber intercept. This approach is applicable to dedicated hardware as well as to commercial off-the-shelf consumer communications equipment, and its operation is relatively transparent to the user.
+
+The system, known as Silent Circle and developed by the company of the same name, offers a range of secure communications protocols. Mike Janke, CEO and co-founder of Silent Circle, describes this approach as a platform of software, services and devices—“Not unlike BlackBerry in 2005,” he says. It offers apps in both Android and iOS that permit encrypted phone calls, conference calls, mobile video chats and texts that can send a file of up to 100 megabytes. The firm also offers a global encrypted calling plan to about 120 destinations—42 countries mobile and 79 landline.
+
+Headquartered in Switzerland, the company has major offices in National Harbor, Maryland; Mexico City; and Madrid. More than 83 percent of its customer base is outside of North America. Janke claims that 32 of the Global Fortune 50 companies use its product, along with 17 different governments with functions ranging from military to executive administrations and even forestry. The customer base includes private consumers from 143 countries. The capability can be used on iPhones, iPads and a variety of Android devices, including Samsung, HTC and Nexus smartphones and tablets. Customers then purchase the firm’s encrypted calling plans to use on their devices.
+
+The firm now offers devices to complete the end-to-end construct. The company’s Blackphone 1 already is on the market, with two more devices to follow shortly, Janke says. This allows customers to buy the capability out of the box ready for secure links.
+
+Janke explains that most of the world’s infrastructure uses servers with public key infrastructure. A conversation is encrypted by keys on these servers, but they actually are the weak point, he claims. They can be hacked by cybermarauders ranging from common criminals to governments.
+
+At the core of the company’s capability is ephemeral key encryption, which was developed by the company’s co-founder, Phil Zimmermann. When a user places a call or sends a text, the encryption keys are generated in a milli-second and shared with the receiving device, which also is equipped with the necessary app. These keys are deleted at the end of the call, Janke explains, so the system cannot be used by hackers. “We can never be exploited because we don’t hold the key information,” he points out.
+
+The company’s Zimmermann real-time transport protocol, or ZRTP, allows the encryption to interact on voice and video only directly between devices. Another protocol, the Silent Circle Instant Messaging Protocol, or SCIMP, allows the ephemeral key encryption in peer-to-peer messaging.
+
+The ephemeral nature of the key encryption also allows other capabilities. A user can send an 80-megabyte file with a burn timer that causes the file to disappear after a fixed period of time. “You also have control over the things you send, and this has really changed the way people think about security,” Janke says.
+
+A customer places a call using a special phone number provided by the company to the user’s phone. This owner’s phone number can be from any of 20 countries that provide the secure numbers. The caller can contact another secure device by dialing its Silent phone number or a user name. Operators can conduct an encrypted conference call with as many as eight parties, as long as all of them have the software on their mobile communications devices.
+
+This effectiveness also is more efficient. A large company whose people use a variety of communications devices must install about four different pieces of software to keep these devices secure, such as a mobile device management system. Janke offers that the company’s Blackphone comes out of the box already secure, thus obviating the need to add different types of security software. And, these capabilities are transparent to the user.
+
+A Blackphone user could place a call to a non-Blackphone device that uses the same security software and achieve the same secure links over cell networks. The result would be the same as if both units were Blackphones.
+
+Janke describes the Blackphone as the first device that gives its owner control over data leaking from the phone. For example, a Facebook app on a smartphone takes 34 pieces of data each hour—the user’s contact list, browsing history, location and email excerpts, for example. On the other hand, a Facebook app on a Blackphone does not send any data. The owner can use Facebook, but the app knows nothing about the user nor has any access to the phone’s information.
+
+“People like to talk about the NSA [National Security Agency] or China or nation-states being a threat,” Janke says. “The very fact of holding a commercial phone with apps on it is the biggest theft of personal data—tenfold across the world.” He compares the Blackphone user’s ability to control its own security to the use of a volume knob on an audio device. The phone defaults to complete 100-percent security, and a user can provide information for an app whenever he or she wants on an ad hoc basis. This contrasts with the “all or nothing” approach of many other phones and apps, he claims.
+
+The Blackphone can be used anywhere in the world, Janke offers. It comes in GSM and CDMA versions that can be used in North America, Europe or Asia. The company offers a version suitable for any major cell network. The company provides calling plans in which users can call nonsecure phones as if they were conducting a standard cell conversation. This works worldwide, including on landlines, Janke says.
+
+New products and capabilities continue to emerge from the firm’s pipeline. The company just launched an equivalent to Skype that offers a peer-to-peer encrypted video chat system. Early next year, the company plans to introduce a secure tablet. And, a conference call suite will challenge the Polycom video conferencing market. “We’re trying to solve problems in the communication realm, and that’s what we focus on,” Janke says.
+
+“We’re trying to remove the cognitive burden so that you can do everything you normally communicate—email, text, conference call, video chat—encrypted, but you don’t have to be a technologist to know it,” he continues. “It just does what it normally does, but it’s completely secure. So it’s really making your life secure without [you] being a technology genius to figure it out.”
+
+Janke offers that a number of factors have made the time right for this approach. “It’s not just the summer of Snowden,” he says. “The massive amount of hacking that the Chinese, the Russians and criminal gangs [are doing] and the set of intellectual properties is really driving this.
+
+“The technology innovations, the wonderful magic of being connected, was so far ahead of security or privacy that there is a huge gap,” he states. “Now you’re starting to see people put a priority on personal privacy or protection of intellectual property.”</text>
+  <imgalttext>
+    <img>The Blackphone 1 by Silent Circle incorporates the company’s ephemeral key encryption to provide secure peer-to-peer connectivity.</img>
+  </imgalttext>
+</article>

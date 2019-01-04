@@ -1,0 +1,27 @@
+<article>
+  <type>blog</type>
+  <title>DISA to Enforce DOD Email Mailbox Size Limits</title>
+  <author>Sandra Jontz</author>
+  <date>August 5, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Enterprise Email</tag>
+    <tag>Army</tag>
+    <tag>DISA</tag>
+  </tags>
+  <abstract>Get ready to clear out the email inbox—because size matters. Effective Oct. 1, DISA will enforce size limits of military mailboxes. Users who exceed the limits will receive warnings to reduce mailbox size; ironically by receiving an email.</abstract>
+  <text>Get ready to clear out the email inbox—because size matters.
+
+Effective Oct. 1, the Defense Information Systems Agency (DISA) will enforce size limits of military mailboxes. Each of the U.S. Army's more than 1.4 million Defense Department Enterprise Email (DEE) accounts has a storage limit, with most lumped into the basic class that has a maximum storage space of 512 MB. Business class users have a maximum storage limit of 4 GB. While most workers adhere to size restrictions, as of July 31, more than 75,000 Army personnel stored more than 4 GB of email and more than 7,700 mailboxes exceed 10 GB of storage each, according to an Army statement. That level of heavy use slows the systems and increases costs.
+
+"Using email effectively is one way that today's Army personnel can help reduce costs and make communications more agile, from the homefront to the tactical edge," John Howell, product director, Enterprise Content Collaboration and Messaging, said in a statement. "Each user has a role to play to help facilitate state-of-the-art access to email from any location, by being mindful of the limits already in place to reduce costs and launch times."
+
+Users nearing or exceeding size limits will be warned—ironically by receiving an email.
+
+Subsequent warnings will result in limited email functionality. Tips and strategies to reduce email's storage overload are available on the Army Enterprise Service Desk's Customer Support website. </text>
+  <imgalttext>
+    <img>The Army completed the bulk of migration to the DOD Enterprise Email in July 2013. Size limitations will be enforced for mailboxes beginning October 1.</img>
+  </imgalttext>
+</article>

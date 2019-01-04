@@ -1,0 +1,35 @@
+<article>
+  <type>blog</type>
+  <title>The Twitter Hare Versus the Government Turtle</title>
+  <author>Lewis Shepherd</author>
+  <date>June 4, 2015</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>The intelligence community must find a way to work with the private sector, or it risks falling dangerously behind in the key technologies that are reshaping society.</abstract>
+  <text>By any measure—judging from the Beltway buzz during and after—the sold-out AFCEA Intelligence Committee’s annual Spring Intelligence Symposium (May 20-21) was a success, particularly in highlighting the importance of government agencies working in partnership with the private industry to ensure rapid technological advance.
+
+Among the many presentations, a series of high-technology entrepreneurs and business leaders offered their own prescient look at unexpected future intelligence requirements based on where Silicon Valley and the larger technology world are devoting their own investments and innovative development. One presentation was a tour de force “view from way outside” by Elon Musk, co-founder of PayPal and CEO of SpaceX. Musk took the audience through an eye-opening depiction of a near-future marked by rapid advances in artificial intelligence that could even bear an existential threat to human life on Earth as we know it—along with a panoply of other startling or counterintuitive observations on machine learning, space exploration, radical innovation and the emerging cleavage (post-Edward Snowden) between Silicon Valley technology companies and their erstwhile partners, U.S. intelligence agencies.
+
+Is the public/private divide overstated? Can the government compete? Without going into the classified technology projects and components discussed at the symposium, let’s try a quick proxy comparison, in a different area of government interest: archiving online social media content for public use and research.
+
+Specifically, since Twitter data has become so central to many areas of public discourse, it’s important to examine how government and private sector are each addressing that archive/search capability.
+
+First, the government side. More than half a decade ago, the Library of Congress (LoC) announced in April 2010 with fanfare that it was acquiring the “complete digital archives” of Twitter, from its first internal beta tweets. At that time, the LoC noted, the 2006-2010 Twitter archive already consisted of 5 terabytes, so the federal commitment to archiving the data for search and research was significant.
+
+What has happened on the government front since? Not much. After three years of work, impatient researchers pressed for an update, and LoC had to acknowledge in 2013 that it still had “not yet offered researchers access” to its growing Twitter archive despite receiving hundreds of inquiries from the interested public. In fact, LoC admitted that they were then only beginning to tackle “the significant technology challenges to making the archive accessible to researchers … we cannot provide an estimated timeframe at this point.”
+
+Fast forward to today. Unbelievably, after even more years of “work,” there is no progress to report—quite the opposite. A disturbing new report this week in Inside Higher Education entitled “The Archive is Closed” shows LoC at a dead-stop on its Twitter archive search. The publicly funded archive still is not open to scholars or the public, “and won’t be any time soon.”  In fact, this reporter finds, “The Library of Congress finds itself in the position of someone who has agreed to store the Atlantic Ocean in his basement. The embarrassment is palpable. No report on the status of the archive has been issued in more than two years, and my effort to extract one elicited nothing … It will clearly be a long, long time before anyone gets to use Twitter as a tool for historical research.”
+
+That is on the government front. Is there a private-sector option? Of course there is, and it is from Twitter itself. The company long had provided the ability to search through recent or real-time tweets. But just six months ago in late fall 2014, perhaps perplexed at LoC’s inability to deliver, Twitter gave users the “ability to search for every Tweet ever published.” The Twitter Engineering team wrote, “We built a search service that efficiently indexes roughly half a trillion documents and serves queries with an average latency of under 100ms.”
+
+And their fast development has not paused. Coincidentally this week, just as the Library of Congress was being castigated for failing in its mission to field a usable archive after five years, Twitter unveiled a new search/analytics platform, Twitter Heron—yes, after just six months. Heron vastly outperforms the original version in semantic throughput and low latency; yet in a dramatic evocation of Moore’s Law, it does so on 3 times less hardware. Oh, and as the link demonstrates, the company is far more transparent about its project and technology than the Library of Congress has been.
+
+All too often we see government technology projects prove clunky and prone to failure, while industry efforts are better incentivized and managerially optimized for success. There are ways to combat that and proven methods to avoid it. But the Twitter search case is one more cautionary example of the need to reinvigorate public/private partnerships—in this case, directly relevant to big-data practitioners in the intelligence community.
+
+With a background in government and Silicon Valley, Lewis Shepherd is a leading adviser on innovation, technology and national security based in Washington, D.C.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

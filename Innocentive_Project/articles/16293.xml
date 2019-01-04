@@ -1,0 +1,41 @@
+<article>
+  <type>article</type>
+  <title>The Art of Noise </title>
+  <author>Sandra Jontz</author>
+  <date>July 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>U.S. Army</tag>
+  </tags>
+  <abstract>Adversaries increasingly are advancing sophisticated systems that render ineffective U.S. military radars, the one-time premier technology critical to many operations. In response, U.S. military researchers are stepping up their game and have found a new way to preserve radar performance in contested and congested environments.</abstract>
+  <text>Adversaries increasingly are advancing sophisticated systems that render ineffective U.S. military radars, the one-time premier technology critical to many operations. In response, U.S. military researchers are stepping up their game and have found a new way to preserve radar performance in contested and congested environments. 
+
+It is called Advanced Pulse Compression Noise, or APCN, a secure waveform that can conceal its identity as noise, with the added bonus of allowing real-time programming to optimize battlefield performance. 
+
+The military and public safety personnel alike face growing threats to radar performance, an issue that impedes mission effectiveness both abroad and in the United States. The strains placed on radar technology are compounded by a national spectrum crunch and mounting political and business pressures to relinquish proprietary control on some radio frequencies. While the U.S. Defense Department already has presented a multiyear spectrum management strategy aimed at mitigating problems brought on by increasing demands for wireless spectrum, this might not be enough. Part of the strategy includes auctioning off some frequency bands the military had used exclusively for years, a move that has some worried about maintaining national security goals. 
+
+Concerned that spectrum management alone is not a long-term solution, some researchers are seeking alternatives such as the APCN, which was developed at the Army’s Communications-Electronics Research, Development and Engineering Center (CERDEC). 
+
+The APCN counters complications that occur when a lot of users access one frequency band, causing congestion that degrades resiliency and radar performance. “It’s a waveform specifically for radar applications,” says Mark Govoni, a research scientist with the CERDEC Intelligence and Information Warfare Directorate’s Radar Division. “It does what all of our radar waveforms do right now, and that is essentially ranging, detecting anti-resolution imaging-type stuff. In addition to that, [APCN] has some features that, at least experimentally, have shown [they] are going to be an advantage.
+
+“What we’ve shown both theoretically and experimentally is that waveforms like APCN … actually have an inherent robustness to interference from other in-band users, thus making them appealing for situations such as complex, dynamic electromagnetic environments.”
+
+Just as cellular service congestion or interference can drop phone calls, if the noise within a frequency band is too great, it prevents users from detecting “things we care about or limits our ability to image things that we want to see,” Govoni says. “That’s where it becomes a very serious problem.”
+
+One of the APCN’s greatest advantages is that it can be programmed to address real-time environmental or mission changes. “By having the ability to do real-time programming, you can optimize the behavior of the waveform as a function of the channel that you’re dealing in,” says Govoni, who established the theory of masking emissions as noise. He patented the APCN waveform-generating, digital signal-processing board and holds more than 10 patents.
+
+The APCN offers strong encryption properties that could limit—if not outright dismantle—adversaries’ radar countermeasures. Off the battlefield, the waveform could help law enforcement operate radar speed sensors without being noticed by motorists with radar detectors.
+
+“Encrypting our radar waveforms limits the likelihood for adversaries to intercept and exploit our emissions,” Govoni shares. “Programming the waveform in real time takes this capability even further and ensures operational effectiveness. Having the ability to transmit a radar waveform that’s continually changing, one that never repeats itself and looks like noise, [makes emissions] extremely difficult to intercept and becomes advantageous for police because they can now remain anonymous to radar detectors.”
+
+The APCN fits in well with advances in spectrum-based technology that mark a shift toward more agile and efficient radar systems, tapping modular hardware and software development for multipurpose, scalable radio-frequency solutions. Additionally, software-defined radios and commercial off-the-shelf technologies provide flexible waveform generation, signal processing and nontraditional radar applications, Govoni says. “Given the prevalence of software-defined capabilities, it’s totally conceivable to consider this type of technology as an alternative to what’s currently used with some of the more critical communication networks like [Global Positioning Systems] and emergency broadcasting,” he says.
+
+The APCN is revolutionary on its own, yet it also could advance longtime research on “cognitive radar,” Govoni shares. “Cognitive radar, basically, as the name implies, is a smart radar.” Researchers ultimately want to develop radar-based technology that allows assets to perform autonomously, deciding on their own whether a radiating waveform is the best choice, for example. “It would do this in sort of an iterative fashion … without intervention from a human in the loop.”
+
+The APCN would provide a small but critical piece in the cognitive radar puzzle. “There’s a growing desire to consolidate systems operating in the electromagnetic spectrum,” Govoni continues. “Autonomy can relieve the soldier of unnecessary burden, which then affords more attention for … primary tasks. Technologies like waveform diversity and cognition provide exactly that and are where we’re headed with future radar capability.” </text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

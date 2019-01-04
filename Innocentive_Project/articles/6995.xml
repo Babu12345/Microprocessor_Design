@@ -1,0 +1,50 @@
+<article>
+  <type>blog</type>
+  <title>Guest Post: Network Virtualization</title>
+  <author>Paul Strassmann</author>
+  <date>June 9, 2010</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+    <tag>Cyberspace</tag>
+    <tag>Cyberwarfare</tag>
+    <tag>Defense Department</tag>
+    <tag>Virtualization</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Paul Strassmann offers his insights on network virtualization as an answer to cyber security concerns about the proliferation of things contributing to the "attack surface," such as networks, circuits and computers.</abstract>
+  <text>The Situation
+
+Gen. Keith Alexander, USA, the head of the new cyber command, stated that the Defense Department needs situational awareness across DOD's networks to protect its cyber defenses:  "We do not have a common operating picture for our networks. We need to build that."
+
+The Defense Department is responsible for protecting more than seven million machines, linked in 15,000 networks, with 21 satellite gateways and 20,000 commercial circuits. Unauthorized users probe Defense Department networks 250,000 times an hour, or more than six million times per day, he added.
+
+In the current situation the proliferation of networks, circuits and computers offer to attackers an enormous "attack surface" which is for all practical purposes indefensible.
+
+Virtual Networks
+
+Network virtualization combines hardware and software network resources into a software-based administrative environment, which can be managed centrally. Network virtualization enables the integration of numerous networks so that central services, such as consolidated security management, situation awareness and protective measures can be shared across every network.
+
+The components of virtual networks are: network hardware, such as routers, switches and network adapters; WANs and LANs; network storage devices; network media, such as ethernet and fiber channels. Examples of virtual networks are switches that physically connect to external networks as well as services that allow system administrators to combine local area networks into a singly administered network entity for the purpose of intrusion prevention.
+
+Network virtualization software allows systems managers to route traffic to diverse data-center environments where support of business and warfare applications can take place.
+
+In the past,  Defense Department components used to purchase multiple security protection measures and to set up failover and redundancy capabilities at each of thousands of data centers. The installation of network virtualization software makes it possible to migrate security services as a fully configured virtual service to each data center, regardless of geographic locations. This allows for migration from legacy environments to a virtual environment across data centers across the world.
+
+As data center resources become consolidated the network virtualization software allows for reduction in space requirements, in optimal server utilization and in the consolidation of controls into DoD-wide network control centers so that highly trained personnel can be utilized much better.
+
+Implications
+
+Establishing situational awareness and the much needed real time responses to attacks that emanate from 15,000 networks and 20,000 commercial circuits is not feasible using the existing network configurations in place at the Defense Department.
+
+The installation of network virtualization as an architectural direction for the Defense Department will make it possible to consolidate points of control to a limited number of network control centers. Such a move will not only deliver large reductions in cost but also safeguard the security of millions of computer devices.
+
+Time has come to start migrating to designs that will use network virtualization as the basis for cyber defense operations.
+
+Paul A. Strassmann is a Distinguished Professor at the George  Mason University. He is the former Director of Defense Information,  Office of the Secretary of Defense.
+
+The views expressed by our guest bloggers  are their own and do  not necessarily reflect the views of AFCEA International or SIGNAL  Magazine.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

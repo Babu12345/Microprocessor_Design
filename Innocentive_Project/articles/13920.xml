@@ -1,0 +1,32 @@
+<article>
+  <type>article</type>
+  <title>Cybersecurity Breaches Making Users More Savvy, but Vulnerabilities Persist</title>
+  <author>Sandra Jontz</author>
+  <date>December 17, 2014</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+    <tag>security breach</tag>
+    <tag>cloud</tag>
+  </tags>
+  <abstract>Sensational data breaches such as the recent hacking of Sony Pictures Entertainment, in which employees’ personal information such as Social Security numbers, salary details and emails not only were stolen but publicly disseminated, make for great headlines and capture people’s attention—mainly because the public can relate to the breaches. The headline-grabbing attack leaves people thinking that this could happen to them.</abstract>
+  <text>Sensational data breaches such as the recent hacking of Sony Pictures Entertainment, in which employees’ personal information such as Social Security numbers, salary details and emails not only were stolen but publicly disseminated, make for great headlines and capture people’s attention—mainly because the public can relate to the breaches. The headline-grabbing attack leaves people thinking that this could happen to them.
+
+It could, and it does, said experts on Wednesday during the standing-room-only Cybersecurity Technology Symposium hosted by the AFCEA Bethesda chapter in Washington, D.C.
+
+The good news is that by relating to such attacks, people are becoming more cyber savvy and less prone to opening their home and office networks to malicious incursions. But it’s not enough. The transition to mobility and the cloud is altering the reality of cybersecurity, making commercial and government networks more vulnerable. While industry works rather quickly at addressing the attacks, the federal government suffers from a bureaucratic slowness akin to moving “at the speed of pregnant turtles,” said David Bennett, chief information officer for Defense Information Systems Agency.
+
+While he could provide no magic answers Wednesday that would immediately secure the cyberspace, Bennett offered the more than 300 attendees a few pointers, leading with holding employees accountable. “Application owners tend to forget about capability when they get into the field and don’t pay attention to the vulnerabilities,” Bennett said.
+
+Agencies must also strive for system standardization, which tends to go against the very fabric of the U.S. military that for so long worked to employ unique solutions to address unique needs of varying commands or units. “We have to become ruthless in how we standardize things,” Bennett offered. Commercial vendors have become quite successful in cloud computing, for example, because “they are ruthless in their standardization.”  
+
+Going hand in hand with standardization is the need for centralization, Bennett stated. Information technology should slide away from locally tackled solutions and move toward a streamlined process—all the while not succumbing to stovepiped inefficacy.
+
+Business and government leaders must know what data they have, which leads to knowing what data to protect, offered Peter Gouldmann, director of information technology security compliance at the State Department.  
+
+“Know thy data” was the consensus of an expert panel presentation on protecting data. Leaders need to know precisely what data their organizations or agencies have at their disposal, but more than that, they must know the value of that data, offered Steven Hernandez, chief information security officer for the Office of Inspector General at the Department of Health and Human Services. A system containing personally identifiable information, for example, might be worth more financially than an agency’s separate system containing contractual data points. Invest in protecting the more valuable system, he suggested.  </text>
+  <imgalttext>
+  </imgalttext>
+</article>

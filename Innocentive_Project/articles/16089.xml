@@ -1,0 +1,37 @@
+<article>
+  <type>blog</type>
+  <title>6 Steps to Increase Cybersecurity in the Age of Innocence</title>
+  <author>Ray Rothrock</author>
+  <date>May 10, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Networks</tag>
+    <tag>guest bloggers</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>Let’s face it—we have a lot to learn about cybersecurity. Every day, we learn solutions have a short shelf life and that hackers have managed to stay a few steps ahead of those trying to track them down, shares RedSeal's CEO in a new blog.</abstract>
+  <text>Let’s face it—we have a lot to learn about cybersecurity. For weeks, the FBI and Apple squared off in an epic and public battle over encryption—the Holy Grail for cybersecurity warriors. “Help us break the iPhone,” said the FBI. “The risk is too great, too many will be harmed,” Apple retorted. But the battle was over before the parties fully engaged. The FBI found someone to hack the iPhone belonging to one of the San Bernardino shooters and said, “Never mind, problem solved.”
+
+Does this make you feel secure? With attacks launched every day, I don’t think so.
+
+This brief iPhone tussle captures the dilemma facing President Barack Obama’s new Commission on Enhancing National Cybersecurity, charged with making actionable recommendations for the public and private sectors that address cyberthreats today and in the future. Every day, we learn solutions have a short shelf life and that hackers have managed to stay a few steps ahead of those trying to track them down. 
+
+As an early investor in cybersecurity startups and now CEO of a cybersecurity analytics company, I applaud the commission’s goals. Billions of dollars are spent annually on cybersecurity products, yet breaches continue to happen; they have almost become routine. What gives? Last year, J.P. Morgan Chase and Co. said it planned to spend $500 million on cybersecurity. The company’s general counsel for IP and data protection said they “still feel challenged," according to Forbes magazine. I guess half a billion does not buy peace of mind.
+
+What can the commission do to keep us more cyber secure?  Here is a modest six-step plan that will move us forward.
+
+Change of perspective. Networks regularly are probed and penetrated by attackers looking for weaknesses. Given the complexity of networks coupled with the sophistication and persistence of attackers, some of these hacks will be successful. Rather than focusing solely on preventing the unpreventable, we should prepare for the inevitable and make networks resilient to operate through attacks and minimize disruption. 
+	Realize digital resilience belongs to all. No longer is it the responsibility of an organization’s IT department. Businesses and organizations should follow the example of the city of New Orleans and appoint a chief resiliency officer. The role is broader than that of chief information security officers (CISOs), who traditionally focus on cybersecurity technology. A resiliency officer would manage risks and tradeoffs, set priorities and engage senior decision makers on what is paramount. Corporate boards need to get involved also. Every board should be required to include at least one member with cybersecurity experience.
+	Truly understand networks. Know what they look like, how they were set up and how they constantly change. Networks are patchwork structures that grow over time; more end point devices, more storage, more computational power and more administrative rules. As networks grow, managers can make mistakes, opening new attack vectors. If you don’t know what you really have, how can you manage it? 
+	Identify clear resilience metrics and security preparedness. A key tenant of all management training is that you can’t manage what you can’t measure. Currently, there are many measures of how much activity is going on in a network, how many attacks have been launched and how many successful defenses have been deployed. We must go beyond activity and measure the results of cybersecurity, examine a network’s resiliency and how prepared IT managers are to identify active threats and keep a network operational—even during a successful attack.
+	Don’t invent new standards and regulations. We have many thoughtful public and private policies in place from the National Institute of Standards and Technology, Department of Homeland Security, the North American Electric Reliability Corporation, Common Weakness Enumeration project and others. We must implement and maintain them to minimize network damage and stay resilient. 
+	Everyone in an organization uses the network. This step might be the most challenging. Because networks are interconnected, all it takes is one click on a phishing email to launch malware and give hackers access. We must develop a culture of cyber awareness, help people spot hacking techniques and provide good training.
+A word of advice to the commission members: Stay focused on short-term solutions with a long-term foundation. We are fighting the cybersecurity battle in a changing digital landscape. Today’s successful strategies will be tomorrow’s battlefield blunders, making security is an elusive goal. But with a change in perspective, new leadership and broad cyber awareness, we can be prepared and resilient so that networks critical to our economy and civil society can be sustained while the battle rages.
+
+Ray Rothrock is chairman and CEO at RedSeal. Prior to joining RedSeal, he was a general partner at Venrock, a venture capital firm founded by the Rockefeller family.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

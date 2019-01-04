@@ -1,0 +1,33 @@
+<article>
+  <type>article</type>
+  <title>Thrifty Can Do It for the Defense Department</title>
+  <author>Paul A. Strassmann</author>
+  <date>September 1, 2012</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Virtualization</tag>
+    <tag>Incoming</tag>
+  </tags>
+  <abstract></abstract>
+  <text>The benefits of virtualization can be extended to thrifty end-users either through public clouds or via private clouds. The time has come to reach out to the millions of user devices that operate in thousands of separately programmable silos that require spending money on labor-intensive overhead. U.S.
+Defense Department projects can be brought into a consolidated cloud environment where much lower costs and increased security can deliver immediate benefits.
+The May 21, 2012, issue of Forbes magazine describes how start-up firms acquire information technologies without spending much money. These firms use commercial cloud services instead of setting up their own data centers.
+There now is a flood of commercial offerings for low-cost cloud computing solutions. Thought should be given to switching smaller Defense Department projects to deployments through Infrastructure-as-a-Service (IaaS). More than 2,000 such projects now exist in the Defense Department.
+New projects need not be encumbered with the burden of elaborate planning, cost justification, development and acquisition of computers as dictated by existing directives. Instead, the department can adopt the method for setting up new projects inexpensively and instantly. This can be done in weeks, not months or years. An experimental system can be tried without much risk and for a small investment. Innovative applications can be tested and even discarded without committing to a multiyear stream of cost. After a new project demonstrates its suitability, it always can be scaled up.
+Forbes illustrated the benefits of thrifty computing for a small venture firm:
+
+There are several principal advantages of low-cost operations. First, there is no need to acquire dedicated servers. A low-cost pool of IaaS servers is readily available so that a customer is purchasing only as-needed machine cycles available from an already standard infrastructure. Purchasing servers can be justified later after the scope of the application justifies a much larger overhead.
+The cost of data center operating personnel already is included in run-time charges. This dispenses with the employment of support personnel, which in the Defense Department always exceeds the costs of hardware.
+Email and associated Office software is available for no charge. Open-source commodity applications are readily available. Similarly, one of the most expensive software licenses is the charge for Oracle databases. That can be rented on a per-use basis from an open-source service.
+Also, unless security issues are involved, a new application can depend on the virtual Internet to establish connectivity to and from the cloud—provided that the commercial cloud supplier complies with Defense Department security requirements. And, setting up a stand-alone application can involve added security software features purchased through licensing. Reliance on a wide variety of competitively priced open-source safeguards should be sufficient.
+Thrifty computing should be used primarily for applications that do not require compliance with higher-level national security measures. This includes parts of human resource management (Defense Department fiscal year 2012 expenses of $1.7 billion), administrative and financial management ($1.1 billion), health management ($1 billion) and a large share of supply management applications ($3 billion).
+Another approach to thrifty computing is to cut costs by taking one major application at a time and then proceeding with incremental consolidations into cloud services. This is the U.S. Army’s approach. It is migrating 18 very expensive separate email enclaves into a singular cloud service provided by the Defense Information Systems Agency. This approach will generate savings of close to $80 million per year, with the U.S. Air Force planning to follow suit if the Army succeeds.
+However, this slow incremental approach still will leave the Army reliant on costly desktops for access to hundreds of other applications that are located on servers at multiple data center locations. The Army could show greater thrift by proceeding with the virtualization of all of its 800,000 desktops. By cutting the configuration of costly-to-maintain desktops, it could reduce five-year costs of hardware by an additional $1.6 billion.
+The greatest benefit would come from the reduction of infrastructure and administrative costs of $2.4 billion. The Army could accomplish this by encapsulating existing legacy software and moving it to central cloud services. Virtualized servers then would perform all of the configuration management, software updating and security services for desktops as well as mobile computing. With systems operating from a pool of virtualized cloud servers, much larger cost reductions could be realized.
+Paul A. Strassmann is the distinguished professor of information sciences at George Mason University. The views expressed are his own and not necessarily those of SIGNAL Magazine.
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

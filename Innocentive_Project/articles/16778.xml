@@ -1,0 +1,44 @@
+<article>
+  <type>blog</type>
+  <title>5 Tools for Recognizing and Combating Cybercrime</title>
+  <author>Aubrey Merchant-Dest</author>
+  <date>October 17, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>guest bloggers</tag>
+    <tag>Guest Blogs</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>Last year, the Defense Department issued the Cybersecurity Culture and Compliance Initiative, a memorandum containing alarming statistics on the actual number of successful network compromises and their causes, and principles for guiding daily operations for network users. The good news is that out of 30 million known malicious intrusions occurring over 10 months, 99.9 percent were prevented. The bad news is that .1 percent—or 30,000 attacks—successfully compromised a DOD cyber system.</abstract>
+  <text>Last year, the Defense Department issued the Cybersecurity Culture and Compliance Initiative (DC3I), a memorandum containing alarming statistics on the actual number of successful network compromises and their causes, and principles for guiding daily operations for network users. The good news is that out of 30 million known malicious intrusions occurring over 10 months, 99.9 percent were prevented. The bad news is that .1 percent—or 30,000 attacks—successfully compromised a DOD cyber system.
+
+Roughly 80 percent of those cyber incidents can be connected to three causes: poor user practices, poor network and data management practices, and poor implementation of network architecture by either IT professionals or other users. Human error contributed to a significant number of daily attacks on DOD networks last year, despite the effort into architecting systems that can prevent malicious attacks. While no perfect preventative solution exists, agencies must make every possible consideration to learn, adapt and evolve best practices.
+
+The DC3I memo provides basic guidance to promote good cyber hygiene among end users and is worth a read. And review my first blog in this series of three that provides tips for online safety and security.
+
+That said, it’s not always about the end user; agencies must accurately interpret the massive amount of collected data to decipher what is real versus a false positive. Warnings and anomalies regularly inundate cyber professionals, making it virtually impossible to identify all valid risks. To maintain a strong security posture, agencies should implement five tools to detect and remediate threats:
+
+1) Application identification with advanced deep packet inspection
+Agencies must know the applications that reside on their networks. They commonly are used to penetrate and execute advanced targeted attacks. Cyber professionals must classify and identify these apps and extract detailed attributes to assist in clear discovery, giving IT departments comprehensive information about applications and associated hosts, users and artifacts in the event of an investigation.
+
+2) Machine learning and anomaly detection
+A learning engine tool that automatically establishes a normal baseline of activity can help eliminate false positives. Statistical models can identify and report abnormal activity. These capabilities reduce the human effort required to identify malicious activity by using captured packet and metadata. Machine learning can be applied on the network to detect object DNA to identify and block malicious files or scripts.
+
+3) Threat intelligence
+Security professionals need automatic, real-time notification of targeted events. Observables for suspicious, malicious or prohibited behavior can be created and rules established by observing packet and network behaviors. This tool notifies analysts of suspicious activity and violations while automating common tasks such as checking for traffic against a list of known bad websites, receiving notification of unknown applications on the network or sending an alert about the presence of encrypted traffic on non-standard ports.
+
+4) Real-time file brokering to sandbox technologies
+Agencies need a tool that can extract files in real time to determine whether it is good, bad or unknown. If unknown, the tool can deliver it for sandbox detonation and dynamic analysis against an operating environment. The tool can then deliver only “unknown” URLs and files for further analysis, optimizing malware inspection and analysis and eliminating false positives.
+
+5) Layer 2–7 Analysis
+A tool that can provide advanced analytics across the network layer—from packets, ports/protocols and applications to user sessions and files—can strengthen security incident response. The tool should be able to provide full session reconstruction; real-time reputation look-up; instant messaging, email and image reconstruction; root cause identifier; and delivery of complete artifacts in addition to packets for evidentiary support.
+
+The DC3I memo stresses the importance of developing a cybersecurity culture within the DOD, while the overwhelming breach statistics emphasize the urgency to implement appropriate solutions to combat the constantly evolving cyber threat landscape. I hope you have enjoyed this brief blog series in conjunction with National Cyber Security Awareness Month (NCSAM). The goal was to provide some perspective and bring to light the important messages set forth by NCSAM with a focus on the DOD and the intelligence community—with a hope that the dialog will continue and have a positive impact on network—and national—security.
+
+Aubrey Merchant-Dest is the federal chief technology officer for Blue Coat Systems.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

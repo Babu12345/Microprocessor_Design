@@ -1,0 +1,27 @@
+<article>
+  <type>blog</type>
+  <title>NIST Releases Final Cloud Road Map Documents</title>
+  <author/>
+  <date>October 22, 2014</date>
+  <departments>
+    <department>Other</department>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>National Institute of Standards and Technology</tag>
+    <tag>cloud computing</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The National Institute of Standards and Technology (NIST) has published the final version of the "U.S. Government Cloud Computing Technology Roadmap, Volumes I and II," which focuses on strategic and tactical objectives to support the federal government’s accelerated adoption of cloud computing.</abstract>
+  <text>The National Institute of Standards and Technology (NIST) has published the final version of the "U.S. Government Cloud Computing Technology Roadmap, Volumes I and II," which focuses on strategic and tactical objectives to support the federal government’s accelerated adoption of cloud computing.
+
+The road map leverages the strengths and resources of government, industry, academia and standards development organizations to support technology innovation in cloud computing, according to a written announcement from NIST.
+
+The first volume, "High-Priority Requirements to Further USG Agency Cloud Computing Adoption," describes the road map’s purpose and scope. The draft focused on three priorities: security, interoperability and portability from one cloud system to another. The final version adds two priorities: performance and accessibility. The document lays out 10 requirements necessary for federal government cloud adoption, including developing international standards, security solutions and clear and consistent categories of cloud services.
+
+The second volume, "Useful Information for Cloud Adopters," introduces a conceptual model, the NIST Cloud Computing Reference Architecture and Taxonomy, and presents U.S. government cloud target business and technical use cases. Volume II also identifies existing interoperability, portability and security standards that apply to the cloud model and specifies high-priority gaps that need new or revised standards, guidance and technology. It also covers security challenges in cloud computing adoption.
+
+NIST has recently established three new public working groups: Cloud Service, Federated Community Cloud, and Cloud Interoperability and Portability. Current work in the Cloud Computing Metrics group addresses the gaps in metrics and metrology in cloud computing under Requirement 10 from Volume 1.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

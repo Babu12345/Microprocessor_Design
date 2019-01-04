@@ -1,0 +1,50 @@
+<article>
+  <type>article</type>
+  <title>Batteries May Be Dying and Dying and Dying</title>
+  <author>George I. Seffers</author>
+  <date>June 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Lawrence Livermore National Laboratory</tag>
+    <tag>3D printer</tag>
+  </tags>
+  <abstract>A recent scientific advance—the first successfully 3-D printed supercapacitors using an ultralightweight graphene aerogel—could lead to the end of the ubiquitous power source.</abstract>
+  <text>The common battery may not keep going and going and going after all. A recent scientific advance—the first successfully 3-D printed supercapacitors using an ultralightweight graphene aerogel—could lead to the end of the ubiquitous power source. The breakthrough also could allow greater flexibility in the design of electronics and provide the juice for high-powered military systems. 
+
+Batteries power everything from iPhones to Tesla automobiles to a wide range of tactical equipment necessary for winning wars. They also get shipped by the tons to combat theaters, take up space in tactical vehicles and are carried across the battlefield on the backs of warfighters who often are already overloaded with equipment.
+
+By comparison, supercapacitors store vast amounts of energy. Commercially available supercapacitors recover braking energy in cars, buses and trains and open the emergency exits of the Airbus A380. Supercapacitors can charge incredibly quickly, potentially requiring just minutes or seconds to reach full capacity, points out Cheng Zhu, a Lawrence Livermore National Laboratory (LLNL) engineer and the lead author of a paper published earlier this year in the journal Nano Letters. Lab researchers worked closely with University of California Santa Cruz associate professor Yat Li and graduate student Tianyu Liu, who performed the electrochemical characterizations and optimized the materials used in the process.
+
+While today’s batteries come in a limited number of shapes, with the recent advance, future energy storage cells can be shaped to fill any empty space within an electronic device or a larger platform. “If you look at batteries, they tend to come in one or two forms. They’re either a cylinder or a brick—a rectangular shape,” points out Marcus Worsley, a staff scientist and an aerogels researcher for the LLNL’s Materials Science Division. “If you can do 3-D printing of the active material, like we’re doing, you can imagine designing batteries or capacitors that are not limited to those form factors. They can be integrated into the design of whatever you’re making.” 
+
+And that could have radical implications for any device or platform requiring a power source. “The idea of being able to make a faster capacitor or battery in any sort of arbitrary form could change the way in which people think about energy storage in their devices and in vehicles, for example,” Worsley adds. “When you design a car these days, you design it with a gas tank because you need that particular space for holding your energy. But if you could design the car and then go in afterward and figure out where you wanted to incorporate energy storage, you could put it in the optimal place. It could even be spread throughout the vehicle or the device.”
+
+This breaks through the limitations of two-dimensional manufacturing, Zhu said in a statement. “We can fabricate a large range of 3-D architectures. In a phone, for instance, you would only need to leave a small area for energy storage.” 
+
+In the future, researchers predict, newly designed 3-D printed supercapacitors will be used to create unique electronics that are currently difficult or even impossible to fabricate with other synthetic methods, including fully customized smartphones and paper-based or foldable devices. At the same time, supercapacitors will help achieve unprecedented performance levels in these electronics. 
+
+Associate chemistry professor Li reports that “we can print just lines of this graphene aerogel to form a network, and that can be like a paper-based film,” meaning it is “not necessary to print on some substrate or other device.” Liu, the student researcher, adds that once the substrate is eliminated, “the total mass of the electrode can be greatly reduced.” 
+
+Such advances in supercapacitor technology could have wide-ranging implications. “The goal of this supercapacitor research is to one day replace batteries. Of course, we are talking the ultimate goal. We are taking small steps,” Li states.
+
+In addition, the U.S. Defense Department one day could use supercapacitors to power laser weapons as well as radar and other high-powered systems. The U.S. military is investing in an array of laser weapon systems, and the Air Force Research Laboratory is developing a high-powered microwave pulse weapon to precisely target enemy electronics. “For the military, this technology could be used in some high-powered devices because it can discharge really quickly, so this means it can give a [lot of] power in a short period of time,” Li explains. 
+
+The LLNL and university research team used a 3-D printing process called direct ink writing and a graphene-oxide composite ink specially designed at the lab. Graphene-based inks have a distinct advantage over other materials due to their ultrahigh surface area, lightweight properties, elasticity and superior electrical conductivity. The graphene composite aerogel supercapacitors are also extremely stable, the researchers report, capable of retaining nearly all their energy after 10,000 consecutive charging and discharging cycles. 
+
+The scientists built supercapacitors using microarchitected electrodes they printed. The printed electrodes retained energy on par with their counterparts, which are 10 to 100 times thinner. And that is good, even in a world where thinner generally means better, the researchers say. Thinner materials limit form factors, such as when thin sheets are wrapped up to make cylinder-shaped batteries. Additionally, materials with more volume can store more energy than thin films or sheets. 
+
+The researchers assert that some benefits derive from material porosity. Worsley explains that transport through porous materials is a serious challenge for a number of applications, including capacitors, desalination and catalysis, which is the increase in the rate of a chemical reaction caused by the addition of a catalyst. “Transport limits the practical thickness of the electrodes by significantly decreasing the total performance of the device,” he says, adding that 3-D printed aerogels allow arbitrary thickness with no loss in device performance.
+
+Eric Duoss, LLNL materials engineer, notes that the team has solved some of the difficult challenges of electrical transport over long distances with a thicker supercapacitor. “This means it is possible to achieve more efficient use of the active material in a given volume in order to maximize both power density and energy density in our supercapacitors compared with their planar counterpart,” Duoss elaborates. “Thinner generally means better power characteristics because transport distances are short, but it also means less active material, so energy suffers as a consequence.”
+
+Fang Qian, an LLNL material and biomedical scientist, stresses the importance of pore size in the aerogel used to make the supercapacitor. “One of the features of our structure is that we not only make it thicker, but we also have a lot of big pores. Big pores are designed for large, mass transport [and] for the electrolytes to be diffused through the thick electrode,” Qian explains. “In general, thicker electrodes can enable carrying large, more active materials, increasing the capacitance.” 
+
+Additionally, with solid, bulky electrodes, ion diffusion can be a challenge, Qian indicates. “Without these pores, the diffusion of these ions would be a limiting factor of the supercapacitor, but with these big pores, enabled by the 3-D printing, it is no longer an issue,” she says.
+
+The next step for the scientists is to seek additional research dollars, as internal funding from the LLNL supporting their work dries up later this year. The researchers intend to create new infrastructures and to continue tweaking materials in a quest for greater energy density. “This is definitely a first step toward the future,” Zhu says. “There will be more to come.</text>
+  <imgalttext>
+    <img>Batteries may be essential to the modern world, but recent breakthroughs in supercapacitor research achieved by government and university scientists could signal the end for batteries.</img>
+  </imgalttext>
+</article>

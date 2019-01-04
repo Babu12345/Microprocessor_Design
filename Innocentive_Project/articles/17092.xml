@@ -1,0 +1,43 @@
+<article>
+  <type>article</type>
+  <title>U.S. Army's Deployed WIN-T Program Software Reduces System Management Complexity</title>
+  <author>Sandra Jontz</author>
+  <date>January 18, 2017</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>U.S. Army</tag>
+    <tag>WIN-T</tag>
+    <tag>software</tag>
+    <tag>secure software</tag>
+    <tag>communication</tag>
+  </tags>
+  <abstract>A communications network management software solution deployed last year across the U.S. Army has proven to drastically reduce network downtime as soldiers operate in an increasingly complex command post environment. Communicators and network specialists, untrained on PacStar’s IQ-Core Software, configured and managed complex networking equipment up to 10 times faster than comparable manual methods with nine times fewer errors, according to an independent study.</abstract>
+  <text>A communications network management software solution deployed last year across the U.S. Army has proven to drastically reduce network downtime as soldiers operate in an increasingly complex command post environment.
+
+Army and civilian communicators and network specialists, untrained on PacStar’s IQ-Core Software, configured and managed complex networking equipment up to 10 times faster than comparable manual methods and with nine times fewer errors, according to an independent research firm’s report released today.
+
+An estimated 80 percent of network downtime in combat zones is caused by equipment misconfiguration, not equipment failure, says PacStar’s Chief Technical Officer Charlie Kawasaki. “By eliminating those misconfigurations, we’re keeping the critical network services available,” Kawasaki says. “That’s what we’re talking about—the ability to potentially reduce downtime by hours.”
+
+Last year, PacStar delivered 6,000 licenses of its IQ-Core Software for the Warfighter Information Network-Tactical (WIN-T) Increment 1 program, the Army's tactical communications network backbone that provides the full range of data, voice and video communications using satellite and line-of-sight communications nodes, according to the Army.
+
+Last summer, the independent research company Thug Design conducted a user study to measure the impact of using the software to configure and manage complex networking equipment. The 22 active duty and civilian end users, who were not trained on or familiar with IQ-Core Software, had to perform two tasks: one using the software and one using the equivalent manual method. They had to create a configured backup and compare it to a previous backup, and set up a Commercial Solutions for Classified (CSfC)-compliant virtual private network (VPN) tunnel.
+
+The results showed that using the software greatly improved participants’ ability to successfully complete the tasks, and reduced both the time spent on the projects and the errors committed, regardless of the end user’s level of computer and networking expertise. “Participants also reported significantly higher confidence in their ability to do other, similar tasks on the equipment when using IQ-Core Software,” the study states.
+
+The Army completed fielding WIN-T Increment 1 to dedicated units in 2012, a process that took eight years. It provides “expeditionary Internet” and at-the-halt data, voice and video communications, the Army states. It has three types of transportable network nodes: the Tactical Hub Node (THN) that supports division headquarters, the Joint Network Node (JNN) that supports brigade level headquarters and the Battalion Command Post Node (BnCPN) that supports battalion level headquarters.  
+
+“When we first started building this technology, the equipment essentially consisted of commercial-of-the-shelf [gear] that would normally be housed in a data center, mounted in a giant rack, 19-inches wide, and could weigh literally hundreds of pounds,” Kawasaki says. “Over the years, what we’ve done, along with the industry as a whole, is shrunk that equipment down smaller and smaller so that it is easier to deploy out in the field.”
+
+Improvements have helped equip warfighters with a tremendous amount of technical capability in a very small footprint, but augmented the level of complexities, he adds. “The problem is, as we have shrunk all of this equipment, the user interfaces for this software has become more and more complicated,” Kawasaki says. “The overall capabilities that a networking engineer has to learn and master and keep running and configure—that has gotten a lot worse out in the field.”
+
+With complexity increasing the potential for human error, the Army sought a solution that could, in many cases, be used by lightly trained operators to keep networks up and running and properly configured in adversarial situations, Kawasaki states.
+
+PacStar, based in Portland, Oregon, provides both software and hardware solutions, taking commercially available, certified and accredited technologies and reengineering and repackaging them to be as small and light as possible, without losing any capability, says Jeff Sinclair, PacStar’s vice president of sales. The ruggedized solutions perform in hot, cold, dusty and wet environments, in temperatures that range from minus 94 to 158 degrees Fahrenheit.
+
+PacStar also can integrate its solution into the National Security Agency’s CSfC program, providing a network infrastructure to bring classified data to the wireless command post, Sinclair says. “The military has been moving toward untethering the soldier,” Sinclair says. “Wireless is a big initiative and they’ve been struggling for years to allow for a secure way to employ wireless as part of a mission environment.” </text>
+  <imgalttext>
+    <img>Warfighter Information Network-Tactical (WIN-T) equipment is pictured in preparation for the Army's Network Integration Evaluation 12.1 in November 2011.</img>
+  </imgalttext>
+</article>

@@ -1,0 +1,54 @@
+<article>
+  <type>article</type>
+  <title>The Infinite Promise of DNA-Based Data Encryption</title>
+  <author>George I. Seffers</author>
+  <date>February 1, 2017</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Sandia National Laboratories</tag>
+    <tag>Encryption</tag>
+    <tag>big data</tag>
+  </tags>
+  <abstract>Scientists at Sandia National Laboratories are searching for partners to apply technology for encrypting text within synthetic DNA.</abstract>
+  <text>Scientists at Sandia National Laboratories are searching for partners to apply technology for encrypting text within synthetic DNA. The encryption is far stronger than conventional technology and practically impossible to break, researchers say.
+
+In September, the Sandia team wrapped up a three-year effort titled Synthetic DNA for Highly Secure Information Storage and Transmission. The project developed a new way of storing and encrypting information using DNA. The work was funded through Sandia’s internal Laboratory Directed Research and Development program. 
+
+Now, the team is preparing to apply for a patent and getting ready to take the technology to the next level. “We’re currently in discussions with several different folks, trying to get some follow-on funding to continue this work,” says George Bachand, a bioengineer at Sandia’s Center for Integrated Nanotechnologies and the principal investigator on the project. He adds that it is too soon to provide a lot of details about the discussions, but he reports that both the State and Defense departments “have reached out to me.”
+
+Among other potential applications, such as storing historical documents, Bachand envisions using the technology to record the history of materials: location, date and time of manufacture and lot numbers, for example. “Imagine now if you could take all of that information, put it into a synthetic piece of DNA and attach it to that material. That would be a simple way of going in and authenticating that this material is, in fact, not counterfeited and that it meets the specifications of the supplier,” he says.
+
+Compared with digital and analog information storage, DNA is more compact and durable and never becomes obsolete. Readable DNA was extracted from the 600,000-year-old remains of a horse found in the Yukon, Sandia officials point out in a written statement. The statement adds that tape- and disk-based data storage degrades and can become obsolete, requiring rewriting every decade or so. At the same time, cloud- or server-based storage demands a vast amount of electricity. In 2011, Google’s server farms used enough electricity to power 200,000 U.S. homes. Furthermore, old-school methods require lots of space. IBM estimated that 1,000 gigabytes of information in book form would take up 7 miles of bookshelves. Sandia itself recently completed a 15,000-square-foot building to store 35,000 boxes of inactive records and archival documents.
+
+“DNA is an extremely attractive way of storing information for a number of reasons. First is that it is incredibly small. The amount of DNA stored in the nucleus of a cell only occupies … a few hundred femtoliters,” Bachand says. A femtoliter is the equivalent of one quadrillionth of a liter.
+
+He asserts that DNA-based data storage also is more secure because current digital storage is rather easy for hackers to access. Because DNA is in physical form, it can be locked away just as sensitive documents are, but it also is far more difficult to decrypt than digital encryption methods. “Even if someone is able to get that piece of DNA, trying to get text information back out of that would be nearly impossible,” Bachand says. “The number of possibilities you would have to go through by brute force to get the correct code to do the decryption is basically infinite.”
+
+He compares his method to 128-bit encryption, which Techopedia.com says is “considered to be logically unbreakable.” Bachand explains that to crack even the simplest form of his technology would require randomly screening a number of combinations equal to 10 to the 89th power. That is a 10 followed by 89 zeros. According to Wolfram Alpha, that is 1 billion times more than the number of atoms in the visible universe. “The new way we’re doing it would probably bring it … to an infinite number you would have to screen,” Bachand says.  
+
+DNA is made up of four different bases, commonly referred to by their one-letter abbreviations: A, C, G and T. The Sandia method uses a three-base code, which is how living organisms store their information, to encode 64 distinct characters—letters, spaces and punctuation—with room for redundancy. 
+
+Sandia begins by converting text into “DNA language” in which A, C, G and T represent all the different characters, numbers and spaces within a document. “At that point, we synthetically make the DNA. We create a string of these A’s, C’s, G’s and T’s that represent that message,” Bachand explains. 
+
+The lab personnel send the sequence to a commercial company, which creates the actual DNA. “We then can take that piece of DNA into our laboratory and perform other types of manipulation. One of the simplest things is to just dry it out, and it can be stored that way for years, just sitting at room temperature,” he adds.
+
+The synthetic DNA can be stored within microorganisms too. “We also can put it inside of a bacterium, for example, that will make multiple copies of that [DNA]. Then we can make many, many more—millions to hundreds of millions of copies. And we can take that bacteria and store it in a number of different ways,” Bachand elaborates.
+
+His team uses the same bacteria that biotechnology researchers have worked with for decades, he notes. More complex life forms might be capable of carrying the encoded DNA as well, but Bachand acknowledges concerns with that approach. “The biotechnology sector has developed ways of taking synthetic pieces of DNA and putting it in all types of different cells,” he observes. “If that DNA was inserted into a human cell, we don’t know at this point what effect that would have. If somebody wanted to do something, that could certainly be a concern. It falls into a lot of the genetic engineering and the potential pitfalls the community faces.”
+
+In addition, the Sandia team is careful to avoid mimicking existing natural DNA. “When we make our synthetic DNA constructs, we always screen them against known DNA sequences in nature,” Bachand states. He adds that without that careful screening, “There’s always the possibility we could make some type of a molecule, a protein we were unaware of.” 
+
+Bachand and his team are not the only ones exploring DNA data storage. He notes that Microsoft has purchased synthetic DNA from Twist Bioscience in San Francisco, specifically for data storage. In an April press release, Twist officials say they have successfully encoded and recovered 100 percent of the digital data in DNA. The company also indicated, however, that it is “still years away from a commercially viable product.”
+
+Bachand’s approach differs from some commercial research in that his team has limited the data to text. Many others, he reports, are attempting to translate binary language into DNA language, which would allow encoding of music, images and other more complex types of data. “Because we’re only focusing on text, we actually can have a higher density. We don’t have to have as many DNA letters to encode our information,” he says. “With our approach, there really is no limitation on the ability to take text and convert it into DNA language.”
+
+The project included two demonstrations in which DNA was used to encode historic documents: a letter from President Harry S Truman and a part of Martin Luther King Jr.’s “I Have a Dream” speech. The team completed the King effort shortly before the project ended. “There is a lot of repetition of words and a certain pattern to the speech that actually presents a lot of unique challenges for doing the DNA synthesis. Having repeats of the same sequences is very problematic,” Bachand states.
+
+The team tweaked its algorithm to increase efficiency from around 5 percent to about 80 percent. The project involved 3,300 characters, and the DNA was close to 10,000 base pairs in length. The biggest limitations, he indicates, are associated with creating the synthetic DNA itself. “The field, in general, that’s looking at doing storage of information in DNA is limited primarily right now on our ability to synthesize long stretches of DNA,” he says, pointing out that his project did not address that particular issue. “There is a lot of push and pull from the community for this type of development, so those of us doing DNA information storage can piggyback on that.”</text>
+  <imgalttext>
+    <img>Researchers have developed a technique for encoding text within synthetic DNA that they say would take an infinite number of random, brute-force attacks to break.</img>
+    <img>Encrypted synthetic DNA can be stored within common E. coli bacteria without affecting the bacteria, which can produce numerous copies of the data.</img>
+  </imgalttext>
+</article>

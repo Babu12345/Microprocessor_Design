@@ -1,0 +1,45 @@
+<article>
+  <type>article</type>
+  <title>DOD Unveils Bold Road Map to Modify IT and Cybersecurity Approaches   </title>
+  <author>Sandra Jontz</author>
+  <date>August 18, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Defense Department</tag>
+    <tag>chief information officer</tag>
+    <tag>data centers</tag>
+    <tag>cloud</tag>
+    <tag>Virtualization</tag>
+  </tags>
+  <abstract>The U.S. Defense Department unveiled Thursday a bold information technology and cybersecurity road map that modifies its approach on several efforts in the rapidly changing environments. The guide positions the department’s IT infrastructure and processes for a broad impact, in addition to hopes of greater security and scrutiny, said its CIO, Terry Halvorsen.</abstract>
+  <text>The U.S. Defense Department unveiled Thursday a bold information technology and cybersecurity road map that modifies its approach on several efforts in the rapidly changing environments. The guide positions the department’s IT infrastructure and processes for a broad impact, in addition to hopes of greater security and scrutiny, said its chief information officer, Terry Halvorsen.
+
+Outlined in the nine-page paper are a number of DOD efforts, from its crawl to a department-wide operating system to its plans to ditch use of the common access card, migrate to a cloud environment and consolidate and virtualize its data centers. But the common elements within the document likely will change many times in the coming years, Halvorsen cautioned. “This is absolutely a living document. The exact vision in this document, if it's still the same in a year, then we screwed up,” he said during a news media roundtable unveiling the plan, titled “DOD Information Technology Environment—Way Forward to Tomorrow’s Strategic Landscape.”
+
+The plan's leading goal points toward support of the department’s monumental concept called the Joint Information Environment (JIE)—ironically, a name Halvorsen said he and his staff would like to change because it has become too confusing. “It's not a program, it's a concept,” Halvorsen said of the JIE. “But this is absolutely, 100 percent supportive of getting to the concept of a JIE. What it is trying to do today is lay out what are the more discrete elements that we've got to get done to get us on the pathway to a JIE concept.”
+
+The near-term JIE focus is to finalize the Joint Regional Security Stacks (JRSS) initiative, through which the department is taking major steps toward network modernization. Under the goal, the department wants to implement the JRSS and associated network enhancements, shifting from component-centric to a enterprise-wide operations and defense model, and modernizing the Defense Information Systems Network (DISN) Transport Infrastructure.
+
+Though the department’s cyberspace are heavily fortified and protected, the cybersecurity fight is far from mission accomplished, Halvorsen said. “DOD networks are more secure today than they were last year,” Halvorsen said. “Do we have more work to do? Absolutely. This is an area where every time you get better, so does the threat.” Cybersecurity smacks of a modern-day, technical version of Mad magazine’s “Spy vs. Spy” cartoon, Halvorsen quipped—two characters constantly at war with each other. “Right now, I say we own the edge—and I think we’ll hold it, but that will take constant vigilance and work.”
+
+Though networks are more secure, they still are laced with sub-optimal conditions. “One of the problems today is our whole network structure is more complex than it needs to be,” Halvorsen said, making the case for the department’s implementation of Windows 10. His office is revamping the certification and accreditation process and preparing to migrate all the major networks to Windows 10 by the second quarter of fiscal year 2017. “We've got almost every type of hardware on [the networks]. That's a complexity in and of itself. We have almost every version of software. That's the complexity we don't need, and frankly creates weaknesses in our system.”
+
+The department too will focus on the Information Technology Exchange Program (ITEP), which by the end of fiscal 2017, will increase its work force by 100—50 government civilians serving in private-sector firms and 50 industry participants assigned to DOD jobs. The goal, in part, goes toward the department’s efforts to enhance relations with industry and U.S. allies, making them more “cultural partners,” Halvorsen described. “That doesn't mean that we're just sharing technology with them. I want to bring them in on my policies too” and move beyond just talks. “One of the things that we are really trying to push here is to change the art of the conversation,” Halvorsen continued. For example, the department must stop talking requirements and start talking capabilities—explaining to industry the military’s mission needs and letting companies devise the various solutions.
+
+Another major effort is providing a cloud computing environment. The department’s in-house offering, milCloud, will not “be the backbone of what provides us our enterprise services,” he said. “It will play in our cloud environment, just like Amazon plays in our cloud environment, like Microsoft plays in the cloud environment. There is no single cloud answer for DOD; there is no single cloud definition for DOD.”
+
+The department's adoption of commercial cloud services and offerings mirrors what is occurring among U.S. allies and within the private sector, he said. The United Kingdom, which is slightly ahead in schedule in cloud service migration, will serve as a sort of “recon” mission for the DOD’s effort, he said. “They are going to an all-government, completely [on-premise] government cloud, and some of our allies are looking at doing very similar things.”
+
+Going hand-in-hand with cloud services is talk of data center closures and consolidations. The document sets the stage for establishing ?a data center closure team that will seek out the costliest and least efficient centers. They will begin work by the first quarter of fiscal 2017, said Randall Conway, principal director to the Deputy CIO for Information Enterprise. The team's recommendations will speed up the closure process while also offering defendable, higher fidelity visibility into the reasons why those centers were selected—a key outcome since people will be losing jobs. “This process is going to be able to give us a way to layout that [decision making] in the right way,” Halvorsen offered. “Will there be a lot of discussions on it? I think there will be, but I actually think that when you're dealing with people's jobs, it deserves that discussion.”
+
+In an the effort to optimize what data centers remain, the department “jumped on virtualization” in its modernization effort, Conway said. “We’re basically virtualizing our larger existing data centers and putting this presence in place so that we can build from that.”
+
+Additionally, the document launches a two-year plan to eliminate use of common access cards from information systems. As it stands today, with the current technology that is available, Halvorsen said what he envisions replacing the outdated system is a combination of solutions: biometrics, behavior tracking technology and analytics that monitor network user behavior in virtual space.
+
+Other document goals include continued modernization efforts to increase communications bandwidth in the DOD Information Network (DODIN), such as nuclear command, control and communications (NC3) and command, control, communications, computers and intelligence (C4I) systems. The department’s IT and cyber team includes key players from a number of offices, including each of the military services, Strategic Command (STRATCOM), Cyber Command (CYBERCOM), the National Security Agency (NSA), and the Defense Information Systems Agency (DISA), of which the latter serves as the operational arm for centralized IT environment with DOD CIO oversight. DISA has a budget of $9.4 billion out of a total DOD IT budget in fiscal 2015 of $36 billion. The financial constraints and shortcomings over the past few years have obviously concerned Halvorsen, he said: “It would be foolish not to be. Certainly I'm concerned about the budget environment, but I do think in the end, this is going to cost less money then we're spending today.”</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

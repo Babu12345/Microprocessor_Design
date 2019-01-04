@@ -1,0 +1,21 @@
+<article>
+  <type>article</type>
+  <title>Virtually Navy Education</title>
+  <author>Rita Boland</author>
+  <date>March 11, 2013</date>
+  <departments>
+    <department>Other</department>
+  </departments>
+  <tags>
+    <tag>Navy Technologies</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The U.S. Naval Education and Training Command (NETC) is in the first stages of a five-stage plan to virtualize its computers at facilities across the globe in an attempt to save resources. Though the program itself has no direct connection to the recent sequester cuts that went into effect earlier this month, such projects could present possible cost-saving options to budget-constrained organizations.</abstract>
+  <text>The U.S. Naval Education and Training Command (NETC) is in the first stages of a five-stage plan to virtualize its computers at facilities across the globe in an attempt to save resources. Though the program itself has no direct connection to the recent sequester cuts that went into effect earlier this month, such projects could present possible cost-saving options to budget-constrained organizations.
+	By the program’s completion, NETC plans to offer the virtual desktop infrastructure solution to more than 36,000 daily users, replacing 80 percent of the more than 23,000 desktop computers residing in 2,500 classrooms in 68 worldwide learning sites. The plan is to make the changes during normal update schedules. “What we’re able to do with this new technology is plan to refresh these desktops, and instead, without any additional cost, buy virtual desktops, which in the end will greatly lengthen time between refresh requirements and make it much less expensive,” Cmdr. Sean O'Brien, USN, deputy chief information officer, NETC, says. The Navy organization chose VMware Incorporated as its vendor, citing flexibility and security features not available through competitors.
+	Cmdr. O’Brien states that the NETC’s specific program was deployed and developed before sequestration came into play. The intent behind implementation is to improve services, increase network security and help the Navy maintain compliance. With the virtualized desktops, information technology personnel should be released from providing as much customer service, giving them time to complete other, more technical tasks. Deployment to the next NETC site is scheduled to begin this month. The commander explains that the virtualization is not widespread yet because of the rigorous process required for execution at each location. Program personnel still are testing to determine what can be virtualized. According to Cmdr. O’Brien, certain applications and programs in the fleet are not suited to work well in a virtualized environment, which is why NETC only aims to replace 80 percent of its desktops.
+	On a wider scale, the concept of virtualization could benefit resource-constrained military groups moving forward. Bill Rowan, vice president, Defense Department and intelligence community, VMware Public Sector, contends that any government organizations with a large number of desktops would realize savings by switching to virtual desktops. Though he acknowledges that some cases exist in which a virtual solution is not ideal, the majority of organizations will reap savings in both acquisitions and operation and maintenance costs as well as in data, manpower, electrical and time requirements.
+However, the initial investment weighs against the savings. Rowan says customers generally see a return on investment (ROI) in 12 to 18 months. The more desktops organizations replace, the sooner they will see the ROI. In addition to reducing costs, virtualization also can help with mobility concerns, providing some foundational considerations for how the government can enable more mobility among its employees. By its nature, virtualization can help to keep operations running in situations preventing personnel from accessing their physical offices.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

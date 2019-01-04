@@ -1,0 +1,15 @@
+<article>
+  <type>article</type>
+  <title>Chapter Spotlight</title>
+  <author>SIGNAL Staff</author>
+  <date>August 17, 2009</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>2009 08 SIGNAL Connections</tag>
+  </tags>
+  <abstract></abstract>
+  <text>If you're interested in having your chapter's noteworthy activities highlighted in the Chapter Spotlight section of SIGNAL Connections, contact Katie Packard, assistant editor.&lt;!--function validate(theForm){	theForm.email.value=theForm.email.value.toLowerCase();	txt=theForm.email.value;	if (txt.indexOf("@") &lt; 1)	{		alert('The Email address seems wrong. Please check the prefix and @ sign.');		theForm.email.focus();		return false;	}	if (txt.indexOf(" ")&gt;-1)	{		alert('The Email address seems wrong. It should not have a space.');		theForm.email.focus();		return false;	}		if (txt.indexOf(".con", txt.length-5)&gt;0)	{		alert('The Email address seems wrong. Please check the end for .com.');		theForm.email.focus();		return false;	}	if (txt.indexOf(".orf", txt.length-5)&gt;0)	{		alert('The Email address seems wrong. Please check the end for .org.');		theForm.email.focus();		return false;	}	if (txt.indexOf(";")&gt;-1)	{		alert('The Email address seems wrong. It should not include a semicolon.');		theForm.email.focus();		return false;	}	if (txt.indexOf("\"")&gt;-1)	{		alert('The Email address seems wrong. It should not include a quote.');		theForm.email.focus();		return false;	}	if (txt.indexOf("\'")&gt;-1)	{		alert('The Email address seems wrong. It should not include an apostrophe.');		theForm.email.focus();		return false;	}return true;}--&gt; </text>
+  <imgalttext>
+  </imgalttext>
+</article>

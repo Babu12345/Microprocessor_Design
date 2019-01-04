@@ -1,0 +1,33 @@
+<article>
+  <type>blog</type>
+  <title>Man Beats Machine in Forensics Face-Off</title>
+  <author>George I. Seffers</author>
+  <date>September 28, 2015</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>facial recognition</tag>
+    <tag>National Institute of Standards and Technology</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The National Institute of Standards and Technology tests law enforcement experts against nonexpert humans and computers.</abstract>
+  <text>Trained forensics examiners from the FBI and law enforcement agencies worldwide were far more accurate in identifying faces in photographs than nonexperts and even computers, according to a new assessment. The assessment provides “the first strong evidence that facial forensic examiners are better at face recognition than the rest of us,” Jonathon Phillips, a face recognition researcher at the National Institute of Standards and Technology (NIST), said in a written announcement.
+
+When scores were averaged across all facial forensics examiners—modeling the forensic-lab practice of engaging several examiners to weigh in on face comparison decisions—the experts achieved a near-perfect mark of 0.997. Phillips and colleagues from the University of New South Wales and the University of Texas at Dallas reported the results of their comparative study in the Proceedings of the Royal Society of London.
+
+Trained facial examiners testify in court on whether faces in two images are the same person. Until now, however, the accuracy of forensic examiners in matching identity across different photographs has never been tested, according to NIST officials.
+
+In this initial set of experiments, the scientists tested three groups: students, forensic facial examiners who are specially trained to compare facial images for law enforcement, and people who work in the field of facial recognition but are not examiners. All participants reviewed pairs of faces on a computer screen and judged whether the faces belonged to the same person. The faces were chosen because they were hard to recognize and difficult for computer algorithms to distinguish between.
+
+The participants performed a standard face-matching test and two new tests devised by the researchers. In all three tests, trained examiners outperformed facial recognition controls and student controls, in that order.
+
+Phillips says the next round of experiments will study the accuracy of facial examiners using their tools and methods in a laboratory.
+
+The research responds to a 2009 National Academy of Sciences report that called for efforts to build the scientific foundation that supports forensic practices. The report recommended that NIST, among other organizations, develop protocols and best practices that form the basis for standards.
+
+ </text>
+  <imgalttext>
+    <img>To determine facial examiners' skills in matching whether faces in two images are the same person, researchers pushed the boundaries by adding inverted images and photos with backgrounds to the standard face-matching of closely cropped head shots.</img>
+  </imgalttext>
+</article>

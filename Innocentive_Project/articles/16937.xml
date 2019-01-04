@@ -1,0 +1,32 @@
+<article>
+  <type>blog</type>
+  <title>Defense Department Launches 'Hack the Army' Bug Bounty Program</title>
+  <author/>
+  <date/>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>Hackers, take your mark. Building on the successes of the U.S. Defense Department’s “Hack the Pentagon” bug bounty program launched earlier this year, the Army now launches its own challenge. it’s now the Army’s turn.</abstract>
+  <text>Hackers, take your mark.
+
+Building on the successes of the U.S. Defense Department’s “Hack the Pentagon” bug bounty program launched earlier this year, it’s now the Army’s turn.
+
+Hackers now can register for the “Hack the Army” bug bounty challenge, a competition modeled after the Defense Digital Service’s “Hack the Pentagon” pilot. The Army program is focused on more operationally relevant websites—specifically those affecting the service’s recruiting mission, according to a news release.
+
+“[T]he security of these foundational systems is incredibly important to me, and security is everyone’s responsibility,” Army Secretary Eric Fanning said in a statement. “We need as many eyes and perspectives on our problem sets as possible, and that’s especially true when it comes to securing the Army’s pipeline to future soldiers.”
+
+Some of the anticipated 500 hackers will be eligible to receive thousands of dollars in bounty rewards. 
+
+The April launch of the “Hack the Pentagon” challenge unleashed vetted hackers onto the Defense Department’s networks, giving them legal authorization to ferret out cyber vulnerabilities in specific networks, also in return for cash payments.
+
+The department unveiled another initiative on Monday designed to further enhance cybersecurity. The Defense Department Vulnerability Disclosure Policy provides a legal avenue for security researchers to find and disclose vulnerabilities in any public-facing systems, according to a release. “The Vulnerability Disclosure Policy is a ‘see something, say something’ policy for the digital domain,” Defense Secretary Ash Carter said in a statement. “We want to encourage computer security researchers to help us improve our defenses.”
+
+The policy will provide a standing avenue of reporting for all Defense Department websites, whereas bug bounties like “Hack the Army” will offer incentives to researchers to focus on specific high-priority department networks and systems. The Justice Department’s Criminal Division has blessed the policy.
+
+The Pentagon’s bug bounty program is modeled after similar competitions conducted by some of the nation’s biggest companies to improve the security and delivery of networks, products and digital services.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

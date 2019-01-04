@@ -1,0 +1,15 @@
+<article>
+  <type>blog</type>
+  <title>Codes Can't Hide</title>
+  <author>H. Mosher</author>
+  <date>October 31, 2008</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract></abstract>
+  <text>The Malicious Code Research Center, Finjan Incorporated, has discovered examples of obfuscated code embedded not only in hypertext markup language Web pages on legitimate Web sites but also in rich-content files. According to a recently released Finjan report, popularity is increasing for online advertisements as well as user-generated content on Web 2.0 Web sites in directing users to malware-infected content files. Code obfuscation remains the preferred cybercriminal technique for their attacks, the report states.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

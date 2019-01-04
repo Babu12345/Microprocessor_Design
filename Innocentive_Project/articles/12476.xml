@@ -1,0 +1,28 @@
+<article>
+  <type>blog</type>
+  <title>Weathering the Big Data Storm</title>
+  <author>George I. Seffers</author>
+  <date>March 11, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+    <department>Event Coverage</department>
+    <department>Homeland Security</department>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>data management</tag>
+    <tag>emergency response</tag>
+    <tag>homeland defense</tag>
+    <tag>information operations</tag>
+    <tag>Homeland 2014</tag>
+  </tags>
+  <abstract>The National Weather Service is the granddaddy of open source data, according to Adrian Gardner, chief information officer, Federal Emergency Management Agency (FEMA). And, the National Oceanic and Atmospheric Administration (NOAA) was "into big data before big data was cool," added David McClure, a data asset portfolio analyst within the NOAA Office of the Chief Information Officer.</abstract>
+  <text>The National Weather Service is the granddaddy of open source data, according to Adrian Gardner, chief information officer, Federal Emergency Management Agency (FEMA). And, the National Oceanic and Atmospheric Administration (NOAA) was "into big data before big data was cool," added David McClure, a data asset portfolio analyst within the NOAA Office of the Chief Information Officer. The two officials made their comments during a panel on big data analytics at the AFCEA Homeland Security Conference in Washington, D.C.
+	The panel touched on a wide range of big data-related topics, including the value of data to information management; privacy and the need to protect personally identifiable information; and the impact of social media.
+	"There is no way we could respond efficiently and effectively without data," Gardner stated. FEMA clients demand accurate, real-time data to save lives, he added. McClure questioned whether data analytics needs to be a prerequisite for college.
+	Both men discussed the importance of protecting personal data. McClure distinguished between privacy issues and anonymity. Many people ask for the former but really want the latter. He cited the example of people posting partying pictures on social media sites, which could then be viewed by potential employers. "They really do want it to stay in Vegas," McClure joked. Gardner added that it is not a technology issue; it is a cultural issue, and he suggested people go through a "mental exercise," analyzing how information could be used before posting. He also pointed out that federal agencies manage a lot of personally identifiable information and have to consider carefully the burden of protecting that information. McClure suggested a cultural shift will occur and people will be taught from childhood to keep information private.
+	One audience member brought up the important role that amateur radio operators played in communications following Hurricane Katrina. Gardner agreed saying that FEMA's emergency communications plans take so-called ham operators into account.
+	McClure pointed out that NOAA receives big data from multiple sources, including satellite buoys and other sensors. "We will continue to do what we do while continuing to try doing it better," he said.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,28 @@
+<article>
+  <type>article</type>
+  <title>Cybersecurity: ?So Much to Learn,? So Much to Do</title>
+  <author>Max Cacas</author>
+  <date>October 1, 2012</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Association Feature</tag>
+    <tag>SIGNAL Magazine</tag>
+    <tag>October 2012</tag>
+  </tags>
+  <abstract></abstract>
+  <text>The final conference in the TechNet Land Forces series focuses on military efforts to defend vital computer networks.
+It is noteworthy when the nation’s top military leader in the realm of cybersecurity openly admits to using a piece of shareware to teach himself how to think like a hacker. Gen. Keith Alexander, USA, commander of U.S. Cyber Command, and director, National Security Agency, related in his keynote address at the TechNet Land Forces East conference at the Baltimore, Maryland, Convention Center in August, that he spends some of his nights and weekends working with Backtrack, a Linux-based software application that is readily downloadable from the Internet and allows the user to practice and learn basic cyber-penetration tactics. The general said it is vital for cyberdefenders to think like hackers, who cultivate a working understanding of the vulnerabilities of networks and who work every day to exploit those vulnerabilities.
+Rear Adm. David Simpson, USN, vice director of the Defense Information Systems Agency, rhetorically asked during a panel discussion on the future of cybersecurity how one would distinguish the collection of routers and switches that make up the Internet from the kitten videos, blogs and other content that populates its servers. It is vital to understand the distinction, he emphasized. Budgets are declining, and expectations are rising that the military one day may play a role in defending not only the .gov and .mil Internet domains but also the .com private business domain. Brig. Gen. George Franz III, USA, director of current operations at U.S. Cyber Command, noted that it is vital to develop the capability to see down to the end of the conduits.
+	When organizations purchase a router or switch for a network control room, are they really getting what they pay for? A panel of experts told attendees on the second day of the conference that when it comes to cybersecurity, it pays to ask hard questions. Dan Wolf, president of Cyber Pack Ventures, said it is time that risk management in the realm of cybersecurity be integrated into federal acquisition regulations, and he urged that global standards bodies revamp their requirements to account for the need for improved cybersecurity.
+	An all-star panel of military cybersecurity leaders explored the question, “What Does It Take to Prevent?” The panel was led by Mary Lee, director of strategy and policy development with the National Security Agency’s Cyber Task Force. Lee stressed that the inherently noncentralized nature of the global Internet dictates that teamwork and collaboration must define cybersecurity efforts. Lt. Gen. Vincent Brooks, USA, commanding general of the U.S. Army Central/3rd Army, said his biggest concern is “the weakest link: the user,” and that hackers exploit the naiveté of users who allow malware to enter a network by using unauthorized thumb drives.
+	Rear Adm. Robert E. Day Jr., USCG, director, U.S. Coast Guard Cyber Command, explained that better training is key to defeating those bad user habits. Taking a different stance, Brig. Gen. Kevin J. Nally, USMC, chief information officer, U.S. Marine Corps, said his command is developing additional training for middle- and upper-level officers to help them become aware of the latest cybersecurity issues.
+	Another panel discussion emphasized the importance of U.S. coalition partners in the cybersecurity effort. Maj. Gen. John Davis, USA, senior military adviser for cyber to the Undersecretary of Defense (Policy), believes cybersecurity is a team sport and discussed how joint training exercises are being modified accordingly.
+	Steven Sprague, president and chief executive officer of Wave Systems, urged industry to make use of the Trusted Platform Module, a chip for which his firm writes the software. It can provide encrypted cybersecurity verification embedded in more than 600 million smartphones and computers worldwide.
+	Jeff Witsken, chief of network integration, Mission Command Center of Excellence, told the wrap-up panel of the conference that his organization is currently completing a military manual that, for the first time, integrates electronic warfare and cybersecurity doctrines and addresses how they are to be used in warfare.
+For more coverage from TechNet Land Forces East 2012, visit SIGNAL's TNFLE Coverage and Collaboration page.
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

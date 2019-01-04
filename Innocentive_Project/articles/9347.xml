@@ -1,0 +1,27 @@
+<article>
+  <type>blog</type>
+  <title>Hacktivist Group Anonymous Achieved Goal</title>
+  <author>George Seffers</author>
+  <date>March 29, 2012</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Booz Allen Hamilton</tag>
+    <tag>cyber</tag>
+    <tag>TechNet Land Forces SW 2012</tag>
+    <tag>Event Coverage</tag>
+    <tag>Recent Events</tag>
+  </tags>
+  <abstract>When the hacker activist group Anonymous broke into Booz Allen Hamilton's networks and stole thousands of email addresses, the company was embarrassed, and that's exactly what Anonymous wanted, said Joseph Mahaffee, the company's chief information officer.</abstract>
+  <text>When the hacker activist group Anonymous broke into Booz Allen Hamilton's networks and stole thousands of email addresses, the company was embarrassed, and that's exactly what Anonymous wanted, said Joseph Mahaffee, the company's chief information officer.
+
+Mahaffee, who took the Booz Allen Hamilton chief information officer job three months before the attack happened, made the comments at the TechNet Land Forces Southwest conference in Tucson, Arizona. "In that particular event, we were attacked by Anonymous in the early part of July. They were able to penetrate one of our systems in our environment. On the surface, what was being reported in the news at the time was that Anonymous had confiscated roughly 90,000 of our user email addresses. The challenge with email addresses is that once they're exposed, you are potentially vulnerable to phishing attacks," Mahaffee said. "This was not a malware attack. This was Anonymous. They were basically looking to disrupt our operations. They were looking to cause embarrassment to us. Quite frankly, on that front they achieved it. We were embarrassed by it," he confessed.
+
+During the initial investigation, however, the company did not know it was not a malware attack.  "We had to look at more than what was on the surface. We had to go back and look at everything we were doing-not just for that particular system but for everything in that environment where that particular system was located. We had to convince ourselves that that was the only thing they had gotten," he reported.
+
+He differentiated between cyber activists and advanced persistent threats. "Quite frequently when these attacks occur, they don't stop in one place. They will look to leave nice little packages behind in several places within the network. That is particularly true of advanced persistent threats. If they are successful in getting into your networks, they will leave packages of malware all over the place and hope that you are unable to find all of those packages," Mahaffee said.
+
+The company's response included disclosing the security breach to their customers and turning to the country's cyber centers for assistance. "When we talked to national cyber centers around the country, the response we got from most of them was, 'welcome to our world,'" he said.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

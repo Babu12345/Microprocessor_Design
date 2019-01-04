@@ -1,0 +1,25 @@
+<article>
+  <type>blog</type>
+  <title>IARPA-Funded Project Advances Biometrics Intelligence</title>
+  <author/>
+  <date>April 29, 2016</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>IARPA</tag>
+    <tag>biometrics intelligence</tag>
+    <tag>facial recognition</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>A group of University of Maryland researchers has developed an algorithm that can not only detect a face, but also simultaneously determine the gender and pose, and extract fiducial, or reference, points.</abstract>
+  <text>A group of University of Maryland (UMD) researchers has developed an algorithm that can not only detect a face, but also simultaneously determine the gender and pose, and extract fiducial, or reference, points.
+
+The Office of the Director of National Intelligence, Intelligence Advanced Research Projects Activity (IARPA) has provided funding and support for the invention, which has been dubbed HyperFace. The algorithm simultaneously detects faces; finds facial landmarks, including eye center, nose tip, etc.; estimates the head pose; and recognizes the person’s gender from any real-world images and videos, Rama Chellappa, UMD chair of electrical and computer engineering, said in a written announcement.
+
+The team's inspiration for this technology is deeply rooted in the brain's ability to analyze features, landmarks and emotions of a human face all at once. While some social media platforms can recognize and tag faces, HyperFace goes far beyond those capabilities, and the implications for the future are far-reaching, the researchers say.
+
+Applications for HyperFace include automatic face tagging, mobile active authentication, automatic monitoring through surveillance cameras, face identification, affective computing and expression analysis for medical applications, such as automatic pain and fatigue detection and facial emotion analysis. The team envisions the technology will be used in multiple fields, particularly in medical, security, psychology, surveillance and social networking applications.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

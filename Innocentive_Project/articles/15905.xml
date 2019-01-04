@@ -1,0 +1,34 @@
+<article>
+  <type>blog</type>
+  <title>Breaking the Chains of Antiquity: The Benefits of Hybrid Networking in a Defense Environment </title>
+  <author>Tony Bardo</author>
+  <date>April 11, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Guest Blogs</tag>
+    <tag>network</tag>
+    <tag>broadband</tag>
+    <tag>Internet of Things</tag>
+    <tag>BYOD</tag>
+  </tags>
+  <abstract>Current technology trends such as the Internet of Things, bring your own device initiatives and the deployment of cloud-based applications all demand more and more bandwidth. One aspect of modernization that could be overlooked as we rush to implement emerging technologies is also the most important—the network backbone that will support it all.</abstract>
+  <text>Current technology trends such as the Internet of Things (IoT), bring your own device (BYOD) initiatives and the deployment of cloud-based applications all demand more and more bandwidth. One aspect of modernization that could be overlooked as we rush to implement emerging technologies is also the most important—the network backbone that will support it all.
+
+As the Defense Department progresses into this new era of connecting more and more devices to its networks, it ironically expands the disconnect between technological advances and the budget dollars available to make them happen. The gap is perpetuated by issues surrounding a reliance on legacy network services, including government procurement requests that are tied to decades-old technology. The antiquated system no longer supports today’s mission-critical functions and applications powered by new bandwidth-hungry technology. It is time for a new network model.
+
+As luck would have it, that model already exists and is being adopted by a number of private sector enterprises as well as civilian government agencies. The rising industry standard has taken the form of hybrid networks—systems that blend traditional multiprotocol label switching (MPLS) networks with managed broadband. This solution shores up weaknesses that burden enterprise networks, such as a lack of bandwidth, budget, capacity and availability—particularly at military bases. What makes this hybrid model ideal is that it doesn’t require gutting an entire network. It can start by replacing or supplementing existing T1 lines with available broadband service at distributed locations and connect to the core MPLS network already in place, after which additional sites can be phased in over time.
+
+Hybrid networks provide additional bandwidth by either supplementing or replacing the traditional dedicated T1 lines with the more cost-effective bandwidth of managed broadband connections. For distributed defense networks that must support a growing number of connected devices and new applications, this prevents congestion in instances where traditional network access technologies cannot handle the volume of higher traffic. A case in point: a hybrid model achieves this by optimizing the Internet transport and its lower price points and intelligently prioritizing and routing traffic. The benefits of a managed network securely add bandwidth while alleviating the strain on network capacity.
+
+Currently, when an agency needs additional bandwidth at distributed sites, it will acquire this by purchasing additional (sometimes multiple) T1 lines, often rather expensive for the limited capacity they offer. The hybrid network alternative—implementing managed broadband at these sites—offers higher levels of bandwidth at a substantially lower price. 
+
+Despite the tangible performance improvements and cost benefits that a hybrid network solution offers, concerns remain over the security of Internet-based transport as opposed to dedicated networks; concerns Rep. William Hurd (R-TX), chairman of the Subcommittee on Information Technology of the House Committee on Oversight and Government Reform, recently described as a “huge misconception.” This is because Internet-based technologies use the highest level of security standards, such as the AES-256 encryption standard employed by intelligence agencies, to protect classified information. Fully managed, secure end-to-end services  utilize this encryption to protect sensitive information, both at rest and in transit. Managed service providers such as Hughes instantly detect malicious activity and either terminate or quarantine it in secure environments for further investigation, eliminating network risks.
+
+With rising bandwidth demands and plateauing budgets, the situation is clear—defense agencies must adopt the new, cheaper and more efficient standard: hybrid networks. Every day that the military perpetuates the antiquated model of legacy networks is one more day of wasted dollars and underperforming networks, which limits the potential of new applications and cloud-based solutions for today’s modern warfighter.
+
+Tony Bardo is the assistant vice president for government solutions at Hughes Network Systems.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

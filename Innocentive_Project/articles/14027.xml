@@ -1,0 +1,42 @@
+<article>
+  <type>article</type>
+  <title>Cloud Computing Value Measured in More Than Dollars</title>
+  <author>George I. Seffers</author>
+  <date>January 20, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>cloud computing</tag>
+    <tag>DISA</tag>
+    <tag>online exclusives</tag>
+  </tags>
+  <abstract></abstract>
+  <text>Moving to a cloud environment will save government agencies money, but those savings may not be great, especially in the short term. The cloud environment will, however, provide a range of valuable capabilities, according to three government chief technology officers.
+
+“If you went to the senior executives, they would say it’s all about saving money. I’m going to tell you, though, there isn’t necessarily the immediate savings you might think there is,” said David Mihelcic, chief technology officer, Defense Information Systems Agency. Mihelcic made the comments January 15 at the Federal Cloud Computing Summit in Washington, D.C.
+
+He estimated that the hosting environment will take up about 10 percent of the cost of any information technology system. The other 90 percent of costs will be in software licenses and system administration. “By moving to a cloud environment, we’re going to save 50 percent of our hosting environment. Fifty percent of 10 percent is only 5 percent. Maybe that isn’t as big a return as you thought,” Mihelcic stated.
+
+But moving to the cloud still will be worth the effort because it will allow a move from legacy “fixed applications” to “modern, Internet-style applications” that will allow development and deployment in virtualized environments, the ability to rapidly push software out and the ability to have software usage scale up on demand.
+
+That means the Defense Department will only pay for the capacity required at a particular time. And where there’s a surge requirement, the department will “actually be able to reach into the commercial provider’s infrastructure and draw those resources, use them for the amount of time required and then turn them back,” Mihelcic offered. “Really, we’re going to buy ourselves agility and speed, being able to get services to market more quickly,” he added.
+
+Maria Roat, chief technology officer, Department of Transportation, agreed. “I don’t think you’re going to see as much in the cost-savings area ... but you’re going to be able to add more capability with the cloud,” she said. “It’s going to be less about the cost savings and more about the capabilities and more flexibility and being able to adapt much more quickly to what the business needs.”
+
+Roat added that moving to a cloud environment offers a chance to eliminate aging systems as well. “I think it’s really going to bring opportunities to modernize and to move the ball forward a bit faster,” she said.
+
+Wolf Tombe, chief technology officer, Customs and Border Protection (CBP), stressed that a cloud computing environment offers greater visibility into costs, and he offered an example of how the surge capability works. The CBP's financial system sees an increase in usage at the end of each fiscal year as the agency closes out the books, he reported. The system was built to handle the maximum required capacity, even though it actually runs at a much lower capacity for most of the year. “If I move that to the cloud, I’m going to pay for that lower capacity year round and only pay for that closeout for about a month and a half at the end of the fiscal year and then drop back down to normal capacity. Those are some of the true values in the cloud—visibility and costs,” he contended.
+
+Mihelcic said cloud computing does not necessarily offer the visibility needed on system administration costs, but he touted automation opportunities. “If we can automate deployment and many of the day-to-day management functions as we move to a cloud environment, we potentially could have huge savings because instead of having 20 or 30 people on shifts 24/7 to manage a legacy application, hopefully, we’ll be able to do that with zero people or just one person,” he said.
+
+He indicated that the Defense Department is aggressively pursuing automation opportunities. In one case, for example, the department has worked with the Air Force on a system to automate deployment of systems into the MilCloud environment. “We’re looking at automating database systems and all with an eye toward not only reducing the number of humans required to deploy, manage and patch systems but also reducing the amount of time to do that and improving quality because humans only screw things up. If I can get humans out of the data center, things will be much less screwed up,” he declared.
+
+Mihelcic recommended careful analysis of which systems move to the cloud in what order. “You have to prioritize your portfolio. Look at those applications that are already virtualized. If something is virtualized, it will more than likely move to the cloud easily. Look at applications that are going to have a good return on investment, the ones you’re not going to spend a lot of money moving over,” he suggested.
+
+He also revealed that the Defense Department has released a new security requirements guide. “We officially released the SRG, the security requirements guide, and essentially have now opened up for sensitive-but-unclassified requirements, the use of government community clouds, commercial clouds that are set up and dedicated to serving only government users or infrastructure as a service, in particular,” Mihelcic said. “Those are going to be approved for sensitive but unclassified mission spaces. For more sensitive mission spaces, national security systems or classified systems will be leveraging a mix of private cloud as well as legacy data centers.”
+
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

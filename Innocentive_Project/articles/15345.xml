@@ -1,0 +1,43 @@
+<article>
+  <type>blog</type>
+  <title>Acoustic Kitty and Zombie Home Appliances: Yesterday's Theories Shape Tomorrow's Technologies </title>
+  <author>David Archer</author>
+  <date>October 15, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+    <tag>Internet of Things</tag>
+  </tags>
+  <abstract>What does the CIA's Project Acoustic Kitty have in common with zombie home appliances? The answer can be found in three letters: IoT. Left unchecked, the Internet of Things poses notable threats, both commercially and militarily.</abstract>
+  <text>In 1967, CIA operatives needed a way to spy on a Kremlin ally and sought to capitalize on a common place nuance: feral cats. The creators of Project Acoustic Kitty contrived to surgically implant a transmitter and microphone into a cat, postulating that they could slip “under the radar” on quiet paws. Although agents tested at least one Acoustic Kitty, officials determined that cats could not be adequately trained, and the program was—well, scratched.
+
+Fast-forward nearly 50 years and numerous technological improvements, and the supposition behind the failed Acoustic Kitty has much in common with the emerging Internet of Things (IoT), including ubiquity, invisibility, an easy attack surface and a sensor-rich source of intimate intelligence.
+
+How many of us think our toasters pose a threat? An Apple Watch can run malware that reliably determines what the wearer types on a keyboard. Last year, a group of more than 100,000 devices connected via the Internet, including at least one refrigerator, took part in a massive spam attack. Multiple smartphone apps colluded to leak sensitive data such as GPS locations. Hackers have compromised automobiles through built-in IoT interfaces, defeating brakes and other systems. Whether through exfiltration or kinetic action, the IoT poses a notable threat.
+
+The IoT is problematic from a security perspective because connected devices are always on, even when you think they’re not. They support a wide range of sensors and often are connected to a worldwide access network with essentially no security controls. These devices are vulnerable because their developers use commercial off-the-shelf technologies that are well-understood by adversaries. For example, some pacemakers run a version of Windows, and insulin-pump hacking through a wireless interface was demonstrated at Black Hat long ago.
+
+Why does the IoT belong on the battlefield of the future? Because it offers enormous advantages in sensing the battlespace, coordinating forces and operations, and ensuring troop safety and health. Efforts by the Defense Health Agency include using the IoT to monitor for traumatic brain injuries and to remotely monitor, stabilize and report on wounded soldiers' conditions even before they arrive at medical treatment facilities.
+
+Potential damage from compromised IoT devices on the battlefield is limited only by the imagination of an adversary, but it would likely include scenarios such as the exfiltration of actionable intelligence, induced paralysis of vehicles and network-connected weapons, compromised command and control, injection of false intelligence into sensor networks, and the loss of asset control. All of these scenarios have been demonstrated within the civilian IoT domain.
+
+While the IoT can offer undeniable military advantages, if left unguarded, it threatens to destabilize effectiveness. What can we do to reap the benefits for ourselves but deny them to adversaries?
+
+Design security into IoT devices from the start, such as hardware with secure roots of trust, hypervisors with provable security, and isolation to prevent applications from interacting.
+	Use IoT application code vetted by careful manual inspection—for example, the BuildItSecure.ly initiative—or by formal proofs of key security properties.
+	Include full attestation capability in IoT devices that allows unspoofable interrogation of devices and the software running on them.
+	Secure the IoT supply chain from end to end using cryptographically unforgeable ledgers, such as block chains.
+	Require IoT devices to use positive, cryptographically strong, multifactor authentication.
+	Connect IoT devices in ways that keep them unavailable to adversaries. Google's work done through its Nest Labs home automation division is an example.
+	Explore techniques to detect anomalous behavior that might indicate compromise. The Defense Advanced Research Projects Agency, or DARPA, in its Leveraging the Analog Domain for Security (LADS) program, aims to achieve this goal by developing techniques for detecting attackers in digital devices by monitoring their analog emissions.
+The good news is that we know the IoT is an attack surface full of gaps, and we have many techniques, like those above, to close those gaps. The bad news is that there’s little economic incentive to act. These techniques, and others similar to them, take extra development effort and investment that IoT device developers won’t make on their own.
+
+These techniques also require a new design mindset and expertise: security from the start. In addition, some of the most important techniques need extra infrastructure that—you guessed it—costs more. The time to influence the Internet of Things is now. If we don’t insist on designed-in security, IoT devices will become the Acoustic Kitties and zombie refrigerators of the battlefield. It’s time to take a stand for building IoT security into the battlefield of the future.
+
+David Archer is the research lead for cryptography and multiparty computation at Galois Incorporated, which specializes in creating trustworthiness in critical systems for U.S. government agencies and large commercial organizations. </text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

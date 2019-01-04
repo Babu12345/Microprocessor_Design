@@ -1,0 +1,37 @@
+<article>
+  <type>article</type>
+  <title>Disruptive by Design: The Real Dangers of Trojans Are Not What You Think</title>
+  <author>Master Sgt. Fordham “Jester” Terrill, USAF</author>
+  <date>July 1, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>Adversaries are becoming smarter and more active; their rate of growth itself is disruptive. To see this, all cyber professionals have to do is pay attention.</abstract>
+  <text>The word disruptive typically does not conjure up cordial thoughts. In a forum such as this, thoughts might zero in on commercial endeavors—Facebook, Google, iThings—that can bring chaos into our everyday lives. That is quite the opposite of when industry and cyber professionals think about confronting adversaries. We want to cage opponents’ capabilities, actions and intentions and bring order to the chaos adversaries create.
+
+Experts fall into a trap if they try to confine adversarial efforts to proverbial boxes that give the illusion of control—a lie that limits defenses by defining the adversary solely by what we know. Adversaries are becoming smarter and more active; their rate of growth itself is disruptive. To see this, all cyber professionals have to do is pay attention.
+
+The inspiration for this column came from a discussion with fellow University of Maryland University College students about the definition of a digital Trojan horse: something malicious disguised as something typically trusted—kind of like tequila. Professors teach about different types of Trojans, including remote-access Trojans, proxy Trojans, reverse-connecting Trojans and so on. Trojans do not manipulate files or ruin the day. For that, we must blame payloads, which can do absolutely anything they want. What separates a remote-access implant from a remote-access Trojan simply is the fact that the Trojan pretended to be something trusted to get the user to escort it inside and execute it or leave it alone. Not many types of Trojans exist, but here are a few examples:
+
+• A malicious item is renamed to something trusted, such as malware.exe renamed to explorer.exe.
+• A malicious item is inserted into something trusted: for example, when a malevolent actor places malware.exe inside of the legitimate explorer.exe. An unwitting user could open explorer.exe and it might work perfectly while malware.exe opens in the background. The act changes the actual size of explorer.exe and its file signature—a unique value that can enable host defenses to recognize changes.
+• A malicious item is hidden in something trusted, but the file size and signature do not change. Just as in the last example, the adversary places malware.exe into explorer.exe. However, through even more technical means, the attacker manages the feat without the system seeing a change in the size of the file or its signature—preventing host defenses from detecting the file modification.
+
+These examples provide a quick and dirty, though incomplete, introduction to Trojans. Ancient Greeks used the original Trojan horse to get soldiers into Troy and win the war. The horse is not called a “soldier Trojan,” though the Greeks could have changed the payload and put a bomb or poison in the wooden horse instead of soldiers. The tactic would still have been a Trojan horse and the defensive measures the same.
+
+When it comes to Trojans and other digital threats, the classification approach educators use to prepare future cybersecurity professionals is flawed. Cyber experts overdefine problems in an effort to understand them. It is common practice to rely on the likes of Kaspersky Lab, an international software security group, to define malicious items. The lab lists 19 types of Trojans, all “classified according to the type of actions that they can perform on a computer.” As with the Greeks’ Trojan horse, protecting today’s modern-day payload-carrying Trojan should not require an altered defensive strategy. If defenders are just looking for a big wooden horse, defeat is inevitable when the wagon filled with poison rolls on by.
+
+This way of thinking proliferates in the cybersecurity field and presents a deep problem in the thought process of some of the smarter defensive minds. As a capability developer, I often deliver a new twist to an old song: Anything your system can do, my capability can do better.
+
+Just about any payload can be wrapped into a nice, neat package. Kaspersky’s list is the loud and proud stuff. I get it. However, none of that is about the Trojan. A Trojan is an attack vector, a way in. What the Trojan brings—whether a back door, a rootkit or an exploit—is the payload. The Trojan might change in style or complexity, but the payload can remain the same. Therefore, making them synonymous the way Kaspersky does misses the point. But Kaspersky is not alone. Experts in industry, government and academia do not define Trojans, they define packages of carriers and payloads—and this error is dangerous. A payload is not defensible. The payload can only be remediated or mitigated. However, if the Trojan is defended against, the payload is irrelevant.
+
+When thinking about a digital Trojan horse, both the type of Trojan and the payload it carries are irrelevant when deciding how to classify it. Consider just how much longer the list of Trojans would be if every type of payload were classified with the word Trojan in front of it. Even then, the list would be too short. Limiting what the Trojan can carry, through overdefinition, restricts the planning scope when defending against it. The way many look at cyber—not just Trojans—is a limited way of thinking. It is time to change the way we think. Our adversaries are getting smarter—so should we.
+
+Master Sgt. Fordham “Jester” Terrill, USAF, is a U.S. Air Force cyber warfare operator and a senior strategic cyberspace operations strategist at the 624th Operations Center at Joint Base San Antonio-Lackland, Texas. The views stated are his alone and do not represent the views or opinions of the U.S. government, the Defense Department or the Air Force.
+
+contact: Master Sgt. Fordham “Jester” Terrill, USAF, jester@terrillbunch.net</text>
+  <imgalttext>
+  </imgalttext>
+</article>

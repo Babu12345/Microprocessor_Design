@@ -1,0 +1,68 @@
+<article>
+  <type>article</type>
+  <title>A Cloud Approach Could Solve Defense Infrastructure Challenges</title>
+  <author>Paul A. Strassmann</author>
+  <date>March 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>information technology infrastructure</tag>
+    <tag>cloud computing</tag>
+  </tags>
+  <abstract>Much has been said and written about the U.S. Defense Department’s move to the cloud. This migration could provide enhanced security and better information access, say many experts. But it could provide another huge benefit, helping the Defense Department finally curb information infrastructure costs and apply badly needed funds where they would be most useful.</abstract>
+  <text>Much has been said and written about the U.S. Defense Department’s move to the cloud. This migration could provide enhanced security and better information access, say many experts. But it could provide another huge benefit, helping the Defense Department finally curb information infrastructure costs and apply badly needed funds where they would be most useful.
+
+The infrastructure of enterprise systems largely is invisible to users. Customers see only applications that deliver tangible results. Whether information technology delivers useful computer-based services to the Defense Department ultimately can be judged only through a critical evaluation of how applications support operations of the largest computer complex in the world. This complex exceeds the budget of the topmost U.S. commercial firm by a multiplier of seven.
+
+The deployment of infrastructures has characteristics different than the support of applications. Infrastructure is invisible to users while it supports all applications. Infrastructures can be analyzed as a distinctly separate class of information technologies. In terms of financial accounting, an infrastructure should be classified as an “overhead” function, whereas applications should be thought of as “direct costs” of conducting Defense Department business.
+
+When viewed from a budgeting perspective, high overhead costs—excessive infrastructure—always are undesirable. Consequently, the Defense Department chief information officer (CIO), seeking to improve information technology productivity, first must concentrate on what share of a total budget is dedicated to the department infrastructure. What remains after that should be spent on analyzing the effectiveness of applications; these systems represent direct costs, which have the capacity to contribute to any gains in the value of the Defense Department.
+
+When I served as the director of defense information in the Office of the Secretary of Defense, CIOs did not exist. My approach to the Corporate Information Management program therefore was to examine first how much was spent on the Defense Department infrastructure to support warfighting before paying attention to all other parts of the department’s information technology budget. Infrastructure included communications, data centers, security, networks and office automation. Applications in logistics, human resources, finance, accounting and health were classified as direct costs supporting the military.
+
+In 1990, I discovered that the cost of the Defense Department infrastructure exceeded the cost of department applications. What I called the “tooth-to-tail” ratio was not favorable. This disparity tracks to the current date. Expenses for the Defense Department infrastructure consistently rose. Indirect costs kept growing as functional consolidations took place, such as in the form of the Defense Logistics Agency, Defense Finance and Accounting Services, the Defense Information Systems Agency and others. Each of these agencies contributed to the growth of the defense infrastructure by fostering its further expansion.
+
+The increase in the relative cost of the defense infrastructure warrants further examination. Is the large infrastructure-to-applications ratio an inherent characteristic of the Defense Department? Should the information technology budgets for 2015-2020 assume that a low “tooth-to-tail” ratio would continue on the existing trend?
+
+In examining the infrastructure-to-applications ratio as seen from the standpoint of the current fiscal year 2015 information budgets, analysis is incomplete. It does not include the costs of the military manpower and civilians assigned to information technology operations. To the extent that such exclusion favors rising costs of the defense infrastructure, any conclusions should be viewed as conservative estimates.
+
+The current examination starts with an analysis of the total projected 2015 Defense Department information technology spending. It amounts to $30.3 billion, and it supports 3,330 separate projects. Each of these projects is listed with descriptions of its scope, purpose and financial classification. As a budget document, such examination of information technology spending can be considered fiscally transparent. The entire documentation can be examined in tables issued by the Office of Management and Budget (OMB).
+
+The Defense Department 2015 budget shows that spending for “Infrastructure, [Information Technology] Security, Office Automation and Telecommunications” accounts for 57 percent of the total information technology budget. That amounts to $17.2 billion of expenses and supports 637 projects. Because the consulting contracts—which represent the overwhelming majority of the projects—include manpower devoted to managing the computing infrastructure for each project but is not included in accounting, the budget estimate for the total Defense Department infrastructure can be considered conservative.
+
+Spending for applications, classified as “[Information Technology] Investments for Mission Delivery and Management Support Area,” will consume 41 percent of the total budget, or $12.4 billion for 2,629 projects.
+The remaining 2 percent of the budget is spent for centrally managed projects, such as the staff in the Office of the Secretary of Defense, conformance with Defense Department-wide planning procedures, compliance with exhaustive regulatory requirements, central architectural programs and enterprisewide activities.
+
+Table 1 shows that Defense Department personnel performing “mission delivery” received the value of information technology for only two-fifths of department spending. How much additional overhead is included is not known, even though each of the contractors working on separate projects adds indirect costs on top of project tasks. Three-fifths of information technology in the infrastructure is not visible to users except in cases when there are malfunctions. The expense for the Defense Department infrastructure overwhelms what can be seen as value received directly in support of operations. Current trends do not as yet suggest that application-to-infrastructure costs have improved when compared with commercial firms.
+
+Determining what explains the costly Defense Department infrastructure might be helped by concentrating on spending for security. We cannot obtain data about the efficiency of data centers or telecommunications. In the Defense Department, to my best knowledge, such data does not exist, because it is broken down into separate contracts and individual initiatives.
+
+Table 2 shows a best estimate of the costs of fiscal year 2015 security management. This data was obtained from OMB Form 63 by adding the project budgets that identified security as a purpose. In an operational setting, these numbers are not directly visible except as another obstacle in getting an essential military task accomplished. From a user standpoint information security is the least visible benefit in using computers. Hidden security tasks surface only in response to a violation of increasingly complex rules and regulations.
+
+The extent of known, unknown and “unknown unknown” Defense Department security breaches has not been documented. For that reason, no evidence exists that security incursions have taken place. Published reports show that the Defense Department is spending approximately $1.061 billion in incremental funding on the development of new security projects, which result mostly in additions to the Defense Department infrastructure. Also, innumerable staff hours are expended in dealing with security, discovery of what to do about violations of procedures and delays in getting security issues resolved.
+
+New security projects represent a 6 percent increase in the share of the information technology budgeted infrastructure costs. That increase approximately is equal to the current $1.038 billion decrease in total authorized spending for fiscal year 2014. It can be said that between the increased costs for security and the decreased fiscal year 2014 to fiscal year 2015 information technology budget, the Defense Department experienced not only budget cuts but also an equally large increase in security spending.
+
+To reduce spending for information technology while funding projects for increased security, the Defense Department should lessen the costs of its infrastructure—it is the largest opportunity that is available. A total of 637 infrastructure projects offer greater opportunities for cost reductions than 2,629 application projects, which are linked tightly with military service methods and procedures. Infrastructure has fewer vendors and contractors than applications. Therefore, cost reductions can be concentrated on fewer small targets. Further consolidations of communication networks and data centers can take advantage of economies of scale in rapidly more efficient technologies, whereas a consolidation of applications is difficult, because it involves personnel. The affected staff to operate the Defense Department infrastructure is a fraction of the number of people disturbed by any changes in applications.
+
+A much smaller number of people can support scaling down the department infrastructure, because highly efficient cloud services already are available and the costs of transactions can be quoted as a variable direct costs instead of as a fixed overhead cost.
+
+These differences in fixed infrastructure costs and variable usage expenses can be found in economics, organization, technology and security, to name a few distinguishing characteristics. Infrastructure can be scaled to fit changes in military doctrine and deployment. Security, as a large part of the defense infrastructure, cannot do that, because it must fit Army, Navy and Air Force needs. U.S. adversaries attack the Defense Department; their bots are found burrowing through systems regardless of which service is attacked.
+
+The consolidation of the Defense Department infrastructure should take place to take advantage of the economies of scale in the utilization of capital assets. Ultimately, the way in which the “infrastructure of security” will be organized will affect every part of it, as all security capital costs are subject to rapid rates of obsolescence. When the ratios of infrastructure versus applications shift, long-held planning assumptions must be altered to favor a rapidly adaptable security infrastructure—which often can change hourly and not in yearly increments as currently is the case.
+
+The economics of computing services favors the concentration of cost cutters on the infrastructure and not on applications. Because the infrastructure is made up mostly from capital goods, the rapid reductions in the costs of computing assets should result in infrastructure cuts in the share of the information technology budget. The current 57 percent share of the infrastructure will have to come down to less than its fraction, which is characteristic of commercial companies that have practiced cost reduction continually.
+
+Meanwhile, the information technology share that supports applications also should grow. The total information technology budget should have a capacity to support rapidly growing demands from users for improved services with only minimal increases in total information technology spending. The information technology budget can increase only at a rate that follows the rise in the economy, while benefiting from the less than 18 percent reductions in the costs of technology.
+
+Applications are labor intensive. They rise faster than the economy as the mix of personnel shifts to greater skills and higher compensation, while automation favors the skinning down of clerical staffs. Information technology costs allocated to applications should also change as the supporting infrastructure is streamlined. Applications that leverage reliance on a simplified “platform-as-a-service” will have materially lower development costs. Developers will benefit from an infrastructure that offers bug-free features for the handling of database, security, display, retrieval or communications.
+
+Infrastructures can be centralized. They depend on long-range investments with a horizon of several years, because that has been the length of the technological life cycle so far. Infrastructures, and particularly their security features, then should continue to be persistent until such time when the technology life cycle is ready for another transformation.
+
+ 
+
+Paul A. Strassmann is a former director of defense information in the Office of the Secretary of Defense</text>
+  <imgalttext>
+  </imgalttext>
+</article>

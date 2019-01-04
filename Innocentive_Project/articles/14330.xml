@@ -1,0 +1,51 @@
+<article>
+  <type>article</type>
+  <title>Cyberwarfare Needs More Brains</title>
+  <author>Paul A. Strassmann</author>
+  <date>April 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>The U.S. Defense Department now has taken steps to empower the chief information officer. It is a sign that the relative importance of computer-based operations is moving into prominence.</abstract>
+  <text>Cyberwarfare largely is viewed as confrontations in the power of brains and not as a competition in the amounts of kinetic assets. It is the characteristic of asymmetric warfare that power is shifting from the primary military dependence on weapons to the more elusive reliance on software. The U.S. Defense Department now has taken steps to empower the chief information officer. It is a sign that the relative importance of computer-based operations is moving into prominence.
+
+The Chairman of the Joint Chiefs of Staff, Gen. Martin Dempsey, USA, said in January, “U.S. military superiority does not carry over to cyberwarfare.” Accordingly, the United States dominates every form of kinetic warfare but does not have a comparable capacity in dealing with cyberthreats.
+
+Recognizing the Defense Department’s lag in cyberwarfare, the secretary of defense moved in December 2014 for the department’s chief information officer (CIO) to report directly to the secretary. This CIO now becomes one of the leaders in preparing U.S. defenses for rapidly emerging new risks. The CIO assumes new powers to upgrade the Defense Department to superior cyberwarfare competency and to make it comparable to waging kinetic warfare.
+
+The evolution of the role of the defense CIO has not been influential in steering the pace of digitization of the armed forces. In the 1980s, the department CIO used to report to the comptroller. In the 1990s, the assistant secretary of defense for command and control became the designated CIO, gaining influence through the control of the Defense Information Systems Agency (DISA) but with no budget control. This did not recognize that shared defenses would have to be in place to safeguard Defense Department cybersecurity.
+
+Since the end of the Cold War, the Defense Department has made qualitative improvements in thousands of separate projects. But the deployment of information technology was subordinated to budgeting processes that remained in place since the days when the Defense Department comptroller dictated allocation of spending. Information technology was managed by the military components, with the Office of the Secretary of Defense exercising hardly any direct control. That approach will change with the CIO’s increased oversight under the secretary of defense. Large parts of cyberwarfare will have to be operated as joint services.
+
+The Office of the Defense Department CIO now will include several responsibilities. First, the CIO will dictate an enterprise-wide architecture that permits shared interoperability, collaboration and interface for intradepartment as well as nondepartment applications. This requires the Defense Department to operate in an environment that severely limits its vulnerability to cyber attacks. Tens of thousands of applications now in place, developed over 40 years, cannot produce that. The department presently is saddled with hundreds of man-years worth of obsolete software, most of which will have to be converted or junked. Limits on spending will not allow such an overhaul unless this is done with an architecture that is secure and offers only a prescribed set of options.
+
+Accordingly, the future of Defense Department systems will rest on standardization of the underlying data management and telecommunications infrastructure. Standard infrastructure will reduce development costs while limiting software coding only to application software that remains under the control of military services. Enforcing an enterprise-wide architecture will require the installation of all-inclusive monitoring surveillance of every Defense Department information asset, including remove access devices. The CIO can accomplish that only through the installation of real-time software that consists of tens of thousands of oversight “brains.” The CIO already has in place the Department of Defense Architecture Framework, but it lacks the means for assuring compliance that is essential for countering escalating cyber attacks. It will be the mission of the Defense Department CIO to make sure that architecture is not only a matter of improvised conformance but also a practice that can demonstrate mandatory compliance everywhere.
+
+The CIO also must maintain the inventory of Defense Department mission-critical and mission-essential information systems and develop and maintain contingency plans for responding to disruptions in the operation. This requires full spectrum situational awareness of network vulnerabilities, threats and events, coupled with the ability to act instantly to reduce millions of daily vulnerabilities as they occur at all points of exposure to attacks.
+
+The CIO can see to it that such an inventory will be in place through the installation of network sensing applications that comprise millions of sensors keeping track of events as they take place. Automated diagnostics should identify potential anomalies for presentation to joint network control centers that can track any deviations at every remote site, including mobile devices and wireless controlled computing.
+
+Because attacks can thread their way through multiple stages that do not recognize whether they belong to a particular military service, the organization of network tracking inventory will have to rely on DISA, which controls networks, to perform the necessary monitoring as a service. The Defense Department CIO will see to it that the formation of network control centers will receive priority funding as the first line of defense in cyberwarfare operations, which also will have to include the operation of software firewall countermeasures.
+
+Another key CIO function will be to evaluate the performance of defense information technology investments and advise whether programs should be continued, modified or terminated. The responsibility for influencing information technology budgets is the key to the effect the defense CIO will have on restructuring limited information technology spending to meet cyberwarfare challenges.
+
+With reduced information technology spending and rising costs of cyberdefenses, the Defense Department must radically reallocate how information technology will be deployed in the next decade. The department cannot afford to make major new investments in cybercapabilities without making large cost reductions in ongoing operations. The current information technology budget supports a redundant collection of thousands of individual programs that were funded through acquisitions from a multiplicity of contractors, each bidding on systems that offer unique software solutions. A new generation of systems requires designs dependent on large computer complexes that contain millions of connected servers and that depend on a unified software environment instead of the thousands of totally separate silos of custom solutions.
+
+The transition from what can be considered an obsolescent collection of individual programs to a new environment that imitates firms such as Google, Amazon or Apple should not take another decade. The onslaught of cyberwarfare dictates making urgent improvements. The scale of defense information technology exceeds the size of the largest commercial computer operations by at least a factor of 10. The Defense Department CIO is confronted with a situation where piecemeal information technology acquisition practices cannot meet cost reduction targets or implementation demands. The new CIO has no choice but to ask the U.S. cloud services industry to deliver a secure, low-cost and adaptable solution.
+
+The precedents for the Defense Department acquiring rapid solutions recall the mobilization of industrial capacity, such as when industry delivered hundreds of Liberty ships and tens of thousands of airplanes during World War II. The Defense Department cannot afford spending more than $35 billion a year on labor-intensive information technology solutions offered in thousands of separate contracts. The economics of cloud-organized information technology will have to rely on billions of lines of software code that deliver fully automated information processing.
+
+In addition to these activities, the CIO must guide the recruiting, retention, training and professional development of the cybersecurity work force. This will require assessing the capacity of agency personnel regarding the knowledge to develop senior executives for the management of cyberwarfare.
+
+The ultimate Defense Department cyberdefenses will be found in a cadre of senior executives attracted to the conduct of cyber intelligence, which requires the application of technical aspects for initiating cybercountermeasures. Attackers are evolving into technically sophisticated criminal organizations or nation-state conspiracies. The Defense Department must be able to achieve superiority over adversaries through dedicated leaders and not by reliance on consultants.
+
+Consequently, the CIO’s most important mission is to guide the acquisition of leadership personnel with the competence to handle every incoming cyberthreat. Network control centers that capture deviations from already known security incursions must play a central role in the development of such staff. Staffing such centers with personnel in higher grades is difficult because such staff is scarce. Therefore, CIOs must engage in a program of rapid promotion of existing staff members, when qualified, as personnel are shifted into the cyberwarfare discipline. A high level of technical proficiency will be necessary in each case, because cyberwarfare increasingly will take place as a contest in logic and not as a contest in hardware capacity.
+
+ 
+
+Paul A. Strassmann is a leading researcher on cybersecurity for the International Data Corporation. He formerly served as director of defense information, Office of the Secretary of Defense.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

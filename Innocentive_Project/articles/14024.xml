@@ -1,0 +1,35 @@
+<article>
+  <type>blog</type>
+  <title>Continuing Development for Interoperable ISR Systems for Military Services and Defense Agencies</title>
+  <author>Ralph Wade</author>
+  <date>January 15, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>ISR</tag>
+    <tag>Booz Allen Hamilton</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>The changing nature of threats and diversity of adversaries bring unique challenges to maintaining a strong national security posture. In 2015, we will see nation-states, extremist groups and individuals bring a distinctive set of intelligence challenges to U.S. defense officials. By making the best use of ISR technological capabilities, coupled with innovative commercial information technology, we can equip our military leaders with an integrated ISR enterprise to evaluate and anticipate threats so they more fully and quickly understand proper courses of action, whether on a battlefield or at home.</abstract>
+  <text>The changing nature of threats and diversity of adversaries bring unique challenges to maintaining a strong national security posture. This trend will continue in 2015, as nation-states, extremist groups and individual actors bring a distinctive set of intelligence challenges. By making the best use of our intelligence, surveillance and reconnaissance (ISR) technological capabilities, coupled with innovative commercial information technology, we can equip our military leaders with an integrated ISR enterprise to evaluate and anticipate threats so they more fully and quickly understand proper courses of action, whether on a battlefield or at home.
+
+During a recent event focused on ISR technology, industry, military and civilian officials discussed a key theme for delivering needed intelligence: Develop practical and effective models for digital information systems to communicate with each other—much like what exists in today’s commercial digital ecosystem that is seamlessly integrated.
+
+Today in our personal lives we have access to hundreds of thousands of mobile apps, providing directions, banking, emailing, purchasing goods and services and video conferencing. Each of these apps operates on a variety of devices, including mobile phones, desktop computers and tablets and even in vehicles. How can the commercial marketplace achieve this degree of interoperability and foster this level of innovation, and how can we use similar capabilities in defense and intelligence?
+
+In short, the massive commercial digital ecosystem consists of open architectures, common standards-based technology platforms and data accessibility mechanisms that allow interoperability. Conversely, today’s Defense Department ISR reality is that each system has its own insular structure with complex point-to-point interfaces that do not perform well as an integrated enterprise.
+
+The Defense Department's ISR community is tackling this challenge through the creation of an ISR framework derived from commercial models. The ISR framework, known as the Defense Intelligence Information Enterprise (DI2E), implements guidance from the Intelligence Community Information Technology Enterprise (ICITE) and the Joint Information Environment (JIE) to provide precise technical guidance to optimize interoperability while allowing individual program managers to configure their systems to meet individual mission needs. Incorporating these standards will ensure diverse systems such as Defense Department ISR systems, Joint Intelligence Centers and coalition partner intelligence centers are able to operate in unison to deliver faster, more accurate information to decision makers.
+
+Why can DI2E succeed when other Defense Department interoperability initiatives have failed? Interoperability initiatives across the department are always a challenge, but the DI2E initiative has three key elements that can enable its success:
+
+A compelling operational need for interoperability and access to information exists. Immediately after the September 11, 2001, terrorist attacks in the United States, within the Defense Department, the requirement was to get new capabilities fielded with interoperability as a secondary consideration. This resulted in an enormous intelligence collection capability. Now the driving requirement has shifted to optimizing interoperability of the systems.
+	Commercial technologies for digital information interoperability have matured and successful models abound—this can be leveraged, and little additional research and development is required.
+	DI2E leadership is establishing a technical execution framework where program managers can evolve their programs to transition toward interoperability and ensure new programs are designed for interoperability. This is being proven through events such as the annual George Mason University DI2E Plugfest, where developers can rapidly develop capabilities and integrate into the DI2E framework.
+By defining standards and creating an execution framework for interoperability, the Defense Department is establishing a development environment to achieve the desired functionality for ISR systems. Encouraging the collaborative exchange of technical information will ensure that teams are prepared to effectively implement large-scale upgrades while also fostering the innovation and flexibility to meet the needs of smaller, more specialized missions. The defense and intelligence communities should build on recent momentum to achieve the desired result: an integrated information enterprise capable of providing timely and accurate information to decision makers at the tactical and strategic levels.
+
+Ralph Wade is a vice president at Booz Allen Hamilton. He is a leader in the firm’s U.S. Navy and Marine Corps business focused on serving the Navy’s research and development commands and providing C4ISR mission systems solutions across the account.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

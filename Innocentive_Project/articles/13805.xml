@@ -1,0 +1,44 @@
+<article>
+  <type>blog</type>
+  <title>Disposable Cyber Systems to Stay Ahead of Adversaries</title>
+  <author>George I. Seffers</author>
+  <date>November 19, 2014</date>
+  <departments>
+    <department>International</department>
+    <department>Defense Operations</department>
+    <department>Cyber</department>
+    <department>Technology</department>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>Northrop Grumman</tag>
+    <tag>cyber</tag>
+    <tag>New Products</tag>
+  </tags>
+  <abstract>Northrop Grumman officials say they are developing a new kind of cyber system—a disposable system tailored for a single mission. The concept, they say, will make it more difficult for adversaries to penetrate or maneuver inside user networks.</abstract>
+  <text>Northrop Grumman officials say they are developing a new kind of cyber system—a disposable system tailored for a single mission. The concept, they say, will make it more difficult for adversaries to penetrate or maneuver inside user networks.
+
+“We’re focused on embedding resilience into [customers’] networks, into their payloads, into their unmanned platforms and into their manned systems. Ultimately, we expect our solutions to allow our customers to preserve their mission critical functions while the adversary’s inside the system, essentially operating through the attack, including insider threats,” said Vern Boyle, director of technology, Cyber Division, Northrop Grumman Information Systems, McLean, Virginia.
+
+Boyle made the comments November 19 during a Washington, D.C., press conference announcing the launch of the global Advanced Cyber Technology Center, which he leads. The center has two offices in the United States, one in the United Kingdom and another in Australia.
+
+“One example we’re working on is a new concept to create what we call disposable cyber systems. This is a concept that would allow our customers to move faster than the adversary, get over the time issue and be able to essentially build single-use systems that could be used one time for a mission and restored rapidly afterwards,” Boyle reported. “The goal with this type of a concept is to make it very hard for an adversary to understand what your system is. And if they do gain access, make it very difficult for them to persist or move inside a system.”
+
+Northrop Grumman officials envision disposable systems becoming “a standard way for configuring cyber systems and making them resilient against a wide variety of attacks,” Boyle added.
+
+Tactics and techniques for using disposable systems may vary. “Using it in practice, there may be some variations of how it’s used. Maybe it’s only used on mission critical systems, maybe the time window in which it gets used can be changed. There’s a lot of flexibility in how the customer can deploy such a capability as that. Our vision is that it would become a pervasive way of making systems more resilient against the attacks we are familiar with,” he said.
+
+He also offered a glimpse into other technologies developed and used at the Advanced Cyber Technology Center. “We’re also focused on automating security operations and cyber intelligence processing.
+
+Because customers are challenged by too many attacks, too much data and too few people, the company is focused on automation and analytics. “We need to work on the analytics, on the automation, to help focus the operators and the analysts on what the real problem is,” Boyle explained. “We consume a lot of the information; we develop the analytic algorithms; we automate the discovery of what the problem is; and using our intelligence processing and analytics, we can help the operators focus on the highest threat issues first. That gets them out in front of the threat and minimizes the impact the adversary has on their systems.”
+
+The company’s high-end analytic algorithms “are able to detect and defeat the high-tier threats,” Boyle reported. For example, the company has operationalized machine learning for network defense. “This is a capability that’s able to find and defeat zero day threats in a matter of seconds without the use of signatures. This is a game-changing capability that fills gaps in the commercial capabilities that our customers are using today,” Boyle said.
+
+Inherent in this space is the ability to process massive volumes of information and discover the important elements from that massive stream of data, he indicated. “So, we’re focused on high-speed streaming analytics. We’re focused on big data mission platforms that can process data faster and more accurately than typical commercial systems,” he stated.
+
+The technology offers a range of benefits, according to Boyle. “These platforms host sophisticated analytics that can discover information, can do automated decision making, can do mission planning, battle damage assessment, course of action selection and command and control of the systems that we’re building,” he said.
+
+The Advanced Technology Center also is developing what might be described as offensive cyber weapons, although the Northrop Grumman officials did not use that term. “In addition to protecting and defending mission critical systems, we provide our customers with a range of full-spectrum cyber capabilities to fight back,” Boyle said. “While we can’t discuss the details of all these capabilities, it’s important to understand the defensive solutions must combine with other full spectrum capabilities in order to help the customers overcome some of the more significant issues."</text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,40 @@
+<article>
+  <type>blog</type>
+  <title>Guest Blog: Computers for Shooters</title>
+  <author>Paul Strassmann</author>
+  <date>April 27, 2010</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Communications</tag>
+    <tag>Information security</tag>
+    <tag>Military</tag>
+    <tag>mobile computing</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Two weeks ago, I listened to a U.S. Marine Corps brigadier general plead for a lightweight personal computer that shooters could use at the squad level. All of the talk he heard about net-centric networks was meaningless because network centricity did not reach where it was needed. If the civilians could walk around with BlackBerrys, why couldn't the U.S. Defense Department provide comparable services?</abstract>
+  <text>Two weeks ago, I listened to a U.S. Marine Corps brigadier general plead for a lightweight personal computer that shooters could use at the squad level. All of the talk he heard about net-centric networks was meaningless because network centricity did not reach where it was needed. If the civilians could walk around with BlackBerrys, why couldn't the U.S. Defense Department provide comparable services?
+
+A planner's slides that promised connectivity for everyone were fiction. The existing radios were just too heavy and the antennas gave snipers targets. But there is no reason the Defense Department should not provide U.S. warfighters with a shirt-pocket, five-ounce device with a 3.7-inch color touch screen, GPS, camera and at least a seven-hour power supply that costs less than $300. In fact, several programmable commercial cell phones already do just that. However, a few issues must be resolved before the department can proceed, among them training, communications, security, social computing and performance.
+
+Training can be addressed by timing and consistency. Recruits should receive their shirt-pocket appliance at the same time they get their rifle. The key to adapting computers in the combat environment is simplicity and persistence. Soldiers should be able to use a variety of computing devices regardless of how the technology changes. The graphic buttons on the appliance would be standard icons that can also apply to desktops, laptops or note pads. with added variations for the individual services. Unique buttons could be designed for specific purposes or for designated individuals. Such proprietary buttons can be programmed using device-specific application programming interfaces. This approach guarantees training continuity over decades.
+
+In terms of the capability to connect, 3-G cell towers or Wi-Max transmitters can be erected in the battlefield or on military bases for encrypted transmission. Protected commercial circuits also can be used if additional safeguards are installed. Regardless of technology, all access to the Defense Department private networks can be identical.
+
+As with all new communications devices, information security is a primary concern. To address this issue in these handheld devices, the shooter's computer would be stripped of every application that is not accessible by means of a standard graphic button. Standard code reduces the attack profile to intrusions. Consequently the code for every function will represent mature software that can be modified only by the designers. Each button then offers access privileges based on the roles that are assigned to an individual, regardless of location. Central network control monitors all traffic including awareness as to the uses of the device.
+
+For warfighters who find social networking beneficial, one graphic button could be reserved for access to the public Internet. It would offer access to a virtual server that is completely isolated from military networks provided that bandwidth capacity is available.
+
+Combat requires response times of less than 250 milliseconds, so access to a screen should take less than a second. In addition, redundancy in communications must guarantee scheduled availability at all times. To meet these needs will require a complete overhaul in the ways in which Defense Department manages its data centers and its networks.
+
+Creating a uniform communications environment for U.S. warfighters is not only feasible but also reduces costs. It scales down the time needed for learning how extract data from diverse sources. It improves security by relying on "thin" computing for access to intelligence regardless of location. Simplification of the user interface creates reusable software components, which increase the reliability of all communications.
+
+The shooter's computer is feasible because the technology risks are manageable. There is no reason to wait any longer.
+
+
+
+
+Paul A. Strassmann is a distinguished professor of information sciences at George Mason University's School of Information Technology and Engineering and a regular contributor to SIGNAL Magazine. He is the former director of defense information at the Office of the Secretary of Defense.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

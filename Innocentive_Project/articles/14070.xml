@@ -1,0 +1,41 @@
+<article>
+  <type>article</type>
+  <title>'Sound of Money' Drives DOD's Migration of Data to Commercial Cloud, CIO Says </title>
+  <author>Sandra Jontz</author>
+  <date>January 30, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>DISA</tag>
+    <tag>DOD CIO</tag>
+    <tag>cloud</tag>
+  </tags>
+  <abstract>The Defense Department’s slow migration of much of its unclassified and nonsensitive data, along with the unclassified side of its email, to a hybrid cloud solution is talking longer than hoped, but is going to happen, promised DOD Acting Chief Information Officer Terry Halvorsen.</abstract>
+  <text>The Defense Department’s slow migration of much of its unclassified and nonsensitive data, along with the unclassified side of its email, to a hybrid cloud solution is taking longer than hoped but is going to happen, promised Defense Department Acting Chief Information Officer Terry Halvorsen.
+
+“The sound of money is what’s driving this,” Halvorsen told industry members attending the Defense Department’s Cloud Industry Day held Thursday in Washington, D.C. “How do we use the cloud and modern technologies to reduce the cost and drive it into the other part, the warfighting part, of our business?”
+
+The Defense Information Systems Agency (DISA) has released the revamped security requirements guide (SRG) for commercial cloud providers who want to provide service offerings for Defense Department data storage. One of DISA’s key responsibilities is securing the Department of Defense Information Networks (DoDIN) by addressing cybersecurity challenges associated with outsourcing Defense Department information technology and data to commercial and non-Defense Department clouds.
+
+“If I trace where our data is now moving and who our interactions are with, it is frankly more and more with the commercial community,” Halvorsen said. “Over 68 percent of what I’ll call our medical business traffic is not internal. It’s external with civilian medical providers,” along with roughly 65 percent of the department’s logistics data.  “If we can get more effective in how we distribute that data, make it accessible to people and more timely, not only does that get more effective for the DOD, but it gets more effective for our industry partners too. It also gets more effective for the nation.”
+
+The migration, though inevitable, poses increased liability concerns for commercial providers, who must decide if they want to assume increased risk of being hacked by adversaries, for example, balanced against the promise of lucrative contracts by providing a service to a huge entity such as the Defense Department.
+
+“That means there is responsibility on both sides of the table as we share this,” Halvorsen told the attendees. “As I have to be transparent, so do you. This won’t be a single cloud environment. We’re going to have multiple partnerships. The only way that is going to work effectively and efficiently and securely is if we share common data, particularly in the security area. We’re going to have to have common structure, common sensors, common data exchange. And it has to cross government and industry boundaries.
+
+“You have just picked up a liability responsibility for the data that is a little bit different than your liability in the commercial area,” he continued. “Obviously, when we lose our data, or you lose our data that’s in your cloud, you have all of the normal liability issues. But let’s be real, you’re dealing with the DOD, and you also have … a bit of a political liability. If our data gets lost, it’s going to make the news.”
+
+Additionally, he said the next version of the department’s unclassified email enterprise system "will be a purely commercial answer.
+
+“I think the commercial industry has certainly shown that they could do unclassified email at a lower price,” Halvorsen told reporters during a media briefing. “They can do it more efficiently than we are. Email is a commodity, so anytime you can share more pricing and more capability with a commoditized environment, you’re going to drop down the price.  I think we’re at the point where they’re going to be able to meet our security requirements.”
+
+Halvorsen said he wants to expand across the department a model now used by the U.S. Navy, which contracted with Hewlett-Packard runs its own data center storing only Navy data on a military installation. The opportunity might be ripe, Halvorsen says, for commercial companies to market the notion of commercially provided service but inside the secure environment of a military installation to others, such as the financial sector. “But we are not there yet,” Halvorsen said.
+
+Defense Department leaders too are scrubbing the data to make sure its information tagged sensitive really meets the more stringent–and more expensive–protections. “I don’t think we need as much security as we’ve done in the past for some of the data that’s publicly releasable anyway,” said Maj. Gen. Alan R. Lynn, USA, DISA’s vice director.
+
+It’s a task many have wrestled with, Halvorsen said. “How much of our data is truly that sensitive? I think that it’s a much smaller portion than we think it is. It’s still a big chunk of volume … Our volume of data is just huge. The [amount of] stuff we collect every day is huge. How do I balance that scale with the level of sensitivity of that data and where it goes?"</text>
+  <imgalttext>
+    <img>John Hickey, program manager for Defense Department Mobility at DISA, talks about security assessment and risk acceptance for DOD migration to commercial cloud. </img>
+  </imgalttext>
+</article>

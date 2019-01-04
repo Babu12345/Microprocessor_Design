@@ -1,0 +1,81 @@
+<article>
+  <type>article</type>
+  <title>Joint ?Information Environment ?Logs Successes, ?Faces Snags</title>
+  <author>Robert K. Ackerman</author>
+  <date>May 1, 2014</date>
+  <departments>
+    <department>Cyber</department>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Air Force Technologies</tag>
+    <tag>command and control</tag>
+    <tag>data management</tag>
+    <tag>DISA</tag>
+    <tag>EUCOM</tag>
+    <tag>Europe</tag>
+    <tag>Marine Corps Technologies</tag>
+    <tag>mobile</tag>
+    <tag>Networks</tag>
+    <tag>NGEN</tag>
+    <tag>Security</tag>
+    <tag>May 2014</tag>
+    <tag>JIE</tag>
+  </tags>
+  <abstract></abstract>
+  <text>The Defense Department drive toward its Joint Information Environment is picking up speed as it progresses toward its goal of assimilating military networks across the warfighting realm. Individual services are developing solutions, some of which are targeted for their own requirements, that are being applied to the overarching goal of linking the entire defense environment.
+Early successes in Europe have advanced Joint Information Environment (JIE) efforts elsewhere, including the continental United States. Some activities have been accelerated as a result of lessons learned, and they have been implemented ahead of schedule in regions not slated to receive them for months or even years.
+	However, significant hurdles remain, and not all participants are equally supportive of the effort. Overcoming major cultural challenges may be the most difficult task facing JIE implementation. And, the omnipresent budget constraints facing the entire Defense Department may extend into the JIE, even though it is not officially a program of record.
+	Senior Defense Department leaders do not hesitate to emphasize the importance of the JIE to future military operations. David DeVries, deputy Defense Department chief information officer (CIO) for information enterprise, describes the JIE as a unifying effort to do â€œthe largest wholesale information technology modernization in the history of the department.â€
+	Lt. Gen. Ronnie D. Hawkins Jr., USAF, director, Defense Information Systems Agency (DISA), avows, â€œThe next type of enterprise that our Defense Department will be postured to utilize in the next conflictâ€”be it kinetic or nonkineticâ€”the JIE will be an integral part of that environment.â€
+Read More on JIE:
+    
+	Cultural Change Poses Greatest Hurdle for JIE Implementation
+      
+      
+    
+  
+      Military Services Join Forces on JIE—to an Extent
+      
+    
+  
+      Industry Needs Mobility in Technology and Processes
+    
+  Nor would the alternative to achieving JIE capabilities be heartening. â€œI believe firmly that we would not be anywhere near as successful as we could be with the JIE,â€ declares Lt. Gen. Mark Bowman, USA, Joint Staff J-6, director of command, control, communications and computers/cyber. â€œIt will take us longer to do operations, and time is the resource that we can never get more of.â€
+	Because the JIE is not a program of record, its development is taking place along lines that are different from conventional program of record efforts. Gen. Bowman asserts, â€œIf we had made the JIE a program of record, it would be so big, so complex and have so much money associated with it, then when people would be looking where they could cut money across the Defense Department, [the JIE] would be a great target.â€
+	Because it is not a program of record, the JIE is hard to grasp for some people, Gen. Bowman observes. Total cost also is difficult to discern, and people seeking efficiencies try to reduce funding by their estimate of an improvement in efficiency. The JIE cannot be treated like a program of record, the general declares, emphasizing that instead it must be viewed as a system of systems.
+	â€œThe JIE is looked at as a huge bill that will cost someone something,â€ Gen. Bowman explains. â€œItâ€™s going to cost something whether they [the services] move to a JIE or not. My view is that it will cost them less for more capability with the JIE.
+	â€œWe were going to spend the money to consolidate data centers,â€ he continues. â€œThat was federal direction that we had to do that. So, people are saying that, â€˜JIE is going to cost me all this moneyâ€”look I have to consolidate my data centers.â€™ They were told to do that anyway.â€ The same holds true for operating system upgrades, he says.
+	â€œLocking ourselves into contractor-provided support for operating systems causes us to lag behind when we should be switching,â€ Gen. Bowman charges, adding that this is a problem throughout information technology. â€œWe need to be agile enough to decide that, when something could be done better a different way, we ought to do it.â€
+	Gen. Hawkins describes the JIE as the top priority within DISA. The agency is focusing on mobility, unified capability and security tied to the JIE as its operational arm. He characterizes DISAâ€™s JIE work with the services as going well, with the agency responding well to individual service requirements.
+	And, the JIE is changing the way DISA provides services to the force. Gen. Hawkins allows that the agency is trying to look at the environment from an enterprise perspective rather than as a network. â€œNobody asks what type of wiring goes on when they turn on a light,â€ he observes. â€œThey just know itâ€™s going to be there; they know the electricity is going to flow.
+	â€œThatâ€™s what we want to do with the JIE,â€ he explains. â€œThat environment needs to be such that we have lifted this up to the enterprise level.â€
+	The general continues that DISA provides what commonly is known as the plumbing, but what the agency calls transport layers. Right now, too many people delve into the level of where the hosting data center will be; which Internet access point information will travel through; and whether it will be satellite communications or landline links. This is common among many organizations, but the JIE will represent a departure from that approach for DISA.
+	The agency is in charge of the JIE Technical Synchronization Office (JTSO), with Brig. Gen. Brian T. Dravis, USAF, leading that effort. Gen. Hawkins credits Gen. Dravis with having transformed the way DISA looks at synchronizing the disparate parts of the JIE. Several process teams under Gen. Dravis have focused on elements ranging from network infrastructure to the core data center.
+	Network normalization is the biggest task facing the JTSO, Gen. Hawkins offers. The enterprise operations centers are another major JTSO responsibility, both geographically and functionally.
+	Among the challenges faced by the JTSO is to normalize the different service requirements and then ensure the JIE still delivers these service-specific capabilities when the requirements are moved up to the enterprise level, Gen. Hawkins says. The JTSO is â€œincredibly importantâ€ to the success of this activity, which he says is proceeding very well.
+	The Defense Department has undertaken some initial capabilities to determine how complex the network will be, how improved its security and efficiency will be and the degree of savings that will be realized. These initiatives originally focused on Europe, where the first JIE implementations took place. DeVries describes that effort as being on track and on schedule, particularly with regard to security and infrastructure operations.
+	The department developed a template to evaluate the existing infrastructure, and it validated that process in Europe. The lessons learned there have allowed planners to leapfrog their initiatives to focus on the more vast Asia-Pacific region. DeVries continues that the department employed some emerging technologies as well as some security fundamentals, and those are being expanded into the Asia-Pacific effort and into the rest of the Defense Departmentâ€™s networks.
+	Part of this process has been the evaluation of some new technologies, how they were incorporated and their degree of security. â€œWe have some complex things that we put in place here that will secure our data centers and our networks in the future in a more robust manner while affording us the ability to transfer the information securely and safely,â€ DeVries states.
+	Gen. Bowman says the JIE activity in Europe, which involved the 5th Signal Command, DISA, the European Command (EUCOM) and the Africa Command (AFRICOM), generated lessons â€œthat we should already have known.â€ Among these are different interpretations of information assurance guidance applied â€œin good faith by good peopleâ€ across the enterprise that lead to gaps, seams and voids. These also lead to duplication of effort and equipment, he says.
+	He cites the joint regional security stacks (JRSS) in Europe as a leap-ahead capability enabled by the first phase. The U.S. Army was able to find funding for it, and the service negotiated a good price from industry. In addition to consolidation and a joint presence, the JRSS allows enhanced cyber command and control that provides the U.S. Cyber Command (CYBERCOM) with visibility at all levels. Regional mission commanders also have unprecedented situational awareness. According to the JIE joint integrated master schedule, the JRSS originally was to be fielded in fiscal year 2016. JRSS implementation in Europe should be declared a success this fallâ€”two years ahead of schedule.
+	â€œWe received approval for EUCOM and AFRICOM, but that didnâ€™t tell us we couldnâ€™t [go] anywhere else at the same time,â€ Gen. Bowman relates. â€œSo, rather than treat this as a linear approach, we have things in the second phase that are already going on.â€ The general adds that lessons learned in the Afghan Mission Network are being applied to the Mission Partner Environment, which will be used within the JIE.
+	The sequential efforts in Europe and Asia-Pacific have been described as increment 1 and increment 2, but DeVries discourages that description. He points out that increments imply fielded program elements that have finite stages. The JIE is not a program, nor are these first two steps finite efforts that have an ending. And, efforts were not limited to those two geographic areas. U.S. facilities saw infrastructure improvements along with a reduction in data centers, he observes.
+	JIE cybersecurity will mesh with U.S. national cybersecurity issues, DeVries assures. â€œThe same people who are working the national cybersecurity initiatives are the same ones involved with overall JIE cybersecurity,â€ he says, citing CYBERCOM, the National Security Agency, the Defense Department CIO office and the undersecretary of defense for policy. â€œThere is a very tight correlation there,â€ he emphasizes. DeVries is involved with the Intelligence Community Information Technology Enterprise (ICITE), and he declares the standards and methodologies of information sharing will be similar with those of the JIE.
+	In some cases, commercial encryption may be sufficient for forces in the field that are communicating tactically. Gen. Bowman notes that a call for fire or medevac support will become apparent to an enemy in due course; a foe that spends two weeks decrypting those messages has wasted its time. In Afghanistan, U.S. forces gave radios with commercial encryption to coalition partners to establish secure links without the need to send a U.S. warfighter with them. Type 1 encryption can be reserved for higher-level security for plans and future operations, he offers.
+	The JIE is on track in terms of planning and initial modernizing of the infrastructure, DeVries claims. Yet, he says, there are other aspects on which the department could move faster. This would depend on the ability to align efforts and resources more quickly.
+	Gen. Bowman also believes the JIE is progressing well, although he would like to see it proceed at a much faster pace and more smoothly.
+	â€œThere is an, â€˜I gotta own it; I gotta control it,â€™ culture that exists with IT [information technology] guys particularly. They donâ€™t want to change; some leaders donâ€™t want to let go,â€ he charges, recommending, â€œIf itâ€™s not your core competency, let it goâ€”let somebody else do itâ€”and then help manage [it] to make it better.â€
+	Gen. Bowman explains this â€œcontrol cultureâ€ also was responsible for creating the stovepipes the JIE is aiming to break down. Requirements were developed and funded by people with money, he says, relating, â€œIf you had the money and you needed something, you did it yourself.â€ Now, some areas within the services are coming together for the JIE. They recognize that what they need to do is determine requirements and then pass them to someone who will carry them out.
+	Among these stovepipes are the thousands of data centers that are being consolidated. But this ongoing effort must encompass rationalizing applications and moving to newer technology servers, where the department can accomplish more with a much smaller footprint, the general suggests.
+	Complexity brings greater potential for failure, so planners are striving to keep the JIE as simple as they can, Gen. Bowman offers. â€œWe donâ€™t want to try to answer everythingâ€”weâ€™ll never get there. If we look at 60, 80 percent [solutions] meeting the requirement, it probably is a whole lot better than what we have todayâ€”so letâ€™s just put it out there,â€ he says.
+â€œWe donâ€™t need one solution for everything. We need multiple solutions for a spectrum of applications,â€ he emphasizes.
+	No Defense Department effort is unchallenged by the current environment of budgetary constraints, and the JIE is no exception. â€œThe one obstacle â€¦ is how do we do this within the funding requirements and streams that we are faced with as the department draws down,â€ Gen. Hawkins admits. â€œWhat do we need to do, and how is it that we do it, to still become effective and efficient in delivering the JIE within the timelines that have been established? This is an issue we are dealing with right now. Funding is in the forefront of everything we have to appreciate and recognize.â€
+	If the JIE does not receive the funding it needs, then planners must prioritize what they do, Gen. Hawkins warrants. â€œWe will have to prioritize it based off what the operational community and our senior leaders expect us to deliver.â€ This is an operational decision that commanders and the senior leaders of the department make, and DISA would put those delivery options in front of them, he says.
+	DeVries says, â€œThe budget definitely poses a very real threat to how we operate today. We cannot afford to operate the way we do todayâ€”either from a security perspective or from a funding perspective.
+	â€œLeadership will be involved, and they will make hard tradeoff decisions as to which items are funded as we determine what needs funding outside of [the leadersâ€™] budgets,â€ he continues. This prioritization likely will take the form of procurement stretch-outs rather than cuts.</text>
+  <imgalttext>
+    <img>A  U.S. Navy sailor monitors communications aboard an Arleigh Burke-class destroyer. The Defense Department’s JIE builds on communications and networking advances within the individual services.</img>
+    <img>A U.S. Air Force airman reviews operations during a Combined Endeavor exercise in Grafenwoehr, Germany. The first phase of JIE implementation produced many advances being incorporated at U.S. facilities throughout the world.</img>
+  </imgalttext>
+</article>

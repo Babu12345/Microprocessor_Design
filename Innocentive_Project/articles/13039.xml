@@ -1,0 +1,22 @@
+<article>
+  <type>blog</type>
+  <title>Managing Risk Starts with Knowing Normal</title>
+  <author>Beverly Mowery Cooper</author>
+  <date>June 24, 2014</date>
+  <departments>
+    <department>Event Coverage</department>
+  </departments>
+  <tags>
+    <tag>Cyber14</tag>
+  </tags>
+  <abstract>Too much time spent chasing the obvious takes away from the ability to find the less obvious risks when it comes to stopping cyberthreats. Attacks from foreign adversaries, insider threats and advanced persistent threats all look the same, so it is essential to understand what is normal and to take immediate action when an anomaly is detected.</abstract>
+  <text>Too much time spent chasing the obvious takes away from the ability to find the less obvious risks when it comes to stopping cyberthreats. Attacks from foreign adversaries, insider threats and advanced persistent threats all look the same, so it is essential to understand what is normal and to take immediate action when an anomaly is detected.
+	Analytic functions, such as review of data logs, should be automated, and then analysts must determine the right "squelch settings" to avoid too much "noise," said Mark Nehmer, associate deputy director, counterintelligence (cyber), Defense Security Service, speaking at the AFCEA Cyber Symposium in Baltimore Tuesday.
+	But finding anomalies goes far beyond analysis of log data, he added. It requires communications between all the security pillars in an organization; yet the necessary systems and processes to connect individual areas are not usually in place. Gaps between organizational silos, such as anti-terrorism, information assurance, counterintelligence, force protection, security guards and human resources, create opportunities for insider and advanced persistent threats, he explained. He added that because so much human resources activity is still done on paper, organizations are missing an opportunity to correlate useful data for defining normal behaviors.
+	U.S. Defense Department migrations are being worked toward the goal of understanding normal and determining anomalies, Nehmer explained. Two person integrity controls, where one person sets the command regarding classified data but a second person is required to initiate the action, are one area of focus.
+	A tiered, non-compliance consequences matrix is another area the department is targeting, according to Nehmer. Any negligent discharge of classified information, unintentional or intentional, has gravity. “It is not spillage,” he said, comparing an individual’s negligent discharge of data to a solider’s negligent discharge of a weapon. “If you are not the data owner, protect it like your life depends on it,” he said.
+	The Defense Department also is addressing establishment of a security technical implementation guide and path for compliance strategies for programs of record. A modular approach would alleviate the need for exceptions on security patches that are requested because of software incompatibility issues, he stressed. Some systems are still using Windows 3.11 because of compatibility, he emphasized.
+	Addressing the threat means helping industry directly understand where the Defense Department is going. Industry needs to see the benefits of the modular architecture from private sector perspectives, he concluded.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

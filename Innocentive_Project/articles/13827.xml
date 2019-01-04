@@ -1,0 +1,77 @@
+<article>
+  <type>blog</type>
+  <title>Guest Blog: How Modernizing the JIE Can Make It a Success</title>
+  <author>Chris LaPoint</author>
+  <date>December 2, 2014</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>cyberthreats</tag>
+    <tag>JIE</tag>
+    <tag>DISA</tag>
+    <tag>U.S. DOD</tag>
+  </tags>
+  <abstract>Two years ago, the Defense Department developed the Joint Information Environment framework. Since then, key stakeholders and drivers have worked to realign, restructure and modernize the department’s information technology networks to increase collaboration while reducing the cyberthreat landscape.</abstract>
+  <text>Coming soon to a network near you: consolidation and reinvention.
+
+Two years ago, the U.S. Defense Department developed the Joint Information Environment (JIE) framework. Since then, key stakeholders and drivers of the JIE have been working to realign, restructure and modernize the department’s information technology networks to increase collaboration among departments while reducing the cyberthreat landscape. The JIE vision is an integrated and interoperable joint enterprise environment that can be leveraged across all department missions—an extremely important development as Defense Department dependence on the network has never been higher and cyberthreats are rising.
+
+Myriad benefits come from the JIE initiative, including improved network performance, cost savings, security improvements, better resource utilization, time savings and more. As the JIE gains momentum, however, the Defense Department needs an increasing number of subject matter experts (from both industry and government) to help guide and implement the program and to modernize the way networks are monitored.
+
+Modernizing Defense Department network monitoring will require new levels of coordination and visibility, including departmentwide technologies and processes. This post outlines how using tools such as automated continuous monitoring and log and event monitoring will help the JIE achieve its goals of enhanced network visibility and security.
+
+Challenges in implementation
+
+The JIE will include information technology systems run by the Defense Information Systems Agency (DISA), which describes the framework as “an enterprise information environment comprised of a secure connection to a computing environment and big data storage, interconnected with a mesh of fixed and wireless transport, protected by a single security architecture, whose information resources held in the cloud are reachable by various mobile devices and accessible by credentialed users eliminating anonymity from the network.”
+
+Its network includes separate domains, email servers, applications and equipment, and, for every participating agency, an entire set of existing processes, preferences, workflows and traditions. This disjointed nature means that it’s challenging, yet critical, to ensure that the Defense Department has appropriate insight into both the details and overall aspects of the JIE’s security and functioning. In fact, enhancing cybersecurity capabilities is one of DISA’s priorities for the network.
+
+And as the JIE approaches its second anniversary, many other challenges of implementing such a system are becoming clear:
+
+Budget and funding issues. The JIE is an initiative, not a funded program, so it’s funded from existing budgets rather than specific funding. 
+
+Silos and turf wars. This challenge is a natural one to encounter when merging the systems of different organizations. Which group’s applications, infrastructure and processes will be chosen as the ones to roll out? Who will manage the rollout, and how?
+
+Outages and slowdowns. Like any major network, the JIE will be susceptible to performance issues if not carefully managed. The overall visibility capabilities of the JIE will strongly affect this facet of the new network.
+
+Dealing with complexity. Networks are complex devices and require many commands to properly configure, particularly ones of this magnitude.
+
+Ensuring security. The media informs us of many large-scale cybersecurity hacks, and Gartner predicts that by 2015, 80 percent of outages impacting mission-critical services will be caused by internal people and processes. Further, more than 50 percent of those outages will be caused by change, configuration or release integration and hand-off issues.
+
+Even when technical controls are initially implemented, unless the operational controls are also in place, vulnerabilities will soon appear. Information technology systems are dynamic and constantly changing as are the methods attackers use to breach defenses. Therefore, there must be strict management controls in place to manage inevitable change. Unfortunately, few specialized tools exist to help network managers adequately manage operational controls.
+
+Meeting JIE challenges with modernization
+
+For the JIE to meet its goals, DISA and other Defense Department operations will need to ensure that it has:
+
+Visibility and management of the entire application stack—that is, the interconnected components of government information technology infrastructures that ultimately impact application performance and end-user experience
+	The solutions and strategies in place to ensure it can find and resolve problems quickly
+Taking full advantage of the latest (and continuously evolving) commercially available NetOps tools to do automated continuous monitoring and log and event monitoring will allow the Defense Department to enjoy a competitive advantage over adversaries. The JIE can encourage periodic technology updates to the latest generations of monitoring technology by insisting that commercial tools used in the JIE support application program interfaces for easy integrations with other tools.
+
+The use of an automated tool can also simplify configuration management and save hours of troubleshooting. For example, an administrator makes changes to a router one evening and runs through the test plan in which all looks fine. However, the next day, the help desk is swamped with phone calls related to a problem caused by that change. Continuous monitoring allows that administrator to quickly roll back a bad or unauthorized change.
+
+Continuous monitoring also allows the monitoring of devices to know whenever device configurations are changed, even if changes are made directly on the device. This eliminates the problem of mystery changes that haven’t been approved and aren’t discovered right away, which can reduce downtime.
+
+In short, continuous monitoring encourages timely awareness of vulnerabilities, allows faster detection of a possible security incident, ensures the latest compliance guidelines are in place and provides clear visibility into compliance status on the network.
+
+The benefits of this modernization are clear. The table below demonstrates how continuous monitoring makes a real difference in how long it takes to detect network device configurations that are out of compliance – helping organizations fix security issues before they can be exploited.
+
+
+
+Continuous monitoring and log and event management aren’t new to the Defense Department but must be incorporated into the JIE from the beginning to ensure they become tightly integrated with the rest of the system.
+
+The tools DISA and other Defense Department components choose will need these capabilities to most effectively meet JIE goals:
+
+Automation of the change management approval process with the help of role-based controls
+	An audit trail that tracks users who uploaded configurations, so the right people can be involved in fixing problems
+	Built-in knowledge and correlation to turn raw log data into intelligent, actionable information
+	Real-time monitoring that analyzes and sends alerts on incoming log data from all sources in memory
+	Sophisticated searching and data correlation to provide immediate insight into activities that would normally go unnoticed
+	USB detection and prevention to identify unauthorized use or copying of sensitive files
+	Reports and graphical summaries to easily demonstrate compliance
+What’s your impression of the JIE so far? Is it on track to meet its goals, from a practical standpoint? 
+
+Chris LaPoint is vice president of product management at information technology management software provider SolarWinds, based in Austin, Texas</text>
+  <imgalttext>
+  </imgalttext>
+</article>

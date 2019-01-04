@@ -1,0 +1,49 @@
+<article>
+  <type>blog</type>
+  <title>Plenty of Phish in Your Sea of Emails</title>
+  <author>Julianne Simpson</author>
+  <date>October 19, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+  </tags>
+  <abstract>Cyber criminals have become quite savvy in luring people to click on a link or open an attachment through spam and phishing attacks. Learn how to spot and avoid these cyber attacks with tips from the National Cyber Security Alliance.</abstract>
+  <text>National Cyber Security Awareness Month is designed to engage and educate public and private sector partners through events and initiatives to raise awareness about cybersecurity; provide them with tools and resources needed to stay safe online; and increase the resiliency of the nation in the event of a cyber incident. This week’s theme is “Recognizing and Combating Cybercrime.”
+
+Last week’s blog detailed how to report a cyber attack. But what happens if you can’t recognize when one is about to take place. Cyber criminals have become quite savvy in luring people to click on a link or open an attachment.
+
+Below are some tips from the National Cyber Security Alliance’s staysafeonline.org on how to spot and avoid spam and phishing attacks.
+
+Spam
+
+Spam is the electronic equivalent of junk mail. The term refers to unsolicited, bulk—and often unwanted—email.
+
+Here are ways to reduce spam:
+
+Enable filters on your email programs: Most ISPs (Internet Service Providers) and email providers offer spam filters. However, depending on the level you set, you may wind up blocking emails you want. It’s a good idea to occasionally check your junk folder to ensure the filters are working properly.
+Report spam: Most email clients offer ways to mark an email as spam or report instances of spam. Reporting spam will also help to prevent the messages from being directly delivered to your inbox.
+Own your online presence: Consider hiding your email address from online profiles and social networking sites or only allowing certain people to view your personal information.
+Phishing
+
+Phishing attacks use email or malicious websites—clicking on a link—to collect personal and financial information or infect your machine with malware and viruses.
+
+Spear Phishing
+
+Spear phishing is highly specialized attacks against a specific target or small group of targets to collect information or gain access to systems.
+
+For example, a cyber criminal may launch a spear phishing attack against a business to gain credentials to access a list of customers. From that attack, they may launch a phishing attack against the customers of the business. Since they have gained access to the network, the email they send may look even more authentic and because the recipient is already customer of the business, the email may more easily make it through filters and the recipient may be more likely to open the email.
+
+How Do You Avoid Being a Victim?
+
+Don’t reveal personal or financial information in an email, and do not respond to email solicitations for this information. This includes following links sent in email.
+Before sending sensitive information over the Internet, check the security of the website.
+Pay attention to the website's URL. Malicious websites may look identical to a legitimate site, but the URL may use a variation in spelling or a different domain, for example, .com versus .net.
+If you are unsure whether an email request is legitimate, try to verify it by contacting the company directly. Contact the company using information provided on an account statement, not information provided in an email. Information about known phishing attacks is available online from groups such as the Anti-Phishing Working Group. Report phishing to the Anti-Phishing Working Group (APWG)
+Keep a clean machine. Having the latest operating system, software, web browsers, antivirus protection and apps are the best defenses against viruses, malware and other online threats.
+</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

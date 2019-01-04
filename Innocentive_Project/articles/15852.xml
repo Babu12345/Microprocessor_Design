@@ -1,0 +1,65 @@
+<article>
+  <type>article</type>
+  <title>FAA Moves Its 'Analog' System to High-Tech with NextGen Program</title>
+  <author>Sandra Jontz</author>
+  <date>March 29, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>TechNet Air 2016</tag>
+    <tag>FAA</tag>
+    <tag>Defense Department</tag>
+    <tag>Next-Generation Technologies</tag>
+  </tags>
+  <abstract>The Federal Aviation Administration is greeting the 21st century with plans to build an efficient air traffic control system that allows for technological and procedural improvements and provides a system as efficient as possible for travel.</abstract>
+  <text>It has taken about 15 years, but the Federal Aviation Administration (FAA) is greeting the 21st century.
+
+The U.S. government pledged a commitment to build an efficient air traffic control system that allows for technological and procedural improvements, and provides a system as efficient as possible for travel, says Pamela Whitley, deputy assistant administrator for the agency’s Next Generation Air Traffic Management System, or NextGen.
+
+To that end, the FAA invests $1 billion a year on the endeavor to modernization air traffic in the United States,. In all, the FAA's fiscal year 2017 budget request rings in at $15.9 billion, slightly less than last year's $16.3 billion.
+
+“It is exciting to see aviation move into the 21st century,” Whitley said during a recent interview. “The infrastructure that we have enjoyed in this industry has aged. [NextGen] is the equivalent of going from an analog television to a digital television.”
+
+Once complete, the FAA calculates NextGen could deliver an estimated $134 billion in savings in direct airline, industry and passenger benefits through 2030.
+
+The effort took flight when Congress created a joint planning development office in 2004 to reduce the impact of weather delays on commercial flights. “At that time, the business case said if we did absolutely nothing, the delays in the system could exceed 100 minutes per flight at peak times,” Whitley said. “We were looking at the connection of our aviation infrastructure and our economic infrastructure, and that answer was not satisfactory.”
+
+The development office still operates today, and includes representatives from the FAA, the Defense Department, the Commerce Department, NASA, the White House and several other agencies.
+
+The FAA is teaming with the Defense Department in four key areas: cybersecurity, surveillance technology; a collaborative information management system to focus on information security; and the system wide information management (SWIM) capability, the NextGen data-sharing backbone that improves the storing, sharing and managing of information such as flight data, weather information and airport operational status between controllers and pilots.
+
+“We understand the DOD has specific requirements as we make changes to our system, and we have to be very mindful of that,” Whitley said last week during a presentation she gave at AFCEA International’s three-day TechNet Air 2016 symposium in San Antonio. “The FAA cannot do that in a vacuum. We keep that dialogue going.”
+
+The FAA is heavily reliant on industry, she added. “Most of our systems are built by some manufacturer. We build the plans, build the requirements, but each one of the major components of the NextGen system, for example, is being filled by manufactures.”
+
+In the March issue of the Southwest Airlines magazine, airline CEO Gary Kelly wrote of the inefficient and outdated air traffic control (ATC) ground-based radar system, and praised U.S. congressional intentions to consider legislation to create a not-for-profit entity to oversee ATC operations.
+
+“This entity would be free from partisan gridlock, government budget shutdown and bureaucratic red tape,” Kelly wrote. “Importantly, the [FAA] would continue to regulate safety, as it does today, and controllers would remain on the job and continue to manage day-to-day flight activities.”
+
+The United States is in the minority of developed nations that allows the government to operate the ATC system and regulate the aviation system, Kelly wrote. “The U.S. ATC system now lags behind many other countries in terms of replacing outdated radar systems with GPS-based landing systems and other upgrades. The lack of significant progress with ATC modernization has placed a tremendous cost burden on our economy—the result of avoidable flight delays and cancellations, and inefficient flight patterns that needlessly waste jet fuel.”
+
+Modernization is slow, but shows progress, Whitley said. The FAA has completed installation of its GPS-based infrastructure, placing ground systems throughout the United States that allow air traffic controllers to receive precise aircraft location information.
+
+Next, it is up to airline companies to meet the FAA’s 2020 deadline that mandates all aircraft that fly at altitudes 10,000 feet or greater be equipped with the Automatic Dependent Surveillance-Broadcast (ADS-B) Out technology, which uses GPS to pinpoint aircraft location, airspeed and other data and broadcasts the information to air traffic controllers. Eventually, airlines will equip their fleets with ADS-B In technology, which will let pilots see other aircraft around them, she explained. No deadline has been established for equipping planes with the ADS-B In.
+
+“Prior to having a GPS network, ... we relied on radar technology,” Whitley said. “With radar sweeps, you get an update about every eight to 10 seconds, depending on the specific radar. For those eight or 10 seconds, you don’t know exactly where the airplane is.”
+
+The FAA managed that gap by spacing aircraft farther apart from each other. “With the GPS infrastructure, we have exact aircraft information, so we can get aircraft closer together,” she said.
+
+The precise consequence for airlines that fail to meet the deadline has not been ironed out, but “pretty much we’ve basically said you won’t be able to fly in that airspace,” Whitley said during an interview.
+
+The GPS-based network will help airlines and their customers realize other benefits, such as more direct flights between destinations that net shorter flying times and fuel savings. “In some cases, you won’t be doing zigzags,” she said. “Prior to this infrastructure, the aircraft moved over ground equipment. That’s how the aircraft secured its location information. With the GPS infrastructure, you no longer have to do that because you’re not limited by the ground infrastructure.” 
+
+Already, some aircraft navigation is performed using GPS. Some travelers might notice a less jarring landing versus aircraft that descend using the “step down approach that means the plane has to speed up, slow down, speed up, slow down,” she explained. “The new procedures allow them to use their avionics onboard and our automation system for a constant descent.” It’s part of NextGen’s performance-based navigation routes, which will help airlines save on fuel costs. 
+
+Through NextGen, the agency is improving its datalink technology to transmit messages directly from ground infrastructure to pilots and deploying the capability to larger airports first. 
+
+All of the advances provide the agency with “enormous flexibility in terms of managing any challenges that we’re presented, whether it’s weather or if we have some airspace that the DOD wants to use,” Whitley said. “We’re also planning for the advances in space travel. If there is a space launch planned, we have to integrate that into our system hours before a launch. We have to have a way to do that without impacting passengers.”
+
+“While passengers won’t see the word ‘NextGen,’ it’s all of the efficiencies that may be blind to them that they’ll enjoy,” Whitley offered.</text>
+  <imgalttext>
+    <img>Pamela Whitley, deputy assistant administrator for the FAA's Next Generation Air Traffic Management System, or NextGen, discusses the program's progress during AFCEA's TechNet Air symposium in San Antonio.</img>
+    <img>Pamela Whitley, deputy assistant administrator for the FAA's NextGen program, says the agency works closely with the Defense Department to address airspace needs.</img>
+  </imgalttext>
+</article>

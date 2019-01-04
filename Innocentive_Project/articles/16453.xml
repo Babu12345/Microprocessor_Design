@@ -1,0 +1,25 @@
+<article>
+  <type>blog</type>
+  <title>Researchers Develop Wireless Malware Detection Technique</title>
+  <author/>
+  <date>August 1, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>DARPA</tag>
+    <tag>Georgia Tech</tag>
+    <tag>cyber</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The technique, known as Zero-Overhead Profiling, will rely on receiving and analyzing side-channel signals, electromagnetic emissions that are produced unintentionally by the electronic devices as they execute programs. </abstract>
+  <text>Research funded through a $9.4 million grant from the Defense Advanced Research Projects Agency (DARPA) could develop a new technique for wirelessly monitoring Internet of Things (IoT) devices for malicious software without affecting the operation of the ubiquitous but low-power equipment, according to a Georgia Tech announcement.
+
+The technique, known as Zero-Overhead Profiling, will rely on receiving and analyzing side-channel signals, electromagnetic emissions that are produced unintentionally by the electronic devices as they execute programs. These signals are produced by semiconductors, capacitors, power supplies and other components, and can currently be measured up to a half-meter away from operating IoT devices. By comparing the unintended side-channel emissions to a database of what the devices should be doing when they are operating normally, researchers can tell if malicious software has been installed.
+
+Within the next four years, an estimated 30 billion IoT devices will be in operation, doing everything from controlling home heating and air conditioning to sensing and managing critical infrastructure. The devices are usually small with limited processor power and memory, meaning their limited computing capabilities cannot run malware protection software, and they cannot use virtualization and other technology to protect the system software even when an application is taken over by an attacker. So, once attackers compromise the internet-connected application, they typically “own” the entire IoT device and can even make it falsely respond to traditional queries about its own security status.
+
+Ultimately, researchers expect the project, dubbed Computational Activity Monitoring by Externally Leveraging Involuntary Analog Signals (CAMELIA), to be capable of monitoring several IoT devices simultaneously. That will require development of advanced processing techniques able to differentiate signals from each device, and new antennas able to pick up the signals from a greater distance.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

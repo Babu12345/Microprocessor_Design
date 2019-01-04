@@ -1,0 +1,20 @@
+<article>
+  <type>blog</type>
+  <title>Tracking the Wireless Menace</title>
+  <author>Beverly Schaeffer</author>
+  <date>August 3, 2012</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>cyber access tracking</tag>
+    <tag>Cybersecurity</tag>
+    <tag>DHS</tag>
+    <tag>U.S. DOD</tag>
+    <tag>WildCAT</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>What you CAN'T see CAN hurt you. In this case, it's wireless intrusion by unauthorized devices. The U.S. Departments of Homeland Security and Defense are hot on the trail to ramp up detection and amp up protection.</abstract>
+  <text>Despite the cloture motion on Thursday that ended any chance of the U.S. Senate passing the Cybersecurity Act of 2012 before the August recess (see SIGNAL Online Exclusive "Senate Now Unlikely to Pass Cybersecurity Bill Before Recess"), others are still hard at work behind the scenes in other venues on the very security this act would have addressed. In his article "WildCAT Prowls for Wireless Predators" in this issue of SIGNAL Magazine, Technology Editor George I. Seffers tracks the government agency effort that aims to identify and protect against unauthorized wireless devices and their potential to wreak havoc. The system is known as WildCAT (for cyber access tracking). It recently completed a prototype development effort with the Department of Homeland Security's (DHS's) Science and Technology Directorate. WildCAT is designed to protect wireless networks used by critical infrastructure facilities, including military installations, ports, nuclear power plants, transportation hubs or communications hubs. Once commercialized, the system also could protect commercial entities such as banks or restaurants where wireless intruders might try to steal account information, Social Security numbers or credit card data. Attached directly to vehicles, watercraft or possibly even sports stadiums, the WildCAT system is designed to protect wireless networks from cyber invaders, and the system should be operational within a few months. Experts say that WildCAT is more advanced than current technologies such as wireless intrusion detection systems (WIDS), which are suites of fixed sensors, because they too often leave gaps in coverage. WildCAT has proved to be a solid technology, but like any effort, will it be obsolete by the time it's fielded, or will it keep up with the ever-increasing sophistication of adversaries? Discuss your impressions; share your insights here.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

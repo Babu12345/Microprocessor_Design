@@ -1,0 +1,59 @@
+<article>
+  <type>article</type>
+  <title>Cross-Training Empowers Cyber Experts</title>
+  <author>Robert K. Ackerman</author>
+  <date>November 1, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Lockheed Martin</tag>
+  </tags>
+  <abstract>Information security professionals are being taught all the varied skills of the field—including how to be a hacker or a spy intruding on a network—in the same manner as runners who supplement their training with swimming and cycling to build flexibility and endurance.</abstract>
+  <text>Information security professionals are being taught all the varied skills of the field—including how to be a hacker or a spy intruding on a network—in the same manner as runners who supplement their training with swimming and cycling to build flexibility and endurance. The cross-training philosophy is that exposing security professionals to all aspects of network defense and offense gives them a clearer understanding of the diverse elements of cybersecurity. It also embraces the concept of “it takes one to know one” by teaching them the cyber intruders’ kill chain.
+
+This training approach is geared toward combating advanced persistent threats, which have grown in number and complexity in recent years. Malefactors’ modus operandi is to conduct multiyear intrusion campaigns at selected high-value targets in government, military and commercial sectors. A hallmark of these threats is that their perpetrators constantly change tools and techniques by implementing advances designed to elude network defenses.
+
+With cross-training, entire families of security experts—from network managers to threat analysts—are taught each other’s disciplines, and the lessons are applied throughout their security activities as they continually upgrade their skills. The result is intelligence-driven computer network defense. Another side effect is improved retention, as employees are not as compelled to look elsewhere to advance professionally.
+
+Chris Kearns, vice president of enterprise information technology solutions at Lockheed Martin, explains that a few years ago, the company began cross-pollinating talent among its 1,600 cyber subject-matter experts and analysts. Members of the cyber analyst teams at one of its security intelligence centers were either promoted or moved to a different job area. These areas encompass defense, intelligence, commercial and international customers. Analysts are exposed to new customer environments as well as different domains, such as forensics or information assurance.
+
+The firm also has created a talent pipeline, Kearns says. Because obtaining clearances for intelligence positions can take more than a year, the company uses new hires in its own security intelligence centers. Employees can increase their skills, and then they might be rotated into contract work in the defense sector, which does not require as high of a security clearance level. When their intelligence clearances come through, they can be moved into that domain, he points out.
+
+While security personnel traditionally do not come out of academia with high-level clearances, the company has been working with universities to build a work force tailored to the needs of its clients, Kearns allows. Part of this effort has included a national cyber analyst competition aimed at that part of information security.
+
+Research has shown that students are not being trained widely enough on cyber analysis—“the detective component of connecting the dots,” as Kearns characterizes it. Enter the cyber analyst competition. Twelve universities participate in this challenge, and the finals take place this month. “That’s another area where we’re trying to upskill people who are operators or technicians and put them more into that cyber detective area, where the biggest demand is,” he shares.
+
+Kearns notes that all cybersecurity customers—intelligence, civilian government, defense or commercial companies—are seeking people “who can hit the ground running on day one and improve the security of their networks.” Many contracts still are in the reactive mode, he relates, in which customers call for security assistance only after something has happened to their network. Having people who can be pulled through a pipeline to create an “A-team” is necessary, especially when doing so does not hurt the locations from which they are pulled.
+
+From the analysts’ perspective, they can move from roles such as information assurance to analysis, which allows them to grasp how the advanced persistent threat is exploiting vulnerabilities on a daily basis. They glean a greater appreciation for the speed required to patch a vulnerability, Kearns offers. System administrators who move up to the cyber field also are more aware of how applying a patch can affect operating systems.
+
+University students most commonly end up being cross-trained, he continues. Coming in with little or no professional history, these individuals would be deployed in one of the firm’s security intelligence centers. For several months or even years, they develop skills in that environment, where they will learn the cyber kill chain and the steps an adversary must take to be successful in an attack. Even when they stop an attack, they will parse the attack and study how the adversary advanced as far as it did and the consequences if it had not been stopped.
+
+“That starts to turn them into cyber detectives,” Kearns says.
+
+From there, they enter the rotation system, where they will practice the roles they learn. Eventually, they will move up into the fusion analyst environment, in which they glean expertise on adversary campaigns. This often leads to intelligence community roles, Kearns offers, allowing them to provide a greater degree of detail behind a cyber attack.
+
+“You have to think, ‘What do [adversaries] have to do to be successful?’ And that flips the paradigm,” he continues. “If you know the seven things [adversaries] have to do in the kill chain to be successful, then you have the advantage. You just have to stop them once, but they have to be successful all seven times.”
+
+By teaching security experts to think this way, the defensive posture becomes the better position, Kearns suggests. The defender can think things through and has the advantage by using intelligence-driven approaches to provide a more thorough defense across more realms. “You’re teaching them what the adversary needs to do to be successful and then using that skill to peel it apart,” he summarizes.
+
+Maintaining peak skill levels is a constant endeavor in the dynamic cyber realm. Different work force groups have centers of excellence where they have regularly scheduled training. The company also routinely sends out reports to its customers through their contracts, and these reports are given to the work force to refine its knowledge of how adversaries are adapting over time.
+
+Kearns cites an example of this opposition research. Password guessing has been a popular way for adversaries to access networks for some time, so information security systems will lock out an attempted login after a fixed number of guesses. Now adversaries are guessing usernames, which changes the dimension of how they attack. The security work force must be aware of this and other new tactics being wielded by network intruders, he notes.
+
+Kearns explains that the skill upgrade process, for the most part, is ongoing, concurrent with work force activities—and “integrated continuous training.” Workers are not pulled off the line to update their abilities, although they can take more advanced courses to fulfill certifications, and these courses could take them away from their work. Each role in a different program has a level of certifications—such as CISM, CISSP and Security Plus—that must be maintained to obtain and retain the position, Kearns notes.
+
+The firm is working with its government customers, such as the Defense Information Systems Agency (DISA), to provide this type of training to government civilians and service members, Kearns says. The Defense Department is using wider concepts of this training with its cyber protection teams.
+
+This training program operates at the conceptual level of what needs to be done, Kearns explains. The technical “how to” always is evolving because of changes in adversarial techniques and the tools available to fight them. “We’re teaching the math skills as opposed to how to use the calculator,” he relates.
+
+Customer requirements can drive training at the technical/tactical level, particularly in terms of analyst skills, Kearns continues. At the broader level, discussion often focuses on how to map the language. For example, the Defense Department has categories for attacks that describe the adversary’s level of control. However, these categories do not map to the cyber kill chain steps, so the company still has to work with its customers to explain how these layers intersect with the steps.
+
+As a result, the firm takes government standards, categories, descriptions and definitions and adds them to the cyber kill chain dimension. That enables the company to establish priorities for its cyber work force, Kearns explains.
+
+He emphasizes that the company trains its entire work force in cybersecurity, not just the experts who defend the domain. Similarly, Lockheed Martin offers a program called the I Campaign in which cyber users become sensors. He says this effort integrates technology, employee testing and security awareness. Employees are taught about threats and vulnerabilities to modify their behavior and become active cyber sensors, aiding in network defense.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

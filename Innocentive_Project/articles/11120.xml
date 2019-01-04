@@ -1,0 +1,80 @@
+<article>
+  <type>article</type>
+  <title>Critical Infrastructure Ripe for Attack</title>
+  <author>Robert K. Ackerman</author>
+  <date>June 1, 2013</date>
+  <departments>
+    <department>Cyber</department>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>June 2013</tag>
+    <tag>Cyber Symposium Featured</tag>
+    <tag>Global Intelligence Featured</tag>
+  </tags>
+  <abstract>Digital marauders have set their sights on the critical infrastructure and are likely to strike soon with major effect. Several different elements of the infrastructure are vulnerable to attack by all manner of cyberspace players ranging from malevolent individuals to hostile nation-states.</abstract>
+  <text>Cyberspace offers a wealth of options for evildoers seeking to bring down a nation.
+Digital marauders have set their sights on the critical infrastructure and are likely to strike soon with major effect. Several different elements of the infrastructure are vulnerable to attack by all manner of cyberspace players ranging from malevolent individuals to hostile nation-states.
+Vulnerabilities include the critical information technology infrastructure as well as traditional aspects such as the power grid and transportation. Known measures that fall short of a complete redesign of these systems will not be effective. And, defensive measures are complicated by the fact that cyberweapons, once deployed, become part of the public domain and can be used by anyone—even against the original developers.
+	These scenarios are unfolding and, in some cases, already have happened, according to an international security expert. Eugene Kaspersky, chief executive officer and co-founder of Moscow-based Kaspersky Lab, says that malware attacks are proliferating.
+	“We receive 100,000 malicious files every day,” he states. The threat is so broad that Kaspersky carries an old-style cell phone—“a brick”— that lacks the features and capabilities that characterize modern smartphones.
+	Receiving that many new malicious files daily, Kaspersky’s company cannot perform deep analysis of every piece of malware. So, it resorts to automatic systems to analyze and process data, which then are added to a database. He admits that with some malware, such as the global Red October cyber espionage campaign, the firm detected only some components. “We saw the trees, but we didn’t see the forest,” he analogizes.
+	Now, attacks are much more professional, with some involving hyperfiles. “It’s a growth in quality and quantity, and new players are joining,” Kaspersky relates.
+	“The very bad news is that the bad guys are learning,” he declares.
+	Kaspersky predicts “we will see some really bad attacks” on some parts of the critical infrastructure. He breaks down the vulnerabilities into three scenarios: critical information technology infrastructure; critical industrial systems; and telecommunications. In these categories lie several potential targets. Power plants and other parts of the energy grid are high on the list, followed by telecommunications. Transportation, such as railway routing systems, and financial networks rank high among targets. And, health care facilities, such as hospitals, also are vulnerable.
+	 
+
+				
+					Were Power Companies in the Dark?
+				
+					 
+				
+					One of the biggest electrical blackouts in history may have been the result of an accidental cyberattack. When the Northeast United States and Southern Canada lost a large portion of the power grid in August 2003, more than 50 million people in the two nations were without electricity from late afternoon well into the evening. Kaspersky claims that this happened because of a malicious worm that actually was seeking other targets.
+				
+					 
+				
+					The power grid was managed by Unix servers. The worm was designed to attack Windows systems through their libraries, and Unix libraries shared the same vulnerability as their Windows counterparts. The damage to the Unix libraries was at the kernel level, Kaspersky says, in inter-application communication. “To the Unix engineers, the system appeared to be alive, but the applications could not talk to each other,” he attests. “It was zombied—it was dead.” 
+				
+					 
+				
+					The same worm caused an epidemic that affected other users ranging from the U.S. Marine Corps to Australian rail. The global outbreak was caused by a cyberhooligan who wanted to criticize Microsoft but also infected unintentional targets. When the worm struck Windows, it displayed a message addressed to Microsoft founder Bill Gates.
+					 
+				
+					Kaspersky notes that power companies do not admit that the blackout was caused by malware. Instead, they have stated publicly that a control room software bug allowed an outage to cascade throughout the grid.
+			
+		In August 2012, national oil giant Saudi Aramco’s network was struck by an attack organized from outside the kingdom. Saudi Aramco officials state that the attack intended to disrupt Saudi Arabia’s economy by preventing the flow of oil to market. Kaspersky says this attack mirrored the Viper virus attack on Iran’s oil producing infrastructure earlier that year.
+	He quotes the president of Saudi Aramco as saying, “We don’t understand how much we depend on information technology until a catastrophe [hits].” Kaspersky likens this type of catastrophe, in which an information technology system is shut down, to leaving “a body with no oxygen in the blood.”
+	The information technology critical infrastructure in South Korea was hit this past spring when cyberattacks shut down banking. Critical industrial systems, such as those with supervisory control and data acquisition (SCADA) systems, are an enticing target. The third category, telecommunications, includes the Internet, mobile networks and businesses that rely on them.
+	Attribution is difficult. While some types of malware may betray their origin, that is less likely in the majority of cases. Kaspersky allows that, the longer an attack continues, the better the chance experts can surround it and narrow its origin footprint to the point where the source may be identifiable. But, by and large, the Internet provides anonymity for attackers.
+	Part of the challenge of defending against cyberattack is that, once introduced, a piece of malware becomes common property. Accordingly, Kaspersky categorizes the types of attacks that struck Iran, Saudi Aramco and South Korea as having a “boomerang effect.” Unlike kinetic weapons, which are destroyed when they are used successfully, the malware designed to damage critical infrastructure systems is a cyberweapon that can be analyzed and understood easily after its use. Its new owner then can modify or improve it for deployment against an adversary of their choosing.
+	One of the best known cyberweapons is Stuxnet, which damaged Iran’s nuclear fuel processing plant SCADA. “Stuxnet was written by professionals,” Kaspersky states. “There were mistakes in the code, but it was written in a very professional way.” Two different teams wrote Stuxnet code separately, and then they shared data modularly working together, he says.
+	“Now imagine others who are not so professional who take these ideas and develop an attack on some power plant far away from you,” he offers. “There may be similar power plants with similar [SCADA] systems. What if this piece of malware is not be able to recognize [the differences among plants], and it will damage all the similar systems?”
+	This actually happened with Stuxnet, Kaspersky continues. Because the target recognition system was so “professionally built,” several nuclear power plants across Europe were infected with the malware. One of his company’s top security experts had to spend the night in one of these nuclear power plants, saying in a hysterical phone call, “Everything is compromised here; I have to stay here overnight, and I’m scared to death to stay here.” The plants were not damaged, but they were infected nonetheless.
+	With this ability for a piece of malware to be turned against its original users, Kaspersky likens software attacks to biological warfare. Just as a microbe used as a biological weapon can spread out of control and infect its original users, so can malware used in a cyberattack.
+	“Stuxnet did save lives by avoiding the need for kinetic weapons, but the problem is not about nation-states exchanging cyber [weapons]—it’s about terrorists learning,” Kaspersky points out. “And, the terrorists don’t have to do it themselves—they can just pay some engineers to adapt it for them.
+	“There is a malware black market. You go to a go-between, who takes your order for a custom-tailored malicious program that does what you want it to do. And those guys [malware engineers] don’t care,” he states.
+	The most devastating attacks have been split between cybersabotage and cyberespionage, Kaspersky claims. That trend is growing in what appears to be an upward parabolic arc, and these attacks have the hallmark of large organizations behind them—either governments or criminal organizations sponsored by governments, “a private-public partnership,” he says.
+	Malware attribution can be a daunting problem. Kaspersky relates that Red October “was wrapped in a Chinese wrapping” at first appearances. Even though it mimicked a Chinese cyberattack, Red October showed Russian coding when the firm analyzed it more deeply. Yet, while the code writers had a Russian education, they could have been working for someone unconnected with the republic, although the source most likely was an organization.
+	Cybercrime also is transitioning. Targets include traditional systems such as Microsoft Windows, but increasingly attacks are focusing on Android devices, he reports. “There is a lot of money there, so there are a lot of opportunities.”
+	Criminals additionally are increasing their attacks on business. Their aim is not so much espionage as financial gain—they are attacking corporate bank accounts, and from time to time they are successful, Kaspersky allows.
+	While the problem is daunting, solutions are possible. “I have been working on information technology for more than 20 years, and that is why I’m paranoid,” Kaspersky declares. “Yet, I am still optimistic. We will survive.”
+	Expected attacks on the critical infrastructure will bring better measures by governments, he continues. These measures will include incorporating a better level of resilience—“to make systems more immune,” he suggests.
+	However, achieving this security will require redesigning many applications and systems, Kaspersky says. Many of these systems were built two or three decades ago—some industrial systems still use MS-DOS as their operating system, he points out. In addition to the complexity of a total redesign, a shortage of information security engineers poses a challenge.
+	Better architectures alone will not be sufficient, he adds. Improved security will require better education among users, government control of standards and intelligence—“being able to recognize the bad guys before they press the button.” Effective cyberintelligence will require cooperation among governments, including nontraditional allies, he offers.
+	Kaspersky is not optimistic about defense by cyber counterforce. The difficulty of attribution is a major challenge to digital retaliation. A rapid counterstrike is more likely to hit the wrong target than the correct one, and it would not be able to do any lasting damage to the attacker.
+	To defend against attacks on the information technology critical infrastructure, large organizations should vary their operating systems, Kaspersky offers. The first victims tend to be companies that employ monoculture information technology. He cites Saudi Aramco, which used the same operating system for its workstations, servers and backups. If the firm had employed backups with a different operating system, even if only for a few backup elements, its data would not have been wiped clean throughout the entire system, including all the backups.
+	He also recommends having a different backup network. It need not be as powerful as the main network, but it should be able to perform at least the most critical operations if the main network is down. “Military jets, submarines, even commercial jetliners all have some kind of redundant system,” he points out.
+	Critical industrial infrastructure systems should either have extremely limited access to the Internet or be totally disconnected from it, Kaspersky states. The limited Internet access should be only for a specific task that must be performed via the Internet. And, data should flow through different operating systems from the perimeter. A Microsoft Windows operating system should have a Linux machine on the perimeter to filter out Windows-targeted malware.
+	These systems also should employ only trusted applications instead of endpoint solutions, he adds. The only exceptions would be applications installed by a trusted updater. For example, a cybermarauder can bypass Linux protection by using a Linux-plus-Windows worm, Kaspersky says.
+	Other threats can menace an industrial system. Kaspersky cites a case in which his company was developing a SCADA system with embedded security for Russian power plants. When the firm checked out the computer that was being used to develop the SCADA software—containing all the SCADA data and all the SCADA source code—its experts found a Chinese backdoor embedded in the computer. The very system being used to develop the power plant control systems was infected.
+	 
+“It’s not just that they had access to all the SCADA system information about the [plant elements],” Kaspersky points out. “They were able to modify the source code.”
+	The best solution for industrial security is a true, secure operating system that is “written from scratch with security as a main idea,” he offers. This is the best way to protect the critical industrial infrastructure.
+	On the other hand, Kaspersky has no idea how to protect telecommunications. A worst-case scenario might be an attack on a mobile network in which 100,000 smartphones all start dialing random telephone numbers. This scenario would be relatively inexpensive to carry out, he states.
+	Some smartphone vulnerability may lie in the host computer. When a smartphone user synchronizes a smartphone on his or her home computer, malware from that computer can transfer to the phone. Kaspersky relates that a Chinese cyberattack on the Dalai Lama’s staff lifted information from a smartphone via malware on the synchronizing computer.
+	Telecommunications network managers may be able to see a problem is arising in the same manner that an earthquake gives an indication of a possible tsunami. Sensors in mobile phones and the Internet might be able to provide that type of alert, but an attack still cannot be stopped. “Pray,” he suggests.
+ </text>
+  <imgalttext>
+    <img>Fig. 1 [circuit-traces-640.jpg]: Cyberspace is the new invasion route for marauders to attack the nation’s critical infrastructure, and that potential threat now is increasing to the point of likelihood.</img>
+  </imgalttext>
+</article>

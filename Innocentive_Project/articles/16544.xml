@@ -1,0 +1,50 @@
+<article>
+  <type>article</type>
+  <title>Ariane 5 Rocket Successfully Blasts 2 Intelsat Communications Satellites into Orbit</title>
+  <author>Sandra Jontz</author>
+  <date>August 25, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Intelsat</tag>
+    <tag>satellite systems</tag>
+  </tags>
+  <abstract>Arianespace has successfully launched its fourth Ariane 5 mission of the year, this time carrying a double payload, the first time Intelsat blasted off two satellites on one rocket. Intelsat 33e is the second in a series of seven planned EpicNG satellites that will deliver high throughput, all digital capabilities.</abstract>
+  <text>Forty-one minutes and 50 seconds after liftoff, sighs, applause and cheers of congratulations displaced the palpable tension on the 19th floor of the tower housing Intelsat in Tysons, Virginia—where a packed room of spectators had congregated to watch on big screen televisions Wednesday’s groundbreaking rocket launch.
+
+The celebration bubbled after launch crews officially announced the acquisition of signal by not one, but two Intelsat-owned satellites, successfully launched by a European Ariane 5 rocket into geostationary transfer orbit from the Guiana Space Center in South America following a nearly 20-minute delay from planned 5:55 p.m. ET launch time. “Now I can breathe,” said a relieved Stephen Spengler, CEO of Intelsat.
+
+Arianespace had successfully launched its fourth Ariane 5 mission of the year, this time carrying a double payload with Intelsat-33e and Intelsat-36—the first time Intelsat blasted off two satellites on one rocket.
+
+Intelsat 33e, manufactured by Boeing, is the second in a series of seven planned EpicNG satellites that will deliver high throughput, all digital capabilities in both C- and Ku-band. It will service Africa, Europe, the Middle East and Asia when it becomes operational sometime in November. Intelsat’s first EpicNG satellite, Intelsat 29e, launched in January and provides service to the Americas and the busy North Atlantic Ocean travel region.
+
+Intelsat 36, manufactured by Space Systems/Loral, will provide direct-to-home video distribution services, primarily to MultiChoice Africa as it expands standard-definition and high-definition broadcast channels to Africa and Asia. Next year, Intelsat plans to launch Intelsat 32e and 35e.
+
+Intelsat’s most significant underlying driver in developing the next generation technology behind its series of Epic satellites is that “people want conductivity—everywhere, anywhere, anytime,” Spengler said during a press availability. Nearly 4 billion people remain unconnected today. “We’re trying to enable ubiquitous access to communications anywhere in the world at any time, wherever you may be—whether you're flying, on a ship or in the remotest parts of the planet.”
+
+Intelsat seeks to court global government satellite business, particularly that of the U.S. military. In spite of the drawdown of combat forces from Iraq and Afghanistan, government reliance on commercial satellite services is expected to continue for the foreseeable future. “One driver of demand is the fact that unmanned aerial vehicle platforms are expected to grow about 10 percent a year through 2020,” Spengler said. “[The platforms] are largely, if not entirely, based on satellite connectivity, and the amount of data [users] want to pull off of these aircraft is increasing dramatically as well.” The military has expressed a need for smaller terminals, higher data rates and quicker deployment of services around the world.
+
+Intelsat’s high throughput satellite design is specifically oriented toward multiple applications, including mobility. The EpicNG open architecture makes the satellites backwards compatible, meaning customers can use existing equipment.
+
+
+
+While designed as an overlay to the company’s fleet of more than 50 satellites, the systems combine an advanced digital payload with wide beams and spot beams and frequency reuse technology to enhance security and flexibility. “The advantage of the open architecture is that over the next 15 years, the satellite is going to be operating as ground technology advances and people get more clever on what they can do with ground equipment,” Spengler said. “Whereas with some of the closed systems that are being implemented, … you're locked into that ground technology of today, and that's what you're going to have for the next 15 years.”
+
+The spot beams are narrower, leaving a smaller footprint that is also more difficult to exploit. The digital payload, which is the follow-on generation to what the Defense Department uses for its Wideband Global Satellite (WGS) constellation, allows the company to disconnect the uplink from the downlink and rapidly thwart interference, whether intentionally or accidental, said Skot Butler, president of Intelsat General Corporation.  
+
+But beyond the military, Intelsat seeks to sate the big push for connected aircraft and to service the growing needs of the maritime community.
+
+Today, roughly 1,000 aircraft are WiFi connected; by 2025 that number is expected to be 23,000. Current efforts focus on airplane cabins and connecting passengers, but there is an increasing need for connecting airline operations, such as data points coming from engines and cockpits, Spengler said.
+
+In the maritime domain, users anticipate a dramatic increase in the gigabits required for ships, an increase driven largely by crew requirements—of which 75 percent of crew members bring at least three devices on board—but not exclusively, he said. “Increasingly, the shipping lines are using communications lines to monitor operational capabilities on the ship and also for what they are transporting.”
+
+Additionally, Intelsat wants to be ready to answer the demands brought on by the Internet of Things, or IoT, presently mostly a terrestrial service. “To truly connect cars and devices and remote areas, and to implement applications, satellite is going to play a very critical role in all of this,” Spengler said. “As the devices keep getting smaller and the satellites stronger, … it's an opportunity to enable those kinds of sectors.”
+
+The emergence of the IoT contributed design changes of the EpicNG systems, which are not cookie-cutter to begin with, Spengler said. “When we started into Epic, we really did not have connected cars on the list. That has developed in the last few years. We started the Epic program four-plus years ago, in terms of design. The challenge with connecting cars is getting an antenna small enough and cheap enough to be built right into the car. Some of that antenna technology has been developing.”</text>
+  <imgalttext>
+    <img>Arianespace successfully launches its fourth Ariane 5 mission of the year, this time carrying a double payload with Intelsat-33e and Intelsat-36—the first time Intelsat blasted off two satellites on one rocket. Photo courtesy of Intelsat.</img>
+    <img>After a roughly 20-minute delay, Arianespace successfully launches Ariane 5 on Wednesday, a rocket carrying a double payload with Intelsat-33e and Intelsat-36. Photo courtesy of Intelsat.</img>
+    <img>Arianespace successfully launches its Ariane 5 rocket from the Guiana Space Center in South America. Photo courtesy of Intelsat.</img>
+  </imgalttext>
+</article>

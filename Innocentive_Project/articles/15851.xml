@@ -1,0 +1,29 @@
+<article>
+  <type>blog</type>
+  <title>Brainiac Supercomputer in the Works</title>
+  <author/>
+  <date>March 29, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Lawrence Livermore National Laboratory</tag>
+    <tag>IBM</tag>
+    <tag>High Performance Computing</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>Lawrence Livermore National Laboratory announced it will receive a first-of-a-kind brain-inspired supercomputing platform for deep learning developed by IBM Research.</abstract>
+  <text>Lawrence Livermore National Laboratory (LLNL), Livermore, California, today announced it will receive a first-of-a-kind brain-inspired supercomputing platform for deep learning developed by IBM Research. Based on a breakthrough neurosynaptic computer chip called IBM TrueNorth, the scalable platform will process the equivalent of 16 million neurons and 4 billion synapses and consume only 2.5 watts of power—the energy equivalent of a hearing aid battery.
+
+According to a written announcement from LLNL, the brain-like, neural network design of the IBM Neuromorphic System is "able to infer complex cognitive tasks such as pattern recognition and integrated sensory processing far more efficiently than conventional chips."
+
+The new system will be used to explore new computing capabilities important to the National Nuclear Security Administration’s (NNSA) missions in cybersecurity, stewardship of the nation’s nuclear weapons stockpile and nonproliferation. The NNSA’s Advanced Simulation and Computing (ASC) program will evaluate machine-learning applications, deep-learning algorithms and architectures and conduct general computing feasibility studies. The ASC is a cornerstone of the NNSA’s Stockpile Stewardship Program to ensure the safety, security and reliability of the nation’s nuclear deterrent without underground testing.
+
+According to the LLNL announcement, the technology represents a fundamental departure from computer design that has been prevalent for the past 70 years and could be a powerful complement in the development of next-generation supercomputers able to perform at exascale speeds, 50 times (or two orders of magnitude) faster than today’s most advanced petaflop (quadrillion floating point operations per second) systems.
+
+A single TrueNorth processor consists of 5.4 billion transistors wired together to create an array of 1 million digital neurons that communicate with one another via 256 million electrical synapses. It consumes 70 milliwatts of power running in real time and delivers 46 giga synaptic operations per second—orders of magnitude lower energy than a conventional computer running inference on the same neural network. TrueNorth was originally developed under the auspices of the Defense Advanced Research Projects Agency’s (DARPA) Systems of Neuromorphic Adaptive Plastic Scalable Electronics (SyNAPSE) program in collaboration with Cornell University.
+
+Under terms of the $1 million contract, the LLNL will receive a 16-chip TrueNorth system representing a total of 16 million neurons and 4 billion synapses. The LLNL also will receive an end-to-end ecosystem to create and program energy-efficient machines that mimic the brain’s abilities for perception, action and cognition. The ecosystem consists of a simulator; a programming language; an integrated programming environment; a library of algorithms as well as applications; firmware; tools for composing neural networks for deep learning; a teaching curriculum; and cloud enablement. </text>
+  <imgalttext>
+  </imgalttext>
+</article>

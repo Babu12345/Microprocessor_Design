@@ -1,0 +1,66 @@
+<article>
+  <type>article</type>
+  <title>Biometrics Program Combats Child Abuse</title>
+  <author>George I. Seffers</author>
+  <date>September 1, 2015</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>biometrics</tag>
+  </tags>
+  <abstract>The Department of Homeland Security’s Non-Cooperative Biometrics Program will evaluate cutting-edge technologies, such as facial recognition and tattoo identification, and integrate them into current investigation tools.</abstract>
+  <text>The Department of Homeland Security’s Non-Cooperative Biometrics Program will evaluate cutting-edge technologies, such as facial recognition and tattoo identification, and integrate them into current investigation tools. The program specifically focuses on technologies to aid in the fight against child exploitation, but because those are some of the most technologically challenging cases, the program has implications for other missions as well.
+
+“In the child exploitation world, facial recognition is very difficult because it’s not like the Department of Motor Vehicles, where we control the lighting and the pose and the camera equipment and everything about it,” says James “Jim” Cole, national program manager-victim identification for Homeland Security Investigations (HSI), which is housed within the Cyber Crimes Center, Fairfax, Virginia.
+
+Furthermore, children grow up, making facial detection and recognition more difficult, experts point out. A victim may be 1 year old when evidence first surfaces and several years older as the abuse continues.
+
+The sheer volume of data also adds to the challenge. Department of Homeland Security (DHS) officials say that in fiscal year 2014, HSI processed more than 5 petabytes of data, equal to about 83 billion pages of images or 95 billion PowerPoint files. And between 2004 and 2012, the volume of data presented by field agents increased 4,000 percent.
+
+Despite the massive amounts of data, biometric technologies are not as widespread as some may think, Cole offers. “With child exploitation, people assume we have facial detection and recognition, but it’s a challenging technological problem,” he adds.
+
+But with technology continually improving, the time is right to re-evaluate the state-of-the-art systems, he indicates. “We’re seeing the technology grow. It is now at a point where this is a solvable problem. We just need to put some resources into doing that,” Cole says. “We’ll add new capability to what we’re doing, but it’s something my investigators have been screaming for for a long time.”
+
+The program brings together the department’s Science and Technology Directorate with HSI as the customer. The effort, which is expected to last two years, began in June with the first meeting at the Cyber Crimes Center.
+
+Technologies will be evaluated with the NetClean Analyze platform, which Cole’s team has used for several years. “It has had a dramatic impact. We’ve seen our forensic backlogs drop from an average of nine months to a matter of a few weeks,” Cole says, adding that the system still is being deployed, and agents continue to be trained to use it.
+
+Johann Hofmann, NetClean’s Analyze program manager, describes the tool as a combination of “artificial intelligence, automation and more.” The data investigation platform was initially created for, and with, law enforcement for the purpose of combating child abuse. NetClean’s technology has become “more or less standard for law enforcement when it comes to dealing with images and video,” Hofmann asserts.
+
+The system categorizes visual data. For instance, if an image meets certain criteria, it will be categorized as illegal. According to NetClean documentation, the system also helps cut costs through significant workload reductions and increased efficiency while enhancing the effectiveness of investigations.
+
+Because Analyze is widely used and provides various ways of integrating different kinds of technologies, “that made it possible for [HSI] to easily integrate and evaluate technologies rather than coming up with their own test platform,” Hofmann says. Also, because of the widespread use of Analyze, technologies evaluated on the system can be deployed that much more efficiently, he adds.
+
+Hofmann, who attended that first meeting at the Cyber Crimes Center, describes the Non-Cooperative Biometrics Program as “a very big project that aims to basically evaluate all state-of-the-art facial recognition technologies out there.” While the Homeland Security Department has run at least one similar program in the past, it has not yet attempted anything on this scale, Hofmann says. “I don’t think there has been anything that even comes close to the magnitude of what they’re going to evaluate. They are collecting different algorithms within this domain. They’re also looking at tattoo recognition. They’re looking at various kinds of object detection and object recognition,” he reports.
+
+And it is largely because of the implications for other kinds of missions—virtually anything requiring massive amounts of photo and video processing—that the government is investing in the project, Hofmann asserts. “If they can find technologies that can solve the problem of facial recognition for child exploitation, they can solve it for any other application,” he says.
+
+Cole’s team at HSI, which falls under U.S. Immigration and Customs Enforcement, maintains an extensive database of child exploitation material—primarily photographs and videos—collected from across the organization. That data will be used as “ground truth” in evaluating new technologies, Hofmann explains. “Once they evaluate the algorithms, they have this ground truth data that can tell whether the algorithms are doing the right thing, whether they recognize the right faces or right tattoos or so on,” he elaborates.
+
+NetClean has partnered with HSI before, including on Project Vic, an ongoing nationwide fight against the spread of child sexual abuse images. Project Vic essentially places the focus on identifying and locating victims. Traditionally, of course, the emphasis for any kind of criminal investigation has been on finding the perpetrator. “Of all the different crime types—narcotics, smuggling or fraud, for example—it’s about going after the bad guy and putting the bad guy in jail,” Cole points out. “But with child exploitation, there’s a vulnerable victim: children. We in law enforcement had to really start to look at cases differently and think more about victims than offenders.”
+
+The new approach has been successful, Cole says. “Since we’ve employed this across HSI, both our arrest statistics and our victim-identified and rescue statistics have gone through the roof—have really quadrupled,” Cole reports.
+
+NetClean’s technology is a central part of Project Vic. “NetClean Analyze allows us to view our seizures, our video data, more efficiently than really any other program out there,” Cole says. The system provides various capabilities that help the team categorize, process and analyze reams of photographs, videos and other data. It allows investigators to identify information embedded in an image, including geolocation data that can easily be mapped out. Embedded data also can include the model and serial number of the camera used, which can help lead to the perpetrator. “The datasets we’re building as part of Project Vic will allow us to wipe out 30 percent to 75 percent of the data we’re seizing and clear it digitally versus manually,” Cole says.
+
+The Analyze program is used internationally as well. NetClean is establishing a comprehensive database that will help the United Kingdom’s 46 local police forces work together, share information and process and analyze child abuse data more efficiently, Hofmann reports. “These organizations are still struggling with how to cope with the volume of images and videos that they confiscate or seize so that they don’t have time to rescue victims or find perpetrators,” he declares. “With this system hosted centrally, each and every organization is connected, meaning they can download the most recent updates. They can upload everything new that they seize and that they look at. They can work directly against this huge repository of information to collaborate across organizations and to facilitate victim identification.”
+
+In October, the company intends to integrate a new capability with Analyze version 16.3 that will allow users to “cross-correlate and match small, small snippets of videos that may be a part of other videos in other investigations,” Hofmann says. The NetClean team discovered the technology while working on Project Vic. “We got in touch with a company called Friend Media Technology Systems in the U.K. through Universal Studios. They had a close collaboration with this company and were using the technology to find illegal streams of their Hollywood production movies. This company also works with the Olympics and different sports events to prevent people from streaming sports events in real time illegally,” Hofmann reveals.
+
+The next version of Analyze will separate nonpertinent data, leaving investigators with only the most important evidence. “It typically reduces workload 70 percent to 90 percent in most investigations,” Hofmann says.
+
+The most recent version, 16.1, which was released in the spring, added a capability known as Analyze Relations. It connects images or videos that are related in some way. “This is a completely new way of letting the user navigate relations between images and videos that can result in finding a needle in a haystack. Until now, it has been impossible to navigate all that information,” Hofmann asserts.
+
+NetClean also has been expanding its business focus beyond fighting child exploitation. “Today we are providing a platform that can be used in all kinds of applications. You name it: fraud, organized crime, defense applications and so on,” Hofmann says. “This is, nowadays, a problem everywhere and a problem that is most likely going to grow.”
+
+In fact, the company is initiating a reorganization. “We’re going to create a new mother company called Safe Society Group. The new mother company is going to have two suborganizations. One will be NetClean. The other one will be Griffeye,” Hofmann reveals.
+
+NetClean will continue to focus on technologies to counter child abuse, while Griffeye, which will be built around the Analyze program, will branch out into broader markets. “We’ll focus more efforts on addressing new challenges, facilitating new needs and what is essentially about dealing with massive volumes of facial data. We’re getting quite some attraction in defense, counterterrorism, fraud, serious organized crime and so on because of our NetClean Analyze technology,” Hofmann notes.
+
+Although NetClean Analyze offers a variety of benefits, one stands out for Cole. “We’re rescuing more children,” he concludes.</text>
+  <imgalttext>
+    <img>The Science and Technology Directorate and Homeland Security Investigations, both within the Homeland Security Department, are working together to evaluate state-of-the-art biometric technologies and ultimately to integrate those technologies into existing investigation tools. Because child exploitation images and videos pose the greatest challenge, technologies that aid in those investigations likely will benefit a broader range of missions.</img>
+    <img>Homeland Security Investigations (HSI) special agents assigned to the Cyber Crimes Center arrested a computer and information technology specialist on child pornography charges. HSI and the Department of Homeland Security’s Science and Technology Directorate have initiated a major program to evaluate state-of-the-art biometrics solutions.</img>
+  </imgalttext>
+</article>

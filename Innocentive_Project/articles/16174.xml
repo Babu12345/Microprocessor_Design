@@ -1,0 +1,54 @@
+<article>
+  <type>article</type>
+  <title>Disruptive by Design: Using Big Data to Decode Disasters</title>
+  <author>Frank Christian Sprengel and Sebastian Leinhos</author>
+  <date>June 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>big data</tag>
+  </tags>
+  <abstract>Despite plenty of indicators pointing to an impending refugee crisis in Europe, policy makers failed to see it coming. They neglected to set in motion judicious humanitarian response plans and bungled strategic decisions to prepare for the people in need, worsening this catastrophe.</abstract>
+  <text>Despite plenty of indicators pointing to an impending refugee crisis in Europe, policy makers failed to see it coming. They neglected to set in motion judicious humanitarian response plans and bungled strategic decisions to prepare for the people in need, worsening this catastrophe. Government leaders lacked the foresight that might have avoided many of the issues the continent and its authorities now face. 
+
+Inadequate preparation and a deficit of upfront collaboration have been toxic for all stakeholders. The crisis should elicit a fervent search for answers to this question: How can European decision makers act in a more appropriate, comprehensive and sustainable way?
+
+One answer might be found in a state-funded project led by Austrian research program KIRAS, established by the Austrian Federal Ministry for Transport, Innovation and Technology. The program resulted in a fully functional, web-based software solution called the Foresight-Cockpit, which creates a collaborative readiness platform that lets users address questions about issues such as the refugee dilemma. The system’s core provides 170 harmonized indicators from 50 varied sources: for example, the International Monetary Fund, the World Bank and the United Nations. The Foresight-Cockpit platform combines methods and tools for building strategic foresight and generates a customizable dashboard with every topic added.
+
+When designing the system, sociologists from the University of Salzburg in Austria assessed each of the following factors and designed a framework for them in three topical layers:
+
+• Refugee movement into and out of Austria.
+
+• Refugee movement into and within Europe.
+
+• Refugee movement in areas of interest worldwide.
+
+For each layer, specific measures have been identified, described and ranked using unique evaluation criteria to facilitate more transparent data sharing between stakeholders. These indicators have been organized into common and comparable dimensions and incorporated into the system database.
+
+The Foresight-Cockpit platform empowers analysts and other relevant public- and private-sector partners to rely on—and trust—each other’s information and analytic output. It allows a more transparent view by letting project participants share each other’s insights and collaborate. The community can reach out to external experts to discuss specific questions or to temporarily integrate these individuals into a project for analysis.
+
+Consolidating Big Data
+
+The platform is not without shortcomings. A cacophony of bias, diverse approaches and incoherent policy concepts can emerge because stakeholders use different data, indicators and information sources to generate unique situational awareness assessments, often on the same subjects. Because there is no way to avoid this overlap, analysts developed a disruptive approach to enable cooperation for all participants through a single system. They can use different tools and methods to reach a common situational understanding from different relevant viewpoints.  
+
+Understanding the Methodology
+
+The Foresight-Cockpit platform empowers stakeholders with three different but closely linked methods that are implemented as distinct modules.
+
+Using a module called the Trend Management System (TMS), users illuminate trends and assess them within the project community. Each trend can be connected to quantitative data (indicators) and qualitative information, collected and linked from the user’s own research activities.
+
+The Scenario Management System module enables the project group to transfer trends into a scenario analysis landscape that is related to the TMS trend live feed. Each time a trend changes because of new or updated information, all dimensions of the scenario automatically change too, enabling a real-time measurement of the scenario, scenario options, fields of action and options for action.
+
+With the Delphi Survey Tool (DST), project teams can incorporate external experts to evaluate relevant stakeholders, public authorities to integrate into crisis management solutions and even their own roles. The DST helps support communication with the target audience and acceptance of the experts’ findings. It also reduces costs and conserves resources by avoiding mistakes such as omitting a stakeholder and having to repeat the whole process.
+
+Supporting Better Cooperation
+
+The intuitive design of the Foresight-Cockpit platform encourages frequent use, especially in desktop research. The program’s browser add-on enables the seamless capture and categorization of information found directly from a web browser into the database. The project group can view all the information and collaborate online to discuss different aspects, with the goal of developing a common understanding. Users get accustomed to sharing their insights often and double-checking their analytic assumptions with others. This strengthens the character of cooperative work and avoids analytical mistakes caused by operational blindness.
+
+The system creates the space and the basis of trust users need to establish a capability for collaboration and joint decision making. The latter is vital for the success of informed and focused decisions.
+
+Frank Christian Sprengel is a political scientist, sociologist and consultant for REPUCO in Vienna, Austria. Sebastian Leinhos is the managing director of qedcon in Berlin. The views expressed here are their own and do not necessarily reflect those of their companies.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,15 @@
+<article>
+  <type>blog</type>
+  <title>Everything Should Not Go Over IP</title>
+  <author>Robert K. Ackerman</author>
+  <date>November 2, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>TechNet Asia-Pacific 2011</tag>
+  </tags>
+  <abstract>Everything over Internet Protocol (EoIP) is not the cure-all for military communications and networking, a panel of experts warned. Legacy systems must be integrated with EoIP to form a hybrid network that is more flexible and less vulnerable than EoIP would be alone.</abstract>
+  <text>The military services should not put all their networking eggs in the Internet Protocol (IP) basket, said a panel of service chief information officers (CIOs) at TechNet Asia-Pacific 2011. Over-reliance on everything over IP (EoIP) could be counterproductive at best and detrimental at worst, the experts offered. "I like the theory of EoIP, but I can't prove it in practice," said panel moderator Lt. Gen. William T. Lord, USAF, U.S. Air Force CIO. "I'm not ready to put all those eggs in that basket-yet. We haven't invested enough in it." Michael Krieger, Department of the Army CIO, said that the best approach would be a hybrid environment that includes EoIP. "You don't want everything over IP, but you do want more over IP, and everything should have an IP address," he said. Krieger called for building an EoIP architecture with the right balance of legacy systems. Defining that balance remains a challenge, he added. "The devil's in the details."</text>
+  <imgalttext>
+  </imgalttext>
+</article>

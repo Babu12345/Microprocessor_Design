@@ -1,0 +1,44 @@
+<article>
+  <type>article</type>
+  <title>U.S. Army Has Some New Mojo</title>
+  <author>Maj. (P) Martin Schmidt, USA</author>
+  <date>March 1, 2017</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>US Army</tag>
+    <tag>C5ISR</tag>
+    <tag>Nett Warrior</tag>
+  </tags>
+  <abstract>Commanders and staff always are seeking the “next best” solution to attain supremacy over adversaries in the pivotal domains of command, control, communications, computers, combat systems, intelligence, surveillance and reconnaissance, or C5ISR.</abstract>
+  <text>The U.S. military faces a critical stage in establishing an effective and commanding position in the new technologically advanced environment of regional networking. Commanders and staff always are seeking the “next best” solution to attain supremacy over adversaries in the pivotal domains of command, control, communications, computers, combat systems, intelligence, surveillance and reconnaissance, or C5ISR.
+
+Some of that effort is shouldered by the Army’s Rapid Equipping Force (REF), which began seeking out and quickly supplying cutting-edge materiel solutions during the early days of the conflicts in Afghanistan and Iraq about 15 years ago. 
+
+Although the preponderance of combat operations in those regions has waned, the REF remains relevant by providing the technological advances commanders need to maintain situational awareness on the battlefield, to prevent fratricide and to rapidly maneuver their forces. Battlespaces have evolved greatly over the last decade and a half, but the REF’s mission endures: to address urgent requirements to supply soldiers operating globally with innovative government and commercial off-the-shelf materiel solutions.
+
+In spite of the many advances in technologies employed by today’s warfighters, gaps remain between tactical-edge leaders, military air platforms and tactical operations centers. Until recently, conventional units lacked a system that integrates disparate communication systems to generate a single air and ground common operating picture.
+
+One emerging solution is the Joint Expeditionary Integrated C5ISR (JEIC) kit, which provides both a complete line-of-sight package and a beyond-line-of-sight communications package for on-the-move and at-the-halt land, air and maritime applications. 
+
+The JEIC kit includes four major components, led by the move out/jump off (MOJO) kit developed by Carlsbad, California-based digital communications company ViaSat. MOJO takes advantage of the profusion of technologies to integrate various waveforms and air and ground position location information (PLI) to form one common operating picture.
+
+At the heart of MOJO is the Tactical Radio Application eXtension (TRAX) software developed by Sierra Nevada Corporation in Herndon, Virginia. The software routes and translates one datalink protocol to another and translates dissimilar waveforms to provide a singular robust communication network made up of multiple communication devices. TRAX effectively eliminates any proprietary interfaces and protocols, allowing commanders to receive a more sound common operating picture of their battlespace.
+
+TRAX also enables net-centric messages from MITRE’s Cursor-on-Target message router and text chat to reach tactical radio users. It serves as a host for Link 16, an encrypted, jam-resistant, nodeless tactical digital data link network used by the United States, NATO and coalition forces. 
+
+The third component of the JEIC kit is Ringtail Design’s Replay offering, which provides a common operating picture and allows operators to aggregate PLI and full-motion video. The Replay technology lets operators play, pause and rewind a single, interactive picture of the battlespace, which increases ISR visibility of fighter aircraft and ground forces to prevent fratricide. It delivers a “battlespace DVR” with multidimensional intelligence and data feeds and visual fusion of live operations that can include data from sensors, video and reports. 
+
+Additionally, the JEIC kit can access fourth-generation long-term evolution (4G LTE wireless), which provides situational awareness to the tactical edge using the robust cellular network and the Army’s Nett Warrior 4G-enabled end-user device. The Nett Warrior system comprises a commercial off-the-shelf cellphone tied to a Rifleman radio and lets dismounted soldiers view their positions on maps. The 4G LTE network combines combat net radio and voice over Internet protocol, letting users participate in video teleconferences on their devices from anywhere on the battlefield.
+
+
+
+The complexity of today’s battlefields requires a solution that provides more situational awareness than many of today’s tools offer and adaptable communications systems that commanders can leverage based on their missions. The JEIC kit is an expandable and scalable system that affords true interoperability with the services and coalition partners. The kit is just one system that provides commanders with the information needed to stay in front of the enemy and stay in line with rapidly changing technology.
+
+Maj. (P) Martin Schmidt, USA, is a requirements officer for the Rapid Equipping Force, based at Fort Belvoir, Virginia. The views expressed here are his alone.</text>
+  <imgalttext>
+    <img>After receiving coordinates on the Nett Warrior system, U.S. soldiers from the 35th Infantry Regiment, 1st Armored Division, prepare to move out during a Network Integration Evaluation exercise.</img>
+    <img>U.S. paratroopers from the 82nd Airborne Division participate in the Joint Operational Access Exercise in 2013, designed to enhance cohesiveness between U.S. Army, Air Force and allied personnel and to practice large-scale heavy equipment and troop movement operations.</img>
+  </imgalttext>
+</article>

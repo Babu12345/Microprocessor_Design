@@ -1,0 +1,46 @@
+<article>
+  <type>blog</type>
+  <title>A Three-pronged Approach for Fighting Foreign Cyber Attacks</title>
+  <author>Mav Turner</author>
+  <date>August 16, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>guest bloggers</tag>
+    <tag>Guest Blogs</tag>
+    <tag>Hacker</tag>
+    <tag>security breach</tag>
+  </tags>
+  <abstract>When we think of cyber attacks, we generally picture a lone wolf hacker or Anonymous-type organization. But foreign governments also are formidable threats. Take a moment to scan the headlines and you’ll see that articles about cyber hacks on Sony Pictures Entertainment and the Democratic National Committee—among many others—have been attributed to North Korea and Russia. Blogger Mav Turner from SolarWinds offers pointers on safeguarding networks from increasingly sophisticated intrusions.</abstract>
+  <text>When we think of cyber attacks, we generally picture a lone wolf hacker or Anonymous-type organization. But foreign governments are also formidable threats. Take a moment to scan the headlines and you’ll see that articles about cyber hacks on Sony Pictures Entertainment and the Democratic National Committee—among many others—have been attributed to North Korea and Russia.
+
+A recent SolarWinds federal cybersecurity study revealed foreign governments pose some of the most serious risks for cyber attacks. Results indicate an uptick in reported government-backed threats over the past few years, with reports increasing from 34 percent in 2014 to 48 percent this year. Be aware, however, that’s not to say there is an actual increase in the number of attacks. Cybersecurity experts just might be discovering more problems, primarily due to the escalating need and ability of the FBI and Defense Department to proactively identify and respond to threats.
+
+Notoriety surrounding these attacks creates additional challenges for the U.S. government. As publicity surrounding breaches grows, the public's demand to attribute breaches to a specific government or nation-state and the expectation of an explanation grows as well. This "pressure cooker" climate complicates and sometimes politicizes decision-making for agencies, making a challenging security situation even more difficult to manage as officials risk rushing to judgment.
+
+While there is no magic bullet to instantly secure agency systems and render them immune to breaches by foreign governments, concentrating on three fundamentals—process, people and tools—can create a good foundation for a well-designed security posture. They provide the legs of a security stool; all working together to shield agency networks against foreign adversaries. Here’s how agencies can make them work together.
+
+Develop a sound security process.
+
+Agencies must develop proactive, well-formulated plans that outline exact steps that must be taken in case of an intrusion, taking into account which employees have access to what information and the solutions the agency will employ to monitor networks. Even the most basic plan can prove beneficial in the event of a large-scale, damaging foreign government attack, which can be complex. A step-by-step management approach will help ensure that no data is left unguarded.
+
+Invest in people and education.
+
+All personnel—not just IT—should be informed about the varying types of existing threats  and they should know that at any time, their organizations are targets. Everyone should be brought up to speed with risk management approaches. IT personnel on the frontlines of reacting to security breaches must have an especially deep understanding of the tools used to manage and thwart threats.
+
+The need to invest in people is underscored by the release of the federal cybersecurity work force strategy, an action plan from the White House’s Office of Management and Budget to find, develop and expand the nation's cybersecurity talent in the public and private sectors. The strategy is an outgrowth of the Cybersecurity National Action Plan (CNAP).
+
+Deploy the proper tools.
+
+Patch management and network automation software add layers of security and use standardized device configuration and deployment automation to reduce configuration errors. The best-in-class network security tools also use change monitoring, alerts, configuration backups and rollbacks to improve network reliability. These solutions should frequently be updated to protect against the changing threat environments. Many breaches occur because systems aren't updated. It’s a simple fix, but one that too often is ignored.  
+
+Just as foreign governments use teams of people to attack, domestic agencies find strength in their numbers. Social media, networking groups and threat feeds provide great tools for sharing information about the latest threats and educating peers on ways to fortify networks. IT personnel should use them to gain a leg up on potential attackers.
+
+Organizations should band together. The most strategic defense against cyber breaches will come when federal, state and local agencies—including law enforcement and other security personnel—across the United States share resources and work together to fight foreign intrusion into U.S. cyberspace.
+
+Mav Turner is director of product strategy at SolarWinds.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

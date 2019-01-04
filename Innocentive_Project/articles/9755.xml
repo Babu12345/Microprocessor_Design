@@ -1,0 +1,15 @@
+<article>
+  <type>blog</type>
+  <title>Taking Measure of Supercomputing</title>
+  <author/>
+  <date>June 28, 2012</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The Graph500 executive committee has announced specifications that will better represent ways to rate the large-scale data analytics that are key to high-performance computing. This single-source, shortest-path specification to assess computing performance will measure the closest distance between selected items.</abstract>
+  <text>The Graph500 executive committee has announced specifications that will better represent ways to rate the large-scale data analytics that are key to high-performance computing. This single-source, shortest-path specification to assess computing performance will measure the closest distance between selected items. The move is oriented toward enormous graph-based data problems. Graph500 rates machines based on their ability to solve complex problems with seemingly infinite components instead of ranking machines based on speed. Big data has been a problem for the public and private sectors and is important in fields such as cybersecurity. The new specifications are meant to complement the Top 500 ranks of supercomputing performance and to spur industry to enhance supercomputing.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

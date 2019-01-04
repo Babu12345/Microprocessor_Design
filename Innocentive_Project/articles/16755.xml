@@ -1,0 +1,72 @@
+<article>
+  <type>article</type>
+  <title>Elections at Risk in Cyberspace, Part I: Voting Lists</title>
+  <author>Robert K. Ackerman</author>
+  <date>October 11, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>Election Cyber Risks</tag>
+  </tags>
+  <abstract>As U.S. elections increasingly are digitized, the same threats faced by other users of cyberspace loom as potential vulnerabilities to voting and ballot tallies. Candidates and interest groups have expressed concern about the validity of the upcoming election based on real and perceived cyber threats. Voting systems connected to the Internet as well as those that are isolated are susceptible to intrusions that could shake up an election.</abstract>
+  <text>This is the first of a four-part series, based on interviews with private sector cybersecurity experts, on the vulnerability of U.S. elections to cyberspace intrusion. The next three parts will focus on voting machines, vote tabulation and potential solutions to existing and future challenges.
+
+As U.S. elections increasingly are digitized, the same threats faced by other users of cyberspace loom as potential vulnerabilities to voting and ballot tallies. Candidates and interest groups have expressed concern about the validity of the upcoming election based on real and perceived cyber threats. Voting systems connected to the Internet as well as those that are isolated are susceptible to intrusions that could shake up an election.
+
+The threat to an election can take two forms. One is an attack that actually changes the outcome by altering the vote count to favor one candidate over another. The other threat is tampering that may not clearly change the outcome but sows doubt among the electorate and reduces public trust about the validity of an election and the sanctity of the democratic system.
+
+The Office of the Director of National Intelligence (ODNI) and the Department of Homeland Security (DHS) issued a joint statement on October 7 expressing confidence that the Russian government “directed the recent compromises of emails from U.S. persons and institutions, including from U.S. political organizations. … These thefts and disclosures are intended to interfere with the U.S. election process.”
+
+The statement goes on to say that while some U.S. states have seen evidence of hackers scanning and probing their election systems, “it would be extremely difficult for someone, including a nation-state actor, to alter actual ballot counts or elections results by cyber attack or intrusion” because of the decentralized nature of the U.S. election system as well as inherent local protection measures. However, the statement also warns state and local election officials to be vigilant and seek cybersecurity assistance from the DHS. Private sector cybersecurity experts view a broad range of threats that conceivably could throw a national election into chaos, even if enacted only on a state level.
+
+Elections start with voter lists, and those lists are vulnerable to hacking and alteration to a limited degree, say professionals who have worked on election cybersecurity. The threat can range from merely downloading voter names and addresses to altering registrations or even adding to or deleting voters from the rolls.
+
+And significant damage to the electoral process could be inflicted even with a limited effort. If only a small number of voters—perhaps 5 percent—had their eligibility changed or were stricken from a voting list, the entire process would be called into question and the results could be held in abeyance pending an investigation. At the very least, the public would lose confidence in the workings of their democratic system, these experts agree.
+
+These threats span the range of elections. Even presidential elections largely are administered at the state and local level, and the FBI has reported that two state voting databases—Illinois and Arizona—were the targets of attempted hacks this year. Information for roughly 200,000 Illinois voters was exfiltrated successfully. And in late September, FBI Director James Comey testified to Congress that hackers are “poking around” state voter registration lists.
+
+Both actual sabotage of voter lists and sowing seeds of uncertainty are possible, says a cyber system penetration expert who spoke on background. Nation-states certainly have the capability for systematic attack, but organized hacker groups also pose a realistic threat.
+
+“It’s a mystery to me why these things already have not happened, if only on a small scale” he says. “Attacking databases is very easy to do.” It might already have happened, “although the kinds of people I am familiar with wouldn’t want to do it on a small scale,” he adds. “And it is almost impossible to be caught.”
+
+Because many voting lists are online, they are not very secure, observes Chuck Brooks, vice president of government relations and marketing for Sutherland Government Solutions. Online lists are not encrypted, so they can be accessed easily—especially as public databases. Many states and communities use the Internet for voter registration, which gives hackers an open door into the system.
+
+Internet voter registration is gaining in popularity, and vulnerability to hackers is growing accordingly. More than half the 50 states are allowing Internet registration, and the sanctity of their databases depends in part on individual authentication requirements, says Ron Bandes, network security analyst in the CERT division of the Software Engineering Institute of Carnegie Mellon University. Bandes also is president of VoteAllegheny, a nonpartisan election integrity organization.
+
+The validity of a person’s information may depend on whether it is known only to the applicant or is in the public domain. Without strict requirements, that information may be obtained easily. Even the last four digits of a person’s Social Security number are known to many organizations, he allows. The highly publicized recent thefts of personal information from government and the commercial sector could be the seed corn for a bumper crop of election hacking.
+
+All databases are subject to the same cyber threats, even if they are not connected to the Internet, Bandes points out. He cites the case of Iran’s uranium centrifuges being affected by the Stuxnet virus even though they were not linked to the Internet.
+
+Threats against the voter database could take several forms. Bandes notes that a state with a closed primary could face chaos if hackers were to change voters’ party registration, effectively disenfranchising them from voting in a primary. That would not be an issue in an open-primary state.
+
+Another piece of sabotage would be to change a voter’s address to another district, so that person does not show up at the correct polling place. Shifting a number of voters, especially those who are targeted for their political voting history, to a different congressional district could change the makeup of Congress in a tight election year.
+
+Yet Bandes points out that an online voter database on a web server probably is not the authoritative list. Most states would authenticate the information entered on the web before listing a person as a valid registrant.
+
+Maj. Gen. Jennifer L. Napper, USA (Ret.), group vice president, Defense and Intelligence, Unisys Federal Systems, believes the challenge to voter registration is that much of it is done online or even retained online. A former director of plans and policy for the U.S. Cyber Command, Napper echoes other experts saying that any database accessible to the Internet is at risk. She also agrees with Bandes that most states have secondary and tertiary backups to ensure that people can vote even if something goes wrong with the list.
+
+If voters are deleted outright, several backup options can come into play. First, most databases have both audit trails and backups, Bandes says. Massive irregularities would be examined, and the backup lists could be brought into play. And, people who show up at their polling place only to find they are not on the list for a presidential election can be given a provisional ballot under the Help America Vote Act of 2002 to vote while the dispute is cleared up.
+
+Because the voting lists themselves may be hosted by web applications, they are only as secure as these applications, notes Brian Calkin, vice president of operations, Center for Internet Security. If an online registration site is written in a secure fashion, it will be safe. Any vulnerabilities could lead to data disclosure as well as tampering, he says.
+
+Many states also give the public the ability to look up voter registration information—“it’s made to be available to people who want to query it for legitimate purposes,” Calkin points out. This public-facing data is susceptible to the same threats that plague the overall Internet.
+
+The potential threat to the voting lists is greater than that of the actual voting process itself, he maintains. He rates the threat to voter lists “probably a 7 on a 1-to-10 scale” with 10 being the most severe.
+
+Napper believes that voter fraud or identity management is the most vulnerable part of the voting system. On a 1-to-10 scale, she views the overall threat severity to voting lists as only a 3, largely because so many states have effective backups.
+
+Yet while most states have backups of one type or another, even small errors on a large scale would lead to voter doubt about the validity of the process, the cyber penetration expert notes. Attackers could intrude in small doses over a large area, which would give citizens the sense of a loss of control over the process.
+
+The big question is when would a confidence-destroying hacker or team strike. Attacking on election eve would have great effect, but the intruder—who probably would have penetrated the system at least a month earlier to ensure success—would run the risk of being detected during the month-long interval between entry and attack. Attacking a month before the election—right after system penetration—might be optimal because the intruder would not risk discovery over time, and the attack still would create significant turmoil.
+
+And voter trust is an issue, Napper notes. She points out that the Russian denial-of-service attacks that struck Estonian government sites in 2007 degraded trust among the country’s citizens even though the sites were down for less than a day. The potential is even greater today.
+
+“It doesn’t take much—with rumors, innuendo and conspiracy theories online—to erode citizen trust,” she declares. When two states report hack attempts on their voter lists, and national political committees have their emails leaked to the media, an election could be affected through lack of trust. “That is the more valid concern, and no cybersecurity [measure] is going to fix that,” she emphasizes.
+
+Coming tomorrow: Part II, Voting Machine Vulnerabilities</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

@@ -1,0 +1,50 @@
+<article>
+  <type>article</type>
+  <title>Industry Aims to Simplify Interoperability</title>
+  <author>George I. Seffers</author>
+  <date>July 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>U.S. Army</tag>
+    <tag>U.S. Marine Corps</tag>
+    <tag>interoperability</tag>
+  </tags>
+  <abstract>U.S. Army and Marine Corps units soon may begin informally evaluating a product designed to provide lightweight, inexpensive and reliable voice interoperability at the lowest level.</abstract>
+  <text>U.S. Army and Marine Corps units soon may begin informally evaluating a product designed to provide lightweight, inexpensive and reliable voice interoperability at the lowest level. The cross-banding device could improve communications between newer and older radios among the U.S. military services, between the military and other government agencies and among U.S. and international forces, according to military and industry sources.
+
+Cross-band communications allow a radio to receive signals on one frequency while transmitting the same information on another frequency or waveform. Although the Army currently deploys some cross-band products, those systems are often expensive, cumbersome, complex and reserved for upper echelons, say officials with Perkins Technical Services (PTS) Inc., Huntsville, Alabama. The PTS solution, however, easily connects to radios sitting in PTS power mounts, about 5,600 of which already are deployed worldwide. Furthermore, the Perkins solution is priced at a point appropriate for fielding at a platoon level, company officials say.
+
+PTS specializes in radio power supply docking stations (PSDS), which can be installed at fixed sites, temporary locations or on a wide variety of military vehicles. One of those docking stations, the AS0117-HR-117G/1523, mounts both the Harris AN/PRC-117G and the RT-1523. 
+
+The RT-1523 is a Single Channel Ground and Airborne Radio System (SINCGARS) that offers flexible frequency selection and security options while allowing effective management of multiple radio net operations. The AN/PRC-117G, also known as the Falcon III, is a software-defined tactical radio that provides secure voice and data up to the top secret level. It can be either soldier-packed or mounted in a vehicle. The Falcon III offers a variety of waveforms, including SINCGARS and satellite communications, that support military forces and domestic first responders. 
+
+The PTS mount can be coupled with a newly developed cross-banding device, the Communications-Applied Technology Incident Commander Radio Interface (C-AT ICRI), which enables cross banding of different radios and waveforms. The system allows voice—not data—interoperability, but Perkins officials say lower-echelon soldiers are more concerned with voice communications.
+
+Meanwhile, the Army is producing the Joint Tactical Radio System Handheld, Manpack and Small-Form Fit radios, which use a variety of waveforms, such as the Soldier Radio Waveform. But the Army also still has thousands of older radios, including 200,000 improved SINCGARS that will be in the force for another two decades.
+
+“You’ve still got all these legacy systems out there, so what we came up with is a product to mount a 117G and a 1523 together and then cross band them,” explains Hank Perkins, PTS technical director and co-owner with wife and company president Kathy. “The end user with that legacy radio can now broadcast in through our system and have [the signal] retransmitted out on either Soldier Radio Waveform or satellite communications or some of your civilian emergency system waveforms or your ultrahigh frequency waveband.”
+
+Perkins cites two scenarios in which soldiers at the tactical edge could benefit from cross banding. In the first scenario, a medic may only have access to an AN/PRC-148, a widely fielded, handheld radio that cannot normally communicate with a medical evacuation aircraft. But the PTS solution can be installed at a forward operating base or a tactical operations center to bridge that communications gap. “With our system, the 117G can be switched to over-the-air band, the medevac band, and now that medic on the ground with a casualty can talk directly to the medic in the aircraft and give a heads up on what he will be dealing with when he lands,” Perkins offers.
+
+In the second scenario, the Army runs simultaneous missions on either side of a mountain. The units use SINCGARS radios, which are line-of-sight systems and may have trouble communicating when obstacles, such as the mountain, block signals. In that case, the Army likely would set up a retransmission station on the mountaintop. “It’s a fairly complicated thing to do. You’ve got to have guards up there. You’ve got to have full logistics. You’ve got to have power, radios, antennas, lots of infrastructure up on top of that ridgeline,” Perkins asserts. “With our solution, you could put our PSDS with each platoon on each side of the mountain, set up the 117G onto satellite communications and just bounce that signal off a satellite, and now those platoons are able to talk to each other without having to have that retrans station.”
+
+Perkins reports that PTS has seen interest from a variety of Army, Marine Corps, National Guard and special operations units. He specifically cites Fort Bragg, Fort Polk and Camp Pendleton. In addition, the company has loaned systems to units at Camp Lejeune and Twentynine Palms. Officials at the Camp Pendleton communication schools are developing requirements to deploy several PSDS models, Perkins states, adding that once those mounts are in place, the schools will begin evaluating the cross-banding devices as well.
+
+Lt. Col. Joseph Pishock, the top signal officer for the 25th Infantry Division, Oahu, Hawaii, says he also is interested. The division conducts operations throughout the Pacific Rim, working with more than 20 partner nations as diverse as Indonesia, Malaysia and Japan. Some of those nations have radios compatible with American forces systems, but others do not. The PTS cross-band device could improve communications with those international partners. 
+
+“While I haven’t personally used it, I’m trying to get a couple of them because I’d like to use them on our coalition operations. Any piece of technology that might allow me to take an American radio, whether it’s a SINCGARS or the 117 family—whatever you’ve got—and find a way at the tactical-level battalion and below to talk to my partner out there just makes me a more credible coalition partner,” Col. Pishock states. “My company commander told me this morning he’s just waiting for the stock number to come out on the [Perkins product] that allows you to do the cross banding so that he can go ahead and order some.”
+
+Tony Tabler, PTS director of strategic initiatives, says the Perkins solution also could be used at forward operating bases (FOBs), such as those in Afghanistan. Troops going out on missions probably can communicate back to the FOB, but not much farther, says Tabler, a retired Army lieutenant colonel and lifelong communicator. “But sometimes they need to reach way back to the rear, hundreds of miles away, to talk to somebody else,” he says, citing the need to call in an airstrike or communicate with a joint force headquarters as two examples. 
+
+In such cases, the cross-banding solution could be deployed within the FOB. Warfighters could use the SINCGARS to call back to the FOB and have the message retransmitted over satellite communications, such as the Mobile User Objective System (MUOS), Tabler explains. “Let’s say you’ve got a commander on a Stryker vehicle, and he’s out patrolling outside of the FOB. If he had that SINCGARS radio, which is a requirement in every combat and tactical wheeled vehicle, that SINCGARS would reach the FOB, where that commander could then cross band into a MUOS-capable radio, and then once he hits that MUOS satellite, he can reach back around the globe,” he elaborates.
+
+Perkins officials say their PSDS products are lightweight, easy to transport and easy to set up. Col. Pishock agrees. The 25th Infantry Division can conduct operations for weeks or months at a time, often with three or possibly four Pacific Rim nations. To do so, the division flies hundreds or even thousands of soldiers to various locations while most of their supplies are transported via ship. Those troops can sometimes hit the ground and then wait weeks before the transport ship arrives. 
+
+“Our requirement has been to devise ways of deploying command and control nodes—battalion, brigade, even up to division—because we have to fill in those gaps. We can’t afford to wait two weeks with a thousand people on the ground and the only credible comms is a BlackBerry,” the colonel explains. “That’s where the Perkins stuff comes in. I can simply take a radio and a Perkins box, throw it into a suitcase, and I’ve got everything I need when I get to the far side.”</text>
+  <imgalttext>
+    <img>A 25th Infantry Division specialist conducts data and chat communications using a Mobile User Objective System (MUOS). The division’s top signal officer says he wants to get his hands on a new industry-developed cross-banding solution that will improve interoperability between U.S. forces and Pacific Rim partners.</img>
+    <img>A U.S. Army specialist provides security from a tower on Forward Operating Base Lane in the Zabul province of Afghanistan. By allowing greater interoperability between military radios, the cross-banding device produced by Perkins Technical Servicess will allow soldiers at forward operating bases to more effectively tap into satellites to communicate longer distances, industry sources say.</img>
+  </imgalttext>
+</article>

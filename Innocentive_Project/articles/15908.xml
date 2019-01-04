@@ -1,0 +1,36 @@
+<article>
+  <type>blog</type>
+  <title>Want to realize the security benefits of hyperconverged systems? Look to FedRAMP</title>
+  <author>Brian Fogg</author>
+  <date>April 12, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>DISA</tag>
+    <tag>cloud</tag>
+    <tag>FedRAMP</tag>
+  </tags>
+  <abstract>The evolution of information technology is heading toward a hyperconverged infrastructure (HCI). Advantages of HCI include lowered management costs and less administrative overhead, and these systems already have made headway into the Defense Department and federal agencies.</abstract>
+  <text>The evolution of information technology is heading toward a hyperconverged infrastructure (HCI). Companies such as Cisco and Nutanix already are delivering HCI platforms that logically and seamlessly manage, configure and allocate memory. Additionally, a software-centric HCI combines computing, storage, network and virtualization technologies into one system, which can streamline resources and eliminate the need to navigate to different applications and platforms.
+
+HCI offers several additional advantages, such as lowered management costs; reduced power, cooling and space; and less administrative overhead, including systems administration and long-term support and maintenance. Additionally, these systems already have made headway into the Defense Department and federal agencies.
+
+Security and HCI
+
+Before HCI becomes the new status quo, administrators must consider security issues regarding how agency networks handle classified and unclassified traffic. For example, an agency might have different classification levels (top secret, secret and unclassified) managed separately across the network, requiring three efforts to set up, configure, operate and maintain so that secure boundaries can be in place. HCI allows all of this to be controlled under one system. However, data from differing classification security levels could be comingled across the network and physical devices, which presents an obvious challenge from a certification and accreditation (C&amp;A) perspective because of the security requirements involved at each level. As security levels increase, requirements become more stringent from a risk management perspective. Beyond the systems in and of themselves, data management and data aggregation challenges (where individual data elements are unclassified, but become classified when pulled together) also increase the complexity of the C&amp;A effort.
+
+Look to FedRAMP
+
+The Federal Risk and Authorization Management Program (FedRAMP) and Defense Information Systems Agency provide a model for addressing security classification levels for the cloud. Today, validated cloud services that use approved methods to control and manage separate data tiers can be delivered through AWS GovCloud (US) and other FedRAMP-approved providers. Just as FedRAMP validates cloud vendors, current security and administration processes must be updated to support HCI. The government could apply that same level of rigor and certification process to HCIs so they pass required C&amp;A.
+
+Shift in Thinking 
+
+With HCI, we’re moving closer to a delivery model emphasizing automation, standardization and knowledge (ASK), an approach that leverages software-defined systems administration to reduce implementation time and increase consistency. Also, ASK emphasizes automation across all processes—data standardization and security configurations for the HCI components and knowledge sharing (in the form of best operational practices) across the entire environment. This model lets the government better realize cost savings, improve data oversight and provide agility to meet dynamic changes quickly.
+
+HCI also will change how network administrators think about setting up and running their environments. Fifteen years ago, everyone tried to get comfortable with the concept of virtualization. Today, administrators can start thinking about a request-fulfillment model—request a set of capabilities and the platform will figure out what it can provide to meet that requirement. Additionally, HCI gives government chief information officers a new way to think about an agency’s infrastructure. But it will take a little bit of time and planning to get CIOs comfortable with HCI as a solution they can support and trust. Once they do, however, HCI benefits will soon pay off.
+
+Brian Fogg is vice president and chief technology officer at NCI, Inc. </text>
+  <imgalttext>
+  </imgalttext>
+</article>

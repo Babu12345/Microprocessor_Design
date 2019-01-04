@@ -1,0 +1,24 @@
+<article>
+  <type>blog</type>
+  <title>New Digital Devices Increase Cyber Vulnerabilities</title>
+  <author>Robert K. Ackerman</author>
+  <date>November 17, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>TechNet Asia-Pacific 2015</tag>
+  </tags>
+  <abstract>The ubiquity of networked devices has opened up a host of new opportunities for hackers aiming at targets from medical records to automobile GPS systems.</abstract>
+  <text>Automobiles, appliances, GPSs and medical record-keeping are just a few of the portals through which hackers may penetrate networks and wreak havoc among individuals and organizations. These situations likely will worsen as the Internet of Things (IoT) becomes more pervasive throughout society.
+
+Speaking at TechNet Asia-Pacific 2015, being held in Honolulu, November 17-19, Jodi-Ann Ito, information security officer, University of Hawaii, described some of the emerging threats. With a theme of Fight to Communicate: Operating in a Communications-Degraded Environment, the conference began by examining many security issues in Ito’s morning keynote address.
+
+She cited vulnerable medical records as the latest target for profitable hacking activities. Ito noted that hackers can use medical information for a host of reasons for a long period of time without fear of detection. She urged individuals to review their medical insurance statements in the same manner that they review credit card statements. Ultimately, this fraud could have broad ramifications, especially among organizations. “If you don’t have a good cybersecurity program, your insurance rates will go up,” she warned.
+
+Ito also cited the IoT as a major enabler of cybermarauders. She pointed out. Hackers can break into an automobile's GPS and track a driver's movements. With some camera-equipped televisions, hackers can break into the device, activate the camera and microphone and watch the goings-on in a person’s house. This only will worsen as the IoT becomes more ubiquitous.
+
+“For the life of me, I do not understand why my refrigerator has to be connected to the Internet,” Ito declared.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

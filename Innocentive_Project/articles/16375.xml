@@ -1,0 +1,60 @@
+<article>
+  <type>article</type>
+  <title>Modernizing Defense Health Data</title>
+  <author>Robert K. Ackerman</author>
+  <date>August 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Defense Health Agency</tag>
+    <tag>Health Information Technology</tag>
+    <tag>Health IT</tag>
+  </tags>
+  <abstract>A report assembled by a team of government and private industry experts recommends new information technologies and warns of potential minefields as it plots a course for modernizing the Defense Health Agency.</abstract>
+  <text>A report assembled by a team of government and private industry experts recommends new information technologies and warns of potential minefields as it plots a course for modernizing the Defense Health Agency. The industry authors, many of whom are stakeholders in the defense health community, also suggest ways of improving defense health data use that could be applied to other government organizations. 
+
+Many new technologies are affecting health care, and information systems are exerting substantial influence on its application. Patient records can be accessed via mobile devices, while virtualization and the cloud are entering the realm to a greater degree.  
+
+Linton Wells II, former acting assistant secretary of defense for networks and information integration and U.S. Defense Department chief information officer (CIO), explains that the report’s recommendations emerged from government and industry experts who largely are familiar with federal processes. The group assembled in an AFCEA brainstorming session specifically designed to support the Defense Health Agency (DHA) as it transitions to a new CIO. With change on the horizon, additional stakeholders that could offer insights to the new leader joined the group. Their presence added value to the recommendations that will be presented to the CIO, Wells says.
+
+The report focuses less on the hows and more on the “high-level whats without being overly prescriptive,” he offers. The goal was to identify the issues the new leader will need to address in the first 90 days.
+
+The DHA has two different but equally important missions, Wells points out. One is to maintain the medical health system, and the other is to support a trained and deployable medical force via the Combat Support Agency. The two missions have not been integrated well in the past, he says, but the Defense Department will take a big step toward ameliorating that issue if the report’s recommendations are implemented. “This agency is charged with blending two quite different missions, and the CIO network information technology job has a key role in that,” Wells offers. While the report does not address how to blend those two missions, it does address the overall importance of their fusion. 
+
+The report notes several challenges that set the DHA apart from other defense agencies. The agency comprises a blend of service cultures, and its dispersed funding sources give it limited control over fiscal resources. It has a highly dynamic information communications technology environment. Most of all, it must collaborate with, and influence, a wide audience to succeed.
+
+One of the most difficult tasks facing the new CIO will be to achieve unity of action without having unity of control. Each of the services has a stake in the DHA, and the lack of a clear central authority creates a barrier to consolidation of redundant systems and applications that leads to waste. The agency’s leadership will need to progress by influence and encouragement rather than by authority, the report notes.
+
+Among five primary recommendations in the report, the top one is to understand the baseline environment. This entails collecting input, defining the CIO’s vision, establishing transparency and connecting with key stakeholders to solidify partnerships and eliminate wasteful programs.
+
+“Almost nobody is going to know all the moving parts—given whether they come from a service background, an agency background, an operating background or a TRICARE medical health service background,” Wells notes. “Everyone will have something to learn.”
+
+The timing of the new CIO’s arrival poses a problem. “The time when the person is coming in is going to be almost too late to have a significant effect on the FY18 budget,” Wells points out. “[The new person] will have to find ways within the system to understand and leverage the maximum percent possible—and then be prepared, for whenever the next budget window comes up, to be able to take these actions to eliminate wasteful programs.”
+
+As part of this effort, the CIO must publish a top priorities list within 30 to 60 days of his or her arrival, the report notes. However, it also emphasizes that all parties must understand that this will be “a living list”—it will be modified.
+
+A key to success will be to avoid either of a pair of familiar pitfalls, Wells states. One is the failure of the DHA’s pending rollout of its electronic health record (EHR) system. This rollout needs to occur smoothly for the agency to serve its customers well. One of the report’s five recommendations states, “No matter what happens, DHA cannot be seen as the cause for delays in the EHR rollout. Ensure this project gets the attention it needs for success.”
+
+The other pitfall to avoid is a cybersecurity data breach. This also is one of the report’s top recommendations. A major failure in this realm would have devastating effects on the DHA’s customers and reduce the chances of the agency regaining credibility, Wells says. “Ensure that the chief information security officer (CISO) is empowered, and adequately fund efforts to protect data. This is a two-part mission to prevent a breach and to ensure resiliency and continuous operations,” the report declares. 
+
+“Those are the kind of alligators in the swamp that will snap you up while you understand the baseline environment, identify the budget mechanisms and establish guidelines for industry interaction,” Wells says, citing the other key recommendations in the report.
+
+The report notes that the DHA’s move to a new EHR system will affect virtually every aspect of the agency’s information technology operation. It should result in millions of dollars in cost savings, mostly through streamlining operations and eliminating redundancies. Yet the EHR system will be the biggest long-term line item in the budget, consuming an estimated 60 percent of information technology funding even after it is deployed. 
+
+One of the biggest EHR challenges lies in legacy systems, which must be replaced to free up long-term funds. Wells offers the rollout of the Navy Marine Corps Intranet (NMCI) as an example that can provide lessons for the EHR conversion. With the NMCI, initial responses were “completely overly optimistic,” he relates, because these estimates did not fully account for the number of systems that would have to be replaced at Navy and Marine facilities. Wells says he is certain that comparable issues will emerge with the EHR rollout, although what they are is not clear yet.
+
+Even if the goal is to eliminate all legacy applications, this may not be possible, he continues. But some actions may prevent these apps from impeding the EHR rollout. “The plan … going in ought to be to mitigate the consequences rather than assume them away,” Wells suggests. 
+
+Another top recommendation in the report is to identify budget mechanisms and core funding issues. This touches on the diversity of the DHA’s customers and accompanying redundant systems. The report recommends that, where multiple systems exist for the same function, the CIO should “choose a winner and move forward.”
+
+The report also suggests establishing clear guidelines for industry interaction, which will require creating clear mechanisms and goals. The CIO will need to issue a document that outlines key problems and focus areas. Another move would be to establish a vendor management office to centralize relationships.
+
+These recommendations are a resource to inform not only the new CIO but also the leadership of the DHA, Wells says. The report’s authors can provide the organization with a known cadre of stakeholders to reach out to immediately for assistance in moving forward.
+
+The DHA report can be accessed online at
+www.afcea.org/signal/resources/linkreq.cfm?id=79</text>
+  <imgalttext>
+    <img>A U.S. Air Force captain logs patient information into an electronic health record system in Southwest Asia. A new chief information officer taking the reins at the Defense Health Agency will have an opportunity—as well as a challenge—to change business methodologies by modernizing the organization’s information systems.</img>
+  </imgalttext>
+</article>

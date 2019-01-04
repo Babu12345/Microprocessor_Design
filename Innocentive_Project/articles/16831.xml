@@ -1,0 +1,44 @@
+<article>
+  <type>blog</type>
+  <title>How to Use HCD to Delight Government Users</title>
+  <author>Brian Fogg</author>
+  <date>October 26, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Guest Blogs</tag>
+    <tag>guest bloggers</tag>
+  </tags>
+  <abstract>Chances are, your smartphone is a touchscreen, letting you tap an app to open it and swipe left or right to navigate. The designers, engineers and software professionals who brought this intuitive approach crafted these devices with end users in mind, asking: How do users interact with their devices? Where? How often? What are they looking for? That’s the concept behind human-centered design. And it works. </abstract>
+  <text>Consider your current smartphone. Chances are, it’s a touchscreen. You tap an app you want opened or, if it’s not on the home page, swipe left or right to get to the app you desire. Gone are the days of having a keyboard to navigate your cellphone.
+
+The designers, engineers and software professionals who brought this intuitive approach crafted these new devices with end users in mind, asking: How do users interact with their devices? Where? How often? What are they looking for?
+
+That’s the concept behind human-centered design (HCD). It’s important because the recent General Services Administration 18F agile delivery services blanket purchase agreement allows industry to take this same approach when delivering applications that will help government function better. The goals of transparency and increased interaction with citizen and federal employee users are two of many factors driving this approach. 
+
+Where to Begin
+
+The success of any development project starts with knowing who’s going to use the application. With HCD, the responsibility of the key product owner is enriched with users’ and stakeholders’ insights. Requirements gathering methods include conducting primary research with users via in-person focus groups, interviews and usability scenarios as well as leveraging user personas. Combined with agile technology, HCD allows for the most feedback while applications are in development.
+
+From the beginning, it is best for developers to engage users in their work environments. Getting away from developers’ controlled environments is key. It’s important to observe end users in the context of their working realities, with all of the grittiness, variability and diversity. This allows observers to:
+
+Compare what the collected requirements suggest “should be done” with what the users do in practice.
+	See users’ actual work technologies in action.
+	Understand why users do what they do every day.
+	Ask questions that encourage users to share what they’d like done differently.
+Beyond the design effort, these same techniques can be applied via user-centered (as opposed to forms-based) feedback sessions that facilitate direct, open and honest communication. Body language says a lot and is impossible to incorporate into a written form. While capturing feedback, it is best not to defend why something was done the way it was done; but rather, to validate that users’ needs and developers’ assumptions are still accurate. Plus, collecting enhancement suggestions, which can be augmented with feedback from different users and development team members, could lead to new user stories.  
+
+The benefits of an HCD approach
+
+HCD is not new in the government and military space. Weapons systems, platforms and hardware through the years were developed with human interaction and location in mind.
+
+History has shown user feedback methods bring the government some benefits as it looks to deliver and manage enterprise applications. Information and answers gathered during observation and user feedback sessions can lead to efficiencies and proficiencies that will allow for maximum product output and interaction. By embracing this approach and applying it to application development, the government will be able to develop applications, systems, services, etc. that delight citizens and government end users.
+
+In a future blog, I will explore the types of frameworks gaining in popularity within government and the military because they let new solutions be developed rapidly and with high quality.
+
+Brian Fogg is vice president and chief technology officer at NCI Inc. </text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

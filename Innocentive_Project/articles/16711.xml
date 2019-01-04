@@ -1,0 +1,49 @@
+<article>
+  <type>blog</type>
+  <title>Confronting the Enemy at the Endpoint: Tips for Online Safety and Security</title>
+  <author>Aubrey Merchant-Dest</author>
+  <date>October 3, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>October is National Cyber Security Awareness Month and the U.S. Department of Homeland Security hopes to use the month-long campaign to inform everyone—individuals, nonprofits, the military, private industries, educational institutions and governments—about cybersecurity.</abstract>
+  <text>October is National Cyber Security Awareness Month (NCSAM) and the U.S. Department of Homeland Security hopes to use the month-long campaign to inform everyone—individuals, nonprofits, the military, private industries, educational institutions and governments—about cybersecurity. In addition to educating, and providing the tools and resources to keep online users safe, NCSAM also will reinforce the idea that we all play a big part in keeping our nation’s security posture strong. Because no cyber defense is 100 percent effective, we as end users can either be the last line of protection against malicious threats or the front door for our worst enemy. 
+
+According to a Symantec 2016 Internet Security Threat Report (ISTR), 318 data breaches occurred last year with nine of those classified as mega-breaches, or intrusions that exposed more than 10 million identities. Exposed identities totaled 429 million for all of 2015. To put that in perspective, according to the CIA, the nation’s total population tallied 321.3 million people as of July 2015. These record setting numbers suggest that if cybersecurity is not already at the forefront of everyone’s minds, it should be.
+
+NCSAM developed five weekly themes for the annual campaign. The first week focuses on promoting cybersecurity for individuals as consumers. However, organizations of all types and sizes, including the defense and intelligence communities, must understand that a cyber domain attack could be tantamount to a weapon of mass disruption. A zero-day attack could cause mission-critical applications to function unpredictably, rendering them useless in an instant. 
+
+While a variety of security solutions are available to combat threats to networks, in the cloud and at endpoints, security really starts with individuals. Browsing the Internet is dangerous these days and the latest antivirus software patches are not enough to protect against all threats. To protect the nation’s cyber borders, defense and intelligence agencies should consider the following suggestions offered by the ISTR:
+
+Barriers for unpatched vulnerabilities that prevent exploitation, social engineering attacks and malware.
+	Browser protection for averting unknown web-based attacks.
+	File and web-based reputation solutions that use risk and reputation ratings for applications and websites to mitigate exposure to malware.
+	Prevention capabilities that stop malware by examining application behavior.
+	Application control settings that prevent applications and browser plug-ins from downloading unauthorized or malicious content.
+	Device control settings that prevent or limit the types of USB devices that can be used.
+Additionally, agencies must provide extensive employee training on bring-your-own-device policies and effective cyber hygiene techniques. One of the greatest challenges to security within any workplace is a negligent worker who does not follow security policies, whether intentionally or unintentionally. Educating end-users on the following can help mitigate risks:
+
+Activate access control through the use of biometrics such as fingerprints, voice or facial recognition.
+	Use on-device encryption to prevent data loss.
+	Back up device data on a consistent basis.
+	Update operating systems and applications on a regular basis.
+	Don’t download or install any applications from untrusted sites.
+	Don’t run unauthorized programs or applications.
+	Proceed carefully regarding permissions requested by an application.
+	Change passwords frequently, especially if compromise is suspected.
+	Don’t provide any credentials if suspicious emails or push notifications are received.
+	Apply security updates and patches as they become available.
+	Don’t open emails from unrecognized senders.
+	Verify encryption certificates on any websites that require sensitive or personal data to be entered.
+	Use secure networks when accessing sensitive data.
+If the defense and intelligence communities implement sound, preventative security measures while providing comprehensive cyber hygiene training to ensure end-users remain vigilant, chances for successful damaging attacks immensely decrease.
+
+This is the first blog in a three-part series to coincide with NCSAM. Next week, Aubrey focuses on how to create a cybersecurity culture within the government work environment.
+
+Aubrey Merchant-Dest is the federal chief technology officer for Blue Coat Systems.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

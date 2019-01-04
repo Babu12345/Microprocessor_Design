@@ -1,0 +1,50 @@
+<article>
+  <type>article</type>
+  <title>Army Satellite Communications Terminals Support an Agile Force</title>
+  <author>Lt. Col. Leonard Newman, USA</author>
+  <date>August 1, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>satellite communications</tag>
+    <tag>Army</tag>
+    <tag>WIN-T</tag>
+    <tag>SATCOM</tag>
+  </tags>
+  <abstract>The U.S. Army is evolving and positioning its fleet of ground satellite communications terminals to ensure that units can successfully respond to multiple military or humanitarian contingencies anywhere in the world.</abstract>
+  <text>The U.S. Army is evolving and positioning its fleet of ground satellite communications terminals to ensure that units can successfully respond to multiple military or humanitarian contingencies anywhere in the world. Both commercial and military satellites are giving the Army greater flexibility in networking links and in the missions that can be conducted with network connectivity.
+
+To support the new Army operating concept, regionally aligned, agile and adaptable U.S. forces need to be armed with a robust, reliable network that connects soldiers at any stage of an operation, from home station to early entry to more mature operations reaching the edges of the battlefield. In line with this concept, the Army’s comprehensive satellite communications (SATCOM) architecture helps fill network communications requirements with a wide variety of ground satellite terminals and capabilities. These satellites range in size from terminals small enough to fit into the overhead bin of a commercial airplane to systems a few stories high.
+
+SATCOM terminals leverage both commercial and military satellite constellations for optimum connectivity and efficiency. Most of the SATCOM systems in the portfolio complement the Army’s tactical communications network backbone, Warfighter Information Network-Tactical (WIN-T), and its architecture, especially in expeditionary situations. This increases the operational reach and situational awareness of the entire force. Continued advancements in commercial technology that reduce SATCOM size, weight and power (SWaP) and increase throughput and capability are enabling the Army to support operations in an increasingly complex world.
+
+The Army’s portfolio of ground satellite terminals, including deployable Ku-band Earth Terminals (DKETs), Secret Internet protocol router/nonsecure Internet protocol router (SIPR/NIPR) access points (SNAPs), Global Rapid Response Information Packages (GRRIPs) and the Global Broadcast Service (GBS), will continue to support operations in Afghanistan, enabling enduring forces to communicate for as long as the mission requires. These and other Army SATCOM terminals also are providing soldiers with assured and reliable communications in other theaters such as Africa, Iraq and the Korean Peninsula.
+
+As part of the Army’s redefined SATCOM footprint in Afghanistan and other countries, its largest transportable ground terminal, DKET, uses both commercial and military satellites to provide long-haul, high-capacity transport within and beyond theater. These terminals can establish headquarters-level, network-hub connectivity anywhere a mission demands, and the systems can be dismantled and relocated as operations require.
+
+While DKETs are designed for larger headquarters locations, SNAP satellite terminals are intended for use at smaller outposts. These transit-case satellite terminals can be transported in the back of a truck, increasing their agility and ability to communicate from remote locations. SNAPs use both commercial and military satellites to efficiently provide beyond-line-of-sight SIPR, NIPR, coalition network, voice and data capability to company and platoon forward operating bases. Hundreds of these versatile satellite terminals are used worldwide, including to support U.S. Army Africa in Operation United Assistance.
+
+For even smaller team-size elements, the GRRIP is deployed in a single transit case the size of a carry-on bag and can be set up in minutes. GRRIPs provide secure, unclassified voice and data communications to forces operating in austere and demanding environments. These terminals are designed for small early entry teams at locations where the infrastructure has either been dismantled, destroyed or never created, and they are well-suited for first-responder communications. Airborne units have parachuted with the GRRIP to help provide early entry communications just minutes after boots hit the ground.
+
+Additionally, both deployed and garrison forces are taking advantage of the GBS terminal, which enables them to obtain large video and data files, including intelligence information, fire coordination, unmanned aerial video and critical biometric, terrain and weather data. Joint services also can upload large, bandwidth-hungry network patches and upgrades via GBS, helping to relieve network congestion. By providing an alternate means of information transport, the system increases the robustness, redundancy and reliability of the Army’s networks.
+
+The Army continuously strives to improve network robustness and throughput capacity of force terminals so soldiers can access critical data anytime, anywhere in the world they need it. Improvements include Advanced Extremely High Frequency upgrades that provide a fourfold increase in bandwidth to legacy Secure, Mobile, Anti-Jam, Reliable Tactical–Terminals (SMART-Ts). With SMART-Ts, units can send text, data, voice and video communications beyond their area of operations without the communications being jammed, detected or intercepted.
+
+Also in the works are upgrades to the Phoenix satellite terminal that more than double its throughput, enhance troubleshooting and simplify the user interface and equipment operation. Phoenix super high frequency terminals provide expeditionary signal battalions with high-capacity theater range extension so soldiers can exchange mission command information, including logistical, operational, intelligence and administrative data.
+
+In support of a leaner, more agile future force, the Army’s new Transportable Tactical Command Communications (T2C2) program will provide highly transportable ground satellite terminals in two sizes, both with more advanced capabilities than legacy equipment. Carry-on luggage-size satellite terminals called T2C2 Lite will support small groups within brigade combat teams, while other larger but easily transportable satellite terminals known as T2C2 Heavy will support company-size elements. This advanced commercial off-the-shelf (COTS) technology utilizes both commercial and military satellites for optimum bandwidth and cost efficiencies.
+
+Until the new technology is fielded, the Army will use SNAPs and GRRIPs as a bridging capability for T2C2 Heavy and Lite, respectively. The basis of issue plan (BOIP) for the SNAP and GRRIP is closely aligned with the BOIP for T2C2, so as T2C2 begins fielding in fiscal year 2018, the Army just will replace the legacy systems with the new, more advanced systems.
+
+In its efforts to provide new capabilities to soldiers quickly and cost-effectively, the Army will continue to leverage technologies as they emerge in the commercial sector, as it has done with the lightweight inflatable satellite antennas and micro very small aperture terminals supporting today’s forces. The Army also will keep improving SATCOM systems to reduce SWaP requirements and increase throughput, network extension and operational versatility to support the force of 2025 and beyond.
+
+Additionally, improved, simplified training will play a role in supporting the force. Today’s COTS SATCOM systems can be operated by general-purpose users who can train on them in a matter of days as opposed to the weeks or months required for legacy systems that demand specialized skills. To hone their abilities on the Army’s tactical satellite terminals, soldiers can access simulation training packages resembling the latest commercial video games from their smartphones and tablets, enabling them to train, refresh their skills or troubleshoot problems anytime, anywhere.
+
+The Army’s SATCOM footprint spans the globe and increases the operational reach and situational awareness of the entire force. As the Army is continuing to make its terminals smaller and lighter, it is also increasing capability and capacity to support the new agile operational paradigms.</text>
+  <imgalttext>
+    <img>Several technologies are enhancing U.S. Army satellite connectivity. For small team-size elements, the Global Rapid Response Information Package (GRRIP) is deployed in a single transit case the size of a carry-on bag and can be set up in minutes. GRRIPs provide secure, unclassified communications to forces operating in austere and demanding environments.</img>
+    <img>Deployable Ku-band Earth Terminals (DKETs) such as this one in Afghanistan can provide long-haul, high-capacity transport both within and beyond theater. These terminals can establish headquarters-level, network-hub connectivity anywhere a mission demands, and the systems can be dismantled and relocated as operations require.</img>
+    <img>To hone their skills on the Army’s tactical satellite terminals, soldiers can access simulation training packages resembling the latest commercial video games from their smartphones and tablets. This enables them to train, refresh their skills or troubleshoot problems anytime, anywhere.</img>
+  </imgalttext>
+</article>

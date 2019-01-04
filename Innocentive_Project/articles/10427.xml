@@ -1,0 +1,22 @@
+<article>
+  <type>blog</type>
+  <title>Robotic Autonomous Activities Advance</title>
+  <author/>
+  <date>December 13, 2012</date>
+  <departments>
+    <department>Defense Operations</department>
+    <department>Homeland Security</department>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>unmanned systems</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>A vision-driven robotic arm will enable the precise long-range delivery of a payload weighing up to one pound into difficult-to-reach environments.
+ </abstract>
+  <text>A vision-driven robotic arm will enable the precise long-range delivery of a payload weighing up to one pound into difficult-to-reach environments. The capability is being made possible through a Defense Advanced Research Projects Agency (DARPA) project that adds depth perception to the range of unmanned aerial hover vehicles’ features. Using stereo vision, the unmanned aerial vehicle can estimate a target’s position relative to the hovering aircraft in real time, and then the system tracks where the payload must be placed and the motion of a robotic arm. Control logic maneuvers the vehicle and directs the robotic arm to engage a designated target and to place the payload.
+	Autonomous precision delivery has been demonstrated using the V-Bat, an unmanned aerial vehicle capable of both hover and forward flight. Vehicle stability was maintained with a one-pound payload extended 6 feet on a robotic arm.
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

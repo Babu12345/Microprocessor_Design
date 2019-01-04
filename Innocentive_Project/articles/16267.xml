@@ -1,0 +1,47 @@
+<article>
+  <type>blog</type>
+  <title>Tech Officers' Wish List</title>
+  <author>George I. Seffers</author>
+  <date>June 22, 2016</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>2016 Homeland Security Conference</tag>
+    <tag>FEMA</tag>
+  </tags>
+  <abstract>Cloud computing, mobile devices and apps and automation are some of the top technologies that will affect the future of homeland security, according to a panel of technology officers at the 2016 AFCEA Homeland Security Conference.</abstract>
+  <text>Cloud computing, mobile devices and apps and automation are some of the top technologies that will affect the future of homeland security, according to a panel of technology officers at the 2016 AFCEA Homeland Security Conference in Washington, D.C.
+
+“If you talk about technologies we’re really leaning on today, of course it’s the usual suspects. We really do need to make better use of virtualized infrastructure, i.e. cloud technologies and services,” said Michael Hermus, chief technology officer, Department of Homeland Security (DHS).
+
+Further in the future, Hermus added software-defined networking because it “really virtualizes the last, big part of the infrastructure.” In addition, software-defined networking “allows us to configure that in a far more agile and intelligent way” and it “brings scalability and agility but also new capabilities, particularly around cybersecurity, that just don’t exist today,” he said.
+
+“You talk about dynamic network defense and the ability to have the network respond to threats and reconfigure itself to adapt to those threats. That’s a big deal,” Hermus elaborated.
+
+Artificial intelligence also made his list. “There’s a tremendous potential in artificial intelligence and machine learning capabilities that are out there. These are things that are not science fiction. This is here,” Hermus stated. “We’ve got cloud-based machine learning we can use to do really, really cool things.”
+
+For the Federal Emergency Management Agency (FEMA), mobile technologies top the list. The agency is consolidating and centralizing the devices its employees carry, and FEMA intends to move primarily to a tablet-type device, reported Adrian Gardner, FEMA chief information officer (CIO).
+
+“One of the things we’re trying to do right now is shrink the footprint of the devices our employees carry. We will potentially shrink the number of devices,” Gardner said. “There’s a new activity underway where we’re going to be centralizing and standardizing all of their laptops.”
+
+“We’re all emergency managers. We’re expeditionary,” Gardner said, emphasizing the need for mobility. He added, however, that FEMA also works in places like Guam, Puerto Rico and American Samoa, which means devices must work both inside and outside the continental United States, which isn’t always the case today. One challenge, though, is deciding how to centralize and manage devices in a secure manner, he added. “A lot of times our business process has been that we actually house a lot of those laptops in distribution centers, which means that when you then bring them back online, they have to be patched. So, one of the things we’re doing is changing our business process from the standpoint of keeping everything ... continually up to date,” Gardner said.
+
+The plan is for FEMA personnel to use their mobile platforms on “blue sky” days when they are conducting routine office business and on “black sky days” during a catastrophic event. “This mobility thing is going to make FEMA very successful in the future,” Gardner said.
+
+Mike Brown, CIO, U.S. Immigration and Customs Enforcement (ICE) agreed that both cloud computing and mobility are important. “Infrastructure as software is going to be very important. We’ll be able to get a lot more bang out of our IT dollars because of that,” Brown said. On mobility, he added, “You have to be able to work on a phone, a tablet, a laptop or something you have that isn’t one of those—virtual private network, mobile apps, all of that stuff is going to be very important.”
+
+Brown also included big data and analytics as important to ICE, especially in the investigative realm, where the agency already is adopting those technologies.
+
+Some panel members included capabilities they admitted are not technologies per se.
+
+Mike Palmer, U.S. Digital Services, for example, mentioned market research capabilities. “I do see coming down the pike some kind of evolution in the way the government does market research. Whether it’s through a specific tool or some kind of process, there needs to be in the hands of program offices a better way to do market research,” he said
+
+In addition, Hermus mentioned the importance of development and operations, commonly referred to as DevOps. “We are very interested, as are the [DHS component agencies], in leveraging DevOps and automation, particularly. There are a lot of toolsets there that can greatly increase our agility and our capacity to deliver to the mission,” Hermus said.
+
+Luke McCormack, DHS CIO agreed, pointing out that automation is a big part of DevOps. “To fully automate that experience, there’s a lot of technology behind the scenes, a lot of the ecosystem that has to be put in place to make that a reality,” McCormack said.
+
+He added that mobility is important for the entire department. “We are a very mobile agency. The majority of the operators are not behind the desk, but right now our first port is still the desktop, in large part,” McCormack said. “I think in the not-too-distant future, that’s going to change.”</text>
+  <imgalttext>
+  </imgalttext>
+</article>

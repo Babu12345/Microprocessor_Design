@@ -1,0 +1,53 @@
+<article>
+  <type>article</type>
+  <title>NATO Studying Military IoT Applications</title>
+  <author>George I. Seffers</author>
+  <date>March 1, 2017</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Internet of Things</tag>
+    <tag>NATO</tag>
+  </tags>
+  <abstract>Several nations are studying the potential military benefits of Internet of Things technologies, including a variety of inexpensive commercial sensors and smart city capabilities. Their investigation likely will include three proof-of-concept demonstrations, the first of which is planned for May in Finland.</abstract>
+  <text>Several nations are studying the potential military benefits of Internet of Things technologies, including a variety of inexpensive commercial sensors and smart city capabilities. Their investigation likely will include three proof-of-concept demonstrations, the first of which is planned for May in Finland.
+
+The study examines the applicability of the Internet of Things (IoT) to military needs, such as base operations, situational awareness, medical care, energy management and boundary and harbor surveillance. IoT capabilities may improve command and control of combined operations logistics support; tactical-level situational awareness; targeting; monitoring of vehicle and soldier status; battlefield medical care and even environmental monitoring.
+
+The study officially kicked off in January last year and will wrap up with a final report in December 2018. “Everybody in the area of information technology can see that the IoT is growing in the commercial world at phenomenal rates. The question is how we in the military think about that in terms of benefits, threats and the risks and challenges of using this sort of technology,” says Peter Lenk, chief of service strategy and innovation, NATO Communications and Information Agency. “We see a lot of parallels in the commercial world, the civilian world of smart cities, health monitoring, surveillance applications, smart buildings, smart vehicles—the list keeps going.”
+
+NATO militaries may, for example, adopt smart city technologies for smart bases, he adds. Or within smart cities, NATO forces may tap into existing civilian systems, such as smart traffic control capabilities. “Everybody who thinks about it for a little while sees a lot of potential, but there are questions that need to be answered before we rush into things,” Lenk offers.
+
+The IoT may provide a number of military benefits, including lower costs for technology such as sensors and drones, greater awareness of the combat situation and faster, more effective decision making. While many questions remain to be answered, the IoT is likely to fundamentally change the way NATO military forces operate in the future, Lenk acknowledges. “For me, it’s not if. It’s when. It’s that sort of situation. I can’t imagine that five or 10 years from now, the military world won’t be full of devices that are talking to each other and talking to command and control systems and talking to everything,” he predicts.
+
+The study group is planning three potential demonstrations. Each event will include military officials who will provide feedback on the value of the systems involved as well as the potential challenges and risks they are willing to accept with new capabilities. “We don’t want to just have a situation where we produce a pile of paper. We think demonstrations are going to be very important to actually show some of these things can be done,” Lenk states.
+
+The group expects to hold the first demonstration at the International Conference on Military Communications and Information Systems in Oulu, Finland. Lenk chairs the steering committee for the conference. “Both Oulu and Helsinki have a lot of smart city features deployed. That will give us an opportunity of maybe interacting with those systems and seeing what we can do. We want to make sure [the technologies] are militarily significant and that we can show value,” Lenk explains. 
+
+The second demonstration likely will happen next year. Lenk says officials hope it will be in conjunction with a military exercise, such as the annual Coalition Warrior Interoperability eXploration, eXperimentation, eXamination, eXercise, commonly known as CWIX, held in Poland. The final demonstration may include something “more ambitious,” he says, but details still are being worked out. It might even occur in early 2019, even though the study technically will be finished, he suggests.
+
+He adds that the demonstrations are important for building commanders’ confidence in technological capabilities. “The new may be a bit scary for some people, but if you can show the commanders the utility and the risks, and get back from them an understanding of what kinds of risks they’re willing to take, it can really help,” Lenk offers.
+
+In addition to soliciting feedback from military commanders, the NATO group is partnering unusually closely with industry, he indicates. The NATO Industrial Advisory Group (NIAG), a neutral industry body that advises the alliance, is a key player in the study. 
+
+Traditionally, NIAG would be solicited to conduct an independent study and report back to NATO. “In this case, we went through them but didn’t use their normal mechanism. We actually invited industry to play with us in our research. It’s something unique and important that we’ve done in this area because of the velocity of change,” Lenk says, adding that he believes the innovative arrangement is a NATO first. “We’ve all realized that defense is unlikely to lead in this area. We saw a big opportunity here to work with industry rather than working in parallel or in serial, which is what we usually do. They’ll come in and help us to think this through.”
+
+At the same time, NATO may influence industry. “Hopefully, at the end of that journey, there will be products on the shelf that we can go out and buy,” Lenk elaborates. 
+
+He indicates that the study might offer insights into what architecture or architectures the military will need to take advantage of the IoT. “I suspect that the architecture for a tactical situation will be different from something that is more stable at a base,” Lenk offers.
+
+Interoperability and federation—the agreed-upon standards of operation—are always challenging in a coalition environment in which each nation brings its own information technology systems. In urban environments, the interoperability and federation issues could include those civilian systems already in place. 
+
+The group also is exploring authentication and security, which may be challenges. Privacy issues are a concern, and military forces still wrestle with the “old issue” of “confidentiality obscuring the data,” Lenk says. But the greater issue may be preventing adversaries from tampering with data. He cites a seemingly simple example of temperature sensors in a data center, where the computers need to remain cool. If those sensors incorrectly indicate that the temperature is much cooler than it actually is, air conditioners will not be turned on, and the equipment may be at risk.
+
+“Because we’re going to start using these devices and the data from them in our decision loop ... the integrity of that data becomes very important. If somebody’s messing with your data, they can mess with your decisions, and that opens up a whole new avenue of vulnerabilities,” Lenk states.
+
+He foresees other challenges with IoT adoption. The sheer number of devices could lead to information overload, more cyber vulnerabilities and network management issues. “You’ve got a massive scale here, a management problem with all these devices. How do I patch them if there is a vulnerability and I have thousands of devices out there?” he asks.
+
+Even more challenging, the risks are likely to mutate often as devices proliferate across the war zone. “I think we’ll find, as with everything, that risk isn’t static. It will be a continuing battle to keep the risks at a tolerable level,” Lenk warns.</text>
+  <imgalttext>
+    <img>A Marine participates in a field training exercise in Lithuania. NATO researchers are investigating potential military applications for Internet of Things technologies, including the possibility of increased situational awareness at the individual warfighter level.</img>
+    <img>The first proof-of-concept demonstration in NATO’s Internet of Things study, now underway, will be in Oulu, Finland, which already has smart city technologies in place.</img>
+  </imgalttext>
+</article>

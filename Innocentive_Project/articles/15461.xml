@@ -1,0 +1,26 @@
+<article>
+  <type>blog</type>
+  <title>Security Experts Gain on Hackers</title>
+  <author>Robert K. Ackerman</author>
+  <date>November 17, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>TechNet Asia-Pacific 2015</tag>
+  </tags>
+  <abstract>Having proper cyber hygiene is helping close the gap between security measures and hacker activities, but new threats continue to emerge.</abstract>
+  <text>Cybermarauders are maintaining the lead in the battle over cybersecurity, but network experts are narrowing the gap as they implement new measures designed to prevent hackers from carrying out unmitigated attacks. Many of these measures involve basic cyber hygiene practices, while others take advantage of new technology capabilities.
+
+The theme of TechNet Asia-Pacific 2015, being held in Honolulu, November 17-19, is Fight to Communicate: Operating in a Communications-Degraded Environment. But the opening keynote speaker was Jodi-Ann Ito, information security officer, University of Hawaii. She related how the security measures her university community is taking apply well to government and military activities.
+
+“At the end of the day, we are being attacked constantly, every one of us,” Ito pointed out. “And, they are attacking not just end devices or servers, but also that layer in between.”
+
+Ito warned about sophisticated phishing measures that are popping up with greater frequency. One approach is to exploit a successful phishing operation several days after its execution. That way, the compromised target does not realize it has been victimized, by which time the phisher has erased all traces of entry.
+
+Phishers also are using other universities’ virtual private networks, she said. “About 72 percent of phishing comes from Nigeria, and 13 percent from Florida,” she reported, noting the Florida sources probably are academic.
+
+Her university office posts notices after every phishing attack. It blocks the offending URL and disables the accounts. And, it proactively tries to disable accounts that it knows are compromised. It also is important to clean up and make sure no traces remain. Her office also has seen compromising behavior repeated after machines have been cleaned up.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

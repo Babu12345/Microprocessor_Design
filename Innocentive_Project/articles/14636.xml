@@ -1,0 +1,41 @@
+<article>
+  <type>article</type>
+  <title>OPM Cyber Attack Fits Pattern of Nation-State Hunt for Sensitive Data </title>
+  <author>Sandra Jontz</author>
+  <date>June 5, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>DHS</tag>
+    <tag>OPM</tag>
+    <tag>FBI</tag>
+    <tag>Hacker</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>The significant federal government cyberbreach that let hackers swipe the personal data of more than 4 million current and former federal employees has all the trappings of a targeted nation-state attack aimed at gleaning critical information on federal workers; and current cyber protection methods might not be enough to prevent future attacks.</abstract>
+  <text>The significant federal government cyberbreach that let hackers swipe the personal data of more than 4 million current and former federal employees has all the trappings of a targeted nation-state attack aimed at gleaning critical information on federal workers; and current cyber protection methods might not be enough to prevent future attacks, one expert says.
+
+Hackers breached computer systems of the Office of Personnel Management (OPM) in December, stealing data including Social Security numbers, job assignments, performance reviews, insurance details and training certificates. Officials detected the breach in April.
+
+Similar breaches this year on federal contractors seem perpetrated by foreign government-backed hackers probing for and stealing data containing identifying details of federal personnel, including jobs titles and security clearances, says Ryan Kazanciyan, chief security architect for Tanium.
+
+“It’s obvious it’s targeted activity and not just opportunistic behavior,” Kazanciyan says.
+
+Within the last year, the OPM has “undertaken an aggressive effort to update its cybersecurity posture,” adding tools and capabilities to its networks, the agency stated in a press release. The breach, reportedly carried out by hackers backed by the Chinese government, predates adoption of the new security controls.
+
+But official cybersecurity measures that rely on the continuous monitoring systems alone will not adequately safeguard systems or prevent future attacks, as the technology seeks patches and software updates, Kazanciyan adds. Officials must employ robust “cyber hunting” practices too, which delve deep into network systems to detect how intruders gain access and what data is compromised or stolen.
+
+The breach is yet another example of the new normal in cyberspace, says Eric Chiu, president and co-founder of the cloud company HyTrust. “The breach at the Office of Personnel Management is an example of the new reality we face where attackers are going after our most sensitive information,” Chiu says in a statement. "This will call into question every government employee since this information can be used by nation states and terrorists to identify and target those employees in order to gain access to sensitive environments and data. In addition, as we saw from the recent IRS attack, this data can also be leveraged to steal other confidential information to gain a full financial and personal profile on these employees, putting them at even greater risk.” In May, officials announced hackers stole private information from the IRS on more than 100,000 taxpayers, using the information to file fraudulent tax returns.
+
+For those whose personal information was taken, who took the data is less important than knowing how to protect their identity, says Michael Kaiser, executive director of the nonprofit National Cyber Security Alliance. "Having information stolen about you can be very disconcerting. Everyone impacted by this, or any breach, must now enter a phase of diligence about ensuring that additional personal information and accounts are protected and not misused for cybercrimes or other purposes.”
+
+Experts recommend a number of steps to help protect key accounts such as email, banking and social networking. Protection measures include using multifactor authentication that requires extra steps to access accounts, such as a text to a phone option or the swipe of a finger. It is wise to keep computers “clean” by updating software on every Internet-connected device, conduct vigilant monitoring of bank and credit card accounts and change passwords often.
+
+OPM partnered with the Department of Homeland Security’s U.S. Computer Emergency Readiness Team (US-CERT) and the FBI to investigate and determine the impact. “The FBI is working with our interagency partners to investigate this matter,” reads the agency’s statement. “We take all potential threats to public and private sector systems seriously and will continue to investigate and hold accountable those who pose a threat in cyberspace.”
+
+OPM will notify those impacted by sending a notification email from opmcio@csid.com between June 8 and June 19 to instruct personnel about using protection services and credit monitoring. OPM will pay for 18 months of credit monitoring services and identity theft insurance with CSID, a company that specializes in identity theft protection and fraud resolution, according to the agency.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

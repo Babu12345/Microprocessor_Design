@@ -1,0 +1,39 @@
+<article>
+  <type>article</type>
+  <title>Government Agencies Move to Secure Data on Non-Government Systems</title>
+  <author>George I. Seffers</author>
+  <date>November 18, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+    <department>Cyber</department>
+    <department>Homeland Security</department>
+    <department>Technology</department>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>National Institute of Standards and Technology</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The National Institute of Standards and Technology (NIST) has published for public review draft recommendations to ensure the confidentiality of sensitive federal information residing on the computers of contractors and other nonfederal organizations working for the government.</abstract>
+  <text>The National Institute of Standards and Technology (NIST) has published for public review draft recommendations to ensure the confidentiality of sensitive federal information residing on the computers of contractors and other nonfederal organizations working for the government. The recommendations are intended to secure controlled unclassified information (CUI), including personally identifiable data, financial information, medical records and other sensitive data handled by nonfederal government organizations, such as industry contractors and universities that perform scientific research, conduct background investigations for security clearances, provide financial services, develop technology in support of federal agency missions or engage in other work on behalf of the U.S. government.
+
+The deadline for submitting comments on the draft document, "Protecting Controlled Unclassified Information in Nonfederal Information Systems and Organizations (Draft Special Publication 800-171)," is January 16?, 2015. “What we’re concerned about with controlled unclassified information is the aspect of nondisclosure, the threat to the confidentiality of that sensitive information,” says Ronald Ross, NIST fellow and lead author of the new guide. 
+
+Developed in collaboration with the National Archives and Records Administration (NARA), the new guidance is intended for federal agencies, as called for in a 2010 Executive Order on the treatment of CUI. While working with NIST to determine how to best protect CUI data processed by federal departments and agencies, NARA officials began asking what happens when that data is transferred to nonfederal organizations. 
+
+Ultimately, the two agencies decided to tailor the federal controls down to a set that would work for nonfederal entities. “Since confidentiality was the primary focus, we tailored out all of the requirements and controls that were uniquely federal,” Ross reports. They also eliminated controls that they felt most contractors would implement without being required to do so, he adds. 
+
+The requirements can be used now on a limited, voluntary basis, Ross says, but cannot be applied to every federal contract without being designated by the Federal Acquisition Regulation (FAR), or in the Defense Department’s case, the Defense Federal Acquisition Regulation. The third part of NARA’s plan is that next year, it will be developing a FAR clause that will point to this special publication. Every federal contract, once this FAR clause is completed, will have to meet these requirements if there is CUI involved in the contract in some way, Ross states. 
+
+He predicts one oft-asked question will be about who is responsible for ensuring compliance. “That will be under the terms of the contract. Depending on what type of CUI is involved—for example, the Defense Department has CUI they call controlled technical information—so depending on the sensitivity of that data, each federal agency may have a different way to gather information on contractor compliance. It would be on a contract-by-contract basis,” Ross says.
+
+He estimates the final version could be available next summer. “We anticipate we’re going to get a lot of comments from both the public sector and the private sector, since the private sector has a stake in this whole issue, as well. We will come out with a second draft probably sometime in the March timeframe. And then, we’re hoping sometime around June, if all goes well, the final document will be available.”
+
+Because no consistent guidance exists for securing CUI on nonfederal information systems, organizations often receive conflicting guidance from federal agencies on how to handle the same information, giving rise to confusion and inefficiencies. “Across any federal agency you have lots of different types of information, and we’ve not done a very good job over the last number of years in standardizing the naming conventions for the different types of data,” Ross reveals. 
+
+NARA’s first task was to define all of the different CUI data categories. They built a registry of all the different types of CUI that federal agencies have that require protection either by statute or by regulation or policy, Ross explains.  
+
+The next step, he reports, was to decide what types of safeguards would be necessary to protect the confidentiality of that data. Executive Order 13556 assigned NARA the task of standardizing the way that the federal executive branch protects CUI. The order also required CUI to be protected consistent with applicable government-wide standards and guidelines issued by NIST and applicable policies of the Office of Management and Budget. “This is very much a joint effort. In fact, we even had quite a bit of Department of Defense support in doing some of the analysis on the security requirements and the controls,” Ross says.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,53 @@
+<article>
+  <type>article</type>
+  <title>An Ounce of Cyberthreat Prevention</title>
+  <author>Sandra Jontz</author>
+  <date>July 1, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>Cyber attacks by foreign governments and criminals now threaten U.S. national and economic security more than terrorism, experts say, and the perils increasingly erode the country’s safety as well as its coffers. While eradicating cyberthreats is not a realistic option, developing cyber radar systems that predict and warn, with keen precision, of incoming attacks just might be.</abstract>
+  <text>Cyber attacks by foreign governments and criminals now threaten U.S. national and economic security more than terrorism, experts say, and the perils increasingly erode the country’s safety as well as its coffers. While eradicating cyberthreats is not a realistic option, developing cyber radar systems that predict and warn, with keen precision, of incoming attacks just might be.
+
+NSS Labs Incorporated recently launched a product to capitalize on advanced threat intelligence to provide relevant and timely cybersecurity context and threat predictions, including malware analysis, threat actor attribution, actor history, geolocation and other applications. The Texas-based information security research and advisory company developed the Cyber Advanced Warning System (CAWS), which lets commercial and government cybersecurity professionals assess the exposure and risk of critical assets along with the effectiveness of security protections.
+
+The real-time situational awareness tool provides a service akin to cyber clairvoyance and a virtual omniscient view of the cyber battlefield using real-time threat intelligence and vulnerabilities—or the lack thereof—of security products to warn users when they are at risk of being breached. “With our new Cyber Advanced Warning System, NSS is poised to change the way people approach cybersecurity,” says Vikram Phatak, CEO. “By having a clear understanding of what exploits are bypassing security products and which operating systems and applications are at risk, we can help our clients evaluate their security posture with actionable data they can take into the boardroom.”
+
+CAWS will not block malware and is not intended to serve as a security product, he says. “You will not detect something that is running around in your network. What it will do is tell you when you are at risk of a breach and specifically how the attacker will get in. … It will provide vulnerability scanning and penetration testing,” Phatak says.
+
+Such measures could become commonplace given the threat environment. “Cyberthreats to U.S. national and economic security are increasing in frequency, scale, sophistication and severity of impact,” noted James R. Clapper, director of national intelligence, in a written annual threat assessment presented to Congress. “The ranges of cyberthreat actors, methods of attack, targeted systems and victims are also expanding. Overall, the unclassified information and communication technology (ICT) networks that support U.S. government, military, commercial and social activities remain vulnerable to espionage and/or disruption.
+
+“However, the likelihood of a catastrophic attack from any particular actor is remote at this time. Rather than a ‘Cyber Armageddon’ scenario that debilitates the entire U.S. infrastructure, we envision something different,” Clapper wrote. “We foresee an ongoing series of low- to moderate-level cyber attacks from a variety of sources over time, which will impose cumulative costs on U.S. economic competitiveness and national security.”
+
+Left unchecked, these attacks could leave the nation facing an economic death by daily barrage, one expert foretells. “We haven’t had a Pearl Harbor attack of a cyber attack, and I’m not sure we will,” says Ray Rothrock, CEO of RedSeal Incorporated, a U.S. enterprise software company that models network security infrastructure to defend against cyber attacks. “Why should they do that? Why should they make us angry when they can just nickel and dime the country to death?”
+
+Organizations worldwide spent an estimated $71 billion on cybersecurity in 2014, with this figure expected to grow to nearly $77 billion this year, according to market analysis firm Gartner Incorporated.
+
+And as the cost of cybersecurity grows so does the challenge of managing complex networks, especially with the uptick in mobile device usage and migration to cloud-based services. Network breaches are not new, but company and government reliance on networks has reached unprecedented levels, and technological improvements have made security of complex networks even more convoluted and vulnerable, Rothrock says. “As you build things onto your network, be they cloud or mobile or even more infrastructure, that attack surface gets bigger and bigger,” he says. “It’s trillions of attack points, not one or two. … That attack surface has weaknesses, and [a cybersecurity analytics platform] can tell you where the most weak things are that can hurt you the most.”
+
+A key approach is to identify the most important data contained in a network and to safeguard that information. But that tactic, too, can only go so far. With so many networks interconnected and interdependent, business and government leaders no longer can worry solely about their own networks, Rothrock says. One breach of a single network easily affects all others within the supply and delivery chain. “The cybersecurity domino effect is real and relevant. … Everybody’s commerce is suffering, either through the hijacked data or things bought illegally, but also just the cost of buying [a security product] and installing it on your network,” Rothrock says. “It is not cheap. But everyone is paying the cost. The cost of business is going up. That’s an insidious, unnecessary thing.”
+
+It might be a sign of the times. U.S. officials noted in 2014 an increase in the scale and scope of malevolent cyber activity measured by the amount of corporate data stolen or deleted, personally identifiable information compromised or remediation costs incurred by U.S. victims, Clapper told lawmakers in February.
+
+According to a RedSeal survey in February of more than 350 executives at U.S. organizations, 74 percent indicated that cyber attacks could cause “serious damage or disruption” to their businesses, and another 21 percent stated that moderate damage could occur. Eighty percent of executives said attacks could cause “serious impacts to business profitability and growth,” and 51 percent feared “serious brand damage.”
+
+“They are worried about the trust they have with their customers,” Rothrock adds. “As this research makes clear, securing the network infrastructure to ensure ongoing business operations is not an abstract concern: It’s a vital issue, because a successful attack will have devastating and even far-reaching consequences.”
+
+In the survey, CEOs’ concerns about attacks on U.S. defense systems trailed the top concerns of economic security and attacks on financial and banking institutions. “Economic security is what it’s about,” Rothrock declares. “That’s the underpinning of everything.”
+
+Whether threat actors are nation-states such as Russia, China or Iran, or a criminal cyber gang du jour, focusing too keenly on individual actors can be dangerously distracting, one expert warns.
+
+“The focus on the individual actors is interesting, but a red herring,” says Art Gilliland, senior vice president and general manager of HP Software Enterprise Security Products. “The area that I believe is more important is understanding that [cybercrime] is an ecosystem. So whether it’s a state-actor funding [attacks] or not, that only matters after you identify that you’ve been breached. Because that’s when you care about what they want, when you care about their intent.”
+
+“The [security] methods, how you defend yourself—those are going to be the same against an insider, an outsider, a state-actor or a criminal,” Gilliland adds. “They’re all using the same methods, essentially.”
+
+Cybercriminals and saboteurs remain undeterred, in part, because of the absence of universally accepted and enforceable norms of behavior in cyberspace, Clapper said. “The motivation to conduct cyber attacks and cyber espionage will probably remain strong because of relative ease of these operations and the gains they bring to the perpetrators,” he stated in his congressional report.
+
+Launching an attack is relatively easy, poses little risk and makes criminals money, Gilliland remarks. “If you look at what’s happening in this marketplace, they are stealing more intellectual property from companies and finding ways to monetize it,” he says. “They are stealing our personal information to create fraud. I think you’re going to see an increase in the volume of those kinds of thefts because it’s very difficult to prosecute and stop, and there’s very little cost to the adversary.
+
+“Because it’s an ecosystem, there are tools that are being built to drive efficiency, just like in any market,” he continues. “If you can automate and make it more efficient, you make more money.”</text>
+  <imgalttext>
+  </imgalttext>
+</article>

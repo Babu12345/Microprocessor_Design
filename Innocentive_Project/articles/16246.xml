@@ -1,0 +1,32 @@
+<article>
+  <type>blog</type>
+  <title>Improving Communication During Disasters</title>
+  <author>Tony Bardo</author>
+  <date>June 17, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Satellites</tag>
+    <tag>communication</tag>
+  </tags>
+  <abstract>?Recent disasters such as hurricanes Katrina and Sandy demonstrated the importance of improving the nation’s emergency communications infrastructure at all levels of government. Ensuring consistent, uninterrupted communications during a disaster, and the days immediately following, is essential to an organization’s ability to meet mission-critical response requirements. Unfortunately, communications infrastructures easily fall victim to physical damage, leaving personnel and emergency responders unable to effectively communicate.</abstract>
+  <text>Recent disasters such as hurricanes Katrina and Sandy have demonstrated the importance of improving the nation’s emergency communications infrastructure at all levels of government. Ensuring consistent, uninterrupted communications during a disaster, and the days immediately following, is essential to an organization’s ability to meet mission-critical response requirements. Unfortunately, communications infrastructures easily fall victim to physical damage, leaving personnel and emergency responders unable to effectively communicate.
+
+Military and government officials have a pressing need for continuity of network operations to keep mission-critical applications operational during disasters. Officials must have immediate and secure access to information and respond in a coordinated manner. An integrated and highly resilient network architecture must be in place should landlines become damaged and unavailable.
+
+Critical facets to effective communications during a crisis are diverse and redundant connectivity paths to agency headquarters, central command posts or field offices. Agency officials often believe that two land-based networks provided by different carriers can create redundancy, but they are wrong. Responding agencies must consider diversity in networking paths. A network based solely on a terrestrial path is a recipe for disaster. 
+
+Unfortunately, most agencies that rely on dual land-based networks likely will lose all connectivity during a disaster because both land-based networks typically are routed through the same underground pipes or conduits. This means that if an incident disrupts service on the first carrier’s network, it likely will disrupt service on the second one, given that network paths typically share the same vulnerabilities.  
+
+Satellite broadband connectivity eliminates that vulnerability because the technology does not depend on land-based infrastructure and offers wide coverage areas, along with new high-throughput technologies. Additionally, broadband provides a true alternate path and a diverse networking option to ensure that agencies have the best possible connectivity to maintain critical operations, even if primary terrestrial networks fail.
+
+With satellite broadband-based communications networks, the military, first responders, emergency response teams, public safety officials and other key operators will know their networks will stay up and running in the face of a disaster or an attack. With true path-diverse networking, the government will be able to communicate and share information during and after a crisis, resulting in a better and more effective coordinated response to help citizens when they need it most.
+
+Tony Bardo is the assistant vice president for government solutions at Hughes Network Systems.
+
+ </text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

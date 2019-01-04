@@ -1,0 +1,34 @@
+<article>
+  <type>blog</type>
+  <title>U.S. Military Successfully Demonstrates Microdrone Swarm </title>
+  <author/>
+  <date>January 9, 2017</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>drones</tag>
+    <tag>Defense Department</tag>
+    <tag>MIT Lincoln Laboratory</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The U.S. Defense Department announced that in October 2016 it successfully demonstrated one of the world’s largest microdrone swarms at China Lake, California.</abstract>
+  <text>The U.S. Defense Department announced today that in October 2016 it successfully demonstrated one of the world’s largest microdrone swarms at China Lake, California. The demonstration consisted of 103 Perdix drones launched from three F/A-18 Super Hornets. The microdrones demonstrated advanced swarm behaviors such as collective decision making, adaptive formation flying and self-healing.  
+
+The Naval Air Systems Command and the Strategic Capabilities Office (SCO) are partnering on the effort. Secretary of Defense Ash Carter created the SCO in 2012 to boost Defense Department innovation.
+
+“This is the kind of cutting-edge innovation that will keep us a step ahead of our adversaries. This demonstration will advance our development of autonomous systems,” Carter said in a written announcement.
+
+“Due to the complex nature of combat, Perdix are not preprogrammed synchronized individuals, they are a collective organism, sharing one distributed brain for decision making and adapting to each other like swarms in nature,” said SCO Director William Roper. “Because every Perdix communicates and collaborates with every other Perdix, the swarm has no leader and can gracefully adapt to drones entering or exiting the team.”
+
+The demonstration is one of the first examples of the Pentagon using teams of small, inexpensive, autonomous systems to perform missions once achieved only by large, expensive ones. Roper stressed the department’s conception of the future battle network is one where humans will always be in the loop. Machines and the autonomous systems being developed by the department, such as the microdrones, are expected to empower humans to make better decisions faster.
+
+Originally designed by Massachusetts Institute of Technology engineering students, the Perdix drone was modified for military use by the scientists and engineers of MIT Lincoln Laboratory starting in 2013. Drawing inspiration from the commercial smartphone industry, Perdix software and hardware has been continually updated in successive design generations. Now in its sixth generation, October's test confirmed the reliability of the current all-commercial-component design under potential deployment conditions—speeds of Mach 0.6, temperatures of minus 10 degrees Celsius, and large shocks—encountered during ejection from fighter flare dispensers.
+
+As SCO works with the military services to transition Perdix into existing programs of record, it also is partnering with the Defense Innovation Unit-Experimental, or DIUx, to find companies capable of accurately replicating Perdix using the MIT Lincoln Laboratory design. Its goal is to produce Perdix at scale in batches of up to 1,000.
+
+A video of the demonstration can be found here.</text>
+  <imgalttext>
+    <img>Perdix microdrones launched from F/A-18 Super Hornets demonstrate advanced swarming capabilities, including collective decision making, adaptive formation flying and self-healing.</img>
+  </imgalttext>
+</article>

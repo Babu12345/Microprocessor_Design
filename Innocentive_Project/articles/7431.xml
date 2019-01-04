@@ -1,0 +1,25 @@
+<article>
+  <type>blog</type>
+  <title>Funneling the Cornucopia of Intel Data</title>
+  <author>Beverly Schaeffer</author>
+  <date>October 22, 2010</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Acadia II</tag>
+    <tag>bandwidth constraints</tag>
+    <tag>cross-domain data sharing</tag>
+    <tag>data mining</tag>
+    <tag>Empire Challenge 2010</tag>
+    <tag>ISR</tag>
+    <tag>IT</tag>
+    <tag>JFCOM JIOC</tag>
+    <tag>Sarnoff Corporation</tag>
+    <tag>TerraSight</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>Homeland security, coalition and other military operations-all depend on the fruits of quick and efficient data processing, exploitation and dissemination. Companies with solutions are making it work with greater efficiency and less impact on bandwidth, paring down copious amounts of data to the bare essentials. Can more be done to achieve success? Read the full article and share your ideas.</abstract>
+  <text>Information technology provides us with mountains of data, but therein lies the challenge of weeding through what's useful and what's not. How do we whittle the mountain down to the molehill to find golden nuggets of data? Processing, exploitation and dissemination analysts are finding ways to identify necessary info, and in the process, move it more efficiently and effectively. In this month's issue of SIGNAL Magazine, Executive Editor Maryann Lawlor highlights the intel community's data management challenges, and the workable solutions underway, in her article "Processing Goes Portable." Numerous collection devices have produced a target-rich environment, according to Christopher Jackson, deputy chief, ISR integration division, Joint Intelligence Operations Center at JFCOM, and they've produced an unruly amount of data. This raises major challenges: developing a means to turn processed data into information and get it to the analyst; overcoming bandwidth constraints to move data quickly to the top of the queue; providing accurate data analysis, correlation and display; and directing sensor processing dynamically so it adapts concurrently with the change in needs. These tasks are magnified by the desire and need for cross-domain sharing, and in coalition partner operations, it's crucial that troops from different nations be able to share information. Cross-domain sharing was one intel topic addressed at Empire Challenge 2010, an annual demonstration focusing on placing information into warfighters' hands. Various companies are developing technologies to address these challenges. Sarnoff Corporation's Acadia II-a system-on-a-chip-focuses on "hot topics" and moves information quickly to commanders by performing real-time contrast enhancement and stabilization, multisensor fusion and tracking on a single chip only slightly larger than a postage stamp and smaller than a Saltine cracker. Sarnoff's TerraSight video exploitation systems and software enable control processing from the base station where the commander can prioritize information before sending it along. It provides situational awareness, targeting and image analysis forensics using full-motion video. The U.S. Army currently has a servicewide license for TerraSight. These applications help to overcome the unique problems and challenges encountered in forward-operating missions, where efficient coalition interoperability is crucial. Homeland security, coalition and other military operations-all depend on the fruits of quick and efficient data processing, exploitation and dissemination. Companies with solutions are making it work with greater efficiency and less impact on bandwidth, paring down copious amounts of data to the bare essentials. Can more be done to achieve success? Read the full article and share your ideas.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

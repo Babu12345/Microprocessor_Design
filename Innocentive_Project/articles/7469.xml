@@ -1,0 +1,17 @@
+<article>
+  <type>blog</type>
+  <title>Cyber Is too Complex: Simplify</title>
+  <author>Robert K. Ackerman</author>
+  <date>October 29, 2010</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>TechNet Asia-Pacific 2010</tag>
+    <tag>Cyberspace</tag>
+    <tag>Event Coverage</tag>
+  </tags>
+  <abstract>Thoreau's words increasingly apply to securing cyberspace.</abstract>
+  <text>One key to securing cyberspace may be to simplify its processes and architectures. The newly formed U.S. Cyber Command is taking that approach in configuring its own information systems. Rear Adm. David Glenn, USCG, U.S. Cyber Command J-6, told the Thursday breakfast audience at TechNet Asia-Pacific 2010 that all elements of cyber are potential attack surfaces. He characterized these elements as the geographic layer; the physical network layer; the logical network layer (where the 1s and 0s reside); the cyber persona layer; and the persona layer. "We need to simplify GIG [Global Information Grid] architecture, reduce and simplify our networks, and reduce the hundreds of security enclaves down to one," he said. Adm. Glenn called for better agility, perhaps through virtualization of servers, routers and switches. The Cyber Command is going thin client so that the command's few remaining enclaves can go to a single desktop. These and other measures will reduce attack surfaces and allow for rapid configuration when an attack occurs, he notes. The command no longer will be able to, or need to, rely on perimeter defense alone.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

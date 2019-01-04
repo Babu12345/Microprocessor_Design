@@ -1,0 +1,60 @@
+<article>
+  <type>article</type>
+  <title>Versatile LiDAR Still Needs to Grow Up</title>
+  <author>Felton A. Flood</author>
+  <date>November 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>Laser detection and ranging has emerged as an attractive alternative and complement to three-pronged radar, hyperspectral and photogrammetric imaging systems, partly because of the technology’s versatility and ability to generate high-resolution, real-time, 3-D images.</abstract>
+  <text>Laser detection and ranging has emerged as an attractive alternative and complement to three-pronged radar, hyperspectral and photogrammetric imaging systems, partly because of the technology’s versatility and ability to generate high-resolution, real-time, 3-D images.
+
+Several advantages distinguish this method, also known as light detection and ranging (LiDAR), from other imaging tools. Experts remotely can measure a wide range of atmospheric and hydrospheric properties and put capabilities to use in many ways—from environmental applications in forestry management to weather and public safety predictions, natural resource exploration and deployment on military unmanned vehicle systems.
+
+Competitive commercial prices ensure that LiDAR will play a major role in future imaging systems, both in private and military applications. However, the popular technology still needs to mature to reach its full potential.
+
+Given the full range of the tool’s capabilities and forecasted improvements, LiDAR will become safer and more versatile. It will aid the transition toward autonomous systems, higher fidelity imaging systems and full-motion video enhancements.
+
+LiDAR systems have relatively small hardware footprints, which means users can co-locate multiple capabilities on a single platform. This is important because the use of undersea and aerial unmanned vehicles will increase significantly in both commercial and military markets, with a trend toward increased autonomy in navigation and mission capabilities. The development of affordable multisensory platforms will enable autonomous mission payload requirements for unmanned vehicles, and LiDAR is positioned uniquely to satisfy these requirements.
+
+Several technologies are predicted to allow the development of multifunctional LiDAR platforms.
+
+First are lasers. Optical fiber and microchip lasers represent the most promising transmitter technologies. They are safe for eyes at higher pulse powers, can operate across a wide range of wavelengths, provide high pulse repetition rates and leverage low-cost, highly reliable components developed for optical fiber communications.
+
+A larger focal plane array (FPA) supports larger fields of view for next-generation LiDAR imaging applications such as flash LiDAR. An attractive alternative to scanning LiDAR, flash LiDAR illuminates an entire scene with a single pulse, similar to the effect produced by a traditional flash on a camera. Flash LiDAR applications drive the development of large, highly sensitive detector arrays that integrate detection, timing and signal processing. This option permits independent, pixel by pixel measurement to enable future 3-D and 4-D imaging systems.
+
+Another is data processing. LiDAR imaging systems generate large, complex data array structures called point clouds. They require advanced data processing techniques and compression algorithms to support 3-D image visualization and feature extraction.
+
+Simple detection systems like those used in many commercial vehicles perform real-time data processing. More complex applications, such as those needed for unmanned drone imaging, collect and store data for post-mission processing. Increased use of unmanned vehicles, the need for complex autonomous operations and improvements provided by GPS and geodetic infrastructures will require advanced real-time processing capability. Processes to manage large amounts of data in real time are not yet available at the speeds required to support complex autonomous navigation and decision making.
+
+Beam-shaping adaptive optics will optimize laser light to maximize the number of photons received at each focal plane array pixel. Adaptive optics can correct atmosphere-induced phase distortion of optical signals. On a related note, diffractive optical elements represent a complementary technology to optimize beam shape based on FPA configuration.
+
+Data integration also is key. Three-dimensional LiDAR often is combined with photogrammetry produced by large-format digital cameras to enhance images by adding color and subtle details. The trend will continue, and future applications will combine multiple imaging and sensor systems. Each system presents data in different formats that require unification on a single-image display platform. Aligning information from multiple sensor modalities in real time is still a challenge.
+
+While LiDAR users wait for these technologies to advance, plenty of valuable applications remain in use. The simplest application is laser ranging. Laser ranging is used in both space and terrestrial systems to measure distance between objects with submicron precision. Combining LiDAR with a scanning mechanism as well as a global positioning satellite and an inertial measurement unit enables the technology to generate highly resolvable, georeferenced topographic and underwater floor maps. When deployed from the air, a scanning LiDAR system (SLS) provides unique topographical applications in forested areas because the infrared wavelengths can penetrate foliage. By detecting pulses reflected from multiple heights, LiDAR generates simultaneous digital surface maps of the forest canopy, vertical foliage profiles and ground topography, or digital elevation, maps.
+
+The maps prove helpful in a number of jobs. Forest management services can use them to develop fire prediction models and pinpoint potential flood zones, for example. Urban planning services can use the high-resolution digital surface maps to design future building sites and transportation corridors. And seismologists can use digital elevation maps to detect fault lines and identify high-risk earthquake regions.
+
+Experts also can use scanning LiDAR systems in a water environment, in a practice called bathymetry. The systems generate valuable detailed navigation maps of coastal areas more quickly and less costly than other methods. The maps can show coastal erosion or allow users to monitor for increasing water levels. Bathymetric LiDAR uses two lasers: one that reflects from the water surface and one that reflects from the sea floor. Depths are measured by computing the difference between the water surface and the floor.
+
+The SLS can perform range-gated imaging as well. The LiDAR receiver selects pulses reflected from certain objects at a specific distance and ignores objects at other distances. This versatility allows for the detection of targets otherwise obscured by fog, snow or rain, or those intentionally hidden by camouflage or foliage.
+
+While SLSs such as bathymetric systems are relatively simple, provide detailed resolution and are priced competitively with hyperspectral and radar systems, they have flaws. They require high laser pulse repetition rates, are prone to inaccuracies if a target moves and have limited ability to image dynamic environments. Because scanners measure each point in a scene at slightly different times, images can be distorted.
+
+Flash LiDAR, however, offers several advantages, such as freezing scene motion to preserve temporal and spatial relationships and reducing laser pulse repetition rates. The flash LiDAR, which provides nearly instantaneous 3-D images, is smaller and lighter than predecessors, and users do not need beam scanning components. This means they could produce 4-D, full-motion captures when applied with a high pulse repetition rate. Flash LiDAR devices are commercially available, but scanning systems still dominate the market.
+
+In addition to imaging and ranging, experts use LiDAR for atmospheric and hydrospheric remote sensing. The technology can detect small concentrations of particulates in the atmosphere to identify and track naturally occurring and man-made emissions.
+
+LiDAR measures temperature, pressure and humidity. It also can perform covert audio surveillance by measuring sound-induced material vibrations, or data processed to reconstruct the original audio.
+
+Because LiDAR operates in the visible spectrum and transmits well in water, many of its remote sensing capabilities translate to the hydrosphere. LiDAR can detect, characterize and provide detailed profiles of water, including contaminants present, salinity, acidity, alkalinity and temperature.
+
+Ultimately, LiDAR can become an increasingly valuable imaging and remote sensing technology, filling a void by providing higher fidelity and clearer imaging systems and, one day, full-motion video enhancements.
+
+Felton A. Flood works for Vencore Incorporated, which provides commercial and government solutions for high-speed digital communication systems and data analytics. The views expressed here are his alone and do not represent the views of Vencore.</text>
+  <imgalttext>
+    <img>A forest is seen with greater detail when LiDAR technology is used (c, r) instead of aerial photography. LiDAR generates simultaneous digital surface maps of a forest canopy, vertical foliage profiles and ground topography, or digital elevation, maps. Objects in a smoke-filled room might be impossible to see with the naked eye (l) but visible using LiDAR range-gated technology.</img>
+  </imgalttext>
+</article>

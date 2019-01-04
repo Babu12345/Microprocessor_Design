@@ -1,0 +1,47 @@
+<article>
+  <type>blog</type>
+  <title>Secure Wireless Warfighter Comms Available When Troops Need Them Most</title>
+  <author>Charlie Kawasaki</author>
+  <date>January 30, 2017</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>guest bloggers</tag>
+    <tag>Guest Blogs</tag>
+    <tag>Wi-Fi</tag>
+    <tag>NSA</tag>
+    <tag>Encryption</tag>
+  </tags>
+  <abstract>The ability of warfighters to be mobile and nimble is not a luxury during combat operations. It is an absolute necessity. Staying ahead of the enemy or avoiding attack often means an entire command post must move, and quickly—a mammoth challenge if the command post relies on a wired communications network with cumbersome and costly cables and equipment.</abstract>
+  <text>The ability of warfighters to be mobile and nimble is not a luxury during combat operations. It is an absolute necessity. Staying ahead of the enemy or avoiding attack often means an entire command post must move, and quickly—a mammoth challenge if the command post relies on a wired communications network with cumbersome and costly cables and equipment.
+
+So daunting is the issue that command post resources might go toward strengthening base defenses rather than equipping troops with solutions to “jump,” or move out rapidly. The U.S. Army is developing and testing a variety of wireless technologies, including Wi-Fi and long-term evolution (LTE), to eliminate delays in setting up command post networks. The solutions would reduce cabling and network setup and tear down times from hours to minutes, making jumps faster and safer.
+
+At the heart of these efforts is the National Security Agency (NSA) Commercial Solutions for Classified (CSfC) program, which enables organizations to transmit classified information using commercial-grade encryption solutions. It aims to eliminate the need for expensive and difficult-to-use classified equipment. Commercial smartphones, tablets and laptops are cleared to access classified information over Wi-Fi and LTE.
+
+Typically, troops who jump from one location to another do so in phases, with tent infrastructure, generators, network servers and satellite links going up first, followed by the running of cables to provide the local area network (LAN) command post support. The process means long delays in availability of critical information services, which means increased vulnerability.
+
+Wireless technologies simplify command post setup. Col. Joel Babbitt, USA, product lead, Wideband Enterprise Satellite Systems, has noted the value of wireless for combat missions. “Now, right after the tents go up, units can turn on the Wi-Fi 'hotspot' and bam! They have a LAN,” Col. Babbitt said a few years ago when he was the product manager for Warfighter Information Network-Tactical (WIN-T) Increment 1. “Instead of your network coming up last, now it comes up first. Wireless reduces a unit's most vulnerable time period. And, by eliminating LAN wiring, the need for specialized flooring is eliminated, reducing setup time further.”
+
+Wireless capabilities also let troops leverage smaller, lighter communications hardware. Reducing the size, weight and power (SWaP) is an evergreen challenge for warfighter communications. The equipment is never too small, too light or too power-efficient when it comes to easing command post mobility, particularly as the Army pushes more capabilities to the edge of the network.
+
+Addressing vendor complexity challenges
+
+It is important to note that CSfC requires solutions to include comprehensive suites of security technologies at the command post or data center, and the program mandates the technologies are provided from different vendors. This creates a formidable system configuration, management and training burden.
+
+ 
+
+To overcome complexity challenges, organizations developing and planning to deploy CSfC-based solutions should consider software management technologies that:
+
+  •    Reduce the amount of added complexity and training.
+  •    Provide a unified interface, or single pane of glass, coalescing equipment from multiple vendors.
+  •    Allow for the monitoring of multiple sets of equipment to let lightly trained operators manage the equipment.
+
+Troops must be given equipment that is intuitive to use when multi-vendor solutions are involved. Tactical communication equipment increasingly is difficult to setup and manage, resulting in extensive training requirements, error-prone configurations and long setup times. Shifting from manual configuration processes reduces the complexity challenges and improves secure communication for those using CSfC solutions.   
+
+Charlie Kawasaki is the chief technology officer for PacStar.</text>
+  <imgalttext>
+    <img>A U.S. Marine uses a tablet to communicate in real-time during the Infantry Officer’s Course.</img>
+  </imgalttext>
+</article>

@@ -1,0 +1,50 @@
+<article>
+  <type>article</type>
+  <title>Army Does the Math on Network Mobility</title>
+  <author>George I. Seffers</author>
+  <date>October 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>mobility</tag>
+  </tags>
+  <abstract>A comprehensive U.S. Army research program pursues a greater fundamental understanding of how networks function. The program’s intent is to expand knowledge, paving the way for new mobile ad hoc protocols and improving the service’s ability to deliver information to decision makers on and off the battlefield.</abstract>
+  <text>A comprehensive U.S. Army research program pursues a greater fundamental understanding of how networks function. The program’s intent is to expand knowledge, paving the way for new mobile ad hoc protocols and improving the service’s ability to deliver information to decision makers on and off the battlefield.
+
+The Army Research Laboratory’s Communications and Human Networks program primarily focuses on the service’s future mobile, wireless tactical battlefield communication needs. This includes systems that support broad-based, highly mobile communications and perform in diverse environments, such as dense foliage, urban surroundings and unintentional and intentional jamming. Future Army tactical communication systems for the digital battlefield will consist of many different types of networks and must be capable of communicating on the move.
+
+“The Army is interested in getting information to decision makers, whether the decision maker is somebody at the tactical operating center or even between fellow soldiers on patrol. Mainly, what I’m looking at is the transport of that information,” explains Robert “Bob” Ulman, the research laboratory’s Communications and Human Networks program manager.
+
+The effort includes four major thrusts: wireless network theory, mobile ad hoc and sensor networks, network integration and human networks. The first is “probably the most theoretical” and seeks to comprehend “the basic math involved in networks in general, as they can affect the mobile ad hoc network,” Ulman says.
+
+By studying the mathematics of networking, researchers intend ultimately to increase throughput. Predicting congestion, for example, means traffic can be routed more effectively and efficiently. Analyzing traffic patterns also can lead to better routing protocols in unusual circumstances, such as when a tactical network is disconnected and brought back online.
+
+The team also is investigating the effects of, and potential solutions to, sudden fluctuations in network traffic. “Suddenly something happens, and the amount of communication you’re having between all the soldiers on patrol and so forth goes from very little to a whole bunch. Maybe they need to send a picture, or they need to communicate with voice, and all of a sudden there are a lot of things going on. And then maybe it dies down again. That’s the concept of ‘bursty’ traffic. Our network needs to be able to react to that,” Ulman states.
+
+The first thrust closely complements the second, mobile ad hoc networking and sensors, and many of the program’s grants fall between the two. “We’re not designing protocols per se, but we’re really trying to understand how the network reacts and to describe that mathematically so as to allow and facilitate protocols assigned. We’re mostly looking at the lower echelon—brigade and below—wireless communication,” he says, adding that sensor networks are slightly different because they are usually static and low energy.
+
+The team examines alternative approaches to the transmission control protocol (TCP), which allows two hosts to connect and exchange data streams. One project, which will wrap up soon, attempts to “mesh up coding that’s made to correct errors at a physical layer point to point with coding at a higher level,” Ulman reveals. “There may be a possibility of significantly improving end-to-end throughput using this technique. TCP is usually used in the wired networks, and it has issues when you go wireless.”
+
+The third and fourth thrusts, network integration and human networking, are relatively new research areas. The third includes the interaction between social and communication networks. Social networking, in this case, has nothing to do with Facebook, Twitter or similar sites. “We’re really thinking about how soldiers interact with each other, particularly through wireless communication. We want to know what the traffic’s going to be and better design our networks,” Ulman offers.
+
+The goals of studying social networking, Ulman relates, are to “understand how our own combatants interact with each other and improve that; understand how the noncombatant population interacts so that we can have a positive influence on that; and then understand how the enemy is communicating so that we can effectively use that to fight against them.”
+
+The research includes algorithms for cognitive radios, systems that use dynamic spectrum access to detect and automatically hop to the least-congested bands. Ulman points out that his team is not the only one researching cognitive radios, but he says the program takes a unique approach, preventing one system from monopolizing the best frequency. “We’ve come up with some interesting algorithms to help the radios try to sense the bands in a fair way so that one radio is not always picking up the best frequency band all the time,” he elaborates.
+
+The technology may help increase throughput when the network is bogged down by bandwidth hogs, such as real-time video. “I would like to see our infrastructure move as much real-time video as we need between the soldiers on the forward operating bases or whoever is making those decisions,” Ulman observes.
+
+The program manager distinguishes between cognitive radios and artificial intelligence. “I’m interested in the concept of artificial intelligence, but I’m not currently funding anything in that area,” he says.
+
+This part of the program includes more than tactical networks. “When we’re talking about the interaction of the social communication networks, we’re talking about how [users] interact when they’re in garrison or even when they’re out on patrol,” Ulman offers. The research is not looking at how soldiers communicate over the network with their buddies, but instead how they interact while fulfilling the mission, whether during combat or during their day jobs. The network traffic may reveal, for example, how combat platoons interact with each other or with personnel in the tactical operations center. It also can indicate whether soldiers rely on one person or organization for information or to get a job done.
+
+Other researchers are studying social networking involving two people; Ulman’s team goes further. “One of the concepts we’re looking at is three people or four people connected together. We’re trying to understand the next level up,” he notes.
+
+The final thrust goes well beyond wireless communication but seeks to leverage some of the same mathematics to analyze larger human social networks, whether within large societies or specific institutions, such as the Army. Data sources can include common social networking sites, but again, Facebook and Twitter are not the focus.
+Sriram Vishwanath, a professor of electrical and computer engineering at the University of Texas at Austin, leads a project that involves modeling social networks, analyzing social interdependency and detecting behavioral changes in a social group.
+His research covers the relationship between online leaders and followers. It also encompasses network activities that lead to actions, including organizational or societal changes. Vishwanath says the research can inform decisions beyond the battlefield. “You can imagine that a major institutional change can have big consequences for the Army. Institutional changes across the world really impact Army deployment. And you want to be able to predict these changes before they happen so that you have a better idea something is afoot,” Vishwanath explains. “It is for better decision making for the Army, which has limited resources and a heck of a lot going on.”</text>
+  <imgalttext>
+    <img>A U.S. Army staff sergeant observes the area around Forward Operating Base Torkham, Afghanistan, while wearing a new communications suite. The Communications and Human Networks program strives to improve mobile ad hoc networking for future warfighters.</img>
+    <img>Warfighter Information Network-Tactical Increment 2, the U.S. Army’s mobile tactical communications network backbone, provides on-the-move mission command and network communications to soldiers. By studying the mathematics and social interactions of networks, Army researchers may advance the art of networking protocols.</img>
+  </imgalttext>
+</article>

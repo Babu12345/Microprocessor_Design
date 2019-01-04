@@ -1,0 +1,75 @@
+<article>
+  <type>article</type>
+  <title>Imagine a Time ... </title>
+  <author>George I. Seffers</author>
+  <date>November 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>wearable computers</tag>
+    <tag>U.S. Army</tag>
+  </tags>
+  <abstract>U.S. Army research on wearable technologies could lead to a future in which soldiers wear helmets with embedded thought sensors to communicate with one another and autonomous systems.</abstract>
+  <text>U.S. Army research on wearable technologies could lead to a future in which soldiers wear helmets with embedded thought sensors to communicate with one another and autonomous systems. 
+
+For now, scientists have developed a prototype architecture that will allow soldiers equipped with wearable technologies to communicate with each other and with robotic systems using hand gestures—even if team members are not within sight. The technologies will increase situational awareness, which ultimately improves mission effectiveness. 
+
+The scientists cite a hypothetical situation in which a dismounted squad moves through an area, perhaps through woods. The soldiers must be quiet because enemy forces may be in the vicinity, so they communicate with discreet hand gestures commonly used by NATO forces. Those gestures include a raised fist to indicate the team should halt and a finger pointed upward with a circular hand motion to tell others to “Rally about me” or “Come to my location.” 
+
+“Imagine a soldier is moving about a battlespace with a squad. Now, imagine that squad of soldiers. Some can see each other and some can’t. A soldier on point gives the ‘Rally about me’ gesture. Some soldiers may not be able to see that,” suggests Stephen Russell, chief, Battlefield Information Processing Branch, U.S. Army Research Laboratory (ARL). “In our work, we would properly recognize that signal, translate that signal into a classified gesture and send that classified signal to other soldiers or maybe even to automation, to smart systems or small pack bots or robots that might in the future be deployed with that soldier. The reality is my squad members will be a mix of humans and robots or autonomous systems.”
+
+Read the current issue of SIGNAL Magazine.
+
+SIGNAL Magazine is the official publication of AFCEA International. Learn more about the benefits of membership.
+
+
+The ARL’s Battlefield Information Processing Branch focuses on the interaction between humans and information. “Human-information interaction is that sweet spot between people and the information they use. The emphasis and focus is not so much on the device or the means to access the information but the information itself,” Russell says.
+
+The scientists visualize a future that includes a pervasive computing environment (PCE) in which sensors and computers become so ubiquitous and effective that users intrinsically trust they will work. The hand-gesture architecture is one step toward a battlefield PCE. 
+
+ARL researchers point out that electricity coursing through the walls was once a frightening concept but now permeates modern society to the point that people give it little thought. The same may one day be true of computers and sensors. “It doesn’t just stop with gestures. The future is all of these things being integrated. We know your heart’s beating faster. We know you’re running. We know you’re thinking hard,” Russell says. 
+
+The prototype architecture so far includes a Myo armband, which recognizes hand gestures to allow users control of digital devices. The architecture also uses Google Glass, a smartwatch and intelligent communication software for information dissemination and retrieval, according to a research paper published last year. The researchers have proved the Myo armband can detect and correctly identify military-specific hand gestures and that the information can be communicated using a local network transport to others who receive it via Google Glass or a smartwatch. 
+
+To make the architecture work, the researchers customized the Dissemination Service application, commonly known as DisService. “This is middleware that’s openly available but is part of things that the Department of Defense uses. The issue here is interoperability. We may have to send those signals to our coalition partners, so ... we can’t just invent something new and tell everyone they have to use it. That’s not an option for us,” Russell states.
+
+A civilian PCE may include a smartphone in the pocket, a smartwatch on the wrist, a smart baseball cap on the head and a smart shirt on the back, he suggests. “Your belt will have sensors in it. Your shoes will have sensors,” Russell adds.
+
+The next steps in developing the battlefield PCE architecture include adding more components. “Relative to the Army, we’re talking about a fully instrumented soldier in that context as well. Beyond just wearable devices, pervasive computing also considers the environment in which these devices exist,” he says. “In addition to wearables, there will also be sensors in your space—in your desk, in your chair.”
+
+With that in mind, ongoing research will include a wider variety of technologies. “We’re integrating more and more sensors, more and more devices—not just watches but also goggles and shirts as well as cardio bands and things like that,” Russell reports. 
+
+Other technologies that could be integrated into a combat PCE include environmental systems such as humidity and temperature sensors, acoustic sensors and “tripwire” cameras that provide imagery, he says. “That will integrate into a composite picture of not only the soldier’s state and operating environment, but also how best to give the soldiers the information they need when you have that volume and diversity of information available,” Russell adds. “We can demonstrate some of these capabilities right now, but to get to that full-on 100 percent that would be required by that soldier walking up to that minefield, those are a little further off in the distance.”
+
+To achieve those next steps, Russell’s team seeks partners in other research and development organizations. The scientists are interested in research, for example, that is advancing electroencephalogram (EEG) technologies. “The reality is a wearable device might be a helmet, which we already wear, and that’s sensing what the soldier is thinking,” Russell says. “We’re also reaching out to our colleagues in the human sciences who are working on the proper classification of brain waves and brain signals and other things more in the medical domains.”
+
+The technology for identifying hand gestures also might be used for classifying brain waves. “The same way we would detect and differentiate between ‘Stop’ or ‘Come to where I am’ as a gesture, that same signal analysis, that same machine learning, that same algorithmic approach can be applied to classifying brain signals as well as other things like heartbeat and so on,” he asserts.
+
+If those brain signals can be detected, classified and communicated, they may be used to control military systems or to communicate. The ability to control computing devices using thought exists today in a crude state, Russell points out. It is not yet reliable or precise enough for military operations and must improve in a number of ways. 
+
+If, or when, those improvements become a reality, they will first offer a way to monitor a soldier’s well-being. Next, they may determine a soldier’s intent, which goes beyond the passive sensing of current experiments. If the technology senses a soldier is fatigued while driving a Humvee, it may take control of the vehicle. If the soldier is injured, the technology may call for reinforcement. “Today it is not possible. Monitoring thoughts is a logical first step. The long-term interest is that there would be some communication on the battlefield of the future that takes place purely through a technology reacting to thought,” Russell says.
+
+The prototype architecture has proved up to 90 percent accurate, but in some cases, that will not do. “When I talk about 80 to 90 percent precision, experimentally, that’s great. That’s spectacular, frankly. However, what if the [point] soldier was walking up to a minefield and gestured ‘Stop’? In that sense, 80 to 90 percent is not good enough,” he declares.
+
+He also points out that the high percentages were achieved on personalized models. He compares the individualized systems to speech recognition software that must learn a specific user’s dialect or accent. “We really want a model we can generalize, that all soldiers can use,” Russell notes.
+
+The researchers face other challenges as well, such as available bandwidth and processing power on the battlefield. “Soldiers working on the tactical edge don’t have the Google data center available to do that processing for them. Our complex is much more complex than industry or academia,” he asserts.
+
+In addition, machine learning and artificial intelligence technologies will have to advance further. And the lab cannot develop wearable technologies that are too bulky or heavy or that consume too much power. “The more accurate it becomes, the heavier it gets,” Russell warns.
+
+The team also must determine how to deliver information under very different circumstances. “If soldiers are running, perhaps we don’t send that signal to the soldier’s cellphone or radio. Perhaps we send it to the headset or perhaps to a wearable visor that might show some text or imagery that conveys the message appropriately,” Russell offers.
+
+He adds that in the cyber arena, the PCE already is reality. But creating that capability on the battlefield will take time. “We know the environment is dynamic, so having a fully enriched, pervasive computing environment ... is a nice end state, but that is a way off,” he says. 
+
+Russell’s team is collaborating with colleagues in other ARL directorates and with the new ARL West facility at the University of Southern California Institute for Creative Technologies in Playa Vista, California. The institute has close ties with Hollywood and specializes in virtual reality and immersive environments. 
+
+In the coming months, ARL West will help researchers develop a coast-to-coast, virtual version of the PCE-enabled future. The ribbon-cutting ceremony for the new lab earlier this year included a demonstration of some elements of a virtual pervasive computing world. The researchers were able to “demonstrate an immersive environment where we could virtualize an entire person and all the wearable devices and span that coast to coast,” Russell reports. 
+
+“If you can, envision an environment where there are sensors everywhere and computers everywhere, and we have all this information available to us, and software and robotics and autonomous systems and intelligent systems are all acting on our behalf—or more importantly, on the soldiers’ behalf. Having something that can demonstrate this [future] capability ... is essential now,” he contends.</text>
+  <imgalttext>
+    <img>Future soldiers may operate in a pervasive computing environment, with sensors embedded in uniforms and equipment that will allow enhanced communication using hand signals or, further in the future, brain waves.</img>
+    <img>Soldiers train with a robot designed to counter improvised explosive devices. Army researchers have developed a prototype architecture that permits greater communication between man and machine through hand gestures.</img>
+    <img>Paratroopers test-drive an all-terrain vehicle at Fort Bragg, North Carolina. Future sensors embedded in a driver’s helmet may discern through brain waves that he or she is too fatigued to drive and signal technology to take control of the vehicle.</img>
+  </imgalttext>
+</article>

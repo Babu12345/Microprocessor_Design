@@ -1,0 +1,35 @@
+<article>
+  <type>blog</type>
+  <title>Communications Security Monitoring Can Reduce Insider Threats</title>
+  <author>David E. Meadows</author>
+  <date>November 13, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>guest bloggers</tag>
+    <tag>insider threat</tag>
+    <tag>cryptography</tag>
+  </tags>
+  <abstract>The adage is true: What’s old is new again, and while we think the technology of today might cure the ills of yesterday, some problems persist. It might be time to explore how methods that helped isolate insider threats from history can succeed in protecting modern infrastructure.</abstract>
+  <text>The adage is true: What’s old is new again, and while we think the technology of today might cure the ills of yesterday, some problems persist. It might be time to explore how methods that helped isolate insider threats from history can succeed in protecting modern infrastructure.
+
+Here’s a stroll down history lane. Beginning in the 1960s and running through the 1980s, there was this military procedure called communications security (COMSEC) monitoring. All of the services did it, but I am most familiar with U.S. Navy policies and approaches. COMSEC monitoring usually occurred at sea by individuals of the cryptologic technician ‘R’ branch (CTR) rating, who (most times) sat on board aircraft carriers in a space called "supplemental radio," usually located a deck below the aural-damaging catapults. These Morse code and cryptologic professionals monitored the command, control and communications (C3) of the electromagnetic spectrum (EMS) to capture transmissions sent over open air waves, then transcribe them on a mill. A military mill was a typewriter with only capital letters that used a sans serif font with the numbers one and zero slashed to differentiate them from the letters I, l and O. The CTRs identified violations of the essential elements of friendly information, or EEFIs. 
+
+The Department of Defense Dictionary of Military and Associated Terms defines EEFIs as "key questions likely to be asked by adversary officials and intelligence systems about specific friendly intentions, capabilities and activities, so they can obtain answers critical to their operational effectiveness."
+
+Back in the day of us ole-timers, Navy-derived organic violations reported through the chain of command eventually reached the hands of the violators. Commanding officers hated to see these violations, as many saw them as direct criticisms of their leadership styles. CTs had a difficult and under appreciated job, which was probably one of the “joyful” (read that with a tone of sarcasm) reasons their work spaces were located under the noisy catapults, or cats, on aircraft carriers.
+
+But the real-time monitoring accomplished at least three things: It showed C3 leadership what an enemy who monitored unencrypted transmissions would derive from failure to protect EEFIs; because of the near-real time feedback, it trained warfighters and communicators to protect those EEFIs; and, it reduced the insider threat.
+
+WHAT! The insider threat!? How in the hell did it do that? I'm glad you asked. It relates to the second accomplishment of training warfighters and communicators to protect EEFIs. Trained users reduce unintentional insider incidents because they better understand how to protect information, thereby highlighting insider actions done intentionally.   
+
+Today, this organic capability does not seem to exist though the EMS, which nowadays should include cyber. A global flood of EEFIs roll and tumble across the Internet through the airwaves and within fiber. Most Defense Department publications that even mention communications security monitoring show the mission relegated to the Joint Communications Security Monitoring Activity (JCMA), which has to be “tasked,” or military jargon for ordered. Taskings usually are reserved for operations exercises or other major events.
+
+Not everything done for security prior to the information/cyber age is non-relevant today. Now, if you’ll excuse me, it's time for my afternoon nap.
+
+Technology blogger David E. Meadows, MBA, MS, is the author of The Sixth Fleet, Task Force America, Seawolf and Final Run. He is a retired captain of the U.S. Navy.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

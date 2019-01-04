@@ -1,0 +1,59 @@
+<article>
+  <type>article</type>
+  <title>Cyber Data Analysis Requires Multidimensional Approach</title>
+  <author>Nina Berry and William Prugh</author>
+  <date>October 1, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>The Cyber Edge</tag>
+  </tags>
+  <abstract>The typical all-source intelligence analyst must generate products that result from the fusion and correlation of structured and unstructured text reporting with sensor and imagery data sources.</abstract>
+  <text>The typical all-source intelligence analyst must generate products that result from the fusion and correlation of structured and unstructured text reporting with sensor and imagery data sources. This process is complicated by the explosion of information on the Internet and the international community’s increasing use of social media to share ideas and coordinate activities, which has resulted in a larger data pool.
+
+Intertwined with these new data sources are the growing messaging, propaganda and recruitment movements associated with illicit network activities. As a result, harvesting, identifying, sorting and assessing relevant data from these evolving social media domains is far more complex than even the commercial opinion mining typically used to analyze the marketing and brand appeal of new vehicles.
+
+Many analysts use several tools. Each manually sorts aspects of social media information and open-source data. Although this approach works, analysts would be better served using best-of-breed tools, services and methodologies designed for these dynamic datasets. This new data domain requires tools that are capable of data mining, predictive and semantic analysis, data integration and, more importantly, anonymization.
+
+Analysts also need a solution to provide workload efficiencies for the social media and Internet data processing required to generate relevant open-source intelligence (OSINT). Chiefly, a cohesive adaptive framework is called for that supports various tool suites based on analyst needs.
+
+Following a yearlong study of various framework and tool functionalities provided by more than 40 commercial social media businesses, experts crafted a comprehensive multidimensional model. This model covers six categories—infrastructure, technology tools, methodology, workflow, metrics and trustworthiness—that support the successful implementation and execution of any framework or tool suite dedicated to exploiting illicit network activities across the social media and OSINT domains.
+
+The two main structural categories that form the model’s foundation are the technology tools and infrastructure components. Although many of the commercial solutions studied included aspects of the desired tools, most were not coupled with the necessary data sources. This created a burden on the purchaser to obtain the data separately. When that data was provided, it often was purchased from a third-party supplier with limited knowledge of the infrastructure used to acquire the data. Infrastructure concerns were exacerbated further by vendors’ lack of understanding about the requirement for anonymization or global exit nodes.
+
+Training analysts to use both the tools and best practices for interpreting today’s new data sources is represented by the methodology and workflow categories. These two areas are critical to the analyst’s awareness of how data is gathered across the Internet and social media domains, which can present potential vulnerabilities or influence data pedigree.
+
+The last categories—metrics and trustworthiness—apply across all sections of the model but are seldom considered by most vendors. Metrics are important to the analyst’s judgment of the performance of each tool and infrastructure component and the usability of the methodology/workflow training for the desired problem domain. The trustworthiness factor, in particular, is critical to the analyst’s acceptance of the resulting social media and OSINT analysis done within the framework.
+
+The analyst’s successful exploitation of social media and OSINT-based data requires specific handling of these nontraditional sources via Internet connections. An analysis of this emerging operational environment shows that six capabilities must be addressed by the framework used to gather and process data from these new domains.
+
+These capabilities include instructing analysts on the best methodology/techniques for gathering and using resources; selecting infrastructure supporting global network access; directing infrastructure to use global exit nodes; choosing the degree of usability through the anonymization layer; designing a trust model to gauge resource or data validity; and creating a transformation model to integrate trusted, relevant data.
+
+For example, analysts located in country want to pull data from several resources that also are located in country. Based on their OSINT instructional training, they want to be sure that the data truly reflect what a resident of the country would see and not a false presentation.
+
+The infrastructure must have global network access and the ability to use global exit nodes to support the analyst’s need for a robust direct exit node from country into country. Ensuring safe access into country with limited concern of backward traceability also will require incorporating usability into the infrastructure through an anonymization layer. Additionally, analysts must be able to integrate data they have deemed trustworthy through their trust model into their product.
+
+Analysts also need nontechnical knowledge and training to appreciate the value of each requisite component of a robust infrastructure. A robust infrastructure, which was not part of most social media business solutions, contains three key cyber components: global network access, global exit nodes and anonymization layers.
+
+Global network access is critical to global exit nodes and anonymization. It requires the vendor to have established a global information technology presence and relationships, thus providing global connections.
+
+The anonymization layer ensures that Internet traffic associated with in-country analysts searching for information and individuals will not be traced easily to any specific computer network. At the same time, global exit nodes are important and refer to the ability of nefarious actors to alter the information they display to an end user based on the location of that user’s Internet browser. For instance, nefarious actors can show positive false news reports to certain IP addresses and display beheading videos and recruiting activities to other IP addresses.
+
+For analysts to exploit the overall output of the infrastructure, they must trust its output. This requires a trust model that allows analysts to determine a score that indicates the integrity of a particular piece of information. The model should evaluate the data’s source, time period, location, relevance and several other components—legitimate account, history of information from this account, falsification of information presented—that together provide a score analysts can use to determine how much they can trust and value that information. Finally, the trustworthy information must be integrated into other sources of information that can provide a well-rounded picture. This is accomplished by combining the human fusion of information with existing OSINT tools that leverage analysts’ methodology training.
+
+The application of the multidimensional reference model illustrates the incorporation of all key concepts and components. The integration of all six categories provides a comprehensive, supportive and adaptable framework that allows analysts to harness the growing social media and OSINT domains.
+
+While research has focused on how the components of this reference model help reduce cyber risk, it also has highlighted other general risk concerns that further support the need for cyber awareness and protection when gathering data from the open Internet domain. For example, when commercial technology solutions are not designed for the purpose for which they will be used, they must be evaluated effectively. Assessing the solution using the reference model will provide a structure to gauge the tools’ adaptation to specific requirements.
+
+If a commercialized tool resides in a poor infrastructure environment, the results may be a poor solution. Decision makers could avoid a poor solution by leveraging the process outlined to evaluate a tool.
+
+Of course, users must be able to measure performance effectively as well. Appropriate metrics and training of analysts to improve their understanding and use of framework tools will ensure effective measurement.
+
+Ultimately, analysts might not accept the output of the framework. Simply ensuring analyst input on the development of the trust model will increase the analysts’ trustworthiness factor and their likelihood of framework acceptance.
+
+Nina Berry, research and development, software and engineering, computer science principal, Sandia National Laboratories, is a detailee to the Joint Improvised-Threat Defeat Agency (JIDA). William Prugh, executive vice president of Dynology Corporation, is the systems engineering and technical assistance lead for the JIDA Capability Research Analysis Cell. The views expressed here are theirs alone and do not represent the views or opinions of the U.S. government or the Defense Department.</text>
+  <imgalttext>
+    <img>This multidimensional reference model demonstrates the many entities required to provide a successful implementation of the conceptual framework to support social media extraction.</img>
+  </imgalttext>
+</article>

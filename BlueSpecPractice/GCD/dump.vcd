@@ -1,0 +1,85 @@
+$date
+	Sat May  5 14:25:33 2018
+$end
+$version
+	Bluespec VCD dumper 2.1
+$end
+$timescale
+	1 us
+$end
+$scope module main $end
+$scope module top $end
+$var reg 1 ! CLK $end
+$var reg 1 ! CLK $end
+$var reg 1 " RST_N $end
+$var reg 32 # v__h391 $end
+$var reg 32 $ x__h211 $end
+$var reg 1 ) gcd_busy_flag $end
+$var reg 32 * gcd_x $end
+$var reg 32 + gcd_y $end
+$var reg 2 , state $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+1!
+0"
+b0 #
+b10101010101010101010101010101010 $
+0)
+b0 *
+b0 +
+b0 ,
+b0 $
+#5
+0!
+1"
+#10
+b1111 #
+b1010 $
+1!
+1)
+b1010 *
+b1111 +
+b1 ,
+#15
+0!
+#20
+b1010 #
+b1111 $
+1!
+b1111 *
+b1010 +
+#25
+0!
+#30
+b101 $
+1!
+b101 *
+#35
+0!
+#40
+b101 #
+b1010 $
+1!
+b1010 *
+b101 +
+#45
+0!
+#50
+b101 $
+1!
+b101 *
+#55
+0!
+#60
+b0 $
+1!
+b0 *
+#65
+0!
+#70
+1!
+0)
+b10 ,
+#75
+0!

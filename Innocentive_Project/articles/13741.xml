@@ -1,0 +1,34 @@
+<article>
+  <type>blog</type>
+  <title>Cyborg Cockroaches Step Up to the Microphone</title>
+  <author>George I. Seffers</author>
+  <date>November 6, 2014</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>Robotics</tag>
+    <tag>research and development</tag>
+    <tag>search and rescue</tag>
+    <tag>New Products</tag>
+  </tags>
+  <abstract>NC State University researchers have developed technology that allows cyborg cockroaches, or biobots, to pick up sounds with small microphones and seek out the source. The technology is designed to help emergency personnel find and rescue survivors in the aftermath of a disaster.</abstract>
+  <text>I know what you’re thinking—cockroach karaoke! But that’s just not right.
+
+North Carolina State University researchers have developed technology that allows cyborg cockroaches, or biobots, to pick up sounds with small microphones and seek out the source of the sound. The technology is designed to help emergency personnel find and rescue survivors in the aftermath of a disaster.
+
+The researchers also have developed technology that can be used as an “invisible fence” to keep the biobots in the disaster area. “In a collapsed building, sound is the best way to find survivors,” Dr. Alper Bozkurt, an assistant professor of electrical and computer engineering at NC State, says in a written statement. Bozkurt is the senior author of two papers on the work.
+
+The biobots are equipped with electronic backpacks that control the cockroachs' movements. Bozkurt’s research team has created two types of customized backpacks using microphones. One type of biobot has a single microphone that can capture relatively high-resolution sound from any direction to be wirelessly transmitted to first responders. The second type is equipped with an array of three directional microphones to detect the direction of the sound. 
+
+The research team also has developed algorithms that analyze the sound from the microphone array to localize the source of the sound and steer the biobot in that direction. The system worked well during laboratory testing. “The goal is to use the biobots with high-resolution microphones to differentiate between sounds that matter—people calling for help, for example—from sounds that don’t matter, such as a leaking pipe,” Bozkurt says. “Once we’ve identified sounds that matter, we can use the biobots equipped with microphone arrays to zero in on where those sounds are coming from.”
+
+The research was supported by the National Science Foundation.
+
+No cockroaches were harmed in the writing of this blog.
+
+</text>
+  <imgalttext>
+    <img>Biobots detect and track sounds for search and rescue. </img>
+  </imgalttext>
+</article>

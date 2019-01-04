@@ -1,0 +1,55 @@
+<article>
+  <type>article</type>
+  <title>Satellite to the First Responder Rescue</title>
+  <author>Sandra Jontz</author>
+  <date>May 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>first responders</tag>
+  </tags>
+  <abstract>The failure of other communications networks from damage caused by catastrophic disasters has compelled local and state governments to work with their federal counterparts on establishing satellite connectivity under the worst of conditions.</abstract>
+  <text>Broadband satellite connectivity has moved up to become a key element of emergency response support. The failure of other communications networks from damage caused by catastrophic disasters has compelled local and state governments to work with their federal counterparts on establishing satellite connectivity under the worst of conditions.
+
+When sections of the Northeast were devastated in 2012 by Hurricane Sandy, the deadliest and most destructive hurricane of the Atlantic season that year, nearly 80 percent of the cellular services went down. This left millions of people without any way to communicate for several days—not just with loved ones, but also with state and federal agencies to seek help.
+
+Today, emergency management agencies throughout the United States are seeking technology to make networks more resilient, and satellite connectivity is considered key toward that objective, experts say. Some jurisdictions are employing broadband and satellite systems on their own while others await the development of the First Responder Network Authority, better known as FirstNet and created in 2012 by Congress to be part of the National Telecommunications and Information Administration (NTIA). FirstNet would acquire a nationwide broadband data network for the nation’s local, state and federal first responders: police, fire departments and emergency medical services.
+
+“We’ve been addressing the public safety market for some time with our satellite offerings,” says Tony Bardo, assistant vice president of government solutions for Hughes, a leading provider of broadband satellite services, products and managed network solutions. “We were active in [Hurricane] Katrina. We were really active in Sandy. We have stressed to the agencies … constantly the need for resiliency in their networks.”
+
+After three years in the making, FirstNet remains in the process of developing a request for proposals (RFP) to industry on how to acquire the network. The effort has a $7 billion budget funded by the federal auction of prime spectrum. The authority’s initial top two priorities are the development of the RFP and holding consultation sessions with the 56 states and territories to truly understand agencies’ unique needs and requirements, according to Jeff Bratcher, acting chief technology officer at FirstNet. As of March, leaders had started the consultation process with 16 states and Puerto Rico and had 27 initial consultation meetings scheduled. The U.S. Commerce Department’s NTIA has awarded roughly $116 million in the State and Local Implementation Grant Program to 54 states and territories for FirstNet efforts.
+
+Part of FirstNet’s mandate from Congress includes “some significant rural milestones to provide reliable communications in areas not typically serviced by commercial cell service carriers,” Bratcher says. That means tapping satellite technology.
+
+“They don’t build towers where there is no one to use them and generate revenue,” Bratcher continues. “Satellite is definitely part of our thinking. We cannot pinpoint where emergencies might happen; take the wildfires in California or the mudslides in Washington. A definite big portion of our thinking is how first responders can bring the network with them and have that backhaul capability. Leveraging satellite or remote microwave, those types of technologies, is a big factor in our thinking and that’s what we’ve been focused on as part of this deployment of a nationwide network.”
+
+Building in such resiliency had not been a priority before because of the infrequency of complete communications blackouts. “But when they go down hard, as the communication lines in New York and New Jersey did [after Sandy], we had to go into several FEMA [Federal Emergency Management Agency] sites that had nothing. And there they were, trying to establish systems for people coming in filing claims, families coming in for some shelter, trying to get away from the heat and humidity … they had nothing,” Bardo recalls. “They only had our satellite terminals at their locations once we installed them and we were the only lifeline for FEMA back to headquarters, back to their data centers and for people coming in and wanting to make phone calls. … Resilient doesn’t mean two terrestrial lines, one from two different carriers.”
+
+In addition to developing the RFP for a nationwide effort, FirstNet entered into spectrum manager lease agreements to develop “early builder” programs with five public safety agencies to test the concept and implementation of broadband technologies for first responders. To deploy and test capabilities and policies, the participating agencies will have access to the dedicated public safety spectrum in the coveted 700 megahertz band, which is allocated to FirstNet.
+
+The authority then will apply lessons learned from the five projects, now in various stages of deployment in California, Colorado, New Mexico, New Jersey and Texas, to help shape the final effort for the federal mammoth FirstNet rollout.
+
+The New Jersey project, for which Hughes provides capabilities, is focused on leveraging satellite and deployable communications assets. The network will use satellite for its systems on wheels and microwave technology for backhaul for the cells on wheels element. Part of the New Jersey project includes targeted use of utility mapping data, which will alert firefighters of water mains and hydrant locations while they are en route to an emergency.
+
+Houston-area first responders are testing technology on a 14-site LTE system. Adams County, Colorado, police are testing a 16-site LTE system. New Mexico will be using LTE site technology in areas along the border and in the capital region, working with customs and border patrol and other agencies on how technology can be used for border operations. Finally, Los Angeles is erecting a 200-site LTE effort to test a regional interoperable communications system, scheduled to be turned on later this year.
+
+“Those five projects entered into a spectrum management lease agreement with FirstNet, where they can use our nationwide licensed spectrum for their five projects,” Bratcher explains. “We’re not charging them to use the spectrum, but in return, they’ve agreed to provide us with key learning conditions from each of the projects … as we develop our RFP and apply it toward a nationwide procurement.”
+
+The use of military-style technology will have a lot of applicability on the deployment of FirstNet, Bratcher indicates. Developers want to apply the “bring your network with you” capabilities that would allow first responders to conduct work in the field as though they were sitting in offices. “The warfighters in theater bring their networks with them, rapidly deploy and get [communications] up and running,” Bratcher says. “We’re seeing lots of similarities in some of the approaches during our market research for how we would handle this on our deployable side of the FirstNet network.”
+
+In areas where terrestrial communications are up and running with no problems, satellite would serve as the alternate in the event of an outage. “Satellite would provide a great backup in those situations,” Bardo says. “In an area that is well served by terrestrial communications, more than likely, the terrestrial is and should be the primary and satellite is the backup.” But 12 million to 13 million households in the country remain unserved by terrestrial communications. “Satellite is critical for the government locations in the middle of nowhere: Think of the border, think of forests, think of agricultural locations, think of the sheriff’s office in Broken Elbow in West Virginia, that just have nothing,” Bardo adds.
+
+When terrestrial lines go down, installed routers see the failed condition of the primary communication path and automatically switch to the cable that would connect to a satellite antenna, which can withstand upward of 120-miles-per-hour winds.
+
+Cellular companies do have the ability to erect quick-deploy towers in the event their main towers go down, but that option lacks a key component to sustained communications. “They can come into an area and they can set up the tower fairly quickly for cellular,” says Rick Lober, vice president and general manager of Hughes’ Defense and Intelligence Systems Division. “The problem is, you’ve got to what we call backhaul that data from that new quick-deploy tower to the rest of the network. It takes forever to set that up again with fiber and even microwave links. ... It’s kind of a combined approach—quick-deploy cell tower with a satellite backhaul to tie it to the rest of the network.”
+
+First responders then can use the same cellphone as usual, and with the combination of the cell company and the satellite company working together, have access to the data stored on the networks. “The key is that it’s pretty much transparent to that user,” Bardo adds.  
+
+“We’re looking at solutions in two ways: the transfer of military technology and the transfer of commercial technology as a satellite operator,” Lober explains. “On the military side, right off the bat, the military uses more satellites. Why? Because where they go, there’s nothing. … A hurricane hits, cell towers are gone, fiber is gone. It’s very much like what the military encounters when they go into a place like Iraq. When we started with FirstNet, satellite was not as high on the list. There are some things that the military is doing, particularly in the comms-on-the-move and the mobile area, whether it be airplane, helicopter or vehicle, where satellite connectivity can be set up fairly quickly.”
+
+In a natural disaster or large-scale attack, time is of the essence; but as in a combat zone, “You just can’t get fiber rebuilt, re-dug, re-laid and so forth, and installed in that kind of quick time frame,” Bardo says. “Satellite came to the rescue. You could see that same scenario for FirstNet, whereby satellite can get quickly deployed at any location of urgent need. The satellite industry does that very well. That’s where this industry really shines, in terms of that quick deployment. They take it to the commercial market, they take it to the government market and they take it to the military market when needed.”</text>
+  <imgalttext>
+    <img>FirstNet proposes a three-in-one network architecture that augments the terrestrial network system with the use of satellite and mobile deployable communications systems for coverage in rural and remote areas.</img>
+  </imgalttext>
+</article>

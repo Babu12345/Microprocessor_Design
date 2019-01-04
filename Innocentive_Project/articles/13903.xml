@@ -1,0 +1,44 @@
+<article>
+  <type>article</type>
+  <title>NGA Wants Your Intelligence Data in the Cloud</title>
+  <author>George I. Seffers</author>
+  <date>December 12, 2014</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>National Geospatial-Intelligence Agency</tag>
+    <tag>Lockheed Martin</tag>
+    <tag>cloud computing</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>With the National Geospatial-Intelligence Agency's interactive Map of the World now residing in the cloud, the intelligence agency plans to expand the tools and content.</abstract>
+  <text>The National Geospatial-Intelligence Agency (NGA) became the first intelligence agency to host an operational capability within Amazon Web Services’ Commercial Cloud Services (C2S) environment after Lockheed Martin deployed NGA’s interactive Map of the World to C2S. With the Map of the World viewer, which could be compared to Google Maps or similar applications, now resting in the cloud, NGA officials intend to add more data and capabilities.
+
+One way of doing that will be to allow users to nominate content for inclusion. “We are finalizing a content nomination process. In other words, if you are one of the users out there in the field—you’re in the Army for example—and you’ve created this great data set that you want to get into the NGA data store, we are putting the final touches on a process whereby you can very quickly and easily nominate that content for consideration to go on the Map of the World,” reveals Col. Michael Senn, USA, director of the Content Management Office, NGA. “We are trying to be responsive to the customers. We don’t want to give them just what we think they need; we want to give them what they really need. We’re letting them tell us.”
+
+It took about 18 months to develop the Map of the World and to place it into the cloud, and it might still be considered a fledgling effort. “There are a lot more tools coming to Map of the World. One of the things coming up in the very near future is a better search registry so that when you search for content, the most appropriate things pull up. There are also other capabilities as well as specific content that we have put aside, or that customers have asked for, that is upcoming,” Col. Senn states.
+
+The improved search registry is targeted for the next fiscal year. “That’s a big milestone and will greatly increase the usability for the Map of the World,” he adds.
+
+The Map of the World initiative acts as an interface for NGA’s comprehensive geospatial intelligence data. Designed for both novice users and geospatial-intelligence experts, it serves as a platform to explore constantly updated content and link natural and man-made features on, above and beneath the Earth to intelligence observations. Users can search for objects like bridges or railroad depots and know where the objects are located, as well as intelligence embedded within each object. “Map of the World is an online geospatial environment. The purpose of it is to provide, authoritative, shared and trusted content, both geo intelligence-related and across the intelligence community. It’s not just NGA’s content. Ultimately, that data is to be used by our customers, the Defense Department, the intelligence community, policy makers and first responders,” Col. Senn says.
+
+NGA officials describe the cloud deployment as a major step in the transformation of the intelligence community’s infrastructure. Officials say they expect cloud computing to cut costs and increase efficiencies for the enterprise. It also will provide the entire intelligence community access to the Map of the World, which is the single integrated environment where all analysts can examine data, record observations and share all known information about a threat.
+
+“It’s how NGA is going to remain relevant and continue to serve our customers. To this point, NGA’s content has been in many disparate places and hard to access,” Col Senn reports.
+
+For example, NGA’s geospatial intelligence data resided on more than 100 different websites accessible by up to 400 different links, he says. “It was very confusing and very unwieldy. Analysts would spend half their time just looking for the information they needed and not processing it,” Col. Senn offers. “The idea was to consolidate that down, put it all in one place and make it very easy for our customers to get hold of NGA and other intelligence community content and then be able to use it so they spend a lot less time getting it and a lot more time being able to analyze it and make sense of the bigger picture.”
+
+Ultimately, the Map of the World will host a wide range of intelligence, including unclassified and classified data, in the cloud computing environment. "We run the gamut of basic data, topography or road networks, something you could go out and find on Google Maps or OpenStreetMap right now, up to classified information that the intel community presents," the colonel explains. "The idea is to integrate all of that information in one place so that when an analyst or someone out in the field wants to know something about, for example, an air field, they can click on that air field and access the whole of the information that we possess about it at that time."
+
+Moving to the cloud also allows NGA to easily add users as demand grows. “One of the big benefits is scalability. Right now, the current configuration of Map of the World is able to handle the users it gets, but as it’s used more and more, that could become an issue. With Map of the World in the cloud, you can quickly increase or decrease the bandwidth to it and the number of users you can have on it without having to go through a long provisioning process,” Col. Senn offers.
+
+John Lee, NGA’s geospatial visualization services technical lead, agrees. “One of the challenges we have today is that we have to be very forward looking and forecast how demand is going to increase because of the amount of time it takes to provision things with our current processes. In the cloud, that is much simpler, much faster,” Lee says.
+
+As the first to move operational data into the C2S environment, Col. Senn and his team can now assist others. “Any time a new technology  comes along, there’s lots of promise, but you have to figure out how to make it all work. So, we’re sharing that knowledge we gained,” Lee says.</text>
+  <imgalttext>
+    <img></img>
+    <img></img>
+    <img></img>
+  </imgalttext>
+</article>

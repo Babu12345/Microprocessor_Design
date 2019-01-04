@@ -1,0 +1,52 @@
+<article>
+  <type>article</type>
+  <title>Sweeping Acquisition Changes on Horizon for NATO Agency Reshaping How it Buys Software</title>
+  <author>Sandra Jontz</author>
+  <date>June 30, 2016</date>
+  <departments>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>NATO</tag>
+    <tag>maritime</tag>
+    <tag>Acquisition</tag>
+    <tag>software</tag>
+  </tags>
+  <abstract>Sweeping changes are on the horizon for one NATO agency as it reshapes its software acquisition processes and embarks on a task to create what officials call an in-house “software factory.” The NATO Communications and Information (NCI) Agency wants to overhaul the way it buys software after inspections revealed acute shortcomings that led to several program cost overruns and delays.</abstract>
+  <text> 
+
+Sweeping changes are on the horizon for one NATO agency as it reshapes its software acquisition processes and embarks on a task to create what officials call an in-house “software factory.”
+
+The NATO Communications and Information (NCI) Agency wants to overhaul the way it buys software after inspections revealed acute shortcomings that led to several program cost overruns and delays, says Paul Howland, chief of command and control services for NCI Agency, which serves as NATO’s information technology and command, control, communications and computers, intelligence, surveillance and reconnaissance (C4ISR) provider, including cyber and missile defense.
+
+NCI Agency formed the Software Intensive Project Task Force in December 2013 to probe the agency’s software purchasing methods and solve issues of delayed and over-budget projects. The task force surveyed 27 projects and found a majority was late, over budget or failed to deliver what users required, Howland explains.
+
+A report issued last year noted that of the 27:
+
+ Five were canceled or failed with little or no capability
+	?10 completed projects came in with severe cost and schedule impacts
+	10 were still being implemented but were 3 years late
+	Only two were completed in less than 2 years and less than 15 percent over budget
+“It was clear NATO was suffering from the same problems that many governments suffer from when they try to acquire software,” Howland says. “In a nutshell, the processes NATO has followed for acquiring software did not fit the purpose. There were rules and regulations set up originally for purposes of acquiring infrastructure, runways, pipelines, etc. They were designed to provide lots of oversight ... and provide [several] bidding opportunities to NATO industries. But they’re not at all agile.”
+
+The committee’s recommended solutions center on agile software development that mirror best practices in the commercial sector, he says. “The idea is that we deliver incrementally, with smaller packages of scope, so that we’re not trying to deliver a huge, big bang project after three or four years of effort. Historically, the software we’ve delivered has been the large, all singing all dancing software packages.”
+
+The initial step is to decouple the software from the platforms they run on—for example, mapping visualization software.
+
+“NATO has a dozen or so command and control (C2) systems. If you go to any lab in the agency, you’ll see 12 computer screens with 12 pieces of software on them and they all have a map with some data on them. That map is produced by different vendors, developed separately for each of those 12 systems,” Howland says. “Fundamentally, they’re all doing the same thing. It’s a map.”
+
+The recommended resolution was to extract the mapping component and make it reusable by the other C2 systems, no matter the vendor. “Instead of buying C2 systems each with their own mapping component, we buy the mapping component once and then future systems will reuse it,” he explains. "The solution saves on training for the users, saves on acquisition costs in the long run, and it saves on operations and maintenance costs."
+
+Additionally, agencies will involve the software end users early in the development process, embedding them on project teams. However, officials will have to walk a fine line to ensure that users are not pulled away from their primary jobs to engage in software development efforts, he cautions. “All of the best practice models show that if you’re delivering software, you should be doing it in that incremental, spiral manner with the users embedded with the developers.”
+
+The overhaul will be tested on NATO’s Project TRITON acquisition effort, a maritime-based program to provide the alliance with an integrated, robust and flexible capability. Increment 1 primarily will provide maritime situational awareness technologies and replace the operational level functionality of the existing maritime C2 system. The invitation for bid was released in May and officials anticipate awarding a contract this calendar year.
+
+The entire purchasing overhaul will take years to fully implement. “We’re in a difficult position because we’re starting from a set of legacy capabilities,” Howland says. “We’re not starting from a clean sheet of paper. Over time, we’re going to have to gradually update deployed systems. It is inevitably going to be quite a long journey to gradually break up the C2 landscape into reusable components.”
+
+Even though the goal is to reuse the same solutions for a number of endeavors, there will be no shortage of opportunities for industry, he suggests. “The money is not drying up. The requirements are not drying up. We see increasing demand, and it’s really a case of how can we meet this increasing demand with the budget we have so that we’re doing it more effectively.” As a case in point, NATO officials announced at the NITEC 2016 cyber conference in early June that it has earmarked 3 billion euros ($3.4 billion) in funding for future cyber-based initiatives to address the swelling number of attacks against the alliance.
+
+In addition to the acquisition alteration, NCI Agency is creating a software factory akin to building an app store, constructing a cloud-based environment with standard software engineering tools and configuration management tools to instantiate reference systems for industry to test against so that industry can develop components that work within the alliance’s environment, he affirms. “At the moment, some methods are different in industry for every project. The software factory will be used for the development of these components, for the testing, but we also hope that in the future, it will be used as a platform for innovation as well.”</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

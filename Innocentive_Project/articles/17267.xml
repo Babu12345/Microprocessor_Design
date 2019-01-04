@@ -1,0 +1,48 @@
+<article>
+  <type>article</type>
+  <title>Going Mobile: Technology Policy Changes to Help DOD Go Full-Throttle</title>
+  <author>Sandra Jontz</author>
+  <date>March 2, 2017</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+    <tag>mobility</tag>
+    <tag>DISA</tag>
+    <tag>Special Operations</tag>
+    <tag>technology</tag>
+  </tags>
+  <abstract>Ushering in full-blown mobility for the military will require technology advances, particularly in areas of automation and security management. With mobile no longer a fringe idea, troops want to avail themselves of all the bells, whistles and efficiencies the ecosystem offers. But security concerns continue to crimp the Defense Department’s migration to what is otherwise commonplace in the private sector.</abstract>
+  <text>Ushering in full-blown mobility for the U.S. Defense Department will require key technology advances, particularly in areas of automation and security management. With mobile no longer a fringe idea, troops want to avail themselves of all the bells, whistles and efficiencies the ecosystem has to offer. But security concerns continue to crimp the department’s migration to what is otherwise commonplace in the private sector, experts shared Wednesday during the day-long AFCEA DC Chapter Mobile Tech Summit.
+
+“If we look at what we’re doing today from a communication standpoint and where we’re going from a warfighter’s standpoint, the commercial space and warfighting space are closer than they’ve ever been,” said event kickoff speaker John Hickey, director of the Cyber Development Directorate for the Defense Information Systems Agency, or DISA.
+
+Additionally, with federal research and development dollars either stagnant or diminishing, the government must find ways to better leverage commercial technologies, particularly when it comes to making the best use of the finite spectrum resource over which the government and industry clamor, he said.
+
+Wouldn’t it be nice, Hickey cited as an example, if industry developed assured identity and credentialing technologies down to the chip level? The next phase to securing mobile devices for military use likely will incorporate biometrics and pattern of life analytics. “That is something that could solve our problem all the way out to the tactical edge,” he said.
+
+That tactical edge is where the military confronts its greatest mobility chasm, particularly when battlefield mobile devices must access confidential or classified data. Protecting data on mobile is non-negotiable, and the need is paramount within the special forces community for mobile solutions that can access classified information, said Bill Burnham, technical director at the Special Operations Command (SOCOM). 
+
+A main SOCOM focus during the next few years will be developing what Burnham called a deployable “wireless LTE bubble” and devising policies to better leverage capabilities that make it through the National Security Agency's Commercial Solutions for Classified (CSfC) program, which seeks to dovetail needed stringent product security standards for national security systems with the rapid rate at which commercial technologies develop.
+
+As DISA pushes for mobile security management capabilities for classified and unclassified systems, it also seeks to revamp its acquisition processes to buy and field technologies well before they become obsolete. For solutions, the agency is looking to the Defense Innovation Unit Experimental, or DIUx, as blueprint for rapid acquisition and handling of Other Transaction Agreements, or OTAs, Hickey said. Another area where using the OTA approach could work is cybersecurity, where the agency could get it as a managed service or buy as an integrated package.
+
+A discussion of mobility could not take place without experts delving into the critical topic of spectrum management, or what panelists termed as the heart that makes mobility mobile. “Spectrum has been the lifeblood ever since [the electromagnetic spectrum] was discovered,” said Greg Youst, DISA’s chief mobility engineer, who moderated one panel.
+
+Spectrum enables an array of services, from satellite communication to cellphone functions to television broadcasting, and is crucial to the dawning of the Internet of Things era. Grasping exactly how finite a resource spectrum is has been taken for granted, as evidenced by the number of companies that continue to develop wireless devices amid consumers' insatiable appetite for such products, offered Julius Knapp, chief engineer in the Office of Engineering and Technology at the Federal Communication Commission. The real trick is not picking whether to connect thermostats, refrigerators and smart televisions, Knapp said, but getting them to all work together within the available spectrum.
+
+This brought the summit discussion to spectrum sharing, an ongoing cantankerous debate between the government and industry as each jockeys for access to the shrinking amount of spectrum. Spectrum sharing is a necessity, said Fred Moorefield, director of spectrum policy and international engagements in the Defense Department’s Office of the Chief Information. “It’s going to be the new normal.”
+
+Adjusting policies to more rapidly address spectrum-sharing needs will play as important a role in managing the resource as will technological advances such as automation, Moorefield said. 
+
+Beyond needs of the Defense Department, the summit’s focus included the mobility requirements of the nation’s first responders and an update to the First Responder Network Authority (FirstNet), the first nationwide high-speed wireless broadband network dedicated to public safety.    
+
+FirstNet is working with industry to tap technologies such as biometrics, voice recognition, rugged devices and spectrum management solutions as it nears rollout of the effort, said President TJ Kennedy. 
+
+While many of the tools first responders need are available today, they have not been optimized for public safety use, he said.</text>
+  <imgalttext>
+    <img>John Hickey, director of the Cyber Development Directorate for DISA, kicks off the 6th annual Mobile Tech Summit hosted by AFCEA DC Chapter. Photo by Mike Carpenter</img>
+    <img>Panelists at the Mobile Tech Summit in Washington, D.C., on March 1 discuss the importance of better managing spectrum as wireless technologies consume the resource at high rates. Photo by Mike Carpenter</img>
+  </imgalttext>
+</article>

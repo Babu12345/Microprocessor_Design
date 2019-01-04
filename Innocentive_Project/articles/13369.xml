@@ -1,0 +1,43 @@
+<article>
+  <type>blog</type>
+  <title>Guest Blog: Is 'Bring Your Own App' the Answer to Mobile Security?</title>
+  <author>Chris LaPoint</author>
+  <date>August 25, 2014</date>
+  <departments>
+    <department>Other</department>
+  </departments>
+  <tags>
+    <tag>mobile</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>"There’s an app for that" is truer than ever these days. As BYOD and BYOA increasingly infiltrate government agencies, public sector information technology departments must consider the impact these apps and devices have on their own environments. Chris LaPoint explains why agencies need to focus on applications, not devices, as the key to enabling a mobile work force.</abstract>
+  <text>“There's an app for that” is truer than ever these days. As bring-your-own-device (BYOD) and bring-your-own-app (BYOA) concepts are increasingly infiltrating government agencies, public sector information technology departments must consider the impact these apps and devices have on their own environments. In this blog post, we’ll look at two security strategies in use at agencies today and how to balance security and flexibility in today’s mobile environment.
+	 
+Security Strategy 1: Pure Separation
+	 
+Every federal employee probably has seen or been the two-phone carrier: personal phone and government phone. Keeping government and personal information entirely separate is the most secure route for agencies.
+	However, this strategy, while arguably the most secure, has the highest costs. Government agencies must set up a “mobility management team” that purchases, maintains, distributes and operates the phones and the data and voice plans with the carriers. The cost of having government-owned mobile devices may not justify the benefit for some agencies and some workers.
+	 
+Security Strategy 2: Bring Your Own Device and Apps
+	 
+BYOD policies are nothing new at this point for agencies. While the Defense Department has yet to support BYOD, it is looking at it as a long-term strategy. Smaller agencies like the U.S. Equal Employment Opportunity Commission and Merit Systems Protection Board are taking the lead.
+	However, enabling a truly mobile workforce without compromising security means that agencies must focus on applications, not devices. A BYOA policy may seem too onerous for most information technology managers, but BYOA offers some surprising benefits.
+	For example, BYOA offers information technology managers a way to more flexibly and securely manage the personal technologies that most employees are already bringing into the workplace. By supporting these app choices, you can establish control over organizational data, irrespective of which devices employees are using.
+	Putting apps at the heart of any mobile device management (MDM) strategy not only makes it more sophisticated and targeted, but also more palatable for the end users who the information technology manager looks after.
+	 
+BYOA Best Practices
+	 
+BYOA already has become a business reality for increasingly mobile employees in the commercial workforce. The fundamental values driving BYOD—freedom of choice, different individual working styles and a desire to be more productive—also relate to the applications employees use to get their work done. The adoption of organizationwide BYOA by more government agencies is only logical.
+	Information technology managers can best mitigate the risks stemming from BYOD and BYOA by focusing on applications rather than devices. While an employee’s mobile device might store critical information, it is ultimately the applications on that device that determine how the information is used, where it is transmitted and who gets to access it. When you secure the application, you secure the data.
+	Here are five best practices for BYOA at federal agencies:
+	 
+Create visibility. Use existing network tools to track what apps are accessing agency data or limit the data that nonsecure apps can access via a basic blacklist system.
+	 
+Inventory and approve. Find out which apps are in widespread use by your employees and why, to understand the scale of existing usage. Then, create and distribute a list of approved apps.Support commonly used apps. The more support information technology managers can offer for employee applications, the more control you’ll have over the data that matters most to the agency.Get creative with firewalls. Use one of the new generation layer 7 firewalls to block employees’ blacklisted personal apps from accessing agency data.Educate personnel. Create and disseminate policies that clearly explain the need for security and how employees should meet BYOA requirements.
+	 
+Finding a balance between individual choice and agency control becomes a lot simpler once all employees are motivated to keep agency data safe. Although mobility continues to evolve at a breakneck pace, the data-targeted approach of BYOA will help information technology managers go more boldly where few agencies have gone before.
+	 
+Chris LaPoint is vice president of product management at IT management software provider SolarWinds, based in Austin, Texas. </text>
+  <imgalttext>
+  </imgalttext>
+</article>

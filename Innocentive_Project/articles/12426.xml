@@ -1,0 +1,17 @@
+<article>
+  <type>blog</type>
+  <title>IARPA Challenge Puts Trust to the Test</title>
+  <author>Rachel Lilly</author>
+  <date>February 27, 2014</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>What if an algorithm existed that could identify neural, psychological, physiological and behavioral signals to determine a person's trustworthiness? Thanks to a new competition from the Intelligence Advanced Research Projects Activity (IARPA), that could be possible.</abstract>
+  <text>Who can you trust? The answers to that question can be both difficult and essential for society in general, but particularly vital for the intelligence community. So what if an algorithm existed that could identify neural, psychological, physiological and behavioral signals to determine a person's trustworthiness? Thanks to a new competition from the Intelligence Advanced Research Projects Activity (IARPA), that could be possible.
+	The INSTINCT Challenge, which began February 19 and runs through May 5, is the first such event from IARPA, sponsored in partnership with the Air Force Research Laboratory. It seeks to study neurophysiological data as it correlates to trust. Participants must deliver source code and written documentation implementing an algorithm to detect, measure and validate one's own signals to assess another person's trustworthiness more accurately. A real-time online scoring utility and leaderboard will track algorithm performance throughout the challenge.
+	Three prizes will be awarded for the programs that best predict trustworthy behavior: $25,000 for first place, $15,000 for second and $10,000 for third. Visit the challenge website for full details.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

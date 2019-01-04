@@ -1,0 +1,57 @@
+<article>
+  <type>article</type>
+  <title>2016 to Be 'Nightmare' Cybersecurity Year, Raytheon-Websense Predicts</title>
+  <author>Sandra Jontz</author>
+  <date>December 2, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Hacker</tag>
+    <tag>phishing</tag>
+    <tag>malware</tag>
+  </tags>
+  <abstract>If you thought 2015 was a grueling cybersecurity year, hang on. “It’s the nightmare waiting to be dreamt,” Bob Hansmann, director of security analysis and strategy for Raytheon-Websense Security Labs, says of the next 12 months.</abstract>
+  <text>If you thought 2015 was a grueling cybersecurity year, hang on.
+
+“It’s the nightmare waiting to be dreamt,” Bob Hansmann, director of security analysis and strategy for Raytheon-Websense Security Labs says of the next 12 months.
+
+Let’s begin with the 2016 presidential race, which experts predict will launch a slew of new lures and malware intent on defrauding, deceiving and debunking contributors and the candidates and their campaign coffers.
+
+“Candidates and others, even news agencies covering [the race], may be involved as victims targeted by organizations like the Syrian Electronic Army or hacktivists or anyone else with a counter political agenda,” Hansmann warns.
+
+Raytheon-Websense Security Labs on Wednesday rolled out its annual security predictions report, highlighting eight susceptible sectors and offering some tips to counter the vulnerabilities.
+
+The public's proficiency with and love of social media might be a key point of susceptibility for candidates wanting to capitalize on the fastest and easiest way to reach voters. During the 2012 election, social media ranked as a primary communication method to raise awareness and gauge voter intentions. This go-around, social media might surpass traditional news media and paid advertising as voters’ top information resource for election news and opinions, reads a portion of the 25-page report. “The 2016 presidential race will likely see the most prolific use of online and social media campaigning yet, as candidates and their teams regularly turn to online resources, campaign websites, Facebook, Twitter and Instagram to reach voters and target specific demographics in their race to win the White House.”
+
+Using social media might be just as risky for candidates as not using it, Hansmann says. “They will have to trade off the value of using the technology with the risks against using it—and against the risks of not using it,” he offers. “If all of the other candidates are using a particular social media tool … and they aren’t, are they seen as less progressive, less in touch with the times?”
+
+While security managers must be vigilant 24-7, hackers are likely to increase nefarious activity during key events such as debates, primaries and conventions. “Different kinds of attacks are going to be more likely around certain events. “For example, the bad guys know that if they want to be effective, maybe 24 to 48 hours before a particular state primary, they’ll want to take over the Twitter account of a certain candidate and spread false news; maybe say that they’ve conceded, ‘so don’t even vote for me because I’m no longer in the election,’” Hansmann hypothesizes. “By the time news gets out that was a hoax, other people have already gone to the polls and voted for anybody but them.”
+
+Attackers already have taken to compromising websites to promote propaganda or create confusion, Hansmann says. In 2011, for example, the Syrian Electronic Army hacker group that supports the government of Syrian President Bashar al-Assad undermined websites of political opposition groups, governments and news media with pro-regime commentary. The group hacked into Facebook pages of President Obama and former French President Nicolas Sarkozy to make it appear that the leaders supported the al-Assad regime. The group compromised Twitter accounts of news organizations to tweet false updates. “These attacks demonstrated how relatively simple it was to deface websites and appropriate others’ media technology to achieve recognition and reach, even if only temporarily,” the annual report states.
+
+Here are some key points to monitor: 
+
+Attackers frequently see large events as an opportunity to launch cyber attacks on a curious population.
+	Political campaigns, platforms and candidates present a huge opportunity to tailor highly effective lures.
+	Candidates’ and issues-related websites and social media present a large, built-in following for hacktivists in need of an audience.
+	Information on social media is often spread and accepted before fact can catch up with fiction, giving determined hacktivists an opening to misrepresent and/or misdirect the public’s perception of individuals and events.
+	In political one-upmanship, data often equals an advantage.
+	Technology decisions made by candidates during their tenure can expose them to data theft attacks.
+In October, InfoSec Institute released a report scoring the top five presidential candidates’ websites and the likelihood of being hacked. “I arrived at the not-too-startling conclusion that most presidential campaigns could use their own helping of security awareness,” writes researcher Jonathan Lampe. Ben Carson received an A grade because the candidate outsourced donation and volunteer services and offers a small attack surface, the report reads. The lowest grade Lampe bestowed was a C, which went to candidates Hillary Clinton and Jeb Bush for sites that offered a large attack surface, quickly built applications and use of an unsecured WordPress option.
+
+Some of the Raytheon-Websense Security Labs security takeaways are not tantamount to revolutionary approaches to cyber protections. Overall, businesses and agencies must educate staff to practice good cyber hygiene. Additionally, some might want to outsource critical cyber activities to professional firms; strictly apply required security patches, protections and firewalls solutions; frequently change passwords; and vigilantly monitor posted content.
+
+In additional to predicted spam spawned from the presidential race, the Raytheon-Websense Security Labs report forecasts other complications likely to arise, including the nascent cybersecurity insurance market, vulnerabilities posed by the onslaught of apps that tap into mobile devices’ geo-tracking features, mobile technology payment methods and risks posed by legacy systems inept to operate in conjunction with modern technology.
+
+“The payments and payment security landscape is set for some tumultuous shifts to occur in 2016,” the report states. “These seismic shifts are exactly the types of situations from which savvy cybercriminals usually seek to take advantage.” Even insertion of the EMV technology-based chips into credit cards presents a new set of vulnerabilities and security gaps attackers will seek to exploit.
+
+Mobile malware will attack the “mobile wallet” as shoppers increasingly rely on cellphones to pay for purchases. “Ransomware on mobile may also come as a result of the increased significance of the mobile device in commerce,” the report states.
+
+Cybersecurity insurance eventually will improve security postures, but getting there might come at a hefty price. “Against this backdrop is the gradual realization within corporations that the value of their company’s data is a large part of corporate assets, and a huge potential cost during a cyber event. Indeed, for some information-centric companies, a data breach can be the largest single risk for business continuity, especially when considering the potential of downstream liability from loss of personally identifiable information. Such losses comprise not only that data related to customers, but also to employees.”
+
+In the end, 2015 was a tough year punctuated by crippling breaches—and the trend for 2016 looks to be no better, the report warns.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

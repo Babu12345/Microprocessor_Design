@@ -1,0 +1,24 @@
+<article>
+  <type>blog</type>
+  <title>European Research Consortium Aims to Advance Cryptographic Technology</title>
+  <author>George I. Seffers</author>
+  <date>March 11, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>cryptography</tag>
+    <tag>Belgium</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The Katholieke Universiteit Leuven, Belgium, announced this week a major research initiative called HEAT, which will pilot advanced cryptographic technologies that enable European citizens and businesses to process sensitive data in encrypted form.</abstract>
+  <text>The Katholieke Universiteit Leuven, Belgium, announced this week a major research initiative called HEAT (Homomorphic Encryption, Applications and Technology), which will pilot advanced cryptographic technologies that enable European citizens and businesses to process sensitive data in encrypted form.
+
+Homomorphic encryption offers the ability to process sensitive information in encrypted form, without needing to decrypt it first, which can compromise privacy and security.
+
+The goal is to foster change in the efficiency and applicability of the technology. The proposal leverages existing groundbreaking research in Europe, and links it with three industrially contributed case studies as a way of grounding the research in practical issues. The case studies proposed by the industrial partners consist of smart grid, statistical analysis to automate the detection of organized crime and shared satellite infrastructure applications. Motivated by the three case studies, the project will examine new design and implementation techniques for homomorphic cryptography, as well as a thorough security analysis.
+
+The main output of HEAT will be an open source software library to support applications that wish to use homomorphic cryptography. The project could benefit European industry and academic research by allowing homomorphic cryptography to be used by a much wider variety of end developers.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

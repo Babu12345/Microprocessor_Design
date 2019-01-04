@@ -1,0 +1,39 @@
+<article>
+  <type>article</type>
+  <title>Nature's Batteries: Just Add Water</title>
+  <author>Sandra Jontz</author>
+  <date>February 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Navy Research Lab</tag>
+    <tag>sea services</tag>
+  </tags>
+  <abstract>Imagine the Energizer Bunny living at the bottom of the sea. Instead of running on batteries, it keeps going, going, going because of energy harvested from the marine environment. This concept is under development as an alternative to using man-made batteries, which need to be replaced, to run oceanographic sensors.</abstract>
+  <text>Imagine the Energizer Bunny living at the bottom of the sea. Instead of running on batteries, it keeps going, going, going because of energy harvested from the marine environment. This concept is under development as an alternative to using man-made batteries, which need to be replaced, to run oceanographic sensors.
+
+“Our goal is to harvest energy from the marine environment to operate [them],” says Lenny Tender, a research chemist at the Naval Research Laboratory (NRL) in Washington, D.C.
+
+The lab’s scientists developed a persistent power supply called the benthic microbial fuel cell, or BMFC, to replace the expensive practice of fetching, then replacing or recharging, the batteries that power marine-deployed applications in far-flung, hard-to-reach regions. “Most oceanographic sensors ... are powered by batteries, and they’re typically deployed in remote locations on the seafloor,” explains Tender, who also is co-inventor of the benthic unattended generator (BUG), a precursor microbial fuel cell that persistently generates electrical power in marine environments. “They can be thousands of meters below the surface, thousands of kilometers offshore, so when the battery is depleted, it’s a problem. It’s very expensive to maintain instruments like that.”
+BMFC devices, which have existed for years, have managed to generate modest levels of electrical power in seafloor environments. But now Tender and his team want to move that power meter from modest to mammoth with a cost-effective, renewable, eco-friendly maritime solution. When fully operational in several years, the lab’s BMFC program would offer a maintenance-free power supply that never depletes thanks to naturally occurring environmental processes. The technological development makes an ideal power supply to operate not just undersea sensor networks but also possibly other devices.
+
+The research promises to yield significant improvements to future capabilities, particularly for the U.S. Navy, which requires technologies to aid with persistent in-water intelligence, surveillance and reconnaissance (ISR) operations and serve sailors who operate in riverine, littoral and even deep-water environments. “There are visions of having networks of many thousands of sensors that are collecting data about oceanographic conditions, from temperature to acidity and [movement of the water] and then transmitting the data from sensor to sensor to eventually someplace where we can get to it,” Tender says. Data from the sensors could alert officials to impending disastrous weather conditions or anomalous sea activity along drug interdiction routes, for example.
+
+One interconnected sensor system exists off the coast of British Columbia, Canada, and is made up of high-powered cables distributed as far as 62 miles (100 kilometers) offshore. Along the cables, engineers placed nodes so scientists could plug in their instruments to read critical data collected by the sensors. While the system is effective, Tender says, it cost hundreds of millions of dollars and is vulnerable to ships and fishing trawlers that can snag cables and disable the whole network. The BMFC project would form a series of similarly distributed networks but with sensors that are not physically connected to one another—a solution that mitigates the issue of an entire network going offline when just one sensor or node is disabled, Tender offers.
+
+The basic research concept involves harvesting readily available fuel cells that, in essence, draw electricity from the seafloor via an interface between the sediment and the overlying water. “Generally, whenever you have a situation where you have a very sharp change in the composition of two phases—in this case, the water and the sediment that sit very close to each other—the difference means that there is energy because they would like to mix,” Tender explains. “Things like to mix. They don’t like to be separated.”
+
+The process oxidizes the organic matter found in sediment with the oxygen in the overlying water, which leads to energy. Sediment is chock-full of fuel provided by decomposing sea creatures that settle on the seafloor like leaves on a lawn, Tender says. “We put electrodes into this already-made battery,” he explains.
+
+Advantages include low cost; durable and efficient electrodes; no moving parts; and no consumable components. In addition, BMFC platforms function in a variety of conditions. Those deployed in saltwater produce more fuel than those in freshwater. Scientists also hypothesize that pollution might actually benefit materialization of the technology, Tender says. This is a difficult theory to test because too many factors impede divers from entering known polluted or toxic waters to run experiments.
+
+However, tests proved successful when NRL scientists deployed a Hershey Kiss-shaped buoy in the Potomac River near Washington, D.C., to power a meteorological system that transmitted weather data every five minutes to Tender’s office. To accomplish the task, the system needed a short burst of high power pulled from an onboard capacitor that slowly recharged during the four minutes and 59 seconds between bursts. “We have completely integrated systems like that,” Tender says. “That’s no problem for us.”
+
+The flat-bottomed teardrop shape of the buoys, which he also calls moorings, helps protect them from damage caused by passing ships or marine life. The buoys weigh in at roughly 2,200 pounds (about 1,000 kilograms), a mass that provides extra protection. That said, they are not 100 percent protected. Tender says, “I had a whole series of experiments that were running off the coast of New Jersey that got wiped out by Superstorm Sandy,” the hurricane that walloped the East Coast in 2012. “In fact, I’m still dealing with that because I’m still doing an inventory of my equipment, and a lot of it came up missing because it was washed out.”
+
+He has been working on the BMFC opus for a little more than a decade now and has punctuated his work with several successful small-scale experiments and deployments. Early this year, Tender plans to cast the first extensive field test of large devices, which could lead to partnerships. “I hope in the next year or two, we will have some industry partners—once we get the big devices out and demonstrate that they’re working,” he says. Another project on the horizon involves targeted research on harvesting the power and transferring it to other battery-operated devices. Applications could include unmanned aerial vehicles passing over the buoys and sucking up needed power to recharge their batteries, he shares.</text>
+  <imgalttext>
+    <img> Lenny Tender, a research chemist at the Naval Research Laboratory, stands in front of a tank that mirrors marine environments at the Washington, D.C., facility. Partially submerged in the tank is a Hershey Kiss-shaped buoy that scientists use to develop the benthic microbial fuel cell, a persistent power supply for marine-deployed applications.</img>
+  </imgalttext>
+</article>

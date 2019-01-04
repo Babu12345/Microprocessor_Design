@@ -1,0 +1,36 @@
+<article>
+  <type>blog</type>
+  <title>Firms Face Challenges Adopting National Laboratory Technologies</title>
+  <author>George I. Seffers</author>
+  <date>May 7, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Department of Homeland Security</tag>
+    <tag>cyber</tag>
+    <tag>research and  development</tag>
+  </tags>
+  <abstract>Arduous technology transition processes tempt some companies to walk away from negotiations.</abstract>
+  <text>Officials with the Transition to Practice (TTP) program followed the commercialization of the Quantum Secured Communications system with the transition of Hyperion, a malware forensics and software assurance technology, to R&amp;K Cyber Solutions LLC, an application development and cyber solution company based in Manassas, Virginia.
+
+QSC and Hyperion were developed at different national laboratories—Los Alamos and Oak Ridge, respectively—both of which are Energy Department (DOE) laboratories. Different contractors run the two labs, however, and they have different processes for transitioning technologies to the commercial marketplace, making it difficult to apply lessons learned from one transition to the other. “As much as DOE has tried to create a uniform process, it just hasn’t taken hold,” Michael Pozmantier, Transition to Practice program manager, Cyber Security Division, Science and Technology Directorate, Department of Homeland Security, says. “This has been recognized as somewhat of an issue in this arena. I know DOE is working to try to get a more streamlined process. We’ve seen some technologies that are taking months and months and months to get licenses completed.”
+
+The lack of a standard process creates challenges for companies intending to commercialize national lab projects. “We’ve seen some deals where people have had to walk away or have gotten so frustrated that they’re ready to walk away because of processes at a given lab. It is a very real problem, and it is a hindrance to getting things done. The private sector is just not, in many cases, used to this kind of process,” Pozmantier observes. “Much of the private sector that we’re trying to work with don’t necessarily have the stomach for what it takes to get stuff out of the national laboratory, because the time that it takes to negotiate can be arduous, long and frustrating.”
+
+He does, however, credit both Los Alamos and Oak Ridge Laboratory officials for successfully developing and transitioning QSC and Hyperion. By calculating the behavior of software, the Hyperion technology has the ability to detect malware. “With Hyperion, users are able to actually do this at a much, much faster rate. They’re able to actually process more malware and do it in a way that is much more efficient,” says Pozmantier.
+
+But it is the information assurance capabilities that may have the biggest impact on the nation’s cybersecurity. “One of the other big benefits … is that it can be used for software assurance. If you’re writing code, you can compile a binary and then you can run that binary through Hyperion and make sure that your code doesn’t have any backdoors in it,” Pozmantier explains. “The malware forensics piece is great, but if we’re really going to get ahead on some of these security problems, having a more secure software script to begin with is a big way to knock out that problem. We think Hyperion is a tool that can help produce more secure software from the get-go.”
+
+Hyperion already is being used in a couple of government malware forensics labs. “They’ve been able to actually cut down on the amount of time and man hours necessary to do malware forensics,” Pozmatier reveals.
+
+TTP was established in 2012 within the Department of Homeland Security Science and Technology Directorate’s Cybersecurity Division. The program is designed to to support the department’s mission of improving the nation’s cybersecurity capabilities by transitioning federally funded cybersecurity technologies from the laboratory to consumers. Program officials also seek to create institutional relationships between the cyber research community, investors, end users and information technology companies. 
+
+Each year the TTP program selects a handful of promising cyber technologies to incorporate into its 36-month program. The Science and Technology Directorate introduces the technologies to end users around the country with the end goal of transitioning them to investors, developers or manufacturers who can advance them and turn them into commercially viable products.
+
+Throughout the year, the directorate will host events around the country to showcase the technologies for companies from the energy, financial and government sectors in order to develop pilot opportunities, and to turn these into commercially available products. The next TTP technology demonstration event, TTP Investors, Integrators and IT Companies–West, will be held in Silicon Valley on May 19.
+
+Currently, the TTP program has 24 technologies ready for transition to the marketplace.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

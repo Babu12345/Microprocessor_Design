@@ -1,0 +1,49 @@
+<article>
+  <type>article</type>
+  <title>Nontraditional Roboticists to Hit DARPA’s Fast Track</title>
+  <author>George I. Seffers</author>
+  <date>May 18, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>DARPA</tag>
+    <tag>Robotics</tag>
+    <tag>SIGNAL Online Exclusive</tag>
+  </tags>
+  <abstract>Small-scale robot developers who do not normally work with the federal government will be given a chance to do just that under DARPA's new Robotics Fast Track effort.</abstract>
+  <text>Small-scale robot developers who do not normally work with the federal government will be given a chance to do just that under the Defense Advanced Research Projects Agency’s (DARPA’s) new Robotics Fast Track (RFT) effort. Through the RFT, which currently is a pilot program, DARPA officials seek to enable rapid, cost-effective development of new robotics capabilities in response to—or in anticipation of—rapidly evolving warfighter needs.
+
+The RFT will focus on the development of groundbreaking robotic hardware and software in the air, ground, maritime and space domains by funding clean-slate approaches as well as creative adaptations of existing resources. The goal is to achieve breakthrough capabilities in less time and at a fraction of the cost typical of government-supported robotic development processes.
+
+“We spend too much time creating three- to four-year solutions for six-month problems,” Mark Micire, DARPA’s RFT program manager, said in a written statement. “We want this new generation of robotics innovators to see DARPA as a partner that can help them develop breakthrough technologies in the areas that personally interest them and help translate their ideas and know-how into game-changing capabilities. We’re eager to pioneer this new approach, which could lead to rapid, marked improvements in national security as a whole.”
+
+In a teleconference with reporters, Micire said the time is ripe to take advantage of the advancements being made by nontraditional developers. “What we’re seeing is a whole new demographic of roboticists out there … very creatively figuring out how to challenge assumptions we would have had in respect to what you can do and what you can create on very small budgets,” he said.
+
+Micire explained that he ran a small robotics company in the mid-2000s. “Back then, if you wanted to compete seriously in the field of robotics, you needed to be able to bend and break metal, you needed to be able to create circuit boards, and you had to be able to create software,” he said, adding the capital investment could be as much as $250,000. But advances within the last three or four years allow smaller developers to access equipment that would have been too expensive for most 10 years ago.
+
+Some of those advances include open-source software developed by the Open Source Robotics Foundation (OSRF), an independent nonprofit organization partnering with DARPA on the RFT program. “Now you’ve got this confluence of very low-cost hardware prototyping, or hardware manufacturing technologies, with this software that is free to use for any purpose and that can be configured and combined and repurposed for whatever application you have in mind, and suddenly you don’t have that big capital investment,” Brian Gerkey, OSRF CEO and founder, said during the teleconference.
+
+The RFT aims to develop prototype systems and proofs of concept over the next year, with each effort lasting six to 12 months at an average cost of $150,000. To encourage participation, DARPA has streamlined the contracting process to meet nontraditional performers’ needs while still meeting all requirements under the Federal Acquisition Regulations. The goal is for successful proposals to take less than a month from submission to contract signing.
+
+The OSRF has teamed with BIT Systems, a federal contractor with experience working on fast-track initiatives, including DARPA’s previous Cyber Fast Track program. BIT Systems is supporting the RFT by acting as an interface between the government and performers, helping performers learn how to work with the government and how to present their work in ways that can to speed evaluation of their proposals.
+
+Areas of technical interest that RFT intends to explore include:
+
+Expansion and augmentation of commercial off-the-shelf technologies
+	Leveraging open source, open standards and rapid prototyping capabilities
+	Technologies to greatly improve the agility, speed, endurance and range of robotic platforms
+	Technologies to dramatically advance capabilities related to robotic sensing, perception, planning ?and communication
+	Technologies that could apply to one or more key military operational domains (air, ground, maritime and space) and/or mission areas (including intelligence, surveillance and ?reconnaissance; situational awareness; and humanitarian assistance/disaster response)
+	Technologies that also could apply to complementary nonmilitary national security missions, including law enforcement, firefighting and emergency response
+Technology development beyond these areas will be considered as long as it supports the program’s goals, which include both jump-starting a new public-private community of interest for national security robotics and building momentum toward a potential future DARPA program with funding levels at least an order of magnitude larger than RFT.
+
+Moreover, a number of other government agencies—including the U.S. Army, Navy, Department of Homeland Security and NASA—have expressed interest in evaluating successful RFT projects and performers for use in their operations. “It takes just one little adjustment or one little tweak to a piece of equipment made for [the Defense Department] and suddenly it’s useful for fire and rescue or for law enforcement. I can see the case where we have lots of these little programs and all we have to do is make minor adjustments and that will provide huge utility for the Department of Defense,” Micire said.
+
+Individuals and organizations interested in participating in RFT can apply at https://rft.osrfoundation.org/apply.html.
+
+Additionally, OSRF representatives will attend the DARPA Robotics Challenge (DRC) finals at the Fairplex in Pomona, California, on June 5-6. The representatives will be available to discuss RFT in the DRC finals exposition area, which will feature 70 interactive displays where visitors can meet technology developers and emergency responders, and try their hand at controlling robots and other gadgets. </text>
+  <imgalttext>
+    <img>DARPA has developed a variety of robotic systems, including the Boston Dynamics Big Dog, though traditional developers. The RFT effort aims to engage developers who do not usually work with the government.</img>
+  </imgalttext>
+</article>

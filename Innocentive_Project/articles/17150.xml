@@ -1,0 +1,31 @@
+<article>
+  <type>blog</type>
+  <title>Flash in the Enterprise Data Center </title>
+  <author/>
+  <date>February 2, 2017</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>cloud</tag>
+    <tag>big data</tag>
+    <tag>Data Storage</tag>
+  </tags>
+  <abstract>Organizations constantly are seeking new ways to address workload-specific storage demands in terms of performance and capacity while also meeting service-level agreements, response-time objectives and recovery-point objectives.</abstract>
+  <text>Organizations constantly are seeking new ways to address workload-specific storage demands in terms of performance and capacity while also meeting service-level agreements, response-time objectives and recovery-point objectives.
+
+Many information technology operations are inspired by successful hyperscale organizations such as Facebook, Google and Amazon. However, most enterprises lack the scale and substantial development and operations commitment necessary to deploy software-defined storage infrastructure in the same ways. Hyperscale economics also typically don’t work out at smaller scale, resulting in poor utilization or unacceptable reliability issues.
+
+Another hurdle for enterprise information technology is that hyperscale organizations typically have a very small, tightly controlled application environment that facilitates these economies of scale. In contrast, most large enterprises must deploy storage infrastructure to serve a heterogeneous application workload with diverse requirements.
+
+The common thread for both hyperscale and enterprise information technology is the compelling rise of software-defined storage. Though early adopters of software-defined storage technologies were cloud builders, the advantages of this approach are now quickly spreading to enterprise data centers with an increased focus on cost reduction, automation and lock-in avoidance.
+
+Software-defined platforms are enabling a wealth of diverse and scalable storage solutions based on industry-standard servers. Flash technology has emerged as a key component of these strategies, as organizations encounter the physical limitations of hard disk drives and even hybrid approaches.
+
+Unfortunately, conflicting information about how flash can be best used in the enterprise exists throughout the industry as widely diverse architectural approaches already are in place.
+
+An upcoming webinar, part of the SIGNAL Media Webinar Series and moderated by SIGNAL Editor-in-Chief Robert K. Ackerman, explores the benefits of flash as a component of software-defined storage. The webinar, sponsored by Western Digital, will address how to begin moving mountains of data from burden to asset. Attendance is free, and experts will be available for questions and answers at the end. Register now to learn more.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

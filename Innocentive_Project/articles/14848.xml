@@ -1,0 +1,80 @@
+<article>
+  <type>article</type>
+  <title>Grassroots Group Strives For Wireless Computer Security</title>
+  <author>Sandra Jontz</author>
+  <date>August 1, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Internet of Things</tag>
+  </tags>
+  <abstract>Wireless links now are permeating virtually every electronic device in society, but they bring with them the vulnerabilities and threats that characterize cyberspace today.</abstract>
+  <text>An unending quest for convenience and expedience has brought about a technology that connects billions of devices to people and to things and produces vast amounts of information. Wireless links now are permeating virtually every electronic device in society, but they bring with them the vulnerabilities and threats that characterize cyberspace today.
+
+Joshua Corman calls it the bacon principle: the notion that no matter the food, bacon makes everything better. Manufacturers of medical devices, automobiles and home electronics seem to adhere to the same theory when it comes to the use of wireless capabilities.
+
+“Why would someone put Bluetooth on an insulin pump that could kill people if hacked?” asks Corman, co-founder of I Am The Cavalry, a young grassroots organization highlighting the lack of safeguards and security policies for products at the critical intersection between computer security and public safety and human life.
+
+Doctors today implant insulin pumps, heart monitors and hearing aids with wireless connections to the Internet. “But why does it need to be wireless?” Corman asks. “The answer: The bacon principle. Everything is better with Bluetooth, even if there is no medically necessary reason. It’s just something to do.”
+
+With society’s desire for and dependence on connected technology outpacing any ability to adequately secure it, a worried Corman figured someone needed to come to the rescue. Enter I Am The Cavalry, an advocacy group of volunteers working to ensure technologies with the potential to adversely impact public safety are worthy of trust; and that manufacturers, from product inception, pledge to build in security and contingency plans for when something goes wrong—because something always goes wrong.
+
+The craze for connected software that tethers people and things to the Internet permeates at least four industries that most concern I Am The Cavalry volunteers: automobile, medical devices, home electronics that comprise the Internet of Things and public infrastructure ranging from power plants to airlines, mass transit and smart cities.
+
+Each year, banks and businesses spend an estimated $80 billion on cybersecurity. “Despite that investment, the failure rate is nearly 100 percent,” says Corman, former director of security intelligence at Akamai and now chief technology officer at security firm Sonatype. “We assume all systems fail, and we want to make sure cars are ready for failure.”
+
+Research by Gartner Incorporated forecasted users will have 4.9 billion “things” connected in 2015, up 30 percent from last year. The number is expected to reach 25 billion by 2020. In 1994, the world recorded 16 million Internet users, 2,700 websites and 100 million mobile devices. Fast forward two decades and the numbers are 2 billion Internet users, 1 billion websites and 7 billion mobile devices.
+
+The group’s core leadership comprises 20 volunteers who provide expertise and campaign for change across the entire industry, from manufacturers to lawmakers, policy makers and regulatory oversight agencies, says member Beau Woods, who runs the consulting company Stratigos Security.
+
+Two years ago, Corman and co-founder Nicholas Percoco launched the endeavor at the DEF CON hacker convention in Las Vegas. Since then, volunteers have held meeting after meeting with leaders in the various industry fields and with congressional and White House staffers. It has been a painstaking venture. “Having gotten as high and as deep as one can get, and getting the message there, it was very, very clear to us at the time: ‘The cavalry isn’t coming,’” Corman lamented. “No one was going to fix this for us. That was simultaneously overwhelming and demoralizing, but also empowering. If it wasn’t coming, it fell to us to try.”
+
+To date, the group has focused the bulk of its energies on the automotive industry. The attention by the organization garnered measurable progress, beginning with some manufacturers adopting portions of the Cavalry’s Five Star Automotive Cyber Safety Program, which offers a checklist of best practices.
+
+“Modern cars are computers on wheels and are increasingly connected and controlled by software,” Corman points out. “Unlike your home computer, the consequences of compromise are far more severe.”
+
+In February, CBS newsmagazine 60 Minutes featured a segment with Dan Kaufman, director of the Information Innovation Office (I2O) for the Defense Advanced Research Projects Agency (DARPA), who demonstrated how hackers can commandeer a vehicle by accessing the on-board computer systems. A hacker successfully activated the windshield washing fluid and horn, tampered with the brakes and took control of a moving car.
+
+“The number of [cyber] attacks is dramatically increasing; the sophistication of the attacks is increasing,” Kaufman told show correspondent Lesley Stahl. “My job is not to wait for something catastrophic to happen and say, ‘Oh goodness, we should do something.’ My job is to say, ‘Hmm, I see this trend line going, I want to be way ahead of this line.’”
+ 
+
+Corman lauded efforts made by Tesla Motors to encourage researchers to hack the company’s vehicles—known for being digitally connected to the Internet via systems such as transmission, security and entertainment—and shed light on security flaws to then give Tesla a chance to fix them.
+
+“They are the first company to have a stated policy … saying, ‘We will not sue third-party researchers acting in good faith who follow our process,’” Corman says. “They are the first to take a leadership position on that. … They’re on a path to continuous improvement and I’m hoping that others will see it.”
+
+In June, Tesla Motors launched a new “Bug Bounty” program, providing a financial incentive as part of an effort started a year ago to encourage researchers to find security flaws in the vehicles. “Tesla takes security and data privacy very seriously, and we have had a publicly facing vulnerability reporting program in place for more than a year that encourages the security community to participate in the process,” spokeswoman Alexis Georgeson says. “Given the cutting edge nature of our technology, the security team constantly reviews and identifies new methods to defend our systems and protect our customers.”
+
+Corman suggests solutions that involve segmentation, for example, so that hacking a vehicle through its Bluetooth wireless access point allows a hacker to do little more than change radio station presets. The Cavalry encourages automotive industry leaders to invest in each point of the recommended five-star approaches by 2020. “Then we will know we can take on the harder problems later if we at least have these foundational capabilities now,” he offers.
+
+More challenging problems on the horizon include securing vehicle-to-vehicle connections such as self-driving cars, and eventually vehicle-to-infrastructure, such as self-directing traffic signals.
+
+“This would not work if we were simply finding flaws and bludgeoning them with them,” Corman continues.  In the case of [the] auto [industry], our letter basically says: You’re masters of your domain … and you do a great job and you make our families safer all the time. You are masters of your domain and we are masters of our domain. Now that our domains have collided, we’ll have the safest outcomes soonest if we work together.
+
+“We approached it not with a pointing finger but a helping hand. I think that’s been a huge key to our success.”
+
+So why isn’t the cavalry coming?
+
+“My industry is partly to blame,” Corman answers. “I think we have allowed a false sense of security where most people feel if we’re not secure, we’re pretty darn close to secure. … We’ve allowed people to believe there’s an acceptable risk in putting connected software into things. We’ve done a poor job in articulating how difficult it is to defend.”
+
+Fundamentally, cybersecurity has not been a focus when developing a new car, device or even an airplane, offers Woods. “If you look at the primary way in which people go about developing things, they develop it for the future set. They develop it to accomplish a certain goal. Security is one of those things that lives in the gap between what you intend something to do and what it’s actually capable of.”
+
+That gap created the makeshift effort of bolting on security instead of building it in.
+
+“If you look at some of the fundamental principles of developing technology systems, and then you scale those up and interact those with many different types of capabilities, you have what is called emergent properties of a system,” Woods continues. “With new systems, you get new emergent properties of those systems. In that sense, security is an emergent property. It’s just something that comes up, and it takes time to weed out all of the known bad patterns that you’ll run into when developing systems—whether it’s a medical device, whether it’s an automobile or whether it’s any kind of new technology.”
+
+Technological improvements helped the market of networked medical devices boom over the past several years; though the security to protect the ubiquitous Internet of Things has failed to keep pace. With the Internet literally embedded in some people, consumers ought to think twice when donning devices that can be accessed via potentially unsecured wireless connections, Corman suggests.
+
+“In no way are we looking to slow down that rate of innovation,” Woods emphasizes. “We don’t want to inadvertently put people at risk because we’re trying to help them. We’re not talking about eliminating those net goods; we’re talking about improving them before they become net bads.”
+
+Protecting patient privacy remains a paramount concern, especially in light of the huge profits made in selling patient data, which has become more profitable than selling credit card data. The number of information security breaches reported by health care providers soared 60 percent from 2013 to 2014, almost double the increase seen in other industries, according to PricewaterhouseCooper’s Global State of Information Security Survey 2015.
+
+The Food and Drug Administration wants to regulate some wearables, such as those that administer medications, make specific medical claims or have some risk associated with treatment. Some medical practitioners currently recognize security breaches will pose challenges. Nearly half of medical personnel already integrate consumer devices into their information technology systems, and more than 60 percent conduct security audits on devices.
+
+To industry representatives who have bristled at the suggestion of expending money to secure devices, and who have told Cavalry members that there is no money to be made hacking automobiles, medical devices or home computer systems, Corman retorts: There was no money to be made in the Boston Marathon bombing, the Charlie Hebdo attacks in Paris or the Sandy Hook Elementary School mass murder.
+
+“On the Internet, every sociopath is your next door neighbor, and I don’t want a system where I’m hoping they wouldn’t hurt me,” Corman says. “I want a system where I know they can’t.”</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

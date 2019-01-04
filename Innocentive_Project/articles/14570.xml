@@ -1,0 +1,51 @@
+<article>
+  <type>article</type>
+  <title>Marines, DARPA Sharpen Real-Time Close Air Support</title>
+  <author>Sandra Jontz</author>
+  <date>June 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Marine Corps</tag>
+  </tags>
+  <abstract>U.S. Marines are working with new technology that seeks to improve close air support operations, minimize friendly fire incidents and mitigate collateral damage, particularly in urban environments.</abstract>
+  <text>U.S. Marines are working with new technology that seeks to improve close air support operations, minimize friendly fire incidents and mitigate collateral damage, particularly in urban environments.
+
+Developed by the Defense Advanced Research Projects Agency (DARPA), the persistent close air support (PCAS) program allows ground-based troops to share real-time situational awareness and improve upon the delivery of airborne munitions. “This is definitely overriding, game-changing technology,” says Maj. Scott Cuomo, USMC, Marine Air-Ground Task Force planner and ground combat element integration officer, Headquarters, Marine Corps Aviation.
+
+PCAS-Air consists of weapons management, intelligence, surveillance and reconnaissance (ISR) and communications systems on a modular smart launcher electronics device. It dovetails with two interoperable PCAS-Ground software applications developed by the Naval Air Warfare Center, Weapons Division, and the Air Force Research Laboratory’s Rome Labs.
+
+During a test in March, Marines and engineers married the air and ground components, testing a tablet’s application used by a ground-based joint terminal attack controller (JTAC) who could directly link to a test missile in an aircraft. “The JTAC digitally passed the nine-line grid coordinate, and it went from his tablet when he hit send, straight to the missile,” Maj. Cuomo explains. The demonstration marked the first successful integration of the automated, digital, real-time coordination capability from a ground controller to a weapons safety officer sitting in the back of an MV-22 Osprey and simultaneously transmitted to a missile system. The JTAC communicated the position of a target to the PCAS-Air module inside the MV-22, which fired a nonexplosive, specially mounted Griffin missile—a tube-launched, precision-guided munition—from 4.5 miles away and hit its target. The total lapsed time was four minutes.
+
+DARPA had set a time goal of six minutes, and the demonstration proved seven times faster than the 30 minutes it can take using current methods, in which troops rely on voice directions and paper maps, officials say. “On its first try, the full PCAS prototype system showed we could use a modular, system-of-systems approach to adapt an aircraft to provide close air support and deliver that capability via real-time coordination with ground forces,” DARPA program manager Dan Patt says in a statement. “The successful tests point the way to a new model in which the addition of close air support, communications and live ISR support functions to any aircraft would be straightforward, and ground forces would have on-demand access to situational awareness data, modern network-enabled communications and a synchronized digital model of the evolving battlefield.”
+
+Marines in combat already have experience with the PCAS-Ground capability and recently used the component in missions in Afghanistan. The Corps refers to it as the Kinetic Integrated Low-cost SoftWare Integrated Tactical Combat Handheld (KILSWITCH) system. It debuted in 2013, when DARPA provided more than 750 systems to troops deployed to Afghanistan. Thousands now are fielded.
+
+“What is KILSWITCH? Imagine Google Earth on a phone [or tablet] that you can watch full-motion video feeds on and pass digital close air support requests,” Maj. Cuomo describes.
+
+The PCAS technology is leaps ahead of a predecessor developed shortly after the terrorist attacks in the United States on September 11, 2001. Engineers conceived the Precision Strike Suite for Special Operations Forces (PSS-SOF) to enable warfighters “to accurately and rapidly target things that needed to be targeted,” Maj. Cuomo says. But as formidable and successful as the PSS-SOF was, it did not exactly fit the definition of rapidly deployable for mobile ground forces; imagine a half-dozen Commodore 64 home computers stacked on top of each other. “Arguably, they were portable,” Maj. Cuomo says. “I guess you could carry them. But they’re big and bulky, and you would have to go to an observation post to use them. … They were OK when used in a [command operations center], but if you were fighting, it was very difficult to use.”
+
+PCAS fits well as part of the Marine Corps’ advancement of its aviation assets as an integral part of every Marine Air-Ground Task Force, and the technology ties directly into the service’s aviation road map, says Maj. N.S. Marvel, USMC, digital interoperability and requirements officer, Headquarters, Marine Corps Aviation. “It reduces the kill chain, decreases fraternization, decreases collateral damage and increases the operational tempo so forces can go on and maintain momentum in any kind of fight that you’re in. It’s a force multiplier,” Maj. Marvel states.
+
+The system operates with an Internet protocol-based, multiband, secure radio-based system instead of satellite. “I can be a JTAC. I can be a squad leader. I can be a rifle platoon commander, and I can look at this pod next to my map [on my tablet], and there is not a satellite involved in the entire equation,” Maj. Cuomo says. “The beauty of this capability is that I don’t need a satellite.”
+
+When the United States entered war in Afghanistan and Iraq, the military-run satellite system could not support the overwhelming need for satellite services, particularly to operate unmanned systems such as remotely piloted aircraft. The Defense Department turned to commercial providers and paid a hefty cost for the services year after year. Today, shrinking budgets mean leaders must seek out cost-saving measures. It turns out, PCAS is one of them.
+
+“There is a vulnerability side to [satellite use] certainly, but there’s a financial side. … We’ve got to figure out how to get ourselves off of being addicted to satellite,” Maj. Cuomo asserts. “Not to say satellites are bad; they can be very beneficial at times. But we need to be real careful about making that the one-stop shop for the way in which we’re relying on communications.”
+
+During the Talon Reach exercise in California earlier this year, officials tested the new real-time communication capabilities of PCAS and how quickly the system can adapt to different aircraft. Typically, services require a year for the metamorphosis to run its full course from initial request to live demonstration. DARPA moved from concept to test in less than four months, leveraging commercial products and government software applications.
+
+The demonstration was carried out using the MV-22 Osprey, typically a troop transport platform but outfitted as an offensive aircraft. The move reflects an overall adjustment of the Corps, as highlighted in the 2015 Marine Corps Aviation Plan, to make “every aircraft a sensor, every aircraft a connector, every aircraft an [electronics warfare] node and every aircraft a shooter.”
+
+“Given the increasingly distributed nature of the operating environments in which our Marines operate today, I have emphasized to my team that we will network every one of our aircraft, and we’ll also look for ways to arm our aircraft to best fit the scope of their respective missions,” Lt. Gen. Jon Davis, USMC, deputy commandant for aviation, said in a statement about PCAS.
+
+“This a way forward,” Maj. Marvel adds. “This is a system we’ve used, and while this was the first time off of the MV-22, it’s been demonstrated off of other platforms as well, most recently off of an A-10.” In addition to the MV-22 and the A-10 Thunderbolt II attack aircraft, DARPA plans to transition the system to unmanned platforms, and the U.S. Army is testing it on its Gray Eagle unmanned system.
+
+PCAS might be a kinetic military capability for now, but it can be adapted to conform to any number of needs, Maj. Cuomo advises. For example, troops could use it to pass detailed medical information and photographs or video of a wounded warfighter to a medical unit before the troop’s arrival to a treatment facility, giving a lead time for the medical staff to prepare for proper treatment.
+
+The system that connects aircraft with ground troops is all part of the commandant’s planning guidance for 2015 to better capitalize on interoperable digital technologies and capabilities spread across areas of situational awareness, aircraft survivability, ISR, fire support and logistical support.</text>
+  <imgalttext>
+    <img>The MV-22 Osprey used in a recent test of the PCAS system was modified with a PCAS-Air module and mounted test missile.</img>
+  </imgalttext>
+</article>

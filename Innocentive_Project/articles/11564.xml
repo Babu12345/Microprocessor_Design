@@ -1,0 +1,39 @@
+<article>
+  <type>article</type>
+  <title>White House Cyber Policy Focuses on Internal Consolidation, External Engagement</title>
+  <author>Henry Kenyon</author>
+  <date>August 21, 2013</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>identity management</tag>
+    <tag>Cybersecurity</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract></abstract>
+  <text>As a part of its ongoing efforts to protect critical national infrastructure, the Obama administration has been actively working on making government computer networks more robust and resistant to cyber attack. To do this, the White House has looked internally at federal agencies to put into place new metrics and policies to improve their security stance and externally, reaching out to foreign governments to set up international accords on cyber espionage, a top administration official said.
+ 
+The administration has several major priorities for its cyberspace policy: protecting critical infrastructure, securing the government, engaging internationally, and shaping the future, explained Andy Ozment, the White House’s senior director for cybersecurity.
+ 
+Speaking at the USENIX Security Symposium in Washington D.C., on August 15, he said that as part of its overall cyberspace goals, the Obama administration is actively pursuing international engagement and cooperation. This is a necessity as most cyberspace intrusions come from overseas, he said, adding that it also touches on diplomatic issues. This is because the term “attack” has a number of political implications that can potentially lead to direct conflict with a nation. On the other hand, intrusions fall under the category of espionage, an area where there are well established protocols for working with other nations, he said.
+ 
+By improving its own security, the U.S. government is trying to raise the cost for foreign intruders trying to enter its networks. But it is a difficult, multifaceted challenge that involves coordination and cooperation with other nations. Despite accusations and evidence of extensive Chinese cyber intrusions into U.S. networks, Ozment noted that the administration has reached out to engage with the Chinese government on the issue. Over the last six to eight months, the U.S. government has formed a working group with China to deal with cyberspace issues. The first meeting of this group took place in July, he said.
+ 
+A key point of the discussions with China is defining and differentiating state-sanctioned economic espionage from traditional espionage. Ozment explained that the administration defines economic espionage as a government using its intelligence capabilities to steal trade information from a private company in a target nation and then providing that data to its own businesses to give them a competitive advantage. “That’s not acceptable,” he said.
+ 
+The administration has also been working with Russia on this issue. In June, the U.S. reached an accord with Russia on cyberspace issues and in a reprise of the Cold War, a cyber hotline between Washington and Moscow is being established, Ozment said.
+ 
+When it comes to securing its own networks, the government’s track record is mixed. Some departments and agencies are doing very well, such as the Defense Department and the intelligence community, while others require continued work to secure their networks, Ozment said. As to how the government will prioritize its network security needs, he noted that the White House has established a set of priorities with metrics and goals for agencies to meet.
+ 
+On the unclassified side of the process, the White House has established the Cross Agency Priority (CAP) goals. The goals are: consolidating federal networks, the Homeland Security Presidential Directive 2 (HSPD-2), and continuous monitoring.
+ 
+The government’s work to consolidate its various networks is ongoing, Ozment said. The goal is to consolidate all of the government’s various network connections to run through a set of secure gateways. But the scope of the job is vast. In the process of consolidation, tens of thousands of undocumented links to the Internet were discovered, he explained. However, the number of connections is being steadily reduced. The final goal is to have around 50 gateways, he said.
+ 
+Another line of defense is identity management. HSPD-2 mandates two-factor authentication through the use of personal identification verification (PIV) cards, which both serve as physical access keys to both facilities and workers’ computers and a means to track and monitor authorized network activity. But one challenge faced by HSPD-2 is that technology is moving ahead of the process. While PIV cards are useful for accessing desktop computers—Ozment noted that in 2004, this seemed like a very good idea­­—they make less sense for employee mobile devices. The government is still working out a process to allow personal key data to be loaded onto mobile devices without the need to attach a cumbersome card reader.
+ 
+The final piece of the CAP effort is continuous monitoring, which has the twofold goal of measuring network vulnerability and incentivizing IT managers and department heads to improve security, Ozment said. He explained that agencies using continuous monitoring systems have dashboards that allow administrators and decision makers to track security progress and organization-wide report cards to help push managers for continuing security improvements. But he cautioned that this is still a work in progress. “We need to get to a point where we’re monitoring pretty much anything with an IP address on our networks,” he said.
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,32 @@
+<article>
+  <type>article</type>
+  <title>U.S. Army Welcomes Two New Draft Horses to Supercomputing Stable</title>
+  <author>Max Cacas</author>
+  <date>June 21, 2013</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Army Technologies</tag>
+    <tag>data management</tag>
+    <tag>modeling and simulation</tag>
+    <tag>research and development</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract></abstract>
+  <text>The U.S. Army Research Laboratory (ARL) at Aberdeen Proving Grounds, Maryland, has unveiled two new supercomputers that are among the fastest and most powerful devices of their kind. The devices are part of a recently opened supercomputing center that is the new locus of the service’s use of high-speed computing not only for basic scientific research and development, but also to solve basic warfighter needs using the latest available technologies.
+	“The Army Research Lab is the largest user of supercomputing capacity,” says Dale Ormond, director, U.S. Army Research Development and Engineering Command (RDECOM). “To have a supercomputer there gives us a huge advantage as we move forward in our research and engineering mission,” he adds.
+At the heart of the new Army supercomputer center are two IBM iDataPlex systems that are among the most powerful of their kind on the planet. “We have the ‘Pershing,’ which is the 62nd fastest computer in the world, and another one called ‘Hercules,’ which is the 81st (fastest),” he explains. The Pershing contains 20,160 central processing units (CPUs), 40 terabytes of memory, and operates at 420 teraflops. The Hercules has 17,472 CPUs, 70 terabytes of memory, and operates at 360 teraflops.
+	The $5 million dollar center also features state-of-the-art electrical supply systems designed to support supercomputing, and special cooling systems designed to manage the heat that comes from all the CPUs that make up both supercomputers. The new facility has over 20,000 square foot of space, which will eventually house as many as six large supercomputing systems by 2016.
+	Pershing and Hercules join other Army supercomputers run by the U.S. Army Corps of Engineers in Vicksburg, Mississippi, along with supercomputers operated by the Navy and Air Force.
+	High performance supercomputers are being used by the army for a variety of purposes. One of those uses, says Ormond, is to explore new ways to develop improved modeling materials used in everything from weapons systems to armored vehicles. “We have models at the atomic scale, models at quantum scale, models at the grain scale, models at the macro level, for materials ranging from steel to aluminum. We can see how it will perform in one of our Army applications,” he explains. The supercomputer allows designing at the atomic level, and can examine material properties in terms of hardness, durability, and strain at the macro level. The capability will give designers a better picture of how well a new tank design, for example, will hold up under the rigors of being driven over severe terrain conditions. In addition, Ormond suggests that the supercomputers may make it possible to reduce the weight of a 70-ton tank to help make it more fuel-efficient and agile.
+	Looking at other applications for the new supercomputers, Ormond says that the devices can be used to help design better helicopter blades, using special modeling and simulation programs to examine how small changes can affect the performance of the blades.
+	The supercomputers can also be used to help develop better munitions. “I can create models and simulations with this huge computer capacity so I don’t have to shoot 500 artillery shells to define the parameters of a particular shell, and validate the design, and do a lot of the testing in simulation,” saving both development time and money, he says.
+	The U.S. Army has a long and storied history in the annals of supercomputing, says Ormond, and Pershing and Hercules are just the latest in a long line of cutting-edge computers. “At Aberdeen Proving Grounds, we built the first computer. The ENIAC was built by the Army at APG to do ballistics calculations in 1946,” he adds. Comparing the capabilities of today’s supercomputers with those of the past, data that in the past took 60 hours to process can now be processed in less than 2 hours with today’s high performance computer systems.
+	The new supercomputers are a resource for other Army centers doing advanced engineering research and development work:the Communications Electronics Research Development Engineering Center (CERDEC); Natick Soldier Engineering Research Center; The Tank and Automotive Engineering Research Center; and the Aviation Research and Engineering Research Center, are among the facilities that use the supercomputing centers as well.</text>
+  <imgalttext>
+    <img>The U.S. Army has a long history of using supercomputers to further research and development toward meeting warfighter needs. A historical display of past Army supercomputers was part of the dedication of the new Army Supercomputing center.</img>
+    <img>The ARL IBM iDataPlex Supercomputing system known as 'Pershing' has over 20,000 processors and a peak capability of 420 TeraFlops (or trillions of floating point operations per second).</img>
+    <img>A researcher uses the Army Research Laboratory Supercomputing Research Center's modeling and simulation applications to visualize complex ballistics interactions using data calculated on the Center's supercomputers.  The ARL center is home to two of the world's 100 fastest computers.</img>
+  </imgalttext>
+</article>

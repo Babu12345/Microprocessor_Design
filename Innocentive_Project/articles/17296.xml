@@ -1,0 +1,38 @@
+<article>
+  <type>blog</type>
+  <title>Cyber Rule Could Quell the Urge to Merge for Government Contractors</title>
+  <author>J. Wayne Lloyd</author>
+  <date>March 10, 2017</date>
+  <departments>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>Guest Blogs</tag>
+    <tag>Cybersecurity</tag>
+    <tag>The Cyber Edge</tag>
+    <tag>NIST</tag>
+  </tags>
+  <abstract>Contract streamlining and a revised NIST cybersecurity standard will lead to some big changes for firms competing for billions in federal government information technology contracts.</abstract>
+  <text>Do you work for a cyber company with federal government contracts? If so, hold onto your hat, because $210 billion in government information technology contracts will expire this year and be re-competed.
+
+Federal IT security spending will continue to grow between 2016 and 2021, despite a relatively flat IT market, according to research firm Deltek. The bottom line: More money will be spread out over fewer contracts. This contract streamlining could mean big changes for the industry. “Consolidating contracting into fewer contracts will heighten competition,” reads a portion of the Deltek report. It also could trigger a wave of mergers and acquisitions as competitors expand their in-house capabilities.
+
+Large systems integrators must be aware of some significant changes. In response to a series of hacks that targeted the contracting industry, the government altered the National Institute of Standards and Technology (NIST) cybersecurity standard. The revised guideline, 800-171, extends cybersecurity compliance requirements to all government IT contracts. Large systems integrators now must bring all their networks into compliance, which in itself is an arduous task.
+
+With new acquisitions, systems integrators will not know whether contracts comply with NIST’s revised standard unless they conduct additional cyber-focused due diligence on networks. This is an additional cost and raises the risk profile of a potential mergers and acquisitions deal.
+
+RedSeal, which provides a cyber analytics platform to more than 200 Global 2000 organizations, recently analyzed networks for a large, top-five government contractor to determine if it complied with the revised NIST standard. The contractor did not have a good handle on the security of internal networks or a centralized way of addressing vulnerabilities. It needed to establish a baseline of problems and a metric to measure network resilience.
+
+The cloud presents another set of challenges. With an increase in software-defined networking and cloud services, a great fear for contractor security staff is not knowing precisely what data resides in the cloud. Tracking instances when employees use external cloud services and then connecting that data to the corporate or enterprise network is difficult. Now those same cybersecurity teams have to analyze the risk of merging a new, unknown network into their own.
+
+The NIST standard requires government IT contractors to do what many private companies already practice: cyber risk assessment as part of mergers and acquisitions due diligence.
+
+Companies such as Verizon and Yahoo often include their chief information security officers (CISOs) on merger risk assessment teams. CISOs are, by nature, risk-averse. But in today’s mergers and acquisitions environment, they cannot just say no. They must provide actionable data contextualizing an investment's cyber risk. Even then, CISOs can generate inaccurate risk assessments without the right tools. In January, Yahoo delayed its $4.8 billion deal to sell core Internet assets to Verizon to meet closing conditions. Due diligence, prompted by a widely reported data breach, resulted in a $350 million reduction in the acquisition price.
+
+Ultimately, NIST’s revised standard means government IT contractors must perform the same due diligence as companies like these. There are billions of dollars waiting for those who do.
+
+J. Wayne Lloyd is federal chief technology officer at RedSeal, a network modeling and cyber risk scoring company.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

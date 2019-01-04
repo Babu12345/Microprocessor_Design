@@ -1,0 +1,38 @@
+<article>
+  <type>article</type>
+  <title>Meeting the MITRE Challenge</title>
+  <author>George I. Seffers</author>
+  <date>January 25, 2015</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>drones</tag>
+    <tag>MITRE</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>Time is running out to join the MITRE challenge for countering unauthorized drones in domestic airspace.</abstract>
+  <text>MITRE Corporation officials say they expect a rush of proposals in the final days of the non-profit organization’s Countering Unauthorized Unmanned Aerial Systems (UAS) Challenge. The deadline for submitting white papers is February 7.
+
+The use—and risks—of small, unmanned aircraft systems is growing quickly with many untrained users and criminals launching them into national airspace, MITRE officials say. The potential also exists for terrorists and other adversaries to use unmanned systems to launch attacks. With 700,000 small UAS, commonly called drones, sold last year, close encounters with airplanes and helicopters increased by 762 percent over a one-year timeframe ending in June.
+
+While most users are harmless, others are exploring possibly hazardous applications, such as carrying medical supplies, radioactive material and firearms, MITRE officials say. To meet the full range of threats, MITRE kicked off the Countering Unauthorized UAS Challenge in November to explore a wide range of innovative ideas. The challenge is open to any and all innovators, whether individuals, teams, small businesses or major corporations. Winners will share a $100,000 prize package and have the opportunity to showcase their solutions to government agencies, including the Defense Department, Department of Homeland Security and the Federal Aviation Administration.
+
+“The ultimate goal … is to secure our domestic interests against small UAS,” says Michael Balazs, technology integrator, The MITRE Corporation. The goal includes preventing everything from “innocuous incidents from someone who just didn’t know better, or who lost control of their drone and flew it into restricted airspace” to “a coordinated, sponsored attack,” he adds. “It’s all about protecting domestic infrastructure, domestic lives and domestic events like the Super Bowl.”
+
+Most government counter-UAS programs are focused on larger aircraft and on military solutions that may not be appropriate in some cases, such as lighting the drone afire with lasers or using guns to shoot them out of the sky. Even jamming a drone’s signals can be problematic because it can interfere with first responder communications and with the Global Positioning System (GPS) signals that feed major parts of the nation’s critical infrastructure. “A lot of these systems now are not necessarily focused on the domestic problem and some of the associated limitations,” says Jonathan Rotner, MITRE’s lead sensors systems engineer. “You can’t do GPS jamming because you take out local infrastructure like automatic teller machines that rely on the GPS timing signal, or you can’t shoot something out of the sky because the ramification of parts falling in a downtown urban area and hitting people is bad.”
+
+Balazs and Rotner decline to say how many white papers they’ve received so far, or from whom, but they emphasize that all innovative ideas are welcome. “We absolutely are looking for and encouraging anything creative and outside of the box,” Rotner says.
+
+He adds that he has seen systems online that could make interesting entries into the competition. “We are excited to see a lot of things on YouTube videos that we would love to see come and play,” Rotner says, citing the drone that captures other drones in a net and hauls them away as one example. Other systems involving Nerf guns and water cannons also would be “fun to play and tinker with,” Rotner adds.
+
+But the most impressive systems use what Rotner describes as a “multi-modal approach.” The MITRE team is looking for methods to detect drones, determine if they are unauthorized and interdict them. For example, a multi-modal system might use a combination of a camera, night vision, acoustic sensors and radio energy for detecting or interfering with the unauthorized drone’s signals. “Those systems are really trying to tackle all aspects of the detection and the determination of whether an unmanned system is a threat or not, and a safe method of interdiction. They’re impressive in the sense that they are thinking about how to deal with as much of the problem as possible,” Rotner explains.
+
+The challenge focuses on consumer grade, small UAS weighing under five pounds. Drones this size can still transport dangerous payloads and spread toxins. For instance, last April, a drone carrying sand with trace amounts of radiation landed on the roof of the office of the Prime Minister of Japan. “Whether radioactive materials, biological agents or a stick of dynamite, the drone’s payload poses a significant challenge to safe interdiction—especially in heavily populated urban areas," Rotner said in a written statement announcing the challenge.
+
+Once all proposals are in, the MITRE team will select the most promising to advance to phase 2, which involves live flight evaluations in a realistic environment. The flight demonstration will be held around August or September. The challenge is part of a White House push to expand the government’s use of the challenge model for inspiring technological innovation. Anyone interested can learn more on the MITRE Frequently Asked Questions site.
+
+</text>
+  <imgalttext>
+  </imgalttext>
+</article>

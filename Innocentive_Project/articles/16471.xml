@@ -1,0 +1,31 @@
+<article>
+  <type>blog</type>
+  <title>DOD Can Harness Industry ISR Technology to Modernize Frameworks </title>
+  <author>Ralph Wade</author>
+  <date>August 5, 2016</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>ISR</tag>
+    <tag>guest bloggers</tag>
+  </tags>
+  <abstract>To meet the needs of the nation’s combatant commands and National Command Authority, government and industry must evolve the current intelligence, surveillance and reconnaissance (ISR) platforms, sensors and ground systems into a truly global ISR enterprise. An incremental approach must be combined with overarching actions to migrate to common ISR information technology infrastructures, orchestrated toward the larger goal of an integrated ISR enterprise. </abstract>
+  <text>As discussed in my last post, to meet the needs of the nation’s combatant commands (COCOMs) and National Command Authority, government and industry must evolve the current intelligence, surveillance and reconnaissance (ISR) platforms, sensors and ground systems into a truly global ISR enterprise. An incremental approach must be combined with overarching actions to migrate to common ISR information technology infrastructures, orchestrated toward the larger goal of an integrated ISR enterprise. This can be done through three DOD ISR focus areas: 
+
+Create a global networked ground station enterprise consisting of military service ISR ground stations and COCOM intelligence centers. These systems must implement common core services, applications and data structures. Making all data accessible to any analyst within the enterprise enables innovation, new analytic tools and data science capabilities that will significantly improve intelligence proficiencies. Current and future ISR platforms and sensors would link into the enterprise and eliminate the need for new dedicated, platform-specific ground systems. 
+Develop advanced sensors, platforms and communications. The industry must push for sensor technology, better resolution, finer multispectral capability and improved technology to automate exploitation and cueing. Advanced platforms must be able to penetrate, operate and survive in denied airspace, link data back to the ISR Ground Station Enterprise in near-real-time and enable dynamic re-tasking of platforms and sensors.
+Improve delivery of timely ISR information to the last tactical mile. Prioritize efforts to deliver tailored, timely and actionable ISR information to forces engaged in action at the forward edge of the battlefield. Elite Special Forces teams are well equipped and resourced, and significant ISR efforts are focused on their high priority actions. This capability must be extended to the hundreds of other small units engaged in combat operations. 
+These recommendations will resonate with colleagues in the ISR community, though many will contend they already are implementing them. That is true on some level, evident by the numerous innovative point solutions under development at dozens of DOD programs offices. Unfortunately, this activity lacks orchestration and is complicated by capability redundancy and gaps, which makes it difficult to make informed resource tradeoffs and prioritization processes are sub-optimized. 
+
+Agencies can explain their point solution projects, but if senior DOD officials were challenged by Congress to outline efforts underway to move ISR information to the last tactical mile, they would be hard pressed to immediately respond. How many tactical cloud and Internet of Things initiatives are being funded? Which agency has the lead? What are the most promising technologies and projects? What is the interoperability between large ground systems and tactical combat operators? Answering those questions would result in a massive research project to determine what is actually going on, and answers most likely would spawn a series of additional questions about gaps, redundancies, interoperability, stovepipe solutions and more. 
+
+Of the three focus areas outlined above, the one furthest advanced is the effort to create a global ISR ground station enterprise, the Defense Intelligence Information Enterprise (DI2E) championed by the Office of Undersecretary of Defense-Intelligence. DI2E encompasses ISR ground systems from each of the services, Joint Intelligence Center IT systems and coalition ISR support elements. DI2E built a foundation with an enterprise architecture, reference framework, standards, specifications, design patterns, test kits, a store front and governance structure. It also synthesizes and leverages DOD’s Joint Information Environment (JIE) and the intelligence community Information Technology Enterprise (IC ITE) initiatives, providing an extremely promising initiative. The next key steps in this evolution is to create an enterprise-level program management structure and the DOD-level governance discipline necessary to orchestrate DOD-wide enterprise modernization efforts.
+
+I am convinced that within a single five-year program objective memorandum cycle, we can transform the current collection of ISR platforms, sensors, ground stations and afloat systems into a unified global ISR enterprise on a modern IT framework. All the component parts are in place. Commercial technology leads the way to connect global enterprises. We can harness that technology and adapt unique mission applications into modern frameworks. The will and enthusiasm exists among the ISR development community. All that’s needed to achieve this vision is for the DOD to step up to it, articulate the vision and apply the leadership, policy, resourcing and program management discipline. The payoff will be significant. 
+
+Ralph Wade is a vice president in the digital strategic innovation group at Booz Allen Hamilton.</text>
+  <imgalttext>
+    <img>A U.S. Air Force target system analyst assigned to the 15th Intelligence Squadron, 363rd Intelligence, Surveillance and Reconnaissance Group, 363rd ISR Wing provides training using a simulated satellite constellation at Langley Air Force Base in Virginia.</img>
+  </imgalttext>
+</article>

@@ -1,0 +1,46 @@
+<article>
+  <type>article</type>
+  <title>U.S. Navy Runs Interference on Signals Conflict </title>
+  <author>Sandra Jontz</author>
+  <date>February 1, 2017</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Navy Research Lab</tag>
+    <tag>U.S. Navy</tag>
+    <tag>Office of Naval Research</tag>
+    <tag>SATCOM</tag>
+    <tag>radio frequency</tag>
+  </tags>
+  <abstract>U.S. Navy engineers are toiling on a handful of projects to ensure effective and secure communication links, which are so fundamental to military operations.</abstract>
+  <text>Advances in a plethora of military communication and situational awareness platforms have created unintended repercussions for the U.S. Navy, from the “forest of antennas” that can consume a ship’s deck to the debilitating effects of radio interference that clog airwaves and impede critical links to vessels, aircraft, drones and even satellites. Navy engineers are toiling on a handful of projects to ensure effective and secure communication links, which are so fundamental to military operations. 
+
+Modern fleets rely heavily on communication, especially as the military grows its network-centric environment, says Andrew Robertson, a physicist for the System Integration and Instrumentation Group at the U.S. Naval Research Laboratory (NRL), who highlights several key projects underway.
+
+He begins by relating details of the Navy’s Integrated Topside (InTop) communications platform, a collaborative research effort with the Office of Naval Research (ONR) to reduce the number of radio frequency (RF) and microwave antennas aboard ships. The NRL’s work builds on the InTop program, scalable electronic warfare (EW) and radar and communication equipment to support multiple classes of ships and other platforms, and it seeks to eliminate the need for stand-alone RF and microwave systems. Researchers have demonstrated common data link (CDL) communications via an active electronically scanned array (AESA), but they have yet to validate the simultaneous performance of EW, information operations and communications, Robertson says. “The idea of getting all these platforms to work on a single front-end antenna has been around since people started noticing that ships started looking like forests,” Robertson declares.
+
+The Navy fields an ever-expanding number of CDL connections as its primary protocol for imagery and signals intelligence to gain the upper hand over adversaries with situational awareness. But the increasing number of communication and weapon systems can interfere with each other. “Someone goes to a ship, surveys an area and says, ‘I’m going to put this mast here.’ The comms guy comes over and does the same thing, and they don’t coordinate with each other,” Robertson summarizes. “The ship ends up being this tangle of antennas, and everyone can be interfering with everyone else. It is then difficult to troubleshoot and fix the problems.”
+
+The streamlined InTop antenna platform would harness radio waves and keep them from bouncing all over the place, making a vessel less detectable to an adversary. The single array of antennas also would remove the need for built-in redundancies, Robertson points out. In the event that one antenna goes down, the program can diminish self-inflicted interference through a “resource management scheduler,” he says. “It’s a software-based computer that figures out when the array should be an electronic warfare platform, when it should be a radar and when it should be the ship’s communicator. It does this complicated scheduling to make sure they are not interfering with each other while still guaranteeing the quality of service. It’s a complicated ballet, but we’ve demonstrated a few of the necessary elements for that, and it works well.”
+
+InTop can obtain intelligence, surveillance and reconnaissance data feeds from a large number of platforms, which is particularly important as the Navy develops fleets of autonomous aircraft and sea vessels in its pursuit to be simultaneously more lethal and protective. Applying InTop can help the service achieve both. The versatile platform supports Ku-band and X-band CDL connections and sustains a network waveform at the operating frequencies.
+
+Integration is a driving force behind several of the NRL’s efforts. Another program, Integrated Satellite Communication Tactical Resiliency Risk Reduction (ISTR3), could be likened to a dedicated data packet sniffer on steroids. The ISTR3 is a system of sensors that correlates or identifies anomalies across multiple network layers and offers immediate courses of action. Big ships host huge networks that move around a lot of data. “Some poor network manager has to figure out how to control all that,” Robertson says. “If a link goes down, it’s not obvious where it went down. All you know is you’re being screamed at by someone who’s saying they’re not getting what they need, and you don’t know why.”
+
+ISTR3 automates the troubleshooting with much greater fidelity than at present, he says. For example, commercially produced packet-sniffing tools might scour the detailed data sent in every 100,000 packets or so, while the ISTR3 program reads detailed data within every single packet—in real time and without adding any appreciable delay to the process. “With this, you have a better chance of catching these very low-rate, high-latency data exfiltrations. If there is a malicious software running or someone has hacked your network, they’re going to try to exfiltrate data out of your network, and they want to not be detected, so they do it very slowly and sporadically,” Robertson explains.
+
+To laypeople, this might sound pretty revolutionary. They would not be wrong, he confirms. “It’s revolutionary from a Navy perspective. Right now, we’re doing this in a fairly crude fashion. To an officer who has to do this job right now, this sounds great,” Robertson says.
+
+In another unconventional project, NRL researchers are working on a cognitive radio program that can localize RF emitters through a refined power difference of arrival (PDOA) geolocation algorithm, estimating the location of an emitter and reducing interference. This addresses the key battlefield challenges of identifying local emitters and hostile jammers and allocating spectrum for a cognitive radio network accordingly. “The problem is, we spend a lot of time interfering with ourselves,” Robertson explains. “Someone starts emitting, and that makes my emissions less effective. And that’s a problem—especially when you start to do communications alongside friendly electronic warfare.” 
+
+The accuracy of algorithms used to identify emitters depends on the network environment. The PDOA algorithm can approximate the location of an emitter through use of what is called a blind passive sensor network, all with minimal hardware. “What we’d like to have is a radio that can sense how much interference is in the spectrum right now and move, if necessary,” Robertson shares. “That sounds pretty easy, but actually it’s very difficult because the transmitter and receiver have to agree on where they will move to, and the only way to agree on that is for one of them to tell the other where it’s going. But it can’t do that if there is no communication, and they can’t have communication if they’re being interfered with. It’s like the chicken and the egg.”
+
+Finding a radio that could do the job proved a bit challenging at first, but researchers settled on the Ettus Universal Software Radio Peripheral (USRP), popular with hobbyists because it has huge operational bandwidth options. NRL engineers are developing a cognitive radio that “listens,” and when sensing interference, it will not only move out of the way but also find another spot on the spectrum, Robertson says. “People can talk more often. They can talk with better quality and without stomping on each other,” he adds.
+
+Finally, the PDOA geolocation technology is being designed to do double duty because it also will be able to locate emitters the military might not otherwise recognize. It can be used to modify military cellphones or tactical radios to periodically “listen” to figure out if someone is emitting who should not be, Robertson says. “If there’s someone emitting something and we didn’t expect it there, we want to find them,” he says.</text>
+  <imgalttext>
+    <img>This image captures the results of an experiment conducted at the U.S. Naval Research Laboratory in Washington, D.C., where scientists set up radio sensors around buildings to test whether they could locate a small transmitter by listening for its emissions. They located the transmitter, but they were less successful as the emissions got farther away. An algorithm under development could help locate an emitter with a network of inexpensive power sensors.</img>
+    <img>The U.S. Navy’s Integrated Topside communications platform, a collaborative research effort with the Office of Naval Research, seeks to reduce the number of radio frequency and microwave antennas aboard ships. The platform aims to eliminate the need for stand-alone radio frequency and microwave systems that require separate antennas and instead service all electromagnetic maneuvers.</img>
+  </imgalttext>
+</article>

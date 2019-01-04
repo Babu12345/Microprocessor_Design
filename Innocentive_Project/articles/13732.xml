@@ -1,0 +1,49 @@
+<article>
+  <type>article</type>
+  <title>Fast-Flying Flimmer No Underwater Fluke</title>
+  <author>Rita Boland</author>
+  <date>December 1, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>unmanned underwater vehicle</tag>
+    <tag>unmanned systems</tag>
+  </tags>
+  <abstract>A developmental U.S. Navy project aims to provide a creative solution to the challenge of how to move unmanned underwater vehicles to their proper point for submersion. The project is creating a bio-inspired seacraft that will use flight to reach its destinations.</abstract>
+  <text>A developmental U.S. Navy project aims to provide a creative solution to the challenge of how to move unmanned underwater vehicles to their proper point for submersion. The project is creating a bio-inspired seacraft that will use flight to reach its destinations.
+
+Researchers at the Naval Research Laboratory (NRL) are responsible for the completely internal Flying-Swimmer, or Flimmer, effort, which is exploring the correct balance between an unmanned aerial vehicle (UAV) and unmanned underwater vehicle (UUV). “The goal is to basically fly as an airplane, splash down and become a submarine,” explains Dan Edwards, aerospace engineer, Vehicle Research Section, NRL. “I don’t know how to describe it other than a flying submarine.”
+
+The development team draws inspiration from nature, such as the gannet, a bird similar to a pelican that starts a dive high in the air before plunging, then swimming, underwater. The flying fish is another model as personnel study its ability to leap out of water and glide through the air to avoid predators. Flimmer is exploring an area between the two animals. Unlike biomimicry, bio-inspired technology looks at nature for a starting point, then adapts the technique as necessary to find solutions. Launching Flimmer from either land or ship is a reasonable option—Edwards says they essentially are the same—and experiments have been done using the test vehicles from airdrops. The craft fly at faster speeds than they swim because of the much higher density of water. The device is not designed to go from swimming to flying, though other projects at the laboratory are exploring that capability.
+
+That difference in environment is one of the main challenges facing Flimmer. Weight is a primary concern when it comes to aircraft, but it is much less important to UUVs. They have concerns such as water pressure and buoyancy. “It’s a surprising challenge,” Edwards explains. “Swimming is so different from flying in some aspects and similar in others.”
+
+A main benefit expected from all the work is rapid reaction. Flimmer can carry sensors for various purposes, such as detecting algae blooms or finding oil slicks from crashed airplanes quickly. With its flying capability, it can reach its water-deployment locations faster and often more effectively than traditional UUVs. Organizations outside the military such as the Department of Homeland Security or National Oceanic and Atmospheric Administration could have applications for the technology. Another benefit from the concept would be access to areas restricted to larger craft or human users.
+
+The first year of the program featured a vehicle called Test Sub 2. In its experiments, it flew like a normal airplane, and when personnel tested it in water, it “flew” the same way. “That was a fun realization,” Edwards says. To make the vehicle viable in both media, developers have to account for buoyancy, center of gravity and center of lift at all times, which requires a concentration on both aero and hydrodynamics. During three tests, experts did flights and splashdowns, determining what type of submarine would result from the airplane. A significant amount of pool testing went into hardware and software development, along with additional observations. In a pool, Flimmer can swim in a circle, a box or a straight line. Test Sub 2 saw action in an NRL area on the Potomac River. The swimming portion was difficult to observe because of murky water conditions; the vehicle disappeared at the depth of about a foot before resurfacing after its maneuvering. In year two, the program began flying the Flimmer configuration, a larger, buglike vehicle with fin mechanisms for flapping propulsion in the water and aerodynamic control in the air. It weighs approximately 22 pounds and is 3 1/2 feet long with a 6-foot wingspan. Tests look at handling, controllability and splashdown.
+
+Other work involves computational fluid dynamics to study the flapping and how the fins will interact with the wings. “Fins are a big part of this,” Edwards explains. The multimodal body piece will create propulsion and maneuverability in water while providing control and vehicle stability in the air.
+
+The fins used by the team are 3-D printed through selective laser sintering. A blade spreads a thin layer of powder, then a laser passes over the top, melting specific areas of powder together. The build volume steps down a small amount, and the process repeats until the 3-D fin is created. Edwards explains that the fin is very complex; making it via a more traditional subtractive machining process would prove difficult. The new additive manufacturing process allows developers to draw the fin as one piece, hit print and then wait to receive it in the mail, ready to use.
+
+Manufacturing the hull and wing, made of aerospace composite materials, requires a different process. Technicians start with a female mold, lay in dry fabric and brush in epoxy resin to saturate the cloth. A vacuum-bagging process then squeezes the wet fabric against the mold surface and removes excess resin. After curing, the hull is pulled out. While the work is more labor intensive than 3-D printing, it accurately reproduces the hull’s outside surfaces, tailors the direction of fabric filaments for strength and, in Flimmer’s case, makes the part hollow. Size, weight and material-strength requirements prohibit the printing process from being a feasible option for the hull and wing.
+
+Another piece of the puzzle to Flimmer’s field use is flying height. Developers trade energy for altitude. At the same time, drop from too high, and the UUV might incur damage when it hits the water surface. Tests have reached heights up to 1,000 feet. The problem with splashdown is that difference between air and water density.
+
+Test Sub 2 did a sub-style landing designed to penetrate the water. Flimmer has more fragile appendages, and, as such, it resembles more of a seaplane when landing, coasting along the surface before submerging. Test Sub 2 flew at 60 knots and swims at 6 knots. Flimmer has reached speeds of 60 knots in the air; no top speed for swimming has been recorded yet.
+
+Now in its third and final year, the program continues to push the Flimmer. It has yet to swim the winged vehicle. The body without the wings grew out of another NRL program called the Wrasse-inspired Agile Near-shore Deformable-fin Automaton (that turns into the acronym WANDA, as in the movie A Fish Called Wanda). Flimmer is adapting that, adding wings to the hull. The new Flimmer fins have been tested. While many parts of Flimmer are being adapted, the wings are being designed from scratch. Developers also must work out where to put them and other factors. To resolve all the complex issues, the team working on the project involves aircraft and submerged vehicle experts, all tasked with learning each other’s specialties.
+
+Development focuses primarily on platform configuration, with some studies of electronic hardware and software. All the flying has been done manually so far, but an autopilot option is available, so making the leap to autonomous operation does not pose a challenge. Underwater piloting has been almost entirely autonomous. Understanding the actuation of Flimmer’s parts is critical for how to sequence its actions. Each rib of the body is independently actuated, and then there are the fins.
+
+Team members are using the term “affordably expendable” to describe one of their aims for Flimmer. They expect to have the vehicles produced at a price point where recovery becomes unnecessary when the situation requires. In other applications, it could launch, splash down, take samples or gather other data, then a vehicle could pick it up and confirm its findings. Edwards says he can envision several vehicles each going out to different parts of a response area to perform an individual operation but providing information that combines to a more complex mission.
+
+Size will be a cost driver, as it is for many vehicles—and unmanned ones, in particular. However, at this point, personnel are not focused on cost, but the basic elements of the technology. Next steps for the program involve cutting wing molds. The final program outcome will be based on a demonstration wherein Flimmer launches from land, splashes down, floods and then swims underwater. Edwards believes that is completed with all the individual pieces. Now they must be integrated to show if the Flimmer is feasible.
+
+Though the program is resulting in a test vehicle, it really is exploring the trade space for the kind of issues developers must resolve for a flying submarine. After the end of fiscal year 2015, team members will identify the difficult parts of the process and start to find solution. Edwards believes further research will be necessary after the three-year effort. “There are not many flapping underwater vehicles in industry right now,” he says. Industry might be able to start producing technologies from the program based on results.</text>
+  <imgalttext>
+    <img></img>
+    <img>Test Sub 2, the first vehicle in the Flimmer experiment, splashes down into the Potomac River as part of its experimentation regimen.</img>
+  </imgalttext>
+</article>

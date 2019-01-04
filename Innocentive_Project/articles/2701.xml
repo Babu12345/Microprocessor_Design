@@ -1,0 +1,27 @@
+<article>
+  <type>article</type>
+  <title>Army Research Opens New Gateway for Mobile Satellite Links</title>
+  <author>Robert K. Ackerman, SIGNAL Online Exclusive</author>
+  <date>August 2, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>SIGNAL Online Exclusives</tag>
+    <tag>August 2011</tag>
+  </tags>
+  <abstract>A small business innovation research (SBIR) program is allowing U.S. Army researchers to generate on-the-move satellite links that would take advantage of the greater data rates available from military communications satellites. A recent demonstration at Aberdeen Proving Ground, Maryland, proved the worth of this approach for transmitting and receiving vital situational awareness data and command and control messages.</abstract>
+  <text>Commercial terminals may lead the service away from commercial orbiters. 
+A small business innovation research (SBIR) program is allowing U.S. Army researchers to generate on-the-move satellite links that would take advantage of the greater data rates available from military communications satellites. A recent demonstration at Aberdeen Proving Ground, Maryland, proved the worth of this approach for transmitting and receiving vital situational awareness data and command and control messages. 
+This new technology, known as the Small Aperture X-band Antenna (SAXBA), will enable the Army to increase the use of X-band communications aboard military satellites instead of relying on leases with commercial L-band satellites. These commercial satellites have bandwidth allocation of about 200 kilohertz, while X-band offers 2.6 megahertz of bandwidth. Using military X-band systems will enable greater data rates while providing significant cost savings as well as exploiting the advantages offered by the secure military orbiters.
+The collaborative effort among the Army’s Research, Development and Engineering Command’s (RDECOM’s) Communications-Electronics Research, Development and Engineering Center (CERDEC) and the Program Executive Office–Command, Control and Communications-Tactical (PEO C3T) has spawned a relatively small system that could give a variety of Army vehicles high-rate satellite communications on the move.
+Tat Y. Fung, acting chief, SATCOM Developmental Systems Branch, relates that the two groups have been working on this SBIR for about two years. Alico Systems, Torrance, California, is the company that developed key elements of the system. Its high-performance, low-cost phased array antenna provides the transmit and receive technology. The terminal features phased array antennas set in a 4x4-element, 5-inch-square configuration. 
+The demonstration featured several terminals receiving live satellite links while mounted on a variety of vehicles. The testing included the Army’s next-generation Force XXI Battle Command, Brigade and Below (FBCB2) Joint Capability Release, which displayed location updates. This would be a primary application for this technology, Fung allows. He notes that the demonstration also validated the concept of attaching a Blue Force Tracking terminal to an external modem for running commercial applications on the move, particularly high-quality voice communications. 
+Rich Hoffmann, lead electronics engineer, SATCOM Developmental Systems Branch, relates that the system’s radio frequency performance in its ability to transmit and receive worked as expected. FBCB2 data rates are relatively low, yet the demonstration achieved higher rates. Ultimately, the technology should permit substantially higher data rates, which translates to better situational awareness and command and control on the move. 
+This demonstration used a commercial X-band satellite to validate the concept of X-band on-the-move connectivity, but it is designed ultimately to use Wideband Global SATCOM (WGS) satellites. Hoffmann notes that issues remain with regard to obtaining allocations for a military communications satellite.
+Hoffmann states that more work remains for effective integration and tracking. He cites one example of how chips positioned too closely were generating unacceptable amounts of heat, so that part of the configuration would need to be re-designed. However, these problems are logistics-based and should be solvable.
+Fung adds that the next step in antenna development will be a 16x8-element phased array configuration, which will provide connectivity with higher throughput. Applications in addition to FBCB2 will be tested, Hoffmann says, along with a distributed aperture approach. This would allow multiple apertures to support high-data-rate connectivity on the move. 
+As with future testing, obtaining the technology is contingent on adequate funding, Fung notes.
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

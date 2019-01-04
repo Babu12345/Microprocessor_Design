@@ -1,0 +1,31 @@
+<article>
+  <type>blog</type>
+  <title>European Patent Process Goes Google</title>
+  <author>Beverly Schaeffer</author>
+  <date>September 28, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Espacenet</tag>
+    <tag>European Patent Office</tag>
+    <tag>language translation software</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>The European Patent Office (EPO) goes high-tech via an agreement with U.S. company Google. The collaboration aims to translate and consolidate the EPO's patent data by 2014.</abstract>
+  <text>To manage the overwhelming amount of patent data it must process, the European Patent Office (EPO) in Vienna, Austria, has partnered with California-based Google in a no-cost collaboration. The partnership calls for Google to help process patents into 28 European languages, as well as into Chinese, Japanese, Korean and Russian. European Union members ratified and signed the formal agreement this past spring. In his article, "Talk is Cheap" in this issue of SIGNAL Magazine, Max Cacas covers how Google and the EPO aim to wrangle the approximately 70 million documents in the current database into a unified, translatable collection. The EPO public website has 30,000 visits per day, mainly from patent attorneys researching intellectual property status of new products versus old. Official EPO patent examiners also use the site to determine whether or not to award patents to new products. The site logs an average of 100,000 user sessions per day; all of those users download an average total of 100 gigabytes of data, or approximately 11 million pages daily. Richard Flammer, the EPO's head of Patent Information, describes it as an information tsunami. He says the goal of Google's Patent Search application is to reduce the cost and time needed to conduct the average patent search. To obtain a translation, Flammer explains:
+
+	You make a query in Espacenet [the EPO's patent search website]; you find a document; and you press "translate." In no time at all, you find the conversion in whatever language you want, in a quality that you can understand.
+
+Flammer explains that the move to a fully online capability for translating patent information from so many different languages is part of a generational transition from paper, to CD-ROM, and then to the Internet.
+Jeff Chin, Google Translate's product manager, characterizes the agreement as a win-win scenario-an example of a practical application of cloud computing, with users accessing Google Translate's Patent Search via the Internet on the vast, global network of servers providing everything from its search engine, to YouTube videos, email and maps. According to Chin, it is a veritable one-stop shop:
+
+	We provide access to our translation system, our translation API [application programming interface]. They can make that patent information more accessible. One way that we learn is from previously translated documents. By incorporating this parallel-EPO-corpus, we will improve the translation quality of our system.
+
+Realizing that language translation often takes place away from the comfortable confines of a desktop computer, Chin explains that Google Translate has a mobile application that runs on handheld devices using Google's Android Translate app.
+The EPO's Flammer says the agreement's goal is to ease the multinational patent process by facilitating the translation process, from Finnish to Greek, from Spanish to English, from German to Italian:
+
+	We would like to have all those languages translated into English by the end of this year and all those languages into the three working languages-English, French and German-by 2014.
+</text>
+  <imgalttext>
+  </imgalttext>
+</article>

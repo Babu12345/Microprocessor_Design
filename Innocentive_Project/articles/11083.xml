@@ -1,0 +1,20 @@
+<article>
+  <type>blog</type>
+  <title>Dealing with Big Data Takes an Ecosystem</title>
+  <author>Max Cacas</author>
+  <date>May 21, 2013</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>big data</tag>
+    <tag>AFCEA SOLUTIONS</tag>
+  </tags>
+  <abstract></abstract>
+  <text>Effectively dealing with data sets measured in terabytes and petabytes sometimes takes an ecosystem. And at times, that ecosystem is dependent on metadata, a sub-dataset that describes the dataset so that it can be analyzed quickly.
+	That’s according to Todd Myers, a big data specialist with the National Geospatial-Intelligence Agency (NGA), who spoke at the AFCEA SOLUTIONS Series - George Mason University Symposium, "Critical Issues in C4I," on Tuesday.
+	Myers said that in an era when an intelligence community analyst no longer has the luxury of staring at a monitor for hours poring over a video feed searching for “that one delta that will deliver a needed clue,” properly applied metadata can provide the speed needed for what he calls “contextual resolution."
+	One firm that seeks to help analysts sift through big datasets is sqrrl. Ely Kahn, chief executive officer of sqrrl, said his firm relies on open source big data tools like Hadoop to provide analysis with “low latency,” the big data code for speed and efficiency. He told symposium attendees that one of the most interesting aspects of both big data and open source is that they have helped create new ways to write the applications that are being used to unlock the secrets in big data.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

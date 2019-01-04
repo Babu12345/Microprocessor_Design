@@ -1,0 +1,20 @@
+<article>
+  <type>blog</type>
+  <title>NSF Invests Millions in Academic Cloud Computing Testbeds</title>
+  <author>Rita Boland</author>
+  <date>August 21, 2014</date>
+  <departments>
+    <department>Other</department>
+  </departments>
+  <tags>
+    <tag>cloud computing</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The National Science Foundation (NSF) has initiated two $10 million projects to create separate cloud computing testbeds called Chameleon and CloudLab. Through the efforts, the academic research community will develop and experiment with novel architectures and architecturally enabled applications of cloud computing.</abstract>
+  <text>The National Science Foundation (NSF) has initiated two $10 million projects to create separate cloud computing testbeds called Chameleon and CloudLab. Through the efforts, the academic research community will develop and experiment with novel architectures and architecturally enabled applications of cloud computing.
+	Chameleon offers a large-scale, reconfigurable experimental environment for research. It will be co-located at the University of Chicago and the University of Texas at Austin. It will include 650 cloud notes with 5 petabytes of storage. Users can configure slices of the laboratory with predefined or custom software to create custom clouds. They then can test efficiency and usability of cloud architecture on a range of issues. Chameleon also will support heterogeneous computer architectures. Other partners in the project are Ohio State and Northwestern universities and the University of Texas at San Antonio.
+	CloudLab is a large-scale distributed infrastructure on top of which researchers can construct various clouds. It will be based at the universities of Utah and Wisconsin as well as Clemson University, each of which will have unique hardware, architecture and storage features. CloudLab will provide approximately 15,000 processing cores and more than 1 petabyte of storage at its three data centers. Experts expect the testbed to run dozens of virtual experiments simultaneously and to support thousands of researchers. Additional partners include HP, Cisco, Dell, Raytheon BBN Technologies, the University of Massachusetts–Amherst and US Ignite Incorporated. Both labs will feature bare-metal access, an alternative to the virtualization technologies currently being used, allowing for experimentation with new virtualization technologies, which the NSF claims could improve reliability, security and performance.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

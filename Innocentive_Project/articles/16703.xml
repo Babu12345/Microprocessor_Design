@@ -1,0 +1,54 @@
+<article>
+  <type>article</type>
+  <title>Dual-Data Defense in Depth Improves SCADA Security </title>
+  <author>Shuangbao (Paul) Wang</author>
+  <date>October 1, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>The Cyber Edge</tag>
+  </tags>
+  <abstract>A defense-in-depth architecture built around a dual-data model reduces the risk of supervisory control and data acquisition networks being hacked or their data being stolen.</abstract>
+  <text>A defense-in-depth architecture built around a dual-data model reduces the risk of supervisory control and data acquisition networks being hacked or their data being stolen. The dual-data approach makes connecting various sensors and legacy systems easy, and initial tests show that adding a defense-in-depth architecture provides a degree of security not found in many of these networks, which often lack effective protection against intruders. 
+
+Supervisory control and data acquisition (SCADA) is a distributed industrial control system (ICS) that allows users to monitor and control processes across remote sites. ICSs typically are used in industries such as clean water supply, water treatment, electricity, oil and gas, transportation, chemical and many other critical infrastructure sectors. SCADA systems are designed to collect data from the field, transfer it to a remote command and control center, perform data abstraction and present the information visually to operators and decision makers in real time. 
+
+SCADA networks undergird critical infrastructure, such as electrical grids, transportation hubs and nuclear power plants. They also link to systems containing valuable and sensitive personal information, such as those found in hospitals, schools and government institutions. A failure of one of these systems or a cascade of such failures across systems, either in their operations or security, could lead to potentially catastrophic consequences for the population of a region, a city and beyond. 
+
+Yet many of the hardware and software elements used to control, monitor and connect these systems were not designed with built-in security, while others are outmoded and may not interface with newer technologies. For this reason, every smart and connected cities project must perform risk analysis and address security risks. Architecture security by design can make SCADA networks resilient in the face of cybersecurity threats and enable their recovery from attacks.
+
+Currently, most city infrastructure is either not connected at all or connected in a standalone mode. Freshwater facilities use very limited sensors to detect water quality. Water treatment plants are controlled mostly by programmable logic controllers (PLCs), but the data are accessible only at the particular plant. Data are not shared at a city level, therefore, no feedback or external control can be given.
+
+Big data and smart city movements push these systems to go beyond standalone. Now many ICSs are interconnected to form a SCADA network. This brings opportunities for officials to monitor water quality and water treatment equipment across cities, regions or even the country. As a result, it is critical to study the system architecture necessary for securely transmitting data to remote databases and securely sending commands to distributed PLCs. This is true especially for PLCs connected to critical infrastructure such as nuclear power plants, transportation hubs, power grids and many other assets.
+
+A typical SCADA system consists of several basic components: PLCs; sensors, including traditional, smart and energy-harvesting types; human machine interfaces (HMIs); network and communication equipment; and servers and master terminal units (MTUs). 
+
+To enhance security, SCADA and corporate networks should be segregated. Using a two-port firewall between them, security can be improved on condition that the firewall is properly configured. 
+
+Establishing a demilitarized zone (DMZ) between the corporate and SCADA networks shields them from the outside world. The firewall must offer three or more interfaces—one connected to the corporate network, the second to the SCADA network and the third to the shared or insecure servers or wireless access points on the DMZ network. Data servers are placed in the DMZ.
+
+The advantage of this architecture is that the first firewall blocks arbitrary packets from coming into the SCADA network or servers in the DMZ. The second firewall prevents unwanted traffic from a compromised device from entering the SCADA network. It also prevents SCADA network traffic from affecting the shared servers in the DMZ. 
+
+But using firewalls alone cannot adequately protect SCADA networks. A multiple-layer architecture involving two or more security mechanisms is a better approach. This is a technique commonly known as defense in depth, in which the effect of a failure of one measure cannot cause failure of the whole system, thus minimizing interruption of business services. Defense in depth includes the use of two or more firewalls, the creation of DMZs and the employment of intrusion detection and prevention system (IDS/IPS) devices, along with effective security policies and business operations. The use of several DMZs provides the added security to separate functionalities and access privileges, and it has proved to be effective in protecting large architectures from being compromised.
+
+Still, managers must understand attack vectors. These include back doors in applications and in the network perimeter; vulnerabilities in applied protocols such as OpenSSL; threats and attacks on field PLCs, smart sensors and other network devices; attacks and injections on databases; session hijacking using “man in the middle” attacks; phishing and spoofing on privileged accounts; and attacks through supply chain networks.
+
+One key element of the defense-in-depth architecture was developed by the U.S. Defense Department. Experience API (xAPI) is an abstract application interface for storing and retrieving data across different platforms and formats. If relational databases are considered parallel, then xAPI databases are serial. Unlike relational databases in which data are inserted into databases in parallel one row at a time, xAPI technology enforces a consistent data structure for inserting only one attribute at a time. The main advantage of serial databases is interoperability, allowing them to store data effectively from various platforms or sensors. 
+
+The xAPI comes with a learning record store (LRS), which is a serial database that stores data generated in SCADA networks. The primary advantage of using xAPI is that devices are connected through it using a Hypertext Transfer Protocol (HTTP), with which all devices feed data to the LRS database, one attribute at a time. For the data acquisition system architecture, data are transmitted from sensors via local area network, Wi-Fi or cellular wireless connections to a remote database/LRS via xAPI.
+
+Because serial databases store one attribute at a time, they are a perfect choice for the heterogeneous collection of sensors and control devices in Internet of Things (IoT) systems. The implementation of such serial databases can be achieved easily with xAPI based on the representational state transfer (REST) model and JavaScript Object Notation (JSON).
+
+REST is an architectural model for uniformly accessing and modifying a resource. It is seen commonly on many web-based APIs that use JSON rather than HTTP, although some experts propose to use REST without JSON as an IoT protocol in the future. Data abstraction is done using a system process that reads data from the serial database, processes and filters data, and sends data to a relational database for visualizing on a dashboard and for further analysis. 
+
+Because JSON and JavaScript may expose account information on the web from HTTP methods, secure authentication and session management—which are the weakest aspects of IoT systems—are important. Using unencrypted protocols, hackers could discover authentication information directly from xAPI configuration to penetrate systems and databases. As a result, a more robust authentication approach should be used, such as the encryption of authentication information using SSL protocol or smart sensors with built-in hardware encryption capacities.
+
+ 
+
+Shuangbao (Paul) Wang is a professor and the director of the Center for Security Studies at the University of Maryland University College, designated a National Center of Academic Excellence in Information Assurance and Cyber Defense Education by the National Security Agency and the Department of Homeland Security and a National Center of Digital Forensics Academic Excellence by the Defense Department Cyber Crime Center (DC3). The views expressed here are his alone.</text>
+  <imgalttext>
+    <img>Establishing paired firewalls between corporate and SCADA networks protects one sector from threats emerging from the other.</img>
+    <img>Adding defense in depth to paired firewalls adds security to separate functionalities, which helps protect large architectures.</img>
+  </imgalttext>
+</article>

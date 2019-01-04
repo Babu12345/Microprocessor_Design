@@ -1,0 +1,30 @@
+<article>
+  <type>article</type>
+  <title>GAO: Newer Aircraft Vulnerable to Hacking Through Onboard Wi-Fi </title>
+  <author>Sandra Jontz</author>
+  <date>April 15, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>FAA</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>Modern commercial airliners could be at risk of in-flight cybersecurity attacks through a vulnerability posed by passengers using planes’ wireless systems, warns a federal watchdog agency.</abstract>
+  <text>Modern commercial airliners could be at risk of in-flight cybersecurity attacks through a vulnerability posed by passengers using planes’ wireless systems, warns a federal watchdog agency.
+
+The U.S. Government Accountability Office (GAO) reviewed the Federal Aviation Administration’s (FAA's) transition to the Next Generation Air Transportation System (NexGen) and pointed out in a 56-page report several cybersecurity challenges, including protecting air-traffic control information systems, protecting aircraft avionics used to operate and guide the aircraft, and clarifying cybersecurity roles and responsibilities.
+
+“Modern aircraft are increasingly connected to the Internet. This interconnectedness can potentially provide unauthorized remote access to aircraft avionics systems,” reads a portion of the GAO report. “As part of the aircraft certification process, FAA's Office of Safety currently certifies new interconnected systems through rules for specific aircraft and has started reviewing rules for certifying the cybersecurity of all new aircraft systems.”
+
+While hackers could potentially bypass firewalls, Jovi Umawing, a malware intelligence analyst for Malwarebytes Labs, cautions that aircraft systems are built with inherent safety systems. “These systems, which we deem life- or safety-critical, have redundancies in place to lessen the chances of tragic outcomes should they be compromised,” Umawing says. “As the GAO report does not clearly elaborate if this new threat via cabin Wi-Fi takes into account such systems, we can't know for sure if an attack like this would be successful.   
+
+“This doesn't mean that vulnerabilities found in Wi-Fi and aviation systems shouldn't be taken seriously,” Umawing continues. “Travelers must still adhere to safe computing practices and treat the plane Wi-Fi in the same way they would free public Wi-Fi in a coffee shop. That means avoiding logging into websites that contain lots of sensitive information like online banking or social media accounts. Airplane Wi-Fi may be password protected, but that doesn’t mean there isn’t someone logged onto the network sniffing around for packets and looking to take advantage of travelers’ trust in the system.”
+
+The report follows a similar GAO review done in January, which noted that while the FAA had taken steps to protect its air-traffic control systems from cyber-based threats, “significant security-control weaknesses remain that threaten the agency's ability to ensure the safe and uninterrupted operation of the national airspace system.”
+
+In response to the GAO report, FAA and Department of Transportation officials acknowledged the problems and indicated steps toward remediation. The “FAA has already initiated a comprehensive program to improve the cybersecurity defenses of the [National Airspace System] infrastructure, as well as other FAA mission-critical systems,” reads a portion of the response letter. “We are significantly increasing our collaboration and coordination with cyber intelligence and security organizations across the federal government and the private sector. </text>
+  <imgalttext>
+    <img>Image courtesy of nokhoog_buchachon at FreeDigitalPhotos.net</img>
+  </imgalttext>
+</article>

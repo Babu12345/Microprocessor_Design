@@ -1,0 +1,21 @@
+<article>
+  <type>blog</type>
+  <title>Target Tracking Smartphones</title>
+  <author>George Seffers</author>
+  <date>November 30, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>app</tag>
+    <tag>smartphone</tag>
+    <tag>target tracking</tag>
+    <tag>University of Missouri</tag>
+    <tag>New Products</tag>
+  </tags>
+  <abstract></abstract>
+  <text>Engineers from the University of Missouri College of Engineering, with funding from the U.S. Army/Leonard Wood Institute, are in the early stages of enhancing popular smartphones to be able to find and track military targets. The goal is to provide the exact location of a remote target, through either sound or sight using the technology available on commercial phones. The software application could be useful in cases where tracking lasers would be visible to the enemy. Soldiers could one day use the application to photograph a target and relay the Global Positioning System location without relying on the Internet.
+
+The researchers also developed a sound-based localization method for dark or urban environments. A group of soldiers could record a sound and share it, and software would allow the soldiers to determine the location of the sound source. The technology could also be used for non-military applications. Emergency responders, for example, can identify a location or direct traffic, and tourists could identify unfamiliar objects or buildings.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

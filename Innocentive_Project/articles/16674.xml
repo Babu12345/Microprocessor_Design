@@ -1,0 +1,27 @@
+<article>
+  <type>blog</type>
+  <title>Yahoo Warns 500 Million User Accounts Hacked by 'State-Sponsored Actor'</title>
+  <author/>
+  <date>September 22, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>Yahoo Inc. released a statement Thursday informing customers that at least 500 million user accounts were stolen from its network in 2014 by what company officials labeled a "state-sponsored actor."</abstract>
+  <text>Yahoo Inc. released a statement Thursday informing customers that at least 500 million user accounts were stolen from its network in 2014 by what company officials labeled a "state-sponsored actor."
+
+The hacked account information might have included customer names, email addresses, telephone numbers, birth dates, hashed passwords (the vast majority with bcrypt) and, in some cases, encrypted or unencrypted security questions and answers, according to a company statement. The release does not identify the nation officials believe are behind the hack. 
+
+“The ongoing investigation suggests that stolen information did not include unprotected passwords, payment card data or bank account information; payment card data and bank account information are not stored in the system that the investigation has found to be affected,” reads the statement.
+
+An investigation found no evidence that the state-sponsored actor is currently in Yahoo's network, officials wrote Thursday.
+
+Yahoo said it was working with law enforcement on the matter. It is notifying potentially affected users to alert them of the breach and offer recommendations to safeguard accounts going forward. Security steps include invalidating unencrypted security questions and answers so they cannot be used again and changing passwords if they have not been changed since 2014.
+
+Additionally, it recommends users avoid clicking on links or downloading attachments from suspicious emails and to be cautious of unsolicited communications that ask for personal information. Finally, Yahoo recommended users use Yahoo Account Key, an authentication tool that eliminates the need to use a password altogether.
+
+Additional information was posted on the Yahoo Security Issue FAQs page.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,26 @@
+<article>
+  <type>article</type>
+  <title>5 Tips for Cyber Safety on the Road</title>
+  <author>Patrick J. Kelly, CISSP</author>
+  <date>October 10, 2013</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Cyber Savvy</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>You may be away from the office, but you should never take a vacation from cybersecurity. Keep these tips from Patrick J. Kelly in mind on your next trip.</abstract>
+  <text>You may be away from the office, but you should never take a vacation from cybersecurity. Keep these in mind on your next trip.
+1. No Expectation of Privacy: When planning for international travel, remember that individuals have no expectation of privacy, including issues such as interception of digital communications. The country’s officials may require you to decrypt or otherwise unlock mobile devices when entering the country and, as a guest in a foreign country, you are subject to its laws.
+2. Prepare before you travel: Leave unneeded devices at home or use locked-down travel-only devices. If this is unfeasible, back up all data, remove sensitive information from devices, use full device encryption for data that must be taken, set up strong passwords, turn off unnecessary services, ensure that patches are up-to-date, and download the latest malware signatures. Also, be sure to register for the U.S. State Department’s Smart Traveler Enrollment Program (STEP) to receive travel alerts regarding your destinations.
+3. At your Hotel: Do not assume that information and communications equipment is secure because it is locked in a guest room or stored in a safe. Hotel employees have universal access to rooms and safes on the premises and, in some countries, officials may monitor hotel rooms of foreign guests. Additionally, mobile devices should be shut off and not left in the sleep or hibernate mode when not in use.
+4. Working on the Go: Many travelers rely upon hotel facilities for telephones, fax machines and computer access in the business center, but keep in mind that phone and facsimile lines are often monitored. Public computers in business centers, Internet cafés and kiosks are ripe for monitoring, malware and similar issues. These services should not be used for any sensitive business or personal communications.
+5. Upon Return: Ensure that your anti-virus software is up to date and run a full system scan. Also, consider changing all passwords and disposing of any removable media acquired or used during the course of travel.
+ 
+Patrick J. Kelly, CISSP, is a lecturer at George Washington University and a member of the (ISC)2 U.S. Government Advisory Board Executive Writers Bureau.
+ </text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

@@ -1,0 +1,26 @@
+How to use the C++ program! Article.cpp file to break down the articles documents.
+The code essentially parses the file given in the string 'dir' then you can iterate over the words
+in a specific section. The 'text' function takes in the arguments of the specific file name,
+the type of information requested (usually 0 - what ever number it ends at but it should stop with the
+'imgaltext' section), and the last argument where the information is stored - usually in an array.
+This function might need to be converted to C programming in order to use it for embedded systems.
+
+int main(int argc, char* argv[]) {
+ 
+    
+   
+     vector <string>article;
+     
+     string dir="/Users/babu_wanyeki/Desktop/Projects/S.I.M.O.N PROJECT/SOFTWARE/ABSTRACTION/XPRESS FILES/articles/";
+     dir=dir+"10.xml";
+ 
+    
+
+    text(dir,0,article);
+    for(int y=0;y<article.size();y++){
+        cout<<article[y]<<" ";
+    }
+    cout<<endl<<"Finished"<<endl;
+    
+return 0;
+}

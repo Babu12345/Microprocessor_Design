@@ -1,0 +1,49 @@
+<article>
+  <type>article</type>
+  <title>Intelligence Communities Now Infiltrating Cyber World as Much as Adversaries</title>
+  <author>Sandra Jontz</author>
+  <date>February 20, 2015</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>As cybersecurity defenses improve, so do the breaching tactics and methods by adversaries driven to hack into commercial and government networks. And they are doing so at alarming speeds, outpacing defense efforts. </abstract>
+  <text>As cybersecurity defenses improve, so do the breaching tactics and methods by adversaries driven to hack into commercial and government networks. And they are doing so at alarming speeds.
+
+“The threat that I see currently from our adversaries of organized crime groups, terrorist organizations and nation-states is increasing at an unbelievably fast pace,” Shawn Henry, president and chief security officer of the cyberthreat tracking company CrowdStrike Services, told a gathering at AFCEA’s Emerging Professionals in Intelligence Committee (EPIC) speaker series.
+
+“The specific tactics that they’re bringing, highlighted most recently by what we saw at Sony [Pictures Entertainment], is not just the exfiltration of data off of networks and a threat to intellectual property … but actually the destruction of physical hardware. The adversary is using that tactic as an avenue to disrupt, destroy and dismantle computer network operations.”
+
+Within the military arena, cyber intelligence is a “very new and developing area,” said Capt. Mark Jarek, USN, director of intelligence for U.S. Fleet Cyber Command/10th Fleet. “We’ve been doing intel for quite some time, but cyber now is a warfare domain, just like air, the land component and the maritime component. We try to treat it just the same. … There are some extreme challenges that we face, just because of the environment that we are there to support and work in.”
+
+For Jarek, the challenges are punctuated by three main factors: the dynamic nature of the environment, the fact that it’s an environment that is manmade and lastly, an environment used by man. “The pace is so much different than any other warfare domain,” he told the assembled group. “If man made it, man can break it. So for firewalls or protection systems or other types of protection, if man made it, man can break it.”
+
+And because it’s used by humans, it’s made vulnerable. “You don’t have much control over that young petty officer who is going to click on a link on his unclassified system and introduce something to the network that you don’t want to be there,” he said.
+
+Improvements by the government and organizations in cybersecurity measures to catch hackers has prompted them to change their tactics, techniques and procedures. “What we’re seeing from the most sophisticated adversaries is a movement away from the use of some of the indicators that they’ve used to identify them previously,” said Henry, a former executive assistant director at the FBI. “As incident response capabilities increase and as actionable intelligence sharing increases, the adversaries are making changes to the way they’re breaching networks, maintaining access on networks and exfiltrating data off of them.”
+
+Since their hacking methods leave traceable evidence, some no longer are “downloading things into that environment, but are running tools in memory that can’t be scanned. [They are] using Web shells and other techniques or tactics that are incredibly difficult, if not impossible, to identify for most organizations.”
+
+But that isn’t necessarily all bad news. Adversaries don’t have unlimited pots of money, and the increase in cybersecurity means they have to be more selective in their targets.                                                                            
+
+Cyberterrorists pose as equal a threat as cybercriminals. “The tools are available freely, a lot of the expertise is available underground, and they are calling for a digital jihad, they’re calling for a digital caliphate and they want to impact this country digitally, the same way they did by flying planes into buildings,” Henry said. “And if they target critical infrastructure, they can have that impact. They are absolutely seeking out those capabilities.”
+
+While technology is an obvious solution, other methods exist to combat the rise of and sophistication in the threats, the panelists said. The Defense Department, for example, is standing up cybermission forces; roughly 6,200 personnel making up a total of 103 cybermission teams to protect the networks, Jarek said, and cyberdefense is becoming a saturated inclusion within military intelligence centers.
+
+Much work needs to continue in the information sharing domain, offered Ryan Gillis, vice president of government affairs and policy at Palo Alto Networks. Federal officials should consider easing constraints posed by the data classification system, which would allow the government to share intelligence otherwise deemed classified with industry that would actually lead to organizations being able to take action. Often, government officials provide such minimal detail, if it shares at all, that industry can’t conceivably rectify a breach.
+
+Henry called for intelligence sharing, not just information sharing. The tactics, techniques and procedures used by adversaries should not be tagged classified and kept from industry. “You can share that intelligence, in my opinion, … broadly and quickly, and not jeopardize sources and methods. Some of that stuff can be collected in thousands of places. You’re not going to screw up your collection [efforts.] If I could change one thing, it would be to share that intelligence at network speed, broadly, which would help tremendously.”
+
+Additionally, legislation for the sharing of threat information must strike a balance between liability protections from frivolous lawsuits for companies that share with ensuring laws are not be too lenient that companies become negligent when it comes to protecting personal information, Gillis recommended.
+
+Having confirmation or warning of threats from government sources could speed up mitigation plans. “You as a company may be seeing any number of things on your network, but if you hear from the government that this is a particularly prolific threat that is being exploited by known actors … that allows you as a network defender to prioritize that among the stack of what seems to be an infinite amount of known threats and newly-discovered zero base threats,” Gillis said.
+
+“The cyberthreat is a democratized environment. Getting ahold of malicious tools is not like getting ahold of highly enriched uranium,” Gillis said. “You can get it from any number of freely available sites.”
+
+The panelists also addressed the increased use of social media by cybercriminals and terrorists to recruit new talent, “presenting a very dynamic environment that is difficult to stay ahead of,” Jarek said. “It’s like whack-a-mole when you’re trying to put something to rest.”</text>
+  <imgalttext>
+    <img>A cyber Joint Users Interoperability Communications Exercise, or JUICE, takes place at Aberdeen Proving Ground, Maryland.</img>
+  </imgalttext>
+</article>

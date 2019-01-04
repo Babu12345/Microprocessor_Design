@@ -1,0 +1,35 @@
+<article>
+  <type>article</type>
+  <title>Industry Offers a  Hybrid Approach to Military-Assured PNT</title>
+  <author>David Jedynak</author>
+  <date>March 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>GPS</tag>
+    <tag>Global Positioning System</tag>
+    <tag>PNT</tag>
+  </tags>
+  <abstract>How we think about GPS dramatically changes when discussions center on the importance and impact it has on military applications, such as unmanned aerial vehicle (UAV) missions.</abstract>
+  <text>In one way or another, everyone depends on the Global Positioning System, or GPS, to smooth the way they live their daily lives. Already, the United States has more than 30 active GPS satellites that feed data to bolster the ubiquitous ecosystem of connected smartphones and other devices that facilitates comings and goings—whether circumnavigating traffic delays or directing users to the precise location for a steaming cup of coffee. 
+
+How we think about GPS dramatically changes when discussions center on the importance and impact it has on military applications, such as unmanned aerial vehicle (UAV) missions. For warfighters, geolocation information is absolutely critical. In these cases, the lack of information often can be better than wrong information. The Defense Department’s initiative of assured positioning, navigation and timing (PNT) puts the defense industry at an important crossroads in the development of more accurate military-grade GPS technologies.
+
+Regardless of external distribution architectures, assured PNT requires a variety of data sources in addition to GPS, such as inertial navigation systems, to provide accurate and unaltered geolocation data. Simply put, assured PNT means users can trust that where they are told they are really is where they are. Effectively implementing assured PNT means an entire ecosystem of technologies and techniques that go beyond GPS must be integrated and fused into a single picture. To achieve assured PNT, inertial measurement techniques and other general data analysis are synthesized with GPS to create the common picture in a “hybrid” approach, similar to the fusion of GPS, cellular, Wi-Fi and Bluetooth information used by phones. One critical challenge is to understand and implement the balance between the accuracy and reliability of each of the disparate techniques and technologies to provide the most complete and accurate source for assured PNT. 
+
+Much-needed improvements are on the horizon with upgrades to the military signal called M-code, established with a higher-power signal that provides improved antijamming capabilities and assured, autonomous access to military GPS signals. 
+
+The U.S. Congress directed military acquisition managers to buy only M-code-capable devices starting in fiscal year 2018. Compared to the current generation of GPS, M-code better resists interference and delivers improved message formats and signal modulation techniques that make it both faster and more accurate. In addition to improving military GPS signals, the desire for overall assured PNT generated the concept of a local “PNT hub.” Similar to a phone’s location services, a PNT hub combines data sources to provide accurate location and timing and then distributes that information to other locally connected devices over communication buses such as Ethernet and associated IEEE-1588 Precision Time Protocol (PTP). In this way, existing platforms such as armored vehicles can focus acquisition upgrades and associated costs on a single PNT hub rather than upgrading the capabilities of each individual subsystem on the vehicle. The U.S. Army’s Vehicular Integration for C4ISR/EW Interoperability initiative is an example of an open standard foundation based on Ethernet and PTP for distribution of assured PNT to a vehicle’s many systems. 
+
+When considering approaches for assured PNT, it is important to resist the classic,“If you have a hammer, the whole world looks like a nail,” perspective. Rather than only using a highly specialized single solution such as GPS or inertial navigation, the most effective approach is the fusion of diverse commercial off-the-shelf (COTS) technologies with a few highly specialized geolocation technologies such as M-code.
+
+Today, the U.S. government drives improvements to GPS and upgrades legacy systems with an overall goal of assured PNT. This gives industry an ideal opportunity to step back and contemplate an optimal way to implement multiple technology-based assured PNT hardware that integrates different technologies. The challenge is how to pull in best-of-class commercial technologies from multiple companies and integrate them into a scalable, flexible and reliable system. The good news is that these are the types of problems that COTS vendors face—and solve—every day. They take state-of-the-art commercial electronics and build rugged, open architecture solutions for complex command, control, communications, computers, intelligence, surveillance and reconnaissance applications used in airborne and ground vehicles. Industry has the proven experience and inherent flexibility to build heterogeneous systems that combine diverse data from multiple sensors and present a single rugged box solution. COTS vendors have years of experience making sure the latest open standards can be implemented in technology refresh applications to maintain data communications with legacy technologies and data busses.
+
+Today, GPS is at a technology crossroads. An ideal opportunity exists to embrace a hybrid PNT approach that will result in superior mixed source solutions that still will interface with older installed systems that expect, and can only understand, 100 percent trustworthy GPS. 
+
+David Jedynak is the chief technology officer for the COTS solutions division of Curtiss-Wright Controls Defense Solutions. The views expressed here are his alone.To share or comment.?</text>
+  <imgalttext>
+    <img>The key enabling capability provided for PNT is through the signal transmissions from GPS satellites.</img>
+  </imgalttext>
+</article>

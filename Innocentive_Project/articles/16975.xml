@@ -1,0 +1,30 @@
+<article>
+  <type>blog</type>
+  <title>IARPA Announces Winners of its 3-D Mapping Challenge</title>
+  <author>Sandra Jontz</author>
+  <date>December 1, 2016</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>IARPA</tag>
+    <tag>3-D mapping</tag>
+    <tag>Satellites</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The Intelligence Advanced Research Projects Activity, or IARPA, has selected its winners from its crowd-sourced Multi-View Stereo 3-D Mapping Challenge—a contest to see who could best convert satellite photos into 3-D models to create more accurate maps.
+
+ </abstract>
+  <text>The Intelligence Advanced Research Projects Activity, or IARPA, has selected its winners from its crowd-sourced Multi-View Stereo 3-D Mapping Challenge—a contest to see who could best convert satellite photos into 3-D models to create more accurate maps.
+
+The top challenge solvers demonstrated their solutions during an all-day workshop Wednesday in Washington, D.C. The open source solutions were released during the event and will be made available to the public on an IARPA website.
+
+The winners developed the best algorithms to accurately produce 3-D mappings from satellite photos out of a total of 369 registrants and 24 competitors who responded to the challenge, according to an IARPA news release. The challenge was divided into two segments: the Explorer Challenge marked the first half of the competition and served as a way to introduce solvers to the data set and to prepare them for the follow-on Master Challenge. The online published handles, or code names, of the top three Explorer Challenge winners are sdrdis, carlodef and KevinLaTourette.
+
+In the Master Challenge, solvers were required to take their Explorer Challenge experience to design the strongest possible mapping algorithm. Published Master Challenge winners are psyho, carlito and sdrdis. The solvers won cash prizes from a total prize purse of $100,000 for both challenges, the IARPA release stated. More information about the Multi-View Stereo 3-D Mapping Challenge is posted online.
+
+IARPA, which falls within the Office of the Director of National Intelligence, invests in high-risk, high-payoff research programs.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

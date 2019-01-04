@@ -1,0 +1,41 @@
+<article>
+  <type>blog</type>
+  <title>Have Developers Become Overly Dependent on Dependencies?</title>
+  <author>Marvin Marin</author>
+  <date>August 8, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>DISA</tag>
+    <tag>software</tag>
+    <tag>guest bloggers</tag>
+  </tags>
+  <abstract>One often-overlooked aspect of software development is how much programmers rely on open source libraries and packages for prewritten functions. Using the method makes a new program dependent on the existence and availability of that particular module. If that dependency is not available or the code functionality is broken, the entire program fails.</abstract>
+  <text>One often-overlooked aspect of software development is how much programmers rely on open source libraries and packages for prewritten functions. Instead of writing code from scratch, or even copying and pasting code from one program into a new one, programmers often rely on what is called a dependency, the technical term for a shortcut to code maintained by a cloud service provider. Using the method makes a new program dependent on the existence and availability of that particular module. If that dependency is not available or the code functionality is broken, the entire program fails.
+
+Such a scenario played out in March, when a developer removed the popular dependency Left-pad from the npm repository, a package manager for JavaScript. Left-pad, as the name implies, is a simple piece of code 11 lines long that pads the left side of a string with spaces or zeroes—a very simple function. After it was removed, major frameworks such as Babel and React failed to operate, impacting development for social networking sites such as Facebook, Reddit and Twitter. The fact that hundreds of failures occurred every minute proved too many developers did not understand the consequences of external dependencies and relied too heavily on the JavaScript ecosystem of dependencies. The scale of the disruption highlighted the cybersecurity issue of availability.
+
+Best practices when using dependencies
+
+If you’re developing, managing or accrediting an application within a DOD environment, it’s a good idea to map software dependencies just as operators map hardware and software inventories. Failure to document means they really don’t know what’s in the code. Whenever possible, host your own code. It’s important to make certain that any dependencies added to programs are required and are known to developers. Understand that reliance on third-party code might increase the complexity of requirements within the Application Security and Development Security Technical Implementation Guide (STIG), which should be accounted for in the software development life cycle (SDLC).
+
+If you’re in a position where removing dependencies is not possible and you must rely on third-party code outside of your control, be mindful of risks. For example, the maintainers of the npm repository specifically warned developers that the repository cannot guarantee packages are safe. In March, the U.S. Computer Emergency Readiness Team (US-CERT) issued vulnerability note VU#319816 detailing the possibility of a worm introduced through dependencies.
+
+In addition to the Defense Information Systems Agency STIG, here are some best practices to improve secure coding and provide an authorizing official with sufficient information to assess and accept risk:
+
+Formulate a plan to review dependencies as part of the applications code review in accordance with the Application Security and Development STIG 2.2 Third-Party Software Products and document IAW 3.1.3.2 Identify External Dependencies.
+	Mirror required dependencies or maintain a local source. This is no different than maintaining a backup of essential application source files. A mirror is a secondary source for the dependency that contains the same information as the original source and “mirrors” the information. For example, when Left-pad was removed from the npm repository, a secondary or local mirror could still retain the application and allow normal processing. Always consider the concept that a little copying is better than a little dependency. Remain vigilant with changes to dependencies and ensure they’re reflected in your local website or source.
+	Use a dependency checker tool to review code and check for common vulnerabilities such as the National Vulnerability Database. The Open Web Application Security Project maintains an open source tool under the OWASP Dependency Check project.
+	Accept that the code reviewed today might change in the future, document it and communicate that information within the System Security Plan (SSP) and Plan of Action and Milestones (POA&amp;M).
+These recommendations might decrease the overall risk of using open source software and software dependencies from public repositories. In addition, a component’s assessment and authorization (A&amp;A) section should incorporate reviews of an application’s SDLC and compliance with the Application Security and Development STIG to give senior leaders a comprehensive picture of actual risk. Finally, developers should minimize risks associated with depending on code out of their control. Dependencies might reside in a repository separate from a DOD information system, introducing the possibility of application failure, worms and non-approved functionality that could impact the confidentiality, integrity or availability of the Department of Defense Information Network (DODIN).
+
+Thousands of libraries and routines exist to make a programmer’s life easier. Using these dependencies makes sense, but introduces risk to at least two important aspects of computing: availability and integrity. The disruption of major frameworks due to the removal of left-pad from npm shows how dependencies compromise availability and that the lack of availability of just one small dependency can cause major systems to crash. 
+
+Integrity is another concern. Using third-party code introduces concern about what the code does, what it might communicate and to whom and whether it can be changed to perform other functions after the dependency is incorporated in the application. A benign application can become a cyberthreat if the code is augmented without awareness. When applications depend on third-party applications, code or dependencies, you must verify first and trust second.
+
+Marvin Marin is a program manager and cybersecurity expert for NetCentrics.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

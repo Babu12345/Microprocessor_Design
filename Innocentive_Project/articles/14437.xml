@@ -1,0 +1,55 @@
+<article>
+  <type>article</type>
+  <title>DOD's New Cyber Strategy Concedes Offensive Ops</title>
+  <author>Sandra Jontz</author>
+  <date>April 23, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Defense Department</tag>
+    <tag>Cyberwarfare</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The Pentagon’s new cybersecurity strategy for the first time publicly addresses the department’s option to resort to offensive cyberwarfare tactics as a means to safeguard the military’s information networks. The Department of Defense Cyber Strategy, the second in four years, guides the development of the military’s cyber forces.</abstract>
+  <text>The Pentagon’s new cybersecurity strategy for the first time publicly addresses the department’s option to resort to offensive cyberwarfare tactics as a means to safeguard the military’s information networks.
+
+The Department of Defense Cyber Strategy, the second in four years, guides the development of the military’s cyber forces toward a strengthened cyber defense and cyber deterrence posture—and plans to hold in its arsenal offensive cyber capabilities.
+
+“Indeed, this is one of the world’s most complex challenges today, which is why the Department of Defense has three missions in the cyber domain,” Defense Secretary Ash Carter said Thursday during a speech at Stanford University. “The first is defending our own networks and weapons, because they’re critical to what we do every day. And they’re no good if they’ve been hacked. Second, we help defend the nation against cyber attacks from abroad—especially if they would cause loss of life, property destruction, or significant foreign policy and economic consequences. And our third mission is to provide offensive cyber options that, if directed by the president, can augment our other defense systems.”
+
+ “During heightened tensions or outright hostilities, DOD must be able to provide the president with a wide range of options for managing conflict escalation,” reads a portion of the 33-page report. “If directed, DOD should be able to use cyber operations to disrupt an adversary’s command and control networks, military-related critical infrastructure and weapons capabilities.”
+
+The strategy makes official the whisperings of inner-circle officials and pundits whose murmurs have called for more transparency in the U.S. government’s cyber missions.
+
+“The Pentagon’s cybersecurity strategy document just states clearly what was already an open secret—that cyber weapons exist and have a significant role in modern warfare, and that we are likely to use them when challenged,” Mike Lloyd, chief technology officer for the security analytics company RedSeal, said of the department’s strategy. “Every weapon humans have made has been used sooner or later, and there is no reason to believe the online world is an exception.”
+
+The robust strategy sets five strategic goals for the next five years to confront what experts predict will be an escalation in the number of and sophistication in attacks. It calls for the creation of 133 cyber mission force (CMF) teams by 2018, which when fully operational will include 6,200 military, civilian and contractor support personnel. The strategy calls for improved information sharing and interagency coordination, better collaboration with the private sector and building alliances with coalition nations.
+
+“The most surprising aspect of this strategy is that the government, having listened to the concerns from all levels of government and society, will be transparent in discussion of their cyber offensive measures,” said Adam Kujawa, head of malware intelligence at Malwarebytes Labs. “The one thing that needs to be considered, however, is that while there may be a lot of information, from a high level, about operations, we will most likely not be privy to actual tools, exploits, malware [and] infection means that the government will utilize against its adversaries. At the end of the day, our involvement online goes beyond just the causal entertainment or work needs—we live our lives online, more than ever before. Because of this, the cyber world should be considered a theater where operations can take place."
+
+Carter referenced the Pentagon’s detection earlier this year of Russian hackers who accessed an unclassified network via an old vulnerability in a legacy system that had not been patched.
+
+“While it’s worrisome they achieved some unauthorized access to our unclassified network, we quickly identified the compromise and had a crack team of incident responders hunting the intruders within 24 hours,” Carter said. “After learning valuable information about their tactics, we analyzed their network activity, associated it with Russia and then quickly kicked them off the network, in a way that minimized their chances of returning.”
+
+Still, he’s worried about what he doesn’t know, he said. That was one attack.
+
+“While we in DOD are an attractive target, the cyberthreat is one we all face—as institutions and individuals,” Carter said. “Networks nationwide are scanned millions of times a day. And as we’ve seen, cyber attackers bombard the public websites of banks, make off with customer data from retailers, try to access critical infrastructure networks and steal research and intellectual property from universities and businesses alike, so too have individual citizens been compelled to guard against identity theft.”
+
+It is unlikely that one key incident, which critics like to refer to as a “cyber Pearl Harbor,” will incite an outbreak of a cyberwar, Lloyd said. “Today’s reality has a closer analogy to naval piracy than to World War II. Rather than a great conflict of warring nations, piracy was a scourge based in lawless areas, but that represented a steady back pressure on prosperity, security and trade. Eventually, military means had to be used—cracking down with force on piracy. We face and will face online adversaries ranging from individuals to state-supported pirates, and possibly eventually full-on wars between countries. In that environment, the use of cyber offensive capabilities is inevitable.”
+
+The strategy document, for the first time, mentions concerns about continued cyber espionage by China, known to hack into the systems of businesses, government and academia to steal intellectual property, trade secrets and proprietary information to beat U.S. entities to the market.  
+
+“The new DOD cyber strategy seems to be a step in the right direction to protecting America and its assets,” said Joshua Cannell, malware intelligence analyst at Malwarebytes Labs. “Since the last cyber strategy implementation by the DOD in 2011, the latest strategy is much lengthier—33 pages versus only 13 in 2011—likely because it is intended to be more transparent as stated by Defense Secretary Ash Carter.
+
+“While Carter states the DOD hopes to use transparency in an effort to deter enemies of the United States, it's likely the goal of transparency also exists to help rebuild trust in United States intelligence agencies following NSA document leaks that raised a lot of eyebrows,” Cannell added, referencing the National Security Agency’s surveillance programs leaked by Edward Snowden beginning in June 2013.
+
+Carter traveled to California to woo technology industry leaders to collaborate more with the Pentagon. “Indeed, because American businesses own, operate and see approximately 90 percent of our national networks, the private sector must be a key partner. The U.S. government has a unique suite of cyber tools and capabilities, but we need the private sector to take its own steps to protect data and networks. We want to help where we can, but if companies themselves don’t invest, our country’s collective cybersecurity posture is weakened.”
+
+The strategy addresses plans for exercises to teach cyber experts to operate within degraded and disrupted cyber environments following successful attacks on networks, and calls for the building of the Joint Information Environment (JIE) single security architecture to shift the focus from protecting service-specific networks and systems to securing the whole of the DOD enterprise. It necessitates a layered defense around the Defense Industrial Base through improved accountability, ?cybersecurity standards, counterintelligence and whole of government efforts to counter IP theft.
+
+“Cyber attacks are on the rise and the stakes are high,” said Eric Chiu, president and co-founder of the cloud control company HyTrust. “With the rapidly changing landscape, it is great to see the Pentagon release a new cybersecurity strategy, especially with our nation and economy at risk. We are fighting an invisible enemy that is usually already on the inside and is highly motivated to steal our secrets, intellectual property and private data or cause destruction. Looking at the major breaches over the last 18 months including Anthem, Target, Home Depot, Sony and Snowden, every company and government agency should take notice.”</text>
+  <imgalttext>
+    <img>Defense Secretary Ash Carter delivers a lecture, "Rewiring the Pentagon: Charting a New Path on Innovation and Cybersecurity," at Stanford University in California on Thursday. The lecture highlights the Pentagon's new cyber strategy and innovation initiatives.</img>
+  </imgalttext>
+</article>

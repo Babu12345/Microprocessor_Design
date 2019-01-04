@@ -1,0 +1,50 @@
+<article>
+  <type>article</type>
+  <title>Finding Your Way In Time</title>
+  <author>Sandra Jontz</author>
+  <date>March 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>PNT</tag>
+    <tag>GPS</tag>
+  </tags>
+  <abstract>The world’s most well-known navigation and positioning system is just so good, researchers are looking for alternatives.</abstract>
+  <text>The world’s most well-known navigation and positioning system is just so good, researchers are looking for alternatives.
+
+Government scientists and industry partners are exploring miniaturized battery-powered atomic clocks, Earth-based satellites, jam-resistant antennas and cameras as navigational systems to reduce risk from overdependence on the Global Positioning System (GPS). 
+
+The Defense Advanced Research Projects Agency (DARPA) this year will launch a bold and enterprising project to create a modern-day breakthrough in atomic clocks. “The history of human knowledge is reflected in our clock technology,” says Robert Lutwak, program manager for the agency’s Atomic Clocks with Enhanced Stability (ACES) project. “Over thousands of years, you can track human engineering by looking at the quality of our clocks. It’s always been at the cutting edge of technology. And really, the most accurate instruments on the planet right now are clocks.” 
+
+He wants 2016 to be as disruptive as GPS was years ago and hopes to fully kick off the 42-month ACES program in September to give warfighters a revolutionary upper hand in addressing positioning, navigation and timing (PNT) needs. ACES should create a new generation of palm-sized, battery-powered atomic clocks that perform up to 1,000 times better than the current generation, Lutwak says. “It will take a collaboration of teams with skill sets from diverse fields, including atomic physics, optics, photonics, microfabrication and vacuum technology, to achieve the unprecedented clock stability that we seek.
+
+“All of our modern communications, navigation and electronic warfare systems as well as our intelligence, surveillance and reconnaissance systems depend on accurate time-keeping,” Lutwak adds. “If ACES is successful, virtually every Defense Department system will benefit.” 
+
+Researchers are striving to develop real-time PNT solutions for military and civilian uses that are as reliable as GPS and counter its Achilles’ heel: that it can be denied with relative ease. A few years ago, for example, a New Jersey man managed to interfere with Newark Liberty International Airport’s satellite-based tracking system when he used an illegal GPS jamming device in his vehicle—all just to hide his whereabouts from his employer. Disruptions to the airport’s system were mere unintended collateral damage; imagine the possible damage nefarious actors could inflict. 
+
+“GPS is the world’s best navigation system and is the best navigation system ever built by man, yet it has some drawbacks,” says Lin Haas, program manager for DARPA’s Strategic Technology Office. “It doesn’t work where it was not designed to work—so it doesn’t work underwater because it was never designed to work underwater. It doesn’t work inside buildings because it was never designed to work inside buildings.
+
+“GPS is so good at what it does that, as a result, the military has latched onto it,” Haas continues. “GPS is the predominant means by which the military determines position and time because it’s so accurate. What that means is GPS has pretty much displaced all of the other ways, the old ways, we used to navigate, albeit the old ways were not as accurate.”
+
+In a way, what’s old is new again for researchers. DARPA’s Adaptable Navigation Systems (ANS) project will develop architectures and algorithms to let troops use just about every sensor at their disposal, such as video cameras, to navigate. Additionally, the effort aims to create better inertial measurement units (IMUs) and devices that rapidly and seamlessly integrate into existing navigation systems. “Over the past two decades, the field of robotics has done a lot for extracting features out of imagery and tracking those features as the robot moves through a given environment,” Haas says. “We’ve been building upon those capabilities and using the capabilities for the purposes of navigation.”
+
+The ANS addresses three basic challenges: Develop IMUs that require fewer external position fixes; establish alternatives to GPS for those external position fixes; and cultivate algorithms and architectures for a sort of plug-and-play solution to rapidly reconfigure navigation systems using nontraditional sensors. “You can’t just pull one IMU out and put another manufacturer’s IMU in and expect to get the same performance,” Haas explains. “Our navigation systems tend to be finely tuned, and as a result they are fairly brittle in terms of accepting new sensors without a lot of hands-on time to make it work.”
+
+The goal is not to wean the military from GPS but to provide equally accurate alternatives in GPS-denied and degraded environments. “People get addicted to GPS and its accuracy,” Haas says. “They’re used to having that accuracy wherever they are. Yet people spend a lot of time indoors, and GPS was not designed to work indoors. How can they get that same level of accuracy indoors? Some of the technology that we are developing may enable that in the future.”
+
+Field demonstrations on air-, ground- and sea-based platforms so far all proved successful, though Haas says he cannot publicly discuss details yet. “What I’ve been most pleased with is how quickly we were able to assemble a completely new navigation system without any software changes,” he says. DARPA partners on the ANS project include SRI International and Leidos’ Modeling, Simulation and Training Division in the company’s national security sector.
+
+System redundancies will make the ANS more secure, Haas adds: “The fact that ANS can extract position and time from a much larger variety of sensors means there is built-in redundancy. You can cross-check across your sensors for agreement, and that should lead to a higher level of integrity. The flip side way of looking at that: It’s going to be harder to deny a wider variety of sensors than it would be to deny just a single sensor.”
+
+Across the Defense Department PNT communities, smaller is better as researchers delve into miniaturizing high-performance capabilities while concentrating on creating low cost, size, weight and power (CSWaP) solutions for precision navigation. “We are at a very high point of heightened awareness of the importance of PNT to the warfighter,” says Paul Olson, chief engineer in the PNT division of the Command and Control Directorate at the U.S. Army’s Communications-Electronics Research, Development and Engineering Center, or CERDEC. “We’re seeing here a growing dependence on PNT for all of the elements on the battlefield. The PNT information feeding these systems is becoming much more integrated, … and that’s because of the success GPS has had. We are very concerned about what happens when we lose GPS.”
+
+CERDEC is working on overarching projects in four areas of vehicle-based systems as well as dismounted systems and antijam antenna pseudolite systems, the latter essentially a terrestrial-based satellite system. “It might be flying in an aircraft a few thousand feet above the Earth, or it could be on a vehicle right down on the [ground] or in a tent,” John Del Colliano, chief of the PNT Integrated Systems Branch at CERDEC, says of pseudolite technology, whose name combines pseudo and satellite.
+
+The technology mimics traditional GPS but offers a huge improvement over its weak signal capabilities. “Being so much closer, the signal is so much stronger, and because it’s so much stronger, we are much more likely to be able to get the signal, even in an adverse environment,” Del Colliano says.
+
+CERDEC-tested pseudolites passed the feasibility phase and now are going through the acquisition process. The center is working on three legs of the pseudolite technology: the transmitters, the receivers and a command and control element. Rockwell International and L-3 are developing the transmitters, while CERDEC is appealing to industry for solutions to the “trickier” receiver element, Del Colliano says. “We want to use current military GPS receivers. We don’t want to invent new ones, so we are going to the manufacturers of current military GPS receivers, anybody who builds military GPS receivers … and have them modify their software to accept pseudolite signals in their current devices as well as future devices.”??</text>
+  <imgalttext>
+    <img>Across the Defense Department positioning, navigation and timing (PNT) communities, researchers strive to develop real-time PNT solutions that are as reliable as GPS to overcome vulnerabilities posed when forces operate in a GPS-denied environment.</img>
+  </imgalttext>
+</article>

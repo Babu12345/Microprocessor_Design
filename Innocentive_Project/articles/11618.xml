@@ -1,0 +1,33 @@
+<article>
+  <type>article</type>
+  <title>New Systems Seek to Connect Troops at the Tip of the Spear</title>
+  <author>Henry S. Kenyon</author>
+  <date>September 4, 2013</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>SIGNAL Online Exclusives</tag>
+    <tag>Army Technologies</tag>
+    <tag>mobile</tag>
+    <tag>Networks</tag>
+    <tag>research and development</tag>
+    <tag>Tactical Operations</tag>
+  </tags>
+  <abstract>Two ongoing military programs, the ready-to-deploy Solider Network Extension (SNE) and the Content-Based Mobile Edge Networking (CBMEN) program now in prototype, aim to connect troops at the very tactical edge back to larger military data and communications networks. These programs—one service-oriented, the other an agency effort—are part of the Defense Department’s thrust to make warfighters, especially individual soldiers in small units, more connected.</abstract>
+  <text> 
+Two ongoing military programs, one getting ready to deploy and another still in the prototype stage, aim to connect troops at the very tactical edge back to larger military data and communications networks. These programs—one service-oriented, the other an agency effort—are part of the Defense Department’s thrust to make warfighters, especially individual soldiers in small units, more connected.
+	The U.S. Army is deploying a new tactical networking system to keep its mobile forces at the company level connected. Known as the Soldier Network Extension (SNE), the system is currently installed in Army mine-resistant, ambush protected all-terrain vehicles and is preparing to deploy to Afghanistan. The SNE is a key part of the Warfighter Information Network-Tactical (WIN-T), Increment 2 network because it serves as the extension of that larger network down to the company level.
+	An extension at the tactical level is especially important as coalition forces change their tactics in Afghanistan and become more dispersed in their operations. The SNE allows those widely scattered units to remain in contact with their battalion headquarters, Army officials state.
+	The officials add that the SNE is also the first capability able to provide lower echelon units with the ability to connect back to the Defense Department’s Global Information Grid. “Having the SNE down at the company level facilitates real time situational awareness throughout the entire maneuver brigade combat team formation by restoring lower tactical Internet (TI) radio networks, sometimes limited by distance or terrain features,” states Lt. Col. Lamont Hall, USA, product manager for WIN-T Increment 2.
+	A key part of the SNE is its ability to use a vehicle’s on-the-move satellite communications (SATCOM) capability to keep TI networks linked back to the main Defense Department networks. Via the SNE’s Combat Net Radio extension, the system can greatly increase the range a variety of tactical waveforms such as the Soldier Radio Waveform, the Enhanced Position Location Reporting System, and the Single Channel Ground and Airborne Radio System by routing them through a vehicle’s SATCOM system.
+	The SNE is being fielded as part of the larger WIN-T Increment 2 capability set (CS). CS 13 is the first collection of fully tested and integrated equipment and software to be issued to active forces. It includes radios, satellite systems, software applications, smartphone-like devices and other network devices designed to provide connectivity between fixed command posts, vehicles and dismounted infantry.
+	But the Defense Department also is interested in getting network access down to the individual soldier. Achieving this is the goal of the Defense Advanced Research Projects Agency’s (DARPA’s) Content-Based Mobile Edge Networking (CBMEN) program. CBMEN relies on the processing power of modern smartphones to turn each device into a server, allowing data to be generated, and distributed in a tactical environment.
+	The system works by linking up troops within communications range of a variety of devices—radio, cellular, Wi-Fi. It automatically retransmits and shares updates, creating a local tactical cloud that grows and shrinks as users move in and out of range with each other.
+	Working in the background on soldiers’ devices, the CBMEN software automatically transfers information between individual soldiers and squads, making the system resistant to communications disruptions. According to DARPA, CBMEN essentially creates a secure front line cloud service that provides content to warfighters with decreased latency and increased availability.
+	“There’s more computing power and memory in my smartphone than the supercomputer I used in college,” notes DARPA program manager Keith Gremban. “With 64 gigabytes of storage in a single smartphone, a squad of nine troops could have more than half a terabyte of cloud storage. CBMEN taps into that huge capacity.”
+	The system recently has undergone successful field tests at Fort A.P. Hill, Virginia, where it was loaded onto Android-based smartphones and Army Rifleman Radios. This marked Phase 1 of the program, DARPA officials state.
+	Phase 2 of CBMEN launched in August with the goal of maturing the technology. According to DARPA, this next part of the program seeks to demonstrate improved mission support in a complex joint-content-sharing environment between Army and Marine Corps networks using military radios and commercial smartphone Wi-Fi capabilities.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

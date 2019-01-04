@@ -1,0 +1,52 @@
+<article>
+  <type>article</type>
+  <title>Security, Modularity Drive Navy Cyber</title>
+  <author>Robert K. Ackerman</author>
+  <date>February 1, 2017</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>U.S. Navy</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>Cleaner, more modular software that can be updated with less fuss tops the U.S. Navy’s wish list as it girds its fleet for warfighting in cyberspace.</abstract>
+  <text>Cleaner, more modular software that can be updated with less fuss tops the U.S. Navy’s wish list as it girds its fleet for warfighting in cyberspace. These advances would not only help the service stay atop the wave of information system innovation but also contribute to better security amid growing and changing threats.
+
+The Navy wants industry to develop operating systems and software from the start with fewer bugs. These software products should have fewer vulnerabilities that can be exploited by an adversary, which compound the service’s efforts at cybersecurity.
+
+“We tend to continue to use code that has vulnerabilities over and over again in the commercial world, and industry can help drive the requirement to really clean up some of the code that’s already there,” offers Rear Adm. Nancy A. Norton, USN, director of warfare integration for information warfare in the Office of the Chief of Naval Operations (OpNav) and deputy director of Navy cybersecurity. 
+
+Another vital need is for the Navy to be able to update its capabilities rapidly without extensively testing all its software, she adds. Currently, when an operating system undergoes a major upgrade, every application riding on it must be tested and modified accordingly. This is a long and laborious process the Navy would like to reduce or eliminate.
+
+Above all, the service needs systems that are more modular and can be upgraded quickly at both the software and hardware levels, the admiral emphasizes. Upgrades then can be paced in much tighter and faster cycles. “Adversaries in cyberspace are working very quickly and have the ability to find new vulnerabilities and begin to exploit them almost immediately,” she notes. “Our ability to upgrade our systems to defend against those same vulnerabilities works at the pace of acquisition and deployment cycles—yearslong processes, in some cases.” Adopting the modular approach could shorten these cycles substantially.
+
+Adm. Norton also wants industry to examine its own methodologies to ensure that contractors are not vulnerable to leaving back doors into Navy systems open. Even absent a back door into a Navy network, a contractor could inadvertently allow access to critical acquisition information.
+
+Cyber has made a big difference in everything the Navy does, the admiral relates. With cyber defined as a warfighting domain, the Navy is changing many of its operations and capabilities to fully network its force. Networking the force has altered its nature considerably, and now the characteristics brought by networking are undergoing changes of their own. 
+
+One way the force has changed is that it can conduct considerably more distributed operations today than in recent years. Where carrier strike groups had been the nucleus of naval operations, now the Navy is breaking off elements of the groups to pursue various operational requirements. These separate elements still can communicate and exchange information as well as reaggregate when necessary, and these capabilities apply to all parts of the seaborne force. For example, combat systems can share data from their onboard sensors with other ships and even aircraft. The result is a more timely and accurate situational awareness picture, the admiral observes. This is not lost on adversaries, who strive to disrupt or corrupt that flow of data among Navy users.
+
+The service’s great reliance on networking becomes a vulnerability quickly, Adm. Norton points out. To keep ahead of adversaries and to stay on top of innovations, the Navy works to implement software upgrades as swiftly as possible, she states. This avoids the problem of committing wholesale changes to elaborate and expensive seagoing platforms.
+
+Upgrading systems requires major investments because many were designed and built over decades when cybersecurity was not a concern. The Navy, along with the other military services, has had to look at all its systems—including hull, mechanical, electrical and weapon systems, not just information systems—in light of potential cyberthreats and vulnerabilities. This constitutes one of the service’s two major cybersecurity challenges, Adm. Norton states.
+
+The other challenge involves building resiliency into its operations in degraded environments. Assuming all these modern systems always will be available to the Navy when they are needed is flawed planning, she warns. “We have to be ready to understand what would happen to us if some of our systems went down and how we would continue to operate and maintain our mission effectiveness in a degraded or denied environment—regardless of the cause,” the admiral says.
+
+The Navy is striving to improve its information system situational awareness, including both its networks and the networking of other systems. Factors include the kind of data flows between the systems as well as what constitutes normal and abnormal activities. Rapid detection and assessment of abnormalities must be accompanied by mitigation measures, Adm. Norton notes.
+
+The service also is working on control points—boundary protection­—to isolate hostile activity and prevent its spread between systems. Simultaneously, it is working to increase the capability of an individual system, or system of systems, to protect itself. Being able to monitor each of these systems at the edges helps isolate their problems, which allows for phased changes to the systems, the admiral offers. 
+
+Yet with all the technology, at the core of cybersecurity is personnel. Everyone operating on the network is responsible for security, Adm. Norton allows, beginning with cyber hygiene at the individual and program levels. Navy cybersecurity training for users ranges from general awareness training across the entire service to leadership training that focuses on commanders’ responsibilities. System developers and acquisition professionals also receive specialized training so they can understand the requirements they must build in or buy in for their programs, the admiral emphasizes.
+
+The Navy is building up its Cyber Mission Force by equipping personnel with advanced and complex skill sets, she continues. The service must be able to retain these skilled professionals while recruiting talent in the face of strong competition from the commercial sector.
+
+The Navy also recognizes that cyber has ushered in a need for greater interoperability with the other services. The need varies according to command and mission, the admiral points out. Teams from other services may be integrated with their Navy counterparts either through a single combatant command or multiple commands that share mission sets. “Very little of what we do at the tactical level is internal to just one combatant commander,” she says, adding, “When you are talking about cyberspace, you almost inherently are talking about crossing geographic domains.” All cyber operators must work together with their counterparts in other services, she emphasizes.
+
+The Navy is undertaking extensive work on specific mission sets in which it taps cyber operators from other services to focus on those sets, the admiral says. For example, in missile defense, the Navy, Army and Air Force each perform work. Some Navy cyber operators cooperate with their service counterparts to ensure that missile defense cyber is resilient and protected to the maximum degree possible.
+
+Ultimately, Navy leaders must understand and support the need for security. Having acquired systems for many years without built-in security, the Navy needs budget and acquisition support for new systems with this feature. Built-in security must take into account potential future systems and capabilities, she says. “It results in a request for the funding to have a different approach to how we build our systems and how we think about the vulnerability that goes along with the amazing capability that cyber has given us,” Adm. Norton declares.</text>
+  <imgalttext>
+    <img>An aviation electronics technician first class performs maintenance on a mission computer aboard an MH-60R Seahawk helicopter on an aircraft carrier. The U.S. Navy seeks better computer and information systems for faster upgrades and less vulnerability to cybermarauders. </img>
+  </imgalttext>
+</article>

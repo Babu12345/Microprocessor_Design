@@ -1,0 +1,21 @@
+<article>
+  <type>blog</type>
+  <title>Webinar Dec. 9: "Data at Rest Protection"</title>
+  <author>H. Mosher</author>
+  <date>December 4, 2008</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Webinars</tag>
+  </tags>
+  <abstract></abstract>
+  <text>The next SIGNAL Webinar, "Data at Rest Protection: An Integral Part of an Enterprise Data Protection Strategy," will be on Tuesday, December 9 at 12 Eastern. Here's the description:
+
+Government agencies and enterprises require an Enterprise Data Protection (EDP) solution to effectively secure their data from the "core" where key data repositories exist, across networks, and all the way to the "edge" where the data is used - a perimeter defense will no longer suffice in today's world. A truly comprehensive EDP solution includes database / server encryption, network encryption, key management systems, disk &amp; file encryption, and authentication tokens.
+
+This webinar will focus on one element of Enterprise Data Protection, the role of data at rest protection in encrypting your sensitive data and allowing you to save money in the process. Encrypting the data ensures that it cannot be compromised while it is residing on databases, laptops, or file servers. Encrypting data also ensures that it is rendered useless to the attacker should a security breach occur. 
+
+Click here to register.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,36 @@
+<article>
+  <type>blog</type>
+  <title>The Benefits of Automation for Sensitive Content Management</title>
+  <author>Tod Tompkins</author>
+  <date>October 21, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Information Sharing</tag>
+    <tag>NATO</tag>
+  </tags>
+  <abstract>The increased focus on the sharing of information—whether among U.S. agencies or with international allies—has resulted in an expanded reliance on content management systems. These platforms enable collaboration on an enterprise-wide scale, letting groups across the Defense Department and NATO effectively share mission-critical information and documentation. </abstract>
+  <text>When NATO recognized cyberspace as a “domain of war,” the designation committed all alliance members to provide military support for “crisis-management operations.” The move speaks volumes. 
+
+A NATO-issued fact sheet sets the ground rules for the alliance’s defense of the cyber sphere. It highlights NATO’s focus on cooperating “with industry, including on information sharing, the exchange of best practices and the exploration of innovative technologies to enhance cyber defense. Allies have also committed to enhancing information sharing and mutual assistance in preventing, mitigating and recovering from cyber attacks.”
+
+The increased focus on the sharing of information—whether among U.S. agencies or with international allies—has resulted in an expanded reliance on content management systems. These platforms enable collaboration on an enterprise-wide scale, letting groups across the Defense Department and NATO effectively share mission-critical information and documentation. 
+
+Content management systems offer a certain level of security that’s greatly enhanced when an administrator manages user credentials and access to content. In military environments, this becomes more challenging as each piece of content has varying levels of sensitivity and each user various levels of access. 
+
+Adding industry and international counterparts into the mix elevates that challenge. How can we advance collaborative environments while retaining the necessary controls that ensure the right information is accessed by the right individuals at the right time? Here are some key steps the DOD should prioritize as it moves forward with content management system deployments.
+
+At the outset, agencies should assign appropriate permissions to individuals based on the level of sensitive content they can access. This provides a baseline to limit and monitor access to documents.
+	Incorporate machine learning. Advanced capabilities leverage context-aware identification, filtering and classification of all content within a collaboration environment. This is essentially a digital forensic analysis function that provides an overall content status.
+	Machine learning also lets agencies automatically detect sensitive information with a high degree of accuracy. Whether they handle personally identifiable information (PII) or tactical operations data, agencies can identify, track and secure documents using advanced neural network capabilities, providing a greater awareness into the different information classification levels.
+	When sensitive information exceeds permission thresholds, take action. The ability to alert, isolate and remove file access in near real-time is critical. This mitigates the possibility of information being viewed by those who do not have the proper authorization, as well as the possibility that documents are inadvertently (or advertently for that matter) downloaded or shared.
+	Once established, policies and permissions must be continuously managed and enforced for the system to remain protected. This includes performing an electronic analysis of files as they are created, modified, moved or destroyed, with the ability to block or quarantine files that do not meet policy specifications until physically approved by an administrator. 
+	Conduct regular compliance and security audits. Every collaboration system requires checks and balances. So the ability to easily generate reports to provide validation that permissions and accessibility measures are working properly is a requirement for any content collaboration system. Agencies need to have a central repository for all of this information, providing one-click reporting to quickly answer audit requests and remain in compliance.
+Information sharing and collaboration is the lifeblood of today’s modern military and will only increase in importance as nations works more closely with global allies to address threats. As the proliferation of collaboration and content management systems that enable this transformation continues, the ability to silo content by accessibility levels—then electronically monitor, detect and enforce permissions—will be a significant factor in how successful these systems function. Integrating advanced automation capabilities into collaboration platforms serve as a major step in the right direction. 
+
+Tod Tompkins is vice president of public sector at Metalogix Software.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

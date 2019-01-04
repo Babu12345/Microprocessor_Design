@@ -1,0 +1,37 @@
+<article>
+  <type>article</type>
+  <title>Defense Department's DREN System Gets High-Speed Supercomputing Upgrade</title>
+  <author>Sandra Jontz</author>
+  <date>July 14, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>Most of the Defense Research and Engineering Network has received a major upgrade, providing U.S. military researchers with access to an unprecedented fast fiber optic network connecting five supercomputing centers at speeds 16 times faster than present rates.</abstract>
+  <text>Most of the Defense Research and Engineering Network (DREN) has received a major upgrade, providing U.S. military researchers with access to an unprecedented fast fiber optic network connecting five supercomputing centers at speeds 16 times faster than present rates.
+
+The DREN (pronounced dee-ren) links more than 4,300 scientists at 150 user sites, including government laboratories, test centers, universities and commercial locations. The upgrade from 10 gigabits to 40 gigabits permits the transfer of massive amounts of data at much quicker speeds than the rest of the military network, giving those in the Defense Department’s research and development community their own operational network. 
+
+Now in its third generation, DREN III is part of the High Performance Computing Modernization Program (HPCMP) mission to provide robust, high-capacity, low-latency connectivity between the HPCMP and all of the nationwide centers via a virtual wide area network built on a commercial communications network.
+
+“We’re increasing the capacity to those high-performance computer research centers by 16 times,” says Greg Taylor, area vice president for Defense Department sales for CenturyLink, which received the DREN III, 10-year lifecycle indefinite delivery, indefinite quantity contract in December 2012. The firm partnered with LGS Innovations for the endeavor.
+
+The DREN is the Defense Department’s first fully IPv6-enabled network and provides legacy support for IPv4.
+
+“Going to 40 gigabits—the private industry is not even there yet in a lot of cases,” Taylor says. “The DREN community is really pushing the bandwidth capability, pushing the envelop for what the next new technology on the network will be. It usually will roll out on the DREN network before the other DOD networks.”
+
+The first sites to upgrade to the 40-gigabits connection are the Navy DOD Supercomputing Resource Center (DSRC) at the John C. Stennis Space Center, NASA’s rocket testing facility; the Army’s Engineer Research and Development Center, the research and development laboratory complex for the Army Corps of Engineers; and the Air Force Research Laboratory at Wright-Patterson Air Force Base. The upgraded service is expected for the Army Research Laboratory at Aberdeen Proving Ground later this summer. No timeline has been provided for the upgrade to the Maui High Performance Computing Center in Hawaii.
+
+LGS provides the Alcatel-Lucent’s 7750-SR12 carrier-grade service router—which can support upward of 400 gigabits of service, says Paul Selby, president of the products, solutions and applications division at LGS. “This same platform, without having to go in and revamp the network or do a forklift upgrade, they’ll be able to ensure that not only are their requirements today being met, but in the future they’ll be able to have 100G, 200G, 400G capacity on the same platform.”
+
+DREN speeds range from 50 megabits to 40 gigabits per second, depending on the site, and are delivered through a mix of Ethernet, Internet protocol and optical wavelength services.
+
+“One of the challenges we had was getting access to the five supercomputing locations,” Taylor says. “Usually, you’ve got an area telephone service provider for the service. But nobody had that bandwidth available to those end users, so we had to invest and build our own network into these locations, especially putting the fiber optic cables into all of those locations.”
+
+Selby likened the feat to laying new railroad tracks for a new high-speed train. “CenturyLink provided the train racks and LGS is providing the high-speed train. Now that the tracks are there, the tracks can be used to service other customers, not necessarily just our high-speed train.”</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

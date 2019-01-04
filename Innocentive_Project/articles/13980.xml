@@ -1,0 +1,80 @@
+<article>
+  <type>blog</type>
+  <title>Guest Blog: Effectively Monitoring Video Traffic</title>
+  <author>Ed Bender</author>
+  <date>January 5, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Video</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Outside the world of government, video traffic is mostly about watching clips on YouTube and streaming a favorite Netflix series. Within the government, particularly the Defense Department, video traffic—more specifically videoconference calling—often is far more mission critical.</abstract>
+  <text>Outside the world of government, video traffic is mostly about watching clips on YouTube and streaming a favorite Netflix series. Within the government, particularly the U.S. Defense Department, video traffic—more specifically videoconference calling—often is far more mission critical.
+
+The Defense Department uses video for a broad range of communication, from training to ongoing collaboration via multiple streaming sources and mission-critical video feeds throughout the network infrastructure. One of the most critical uses is video teleconference (VTC) inside and outside of the United States and across multiple areas of responsibility. Daily briefings—via VTC over an Internet protocol (IP) connection— that take place from command staff to higher and lower echelons are critical communications tools that help keep everyone working in sync to accomplish the mission. Skilled leaders know that nonverbal communication contributes significantly to the effectiveness of communication overall. Academic studies have indicated that a majority of communication effectiveness is determined by nonverbal cues. It is no wonder that VTCs routinely are used by the Defense Department for important meetings.
+
+Since successful VTCs provide significant improvements to communication effectiveness, you can see why it is so important for the network to be configured and monitored to ensure that VTCs operate effectively. So how do you best monitor and manage VTC traffic quality?
+
+VTC and network administration tasks boil down to a few key points when utilizing VTC systems:
+
+Ensuring the VTC system is up and operational (monitoring)
+	Setting up the connections to other endpoints (monitoring)
+	Ensuring that the VTC connection operates consistently during the call (quality of service)
+	Troubleshooting at the VTC system level (VTC administration), and after the connection to the network, the network administrator takes over to ensure that the connection stays alive (monitoring/configuration)
+Ensuring Quality of Service for Video over IP
+
+The DOD has developed ways to ensure successful live-traffic streaming over an IP connection. These requirements focus on ensuring that video streaming has the high throughput it requires. And VTCs there are subject to much tougher requirements than simple video streaming; both low latency and high throughput are needed among all endpoints of a VTC. Configuring the DOD network to support effective VTCs is challenging, but it is done through implementing quality of service (QoS).
+
+For a VTC to be successful, the video and audio data must arrive at all endpoints in a timely manner—to network engineers, this means “with low latency.” Increasing the latency, or delay, in picture or sound delivery can make it difficult to communicate effectively. A typical problem with high latency connections is that people inadvertently “talk over” each other as can be seen when news reporters talk live over satellite connections—the news reporters must wait for the other side to respond to a question or comment.
+
+Implementing QoS on a network and then monitoring the effectiveness of those QoS settings is the way to meet the stringent requirements. Enabling and configuring the QoS settings on routers allows each router to prioritize traffic when bandwidth utilization increases. If a section of your wide area network (WAN) reaches 100 percent utilization, some traffic must be dropped—your router makes that policy-based decision according to QoS rules you’ve determined in advance. The QoS policies also allow certain high-priority packets of data to “jump to the front of the line” on that router at the expense of other packets, helping ensure low latency for VTCs while slowing traffic such as email that is not sensitive to latency.
+
+How do you ensure those QoS settings are in order, traffic is flowing as expected and that VTC traffic is coming through? Follow these four steps:
+
+Step 1: Establish priorities. VTC traffic will need high priority. Email would likely have the lowest priority, while streaming video (vs. VTC) will likely have a low priority as well.
+	Step 2: Test your settings. You’ve set up your QoS settings so that VTC traffic has the highest priority. Are you sure? Testing is one of the most critical steps in any configuration scenario. You don’t want to find an error during a live videoconference, especially one involving senior leadership.
+	Step 3: Implement your settings. Configuring all your routers correctly and ensuring changes are implemented properly can be difficult. Consider an automated configuration management tool to speed the process and eliminate errors that can accompany manual implementations.
+	Step 4: Monitor your network. Once everything is in place, monitor to make sure policies are being enforced as planned and learn about network traffic to enhance the effectiveness of your policies. Especially monitor your routers that have QoS enabled to know when they drop traffic and what kind of traffic is dropped.
+The final two steps together often are seen as the next phase of effectively monitoring video traffic: managing the network.
+
+Managing the Network
+
+Configuring and monitoring together comprise network management. That said, let’s address each separately as each plays an equally important role in effectively monitoring video traffic.
+
+Network configuration is no small task. Initial configuration and subsequent configuration management ensure routers are configured properly, traffic is prioritized as planned and video traffic is flowing smoothly.
+
+As stated above in Step 3, consider using network configuration management software that automates the configuration tasks of implementing complex QoS settings.
+
+Your network configuration solution should support the automation of:
+
+Pushing out QoS settings to the routers: QoS settings are fairly complex to implement. Once the detailed planning and testing of which QoS settings work best, it is important that implementation of settings is not done manually, which is prone to errors.
+	Validating that the changes have been made correctly: After the settings are implemented on a router, it is important to back up or download the configuration settings to compare them to the required settings.
+	Periodic (perhaps daily) downloading and validation of the configuration settings and notification of any changes to the network operations team.
+Network monitoring is the final step, though it is equally as important as the configuration steps. This is where your final validation takes place and where you gather critical network information.
+
+Your network monitoring solution should provide you with of the following information:
+
+1. When and where is my network infrastructure busy?
+
+Maybe there is a database backup or OS backup scheduled at the same time as a weekly in-theater VTC. It’s critical to know when and where your network bandwidth is maxed out – these are your network “hot spots.” Identify these hot spots using interface bandwidth utilization, quality of experience, or NetFlow and QoS information.
+
+2. Who is using the network at those hot spots and for what purpose?
+
+If you’re reaching bandwidth capacity, understanding who is using the most bandwidth, and for what purpose, will help you prioritize. If streaming video-based training is taking place during the time of a critical weekly VTC, you have the ability to reach out to the training staff and discuss alternative training time slots.
+
+3. When is the router dropping traffic, and what types of packets are being dropped?
+
+You’ve established priorities, tested and implemented the QoS settings. Gathering information on whether or not the router is dropping traffic—and what traffic is being dropped—is essentially understanding if the system is working correctly. This information can also help you reprioritize based on changing demands or changing circumstances.
+
+4. Identify if your side or the far side of the VTC call systems are up and operational, or if that shared link to the other VTC systems haven’t been switched over to the correct system.
+
+5. Identify via node and interface baselines to identify abnormal spikes during the day.
+
+What are your best practices for ensuring video traffic gets through? Do you have any advice you can share?
+
+Ed Bender is lead federal systems engineer at IT management software provider SolarWinds, based in Austin, Texas.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

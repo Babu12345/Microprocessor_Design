@@ -1,0 +1,26 @@
+<article>
+  <type>blog</type>
+  <title>Simpler May Be Better for Stopping Cybermarauders</title>
+  <author>Robert K. Ackerman</author>
+  <date>April 22, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Defensive Cyber Operations Symposium 2016</tag>
+  </tags>
+  <abstract>Piling on complex network security measures actually may aid cyberthreats by preventing their early detection and isolation.</abstract>
+  <text>Time is of the essence in detecting and protecting against cyber intruders, but some security measures actually work counter to their goal by increasing the difficulty for managers to fight intruders. In their haste to provide the best network security possible, these managers have hindered their ability to rid their system of many types of malware.
+
+This was one of several points discussed by an industry representative giving the plenary address on the final day of the 2016 Defensive Cyber Operations Symposium (DCOS), held in the Washington, D.C., convention center April 20-22. Marty Roesch, vice president and chief architect, Cisco Security Business Group, explained that, at a certain point, bringing in additional security capabilities adds to the complexity of the environment and reduces security effectiveness.
+
+“Timeliness—time to detection, time to response—is utterly critical,” Roesch warranted. Unless intruders are detected early, they can embed their own backdoors, Trojan horses or other malware that can do their bidding far beyond the traditional attack period. “The longer cyber attackers are in, the harder they are to get out,” he emphasized.
+
+And this threat is growing in size and danger. “The hacker economy is three to five times the size of the security industry,” Roesch continued. “And, effective ransomware that can spread itself is going to be a huge market for the hackers.”
+
+Automation is a key to faster detection and remediation. “If we’re depending on operations teams and human brains to manage the complexity of our systems, we’re fooling ourselves,” he offered.
+
+Ironically, the increased awareness in cybersecurity may be having a counterproductive effect. “The awareness of hacking is so pervasive, people are starting to have doubts they can ever have security,” Roesch said.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

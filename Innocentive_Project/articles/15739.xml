@@ -1,0 +1,49 @@
+<article>
+  <type>article</type>
+  <title>Balancing Air Technology Needs Today and Tomorrow</title>
+  <author>George I. Seffers</author>
+  <date>March 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Air Force</tag>
+    <tag>Cybersecurity</tag>
+    <tag>air operations</tag>
+  </tags>
+  <abstract>The U.S. Air Force science and technology community is returning to a proactive approach to developing transformational technologies. The shifting focus will provide a smoother transitional path for cutting-edge capabilities.</abstract>
+  <text>The U.S. Air Force science and technology community is returning to a proactive approach to developing transformational technologies. The shifting focus will provide a smoother transitional path for cutting-edge capabilities, get technologies into the hands of warfighters more quickly and help project air power around the globe.
+
+Greg Zacharias, the service’s new chief scientist, says the Air Force must meet the needs of both current and future warfighters. “We moved to a more reactive than proactive development framework. That’s not to say that being reactive is not a good thing because there are lots of issues that the current operators need solved for them,” Zacharias notes. “It’s a question of balance and how to invest in the future versus solving the problems of today.”
+
+The Air Force once excelled at the proactive, long-term approach but has moved away from that in recent years, he indicates. “What’s going on now are efforts to rekindle the exploratory focus that the Air Force was really very strong on. We would do rapid explorations of different technologies and work to develop concepts of operations in parallel and really think in visionary style, 10 or 20 years down the road,” he says, referring to the practice as developmental planning.
+
+Greater use of modeling and simulation could improve this process. “That includes strategic developmental planning. It includes acquisition and life-cycle management and, finally, the live, virtual and constructive ideas for training and mission rehearsal. We’re trying to look at how we can unify some of the modeling and simulation tools and methods that are out there now,” he states.
+
+Zacharias envisions modeling and simulation being used at various stages of the developmental process, beginning with war gaming to explore the potential for particular capabilities. “You can play out these things quickly and envision different futures that way,” he says. Air Force officials then could use modeling and simulation to “see what we think happens with new lasers or the new unmanned vehicles and go through cycles of modeling and simulation to refine these concepts,” he elaborates. The next step would be to use modeling and simulation for prototyping and experimenting with technologies. “That will give you a better road map in terms of what still needs to be developed and what is the art of the possible. It still may take five or 10 years to build these systems, but you would be hedging your bets a lot better.” 
+
+An improved road map means smoother transitions from the lab. “There’s a strong effort to improve the developmental planning and the science and technology planning. Within that is an effort to support the game-changing technologies that we’ve identified. It’s really more on the strategic side to get science and technology out of the labs and into the warfighters’ hands more rapidly, more efficiently, more effectively,” he adds. “If you’ve got that vision, the science and technology folks can … in essence, have a catcher’s mitt out there, a program, ready to catch their technology once they get it developed,” he offers.
+
+Air Force strategists have identified five game-changing technologies: unmanned systems; hypersonics, which is defined as at least five times the speed of sound; directed energy, which can include lasers and high-powered microwave weaponry; nanotechnology, which offers a number of benefits, including the potential for revolutionary materials; and autonomy, which allows machines to take specified actions independently of human operators. 
+
+In the area of autonomy, Zacharias is continuing the work of his predecessor, Mica Endsley, who published the Autonomous Horizons study in June. The study focused on manned-unmanned teaming. “Autonomy is really a cross-domain capability for air, space and cyber—and not necessarily platforms, either. It could be for decision-aiding systems that help make better planning choices,” he states.
+
+Zacharias agreed to publish second and third volumes of the study. The second is due out in June. “The [second volume] is focusing on under-the-hood technologies that would allow autonomy and teaming to go on. The goal ... is to look at some of the enabling technologies and to try to think of a general framework for almost a taxonomy, some organizational principle of how these technologies can be brought together,” he reports. “In fact, one of the things may be to have the lab invest in developing a framework so that people are not replicating each other’s work.” 
+
+The science and technology community collaborates effectively, but replication still is possible. Zacharias cites a hypothetical example. “If you have a sensors guy developing image-processing software that needs to literally talk to a human operator to point out a target, that sensor researcher needn’t focus on natural language processing because maybe someone else in the lab is doing that,” he explains. “With a common framework, these things can be bolted together, if you will. It’s really trying to spread the burden across all the different specialties that need to come together to make these autonomous systems work.”
+
+The final volume, scheduled for publication in June 2017, will “look at the infrastructure needed to support more autonomous technologies being fielded in communications, in command and control, in embedded systems, particularly validation and verification, which is a big thing in general for the autonomy community,” Zacharias reports. He adds that the cybersecurity challenges posed by autonomous systems will be “over and above” more conventional cyber issues. “The more freedom of action you give to autonomous systems where they are acting or behaving based on their own reasoning, the more you have to worry about cyber vulnerabilities,” he says. “We have problems in cybersecurity anyway.”
+
+Conventional systems depend on operators to detect anomalous behaviors, such as cyber attacks, but autonomous systems could act on their own. “The community is talking about building greater self-awareness into these systems, so you have health monitoring systems on board. You have behavior monitoring systems that would indicate weird behavior coming out of a flight control computer, for example, or out of a planning system,” Zacharias explains.
+
+That would lead to one embedded system overseeing another embedded capability. “You want these systems to have a lot more awareness of what they’re doing, what their environment is,” he says.
+
+The chief scientist offers unmanned aerial vehicles as an example. “Predator really isn’t autonomous. It doesn’t see much around it. It doesn’t hear anything. It doesn’t know about engine vibrations and all that. It’s pretty clueless,” he says.
+
+Ideally, future autonomous systems will include onboard situational awareness to inform their actions. “It goes beyond cybersecurity. It includes defensive measures and so forth, but those are security challenges that really have to be thought out from the get-go and not after we’ve fielded a system,” Zacharias says.
+
+The Air Force science and technology plan fits into the overall Defense Department strategy, he notes. A shared goal is to deter potential adversaries from launching attacks. “Conventional deterrence is one way to go at it, but the other way of deterring adversaries’ behaviors is to simply make it too expensive to counter us on the battlefield. If you can have autonomy on a cyber system that can counter 10,000 hackers on the other side, you’ve really got a cost-benefit gain there,” he concludes.???</text>
+  <imgalttext>
+    <img>The Predator provides near-real-time infrared and color video to intelligence analysts and controllers on the ground and the ship. The U.S. Air Force chief scientist is leading two follow-up Autonomous Horizons studies examining the possibility of advancing autonomous technologies.</img>
+  </imgalttext>
+</article>

@@ -1,0 +1,28 @@
+<article>
+  <type>blog</type>
+  <title>Converged Systems Accelerate Federal IT Modernization</title>
+  <author>George F. Holland</author>
+  <date>February 12, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>SDN</tag>
+    <tag>Networks</tag>
+    <tag>guest bloggers</tag>
+  </tags>
+  <abstract>The information technology infrastructure, processes and solutions that government agencies rely on are becoming less suitable for today’s operational, mission and business challenges, says Federal CIO Tony Scott, the government’s top chief information officer. As a result, networks within those agencies are, indeed, going through significant changes.</abstract>
+  <text>The information technology infrastructure, processes and solutions that government agencies rely on are becoming less suitable for today’s operational, mission and business challenges, says Federal CIO Tony Scott, the government’s top chief information officer.
+
+As a result, networks within those agencies are, indeed, going through significant changes. Software platforms replace hardware devices, network functionality is being virtualized (NFV) and key components of software-defined networking (SDN) increasingly are being evaluated, tested and deployed. Federal customers, especially those in the defense, national security and law enforcement communities, drive some of the initial efforts to leverage SDN and NFV to integrate networking, computing and storage into converged systems optimized for customers. These converged systems combine the mission agility, systematized intelligence, dynamic security and cost savings and efficiencies being demanded by mission, operational and business leaders.
+
+Converged systems satisfy the emerging needs of network and system administrators who need networking, compute and storage assets to work seamlessly instead of as individual components. The integration makes it easier to manage, upgrade and troubleshoot the varying components and lets operational leaders, network engineers and administrators focus on developing and deploying mission and business applications and services, instead of concentrating on basic maintenance and break-fix activities. This automated approach also enables operational leaders to mitigate risks because it involves far less manual oversight—and less of a chance for human error.
+
+As these converged systems specifically are designed for customer use cases, mission managers also see a direct benefit and have greater control on using these systems to satisfy mission requirements. Instead of focusing on trying to make individual components work together, they can leverage critical personnel and resources to optimize systems and achieve mission objectives.
+
+Because converged systems cost less for integration, compliance, deployment and operational services, federal business leaders can use converged systems to ensure the networks and systems needed to achieve mission objectives also stay within both current and out-year budgets. Some creative finance and delivery models, such as three-year financing, utility based pricing and service level agreements, can enhance the systems' cost effectiveness. Additionally, individual companies and corporate partnerships increasingly offer converged systems and federal customers find them attractive alternatives to purchasing the individual components and paying for integration. A growing number of federal agencies embrace the notion that convergence is more than a trend; it’s here to stay.
+
+George F. Holland is vice president of Juniper Networks National Security Group.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

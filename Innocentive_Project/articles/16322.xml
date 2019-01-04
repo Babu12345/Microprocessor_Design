@@ -1,0 +1,42 @@
+<article>
+  <type>blog</type>
+  <title>Does the Pokemon Go Craze Threaten Networks? </title>
+  <author>Sandra Jontz</author>
+  <date>July 14, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Apps</tag>
+    <tag>BYOD</tag>
+  </tags>
+  <abstract>Do you play Pokemon Go? The craze surrounding the augmented reality game that blends modern technology with a hint of nostalgia has resulted in a lot of benefits, from getting people outdoors to striking up conversations with strangers. But security concerns cause the hair of cybersecurity experts and privacy practitioners to stand on end worse than Brock’s.</abstract>
+  <text>Do you play Pokemon Go?
+
+The craze surrounding the augmented reality game that blends modern technology with a hint of nostalgia has resulted in a lot of benefits, from getting people outdoors to striking up conversations with strangers. But security concerns cause the hair of cybersecurity experts and privacy practitioners to stand on end worse than Brock’s.
+
+The mobile app, created by Niantic and supported by the Pokemon company Nintendo and Alphabet, which owns Google, has taken the nation by storm. The free app uses GPS and real-world aspects and overlays the Pokemon characters on a cartoon map of neighborhoods.
+
+There’s more, but back to the security issue.
+
+Game creators have taken steps toward mitigating potential threats to individual players’ privacy, but what about the potential threat to company and agency networks?
+
+“The Pokemon Go app provides an example of how the digital and physical worlds might be able to coexist through mobile devices, but how does this virtual reality impact the safety of our network’s security and personal privacy?” asks Wallace Sann, public-sector chief technology officer and regional vice president of systems engineering for ForeScout Technologies.
+
+Especially if Pokemon hunters play on company time.
+
+It’s become commonplace for employees and visitors to bring their own devices that then access company or agency networks. If the devices are compromised, whether through an app, an operating system or physical access, they threaten network security, he says.
+
+“Many cyber experts are expressing concern surrounding the game’s impact on users’ and, even more importantly, businesses’ endpoints,” Sann says. “Having a comprehensive view into all of the devices that are connecting to your network, whether they are government furnished equipment or [personal devices], is critical to protecting the network infrastructure and ultimately the mission.”
+
+So, we at SIGNAL would be remiss if we didn’t let him offer security tips and steps to mitigation: 
+
+Discover devices the instant they connect to networks, without requiring software agents or previous device knowledge. That means profiling and classifying devices, users, applications and operating systems while continuously monitoring managed devices and bring your own device, or BYOD.
+	Allow, deny or limit network access based on device posture and security policies. Assessing and remediating malicious or high-risk endpoints mitigates the threat of data breaches and malware attacks. This also lets IT managers demonstrate compliance with industry mandates and regulations. 
+	Integrate with existing networks and security infrastructures that share real-time security intelligence across systems and enforce a unified network security policy. This reduces vulnerability windows by automating system-wide threat response.
+</text>
+  <imgalttext>
+    <img></img>
+    <img></img>
+  </imgalttext>
+</article>

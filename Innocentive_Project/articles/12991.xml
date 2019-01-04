@@ -1,0 +1,21 @@
+<article>
+  <type>article</type>
+  <title>Catching Criminal Behavior on Cutting-Edge Devices</title>
+  <author>Rita Boland</author>
+  <date>June 11, 2014</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>mobile</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The National Institute of Standards and Technology has revised its "Guidelines on Mobile Device Forensics." Released seven years after the original guidance came out, the changes recognize the advances in technology during that time frame.</abstract>
+  <text>The National Institute of Standards and Technology (NIST) has revised its "Guidelines on Mobile Device Forensics." Released seven years after the original guidance came out, the changes recognize the advances in technology during that time frame.
+	Updates include an overview of cutting-edge mobile device acquisition tools, hardware and software characteristics and forensic methodologies. This first revision of the document showcases how the field has adjusted rapidly since the initial release. Changes that forensics personnel contend with include those to mobile device memory, identity modules and cellular network technology. New to the field are a mobile device tool classification system, methods for handling obstructed devices and current techniques to preserve data.
+	Rick Ayers, an author of the report and employee at NIST, explains, “The objective of the guide is two-fold: to help organizations develop appropriate policies and procedures for dealing with mobile devices and to prepare forensic specialists to conduct forensically sound examinations.” Sam Brothers of U.S. Customs and Border Protection and Wayne Jensen from Booz Allen Hamilton served as the other two authors. Ayers further states that, “This publication is not intended to be used as a step-by-step guide for executing a proper forensic investigation when dealing with mobile devices nor construed as legal advice. Its purpose is to inform readers of the various technologies involved and potential ways to approach them from a forensic perspective.”?Though the first version of the guidance remained correct technically, changes to the technology landscape within the last seven years mandated updates to meet the needs of mobile forensic examiners. Tools used today such as micro SIM cards or flasher box extraction methods did not exist nearly a decade ago. When considering what to include in the update, the researchers evaluated technological advances to devices such as smartphones, feature phones and tablets, as well as changes in the methods for acquiring mobile device data.
+	Ayers adds that Revision 1 provides an overview of the evolution of mobile device forensics since the initial release. He believes the most important points for readers to note are guidance for onsite triage processing, illustrated in the document with a flow chart outlining common situations encountered by forensic examiners and updated acquisition and preservation techniques. Ayer identifies the biggest changes to the original document as “the importance of securing and evaluating the scene, proper isolation, packaging, transportation and storage of evidence mitigating loss of useful data. Moreover, the importance of onsite triage processing. The myriad of smartphone applications is another major issue as many forensics tools currently only support data sorting of 200 to 300 common applications. With over 1 million applications available for each of the two common smartphone operating systems—iOS and Android—there is a large gap to fill.”
+	Forensic examiners should find the revision makes them current with recent procedures and techniques for the proper performance of mobile device acquisitions. The information provided comes as a result of teamwork not only among the guidance’s authors, but also from collaboration with practitioners worldwide who are experts in the fields of mobile forensics. Ayers explains that the processes and procedures presented in the document are a compilation of the best practices within the mobile forensics discipline, with references drawn from existing forensics guidelines.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

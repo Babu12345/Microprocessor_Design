@@ -1,0 +1,31 @@
+<article>
+  <type>blog</type>
+  <title>Solving the DOD Network Visibility Crisis</title>
+  <author>Davis Johnson</author>
+  <date>July 15, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>app</tag>
+    <tag>data centers</tag>
+  </tags>
+  <abstract>In the Defense Department, networks carry critical information and applications from a data center to the battlefield. Guest blogger Davis Johnson from Riverbed Technology addresses how ensuring the apps travel quickly and securely over the vast networks is not only mission-critical—it can mean the difference between life and death.</abstract>
+  <text>In the U.S. Defense Department (DOD), networks carry critical information and applications from a data center to the battlefield. Ensuring the apps travel quickly and securely over the vast networks is not only mission-critical—it can mean the difference between life and death.
+
+Compounding the challenge, DOD organizations collect, analyze and share more data than ever before. Data center consolidation drives efficiency gains but requires applications to travel greater distances to a work force positioned around the globe. The increased data, traffic and distance puts a serious strain on already-stressed networks.
+
+Unfortunately, many defense organizations lack insight into how well their networks perform, and the lack of network visibility adversely impacts efficiency. A recent Riverbed survey by Market Connections found that 49 percent of DOD information technology decision makers reported it takes a day or more to detect and fix application performance issues. You can’t fix what you can’t see and consequences include supply chain delays of materiel to warfighters, holdups in receiving critical intelligence and hindrances to access critical defense and global security applications.
+
+The impediments cause serious cost and productivity repercussions as well, with the price tag of an enterprise application failure as much as $1 million per hour.
+
+Network visibility means knowing which applications are on the network, how they perform, if they provide value and the number of personnel who use them. DOD leaders achieve the insight through “application aware” network performance management tools that map network environments, pinpoint bandwidth challenges and optimize network paths.
+
+Only 11 percent of the respondents reported being able to fix application performance issues within minutes. But they said better visibility and network monitoring tools would have a significant and positive impact. Roughly 77 percent see improved network reliability as a key value of monitoring tools, and 74 percent indicated automated investigation and diagnosis is an important feature.
+
+Since buying more bandwidth is not an option, experts use compression, caching, protocol and application accelerators, and WAN optimizers for the best and most cost-effective alternatives. The DOD must be able to access and share real-time intelligence. But that data is only as good as the applications and networks that carry it. By prioritizing network visibility, DOD information technology leaders can pinpoint and fix challenges before they impact the mission.
+
+Davis Johnson is the vice president of public sector for Riverbed Technology.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

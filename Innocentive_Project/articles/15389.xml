@@ -1,0 +1,43 @@
+<article>
+  <type>article</type>
+  <title>Disruptive by Design: How to Evolve Federal Cloud Security</title>
+  <author>Tim Prendergast</author>
+  <date>November 1, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cloud computing</tag>
+    <tag>Disruptive by Design</tag>
+  </tags>
+  <abstract>While Cloud First enables agencies to maximize capacity utilization, minimize cost and improve information technology flexibility and responsiveness, the government still faces challenges, particularly with cybersecurity—as highlighted by the breach of Office of Personnel Management servers that exposed the biometric identifiers of more than 5.6 million U.S. federal employees.</abstract>
+  <text>In 2011, then-U.S. Chief Information Officer Vivek Kundra set the stage for federal agencies to take full advantage of cloud computing benefits through the Cloud First initiative, which mandates that agencies evaluate cloud options before making any new information technology investments. Since then, several agencies, including the General Services Administration, Department of the Interior, Department of Agriculture and NASA, have embraced the cloud.
+
+While Cloud First enables agencies to maximize capacity utilization, minimize cost and improve information technology flexibility and responsiveness, the government still faces challenges, particularly with cybersecurity—as highlighted by the breach of Office of Personnel Management servers that exposed the biometric identifiers of more than 5.6 million U.S. federal employees. Because government servers host so much personal data and officials say they lose control and visibility of network resources, agencies must have full confidence that security is a top priority.
+
+Cloud First significantly changes both the way agencies operate and their information technology culture. But they need not start from scratch or reinvent security processes. The experiences of their private-sector counterparts provide rich lessons on setting proper security levels for cloud usage. Agencies can embrace these six strategies for success:
+
+First, make a fresh start with security. The most commonly used security architectures are more than 20 years old, so when agencies move to the cloud, they have a perfect opportunity to adopt new technologies and security approaches. While the old static data centers generally were simple enough for humans to evaluate for vulnerabilities introduced by the volatile environment, the rapid and complex nature of the cloud is too much for individuals to monitor effectively without the right tools.
+
+Rapid creation and modification of infrastructure renders most traditional data center security solutions ineffective. Agencies should integrate automated security acceptance tests, a subset of the key security controls, directly into the last stage of functional testing processes.
+
+Second, change your culture, not your people. Moving critical operations to the cloud is not a solo endeavor. Agencies should build teams with a shared vision, enlisting business owners, engineers, the operations team and other key stakeholders to establish a secure migration. These partners own the end-to-end decisions around direction, capabilities, service management and more.
+
+The marriage of development operations (DevOps) and security operations (SecOps)—known as DevSecOps—creates a new mentality for driving innovation. DevSecOps embraces the premise that everyone in an organization is responsible for security. This cooperative approach leverages tools and processes to assist with decision making and the distribution of security at the proper speed and scale to keep pace with a dynamic cloud environment.
+
+Third, federal officials should not wedge data center technology into the cloud. Eighty percent of respondents to a June survey by IDG Research Services noted that conventional data center security tools fall short, and the problem is exacerbated as more services and data migrate to the cloud. Data centers are relatively static; domain experts enhance them in three- to five-year cycles. The cloud, however, changes constantly and evolves with monthly enhancement cycles.
+
+Traditional security tools are ineffective because the cloud presents a new attack vector—the application program interface (API) that manages resources. Established solutions rely on being in the path of traffic, deployed within the application or operating system, or used for network scanning techniques. In the cloud, users run application stacks on abstracted services or platform-as-a-service layers, or they leverage API-driven processes that render conventional solutions useless.
+
+Next, the cloud requires security. Agencies no longer can think of security as a separate step in the launch cycle. As they embrace continuous patterns of development and deployment, implementing continuous security through DevSecOps becomes imperative.
+
+Anything is possible when using a great security product developed both for and within the cloud.
+
+Fifth, focus on writing code. APIs are more important in the cloud-based environment, and agencies must have users who are proficient in them. Integrating applications via code saves months of labor compared with using market-ready interfaces. APIs require tying offense and defense together to mitigate security breaches. And with a good handle on API-enabled security and continuous monitoring tools, agencies can activate security alarms so that teams can respond within moments.
+
+Last, security must be part of the agency’s DNA. With the many high-profile reports of data breaches, security tops the list of concerns for agencies moving to cloud-based services. Agencies must combine defenses to create a strong security posture. Layering automated security testing, continuous assessments, rapid operational responses and other key actions allow experts to augment existing and anticipated security efforts. Yet many still approach security with antiquated data center-focused fixes that run counter to the flexible infrastructure principles of today’s popular cloud environments and force security professionals to retrofit solutions to work in the cloud. New solutions must deploy in mere minutes, not months, and provide agencies with actionable security insights that are easy to understand and able to guide them to a robust cloud infrastructure security state of mind.
+
+Tim Prendergast is co-founder and CEO of Evident.io, a leading provider of cloud security services for Amazon Web Services public cloud infrastructure. The views expressed here are his alone. </text>
+  <imgalttext>
+  </imgalttext>
+</article>

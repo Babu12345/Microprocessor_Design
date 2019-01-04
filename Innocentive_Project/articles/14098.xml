@@ -1,0 +1,39 @@
+<article>
+  <type>article</type>
+  <title>DISA Rolls Out Collaboration Tool for Secure Web Conferencing</title>
+  <author>Sandra Jontz</author>
+  <date>February 9, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>DISA</tag>
+  </tags>
+  <abstract>The Defense Information Systems Agency is rolling out a new open source collaboration service to facilitate secure Web-based conferencing and chats throughout the Defense Department, and is expecting to save millions of dollars over the legacy enterprise, officials say.</abstract>
+  <text>The Defense Information Systems Agency (DISA) is rolling out a new open source collaboration service to facilitate secure Web-based conferencing and chats throughout the Defense Department, and is expecting to save millions of dollars the over the legacy enterprise, officials say.
+
+The new capability, called the Defense Collaboration Services (DCS) removes the need for licenses to use it while still providing secure voice and video exchange, among other services, says, Karl Kurz, DCS program manager at DISA.
+
+DCS replaces the legacy Defense Connect Online (DCO) enterprise. The DCO contract is scheduled to end in June, and its popularity and high demand for use drove up costs that to where the agency “frankly couldn’t afford it anymore,” Kurz says. “What we’ve done through our analysis of alternatives is settle on an option that allows us to provide secure Web conferencing that is based on open source technology, so we avoid the licensing costs. It’s hosted out of our secure data centers and frankly the user interface is simplified, so it’s easy to use but it meets the department’s requirements.”
+
+DISA spent roughly $40 million a year for DCO at the current level of usage, Kurz says. “That was expected to escalate as usage continued to increase. We expect that by migrating over to DCS that we will be saving on the order of $12 million or more per year.”
+
+DCS is advertised as having the capability to host 250 users in a particular session, but depending on capabilities, such as if the number of active microphones is turned down, the capability can be scaled to a higher number, Kurz adds. Recent tests indicated the system could host 500 users in a session. “We are confident that DCS will meet the needs of the department.”
+
+The system launched January 30 and is available to Defense Department users on both unclassified and classified networks, provided the networks have been changed to allow users to access to the DCS application in milCloud, the DISA-run cloud service.
+
+A U.S. Cyber Command order states that all networks be configured to allow access by February 28.
+
+DCS offers users secure Web conferencing, the ability to share common office documents from one desktop to many others, chat, polling, instant messaging and the ability to record sessions.
+
+“Just as importantly, this is an application into a pathway between existing DCO and then what’s coming down the pike eventually, which is unified capabilities,” Kurz says.
+
+Unified capabilities includes services such as voice communications and multimedia sessions over Internet protocol networks, video conferencing, instant messaging and secure chat sessions using department- approved software-based options.
+
+“We’re meeting the Joint [Chiefs of] Staff’s requirements for an interoperability collaboration tool and that’s where our focus is,” says Alfred Rivera, the director of the Business and Development Center at DISA. “The DCS capability is a two-prong approach. It’s the follow-on to our existing DCO, which is going out of commission in June, and it also is setting up the framework for how we want to look at unified capabilities holistically, beyond the capabilities available in DCS. It is an interim approach to how we’re going look at unified capabilities in total.”
+
+DISA is conducting unified capabilities pilot studies with the Air Force and Strategic Command.</text>
+  <imgalttext>
+    <img>DISA's photo illustration of its new online collaboration tool for secure web conferencing. </img>
+  </imgalttext>
+</article>

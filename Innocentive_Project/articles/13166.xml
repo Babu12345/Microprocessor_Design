@@ -1,0 +1,28 @@
+<article>
+  <type>article</type>
+  <title>Army, Navy Hardware Influence Air Force Satellite Links</title>
+  <author>Robert K. Ackerman</author>
+  <date>July 11, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Acquisition</tag>
+    <tag>Air Force Technologies</tag>
+    <tag>Antenna Technology</tag>
+    <tag>Army Technologies</tag>
+    <tag>space</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>When the U.S. Air Force needed a new secure satellite communications system, one company was able to show up at the starting line with an 80 percent solution based on an existing product line serving the Army and the Navy.</abstract>
+  <text>The U.S. Air Force’s newest secure satellite communications terminal draws from existing U.S. Army and Navy systems already in operation. The new production for the Family of Advanced Beyond-Line-of-Sight Terminals, or FAB-T, evolved from technologies established in the Army’s Secure Mobile Antijam Reliable Tactical Terminal (SMART-T) and the Navy’s Multiband Terminal (NMT).
+	The Air Force awarded Raytheon, Marlborough, Massachusetts, a $298 million contract for the FAB-T production program for command post terminals in June. Scott Whatmough, vice president of the integrated communications systems business at Raytheon, explains that the company’s FAB-T is very similar to NMT.
+	“The software baseline was about 80 percent done when we started [with FAB-T],” he says. The company added some “unique Air Force command post capabilities” consisting largely of aircraft and installation interfaces. The company also tapped its Minuteman Minimum Essential Emergency Communications Network Program Upgrade (MMPU) for some information assurance capabilities.
+	Hardware drew heavily from existing technology. “If you look at the core of the system, which is the circuit cards inside of our modem, you could not tell the difference between a FAB-T card and a SMART-T card. They look exactly the same; the only difference is that they were adapted for the different mechanical environments, largely vibration and thermal.” The FAB-T cards are mounted in chassis configured for their respective installation, but internally the boxes are essentially the same, he states.
+	Significant differences do exist in system antennas, he offers. NMT features large antennas designed for shore-based or shipboard applications. Antennas on airborne platforms are smaller, but they are compatible with service aircraft systems. The FAB-T ground installation antennas are similar to the SMART-T antenna configuration.
+	Software development for FAB-T can be applied to NMT and SMART-T, Whatmough allows. A common software baseline lies at the core of each of these systems. Unique functionalities branch off this core. The product lines feature a common configuration control board that allows a fix on one system to be applied to the others. On the hardware side, the circuitry among the systems is similar at the schematic level. At that level, a fix to one system can improve the others.
+	Although the recent contract covers 84 FAB-T systems, Whatmough notes that the full development contract is not yet finished. The company has finished the design and manufacturing of the low rate initial production (LRIP) configuration, which is in the qualification process. Two LRIP periods will be followed by full-rate production. Whatmough adds that the LRIP quantities have not yet been solidified, noting they will be based on timing and Air Force need.
+	“As the Air Force introduces new platforms, it is reasonable to assume that some of them will have to have this kind of communications capability,” he offers. “When this highly-protected capability becomes available to the warfighter, more and more people want it."</text>
+  <imgalttext>
+  </imgalttext>
+</article>

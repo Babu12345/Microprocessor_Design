@@ -1,0 +1,29 @@
+<article>
+  <type>article</type>
+  <title>DARPA Kicks Off Cyber Grand Challenge</title>
+  <author>Henry S. Kenyon</author>
+  <date>November 5, 2013</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>DARPA</tag>
+    <tag>cyber</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract></abstract>
+  <text>A new government-run competition seeks to advance the boundaries of computer network analysis and defense by developing autonomous cyberdefense capabilities, which combine the speed and scale of automation with reasoning abilities that exceed what human experts can do.
+	These are the goals of the Defense Advanced Research Projects Agency’s (DARPA’s) Cyber Grand Challenge (CGC), which according to agency officials, is the first-ever tournament for fully automated network defense systems. Building on its experience running robotics grand challenges, which greatly advanced the ability of autonomous ground vehicles, DARPA’s new event will have teams of competitors developing automated systems. These smart programs will go head-to-head against one another in real time on a network to evaluate software, test for vulnerabilities, create security patches and deploy to protect computers. To win the $2 million cash prize, teams must combine the capabilities of security software with leading-edge program analysis research, DARPA officials said.
+	Network computer defense currently is the realm of software specialists who can sift through code to identify weaknesses and back doors. This bespoke analysis is done by hand, making it time consuming, and it cannot be scaled effectively for volume or speed to meet changing threats. While some semi-automated software exists to help analysts, DARPA officials note that there is a need to conduct the analysis and repair parts of network defense in near real time.
+	This is one of the major goals of the CGC, which is not looking for incremental improvements to existing systems but for new leaps in technical capability. According to DARPA, the CGC program will push competitors to invent and develop truly autonomous cyberdefense technologies.
+	Agency officials hope that one big outcome of the challenge will be changes to the way computer networks are defended. The current human-based approach relies on analysts looking for vulnerabilities in software through an extensive analysis and reasoning process. DARPA's goal for a fully autonomous cyberdefense is for a system capable of reasoning about software that will create its own knowledge about a network by autonomously emitting and using tools such as vulnerability scanner signatures, intrusion detection signatures and security patches.
+	The CGC will take place on a network specifically designed to interface with automatic systems. According to DARPA, the event will be open to the public and documented for research purposes. Competing teams will go through a series of challenges, beginning with a qualifying event where a collection of software must be automatically analyzed. To qualify in this first round, competing systems must be able to automatically identify, analyze and repair any software flaws they detect.
+	Competitors that make it through the initial qualifying round will go to the CGC’s final event scheduled for early- to mid-2016. In this event, each team’s system must be able automatically to identify software flaws and scan the network to identify affected hosts. Scoring is based on how effectively a system can protect hosts, scan the network for vulnerabilities and keep the software functioning correctly.
+	The winning team will receive a $2 million cash prize, with a $1 million prize offered for second place and $750,000 for third place.
+	One of the key drivers behind the competition is the growing speed and sophistication of software attacks. Currently, it takes days to patch newly discovered security flaws, explains Mike Walker, program manager for the CGC. A major goal of the event is to create systems that automatically recognize and remediate software flaws within seconds—changing the term from zero day to “zero-second” attacks, he says.
+	In a statement, Dan Kaufman, director of DARPA’s Information Innovation Office, which oversees the challenge, noted that “the growth trends we’ve seen in cyber attacks and malware point to a future where automation must be devoted to assist IT security analysis.”
+	DARPA hopes that the challenge will draw teams of top notch software experts from a wide range of disciplines such as reverse engineering, formal methods, program analysis and computer security competition. The agency has also set up a website dedicated to the competition, which includes competition rules and will feature hosted teaming forums. Team registration began at the end of October.
+	A Broad Agency Announcement (BAA) with specific information for competitors is now up. Potential competitors can choose between two tracks: an unfunded track open to anyone capable of fielding a system, and a funded track where DARPA will award contracts to organizations with compelling proposals, DARPA officials said. The agency plans to release a second BAA for proposals to develop technologies and systems to support the competition. Some examples of support technologies include accessible visualization of a real-time cyber competition and custom problem sets.
+	DARPA will host two CGC days in December 2013: one at the agency’s offices in Arlington, Virginia, and one at a currently undisclosed location on the West Coast, where interested competitors can attend to learn more about the event.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

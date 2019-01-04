@@ -1,0 +1,22 @@
+<article>
+  <type>blog</type>
+  <title>Minds Must Change Before Technology Can</title>
+  <author>Beverly Schaeffer</author>
+  <date>July 15, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>cloud computing</tag>
+    <tag>DOD cloud computing</tag>
+    <tag>GAO Information Technology report</tag>
+    <tag>IaaS clouds</tag>
+    <tag>PaaS clouds</tag>
+    <tag>personal information assistant (PIA)</tag>
+    <tag>SaaS cloud</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>U.S. Defense Department personnel really aren't interested in the technical details behind the communications "seams"; they just want to know their computing needs are met, even if that occurs in the "obscurity" of the clouds.</abstract>
+  <text>The computing device shouldn't matter, nor its provider: Defense Department personnel just want their information securely, by authorized channels, in a timely manner. Department customers want personal information assistants (PIAs), adapted to their position, training level and necessary connections. Paul A. Strassmann discusses the potential way forward in his article, "A Culture Shock Is Coming," in this issue of SIGNAL Magazine. Info sources must include data received from people, sensors or public websites. It must be available to and from ground locations, ships, submarines, airplanes and satellites. Users must be able to connect with every government agency and its allies. And, Strassmann believes, the PIA is the best available idea. The PIA would require only users' authentication signature to provide them with choices of apps or text, all tailored to their identity, verbal, training and analytic skills. The device would virtually become a user's "right-hand man." All encryption is deciphered securely, without worry about server location or programming language. The ultimate goal is a single device connected to servers the Defense Department user doesn't see but can trust. The buzzword: cloud computing. This capability is known as a software-as-a-service (SaaS) cloud. It's inexpensive and delivers data without delay. SaaS is only one cloud-computing model. Private and public infrastructure-as-a-service (IaaS) clouds exist, as well as private and public platform-as-a-service (PaaS) clouds. Some legacy applications could be replaced, but for now, they will be placed on Defense Department networks as virtual computers. The good news: Virtualized legacy applications can be useful if encapsulated within an IaaS structure. During transition from legacy to SaaS computing, every PIA can access all information-the result-the Defense Department Hybrid Cloud. The department faces the issue of how to migrate to a robust hybrid cloud environment. How fast can it transition into a hybrid cloud delivering universal connectivity PIAs? How can it change its information architecture to keep technical IT management details invisible? Cultural, not technological, issues are the obstacle. The department's current IT acquisition process includes six phases: planning, development, vendor solicitation, contracting for services, asset acquisition, and operations and ongoing maintenance. The department's IT culture traces back to the 1965 Brooks Act. It's now 2011, however, and the number of department data centers has accelerated to 772. The 1996 Clinger-Cohen act shifted a large share of military IT costs to agencies such as the Defense Information Systems Agency, the Defense Logistics Agency and others. Vast improvements are needed in Defense Department security operations to ensure survival during cyberattacks. Finances are another barrier, because new money is needed for security and innovations. It must be extracted from savings in current operations. SaaS migration must overcome departmental obstacles of standing up an organization that plans, manages and contracts for commodity computing, followed by standard procedures meeting National Security Agency standards. SaaS can operate only as a component of a hybrid cloud configuration. Legacy, IaaS and PaaS clouds must supplement department computing and telecommunication during a transition time that may never be completely finished.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,22 @@
+<article>
+  <type>article</type>
+  <title>Supply Chain Poses Severe Threat to Information Technology</title>
+  <author>Robert K. Ackerman</author>
+  <date>November 14, 2012</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Asia-Pacific</tag>
+    <tag>TechNet Asia-Pacific 2012 Coverage</tag>
+  </tags>
+  <abstract>The devil may be in the details of the electronics hardware as malware increasingly crashes hardware debuts.</abstract>
+  <text>The next great threat to computer and network security lies in the supply chain—and it is here now. From factories unwittingly turning out devices infected with malware, to counterfeit parts sold on the Internet, malevolent operators threaten the security of information systems without running any risk of being stopped or detected by conventional security practices.
+Marcus H. Sachs, vice president, national security policy for Verizon, told the audience at TechNet Asia-Pacific 2012 in Honolulu, Hawaii, that 10 to 12 percent of the global information technology supply chain is counterfeit, and that number is growing.
+	Sachs singled out a Cisco card that retails for $1,000. Versions were being sold on the Internet for $500 at reliable retailers, but other prices ran as low as $29. An FBI investigation showed that these low-cost cards were counterfeit, and they could have provided network gateways for all types of malware.
+	Sachs reported that, this year, Microsoft ordered 20 test computers from various sources in China. The recipient was clearly known to the sources that sent the computers. Of those 20, four devices arrived at Microsoft infected with unknown malware. It’s anybody’s guess whether those infections were targeted or just random events, he noted.
+	 
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

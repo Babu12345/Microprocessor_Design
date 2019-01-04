@@ -1,0 +1,47 @@
+<article>
+  <type>blog</type>
+  <title>Viewing Cyber Data in 3-D</title>
+  <author>George I. Seffers</author>
+  <date>May 11, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Linquest Corp.</tag>
+    <tag>cyber</tag>
+    <tag>intelligence analysis</tag>
+    <tag>big data</tag>
+    <tag>New Products</tag>
+  </tags>
+  <abstract>The 3-D Cyber Immersive Collaboration Environment (ICE) allows analysts to create a 3-D virtual world in which users are represented as avatars able to interact with big data analytics and/or real-time systems.</abstract>
+  <text>LinQuest Corporation officials are now offering a new game-based technology that allows cyber analysts to view data in an immersive 3-D environment, which the company says allows quicker understanding of the data, saving users both time and money.
+
+The 3-D Cyber Immersive Collaboration Environment (ICE) allows analysts to create a 3-D virtual world in which users are represented as avatars able to interact with big data analytics and/or real-time systems. The virtual world includes video feeds, data feeds, web interfaces, data visualizations and analytical tools. Once the crisis is over, the virtual world and its super metadata can be archived into the cloud.
+
+Within that virtual world, a spider diagram illustrates the entire network and all of its nodes. The analyst, as an avatar, can browse through this 3-D world. If one of those nodes is attacked, it begins flashing red. The avatar can then navigate to the node, click on it and begin exploring the specifics, such as IP  address, the node’s geographic location and the type of traffic flowing through.
+
+“We are just beginning to market it,” reveals Rich Williams, vice president and general manager, LinQuest Corporation.
+
+The cyber solution is based on the original 3D ICE, a data visualization tool developed for intelligence analysts at the National Geospatial Intelligence Agency (NGA). That original product was delivered to NGA in October and is used on the Joint Worldwide Intelligence Communications System, Williams says.
+
+Williams describes three primary features for 3-D Cyber ICE. The first, of course, is a different type of visualization. Normally, an analyst in a cyber center or network operations center views the data on pie charts, bar graphs, etc., on a flat screen. “This is the next step in visualization. We use a set of software called Unity 3D, so, rather than just having a flat screen with just flat graphics, now you’re an avatar... and that world allows you to visualize and represent specific sets of data or toolsets,” Williams says.
+
+Secondly, the world includes multiple levels, which users can only access with the proper credentials. And users can “build a recipe” of processes. “In today’s world, if you’re an analyst, you’ve got a bunch of different cyber tools, and you’ve got to do a swivel chair between those to bring data from one to the other, and hopefully it gets done correctly,” Williams notes. “In this 3-D world, we allow you to put together a business process or a workflow process so you can couple analytics together and not have to worry about whether or not the connection is made or the files are accurate. It’s all done behind the scenes.”
+
+Building that workflow process, he adds, permits users to “put together different cyber tools to allow the analyst in real-time to connect those together,” while also creating “a library of these things, so once you build a process, you can store that and use it over and over again.”
+
+The third part is a collaboration environment. For example, an analyst, investigating a cyber attack can set up a specific world and invite other subject matter experts to enter and work together.
+
+The technology works with desktops, Android tablets, iPads, mobile devices and even 3-D goggles, such as Oculus Rift. “You can enter this collaboration through any of those devices, whether it’s actually in a cyber center somewhere or if you’re out working remotely,” Williams offers. He imagines a cyber center of the future where people use Oculus Rift to enter and exit different worlds depending on what’s happening in real time.
+
+Another key feature is that 3D Cyber ICE is delivered as software as a service. The browser is entirely virtual, built in the cloud. “Everything’s presented to you. There’s nothing resident,” Williams states.
+
+Linquest officials say the product can benefit many users, especially younger-generation analysts accustomed to the gaming world. “We believe it helps you intuitively understand the data better. As things are getting very complicated, to represent them on a bar graph or even on a pie chart or in a widget, it’s not really that intuitive. In this 3-D world, you actually start intermingling with the data,” Williams says.
+
+The company also rolled out a 3-D ICE product for the medical community, which allows them to view MRI data. And they have added a space debris map to view all of the satellites and space junk floating in orbit.
+
+In April, AFCEA awarded LinQuest its Best of Show award as part of its Cyber Solutions Showcase at the Defensive Cyber Operations Symposium.</text>
+  <imgalttext>
+    <img>LinQuest's cyber solution allows analysts to view data in 3-D.</img>
+  </imgalttext>
+</article>

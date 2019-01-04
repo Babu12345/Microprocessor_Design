@@ -1,0 +1,33 @@
+<article>
+  <type>blog</type>
+  <title>Taking Advantage of Machine Learning to Securely Share Data</title>
+  <author>Rob Morrow</author>
+  <date>December 9, 2016</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>Machine learning</tag>
+    <tag>artificial intelligence</tag>
+    <tag>data sharing</tag>
+    <tag>guest bloggers</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Right at this moment, hundreds of U.S. government analysts are trying to solve the exact same problem. Without easy, trusted data sharing, these analysts, who the nation relies on to solve the most challenging of worries, cannot benefit from shared knowledge—a hurdle that adds to inefficiencies fostered by redundancies, reinforcing the public’s perception of ineffective federal bureaucracy.</abstract>
+  <text>Right at this moment, hundreds of U.S. government analysts are trying to solve the exact same problem. Each is tackling a number of major national and international security issues, from cyberthreats to terrorism, global health crises and public safety problems. Without easy, trusted data sharing, these analysts, who the nation relies on to solve the most challenging of worries, cannot benefit from shared knowledge—a hurdle that adds to inefficiencies fostered by redundancies, reinforcing the public’s perception of ineffective federal bureaucracy.
+
+Agencies face huge challenges in sharing data. There is so much that it is difficult to manage—a problem that can become even more demanding as the volumes of data increase in an Internet-connected world. Useless data can hinder access to useful information, complicating efforts to discern between the two. And government data can be sensitive, involving everything from personally identifiable information to top-secret national security issues.
+
+Machine learning algorithms can ensure the security of data, no matter where it resides. They can create automated data feeds so that multi-team, distributed analysis can be executed with up-to-the-minute recommendations on datasets that other analysts might find interesting. Consider the following points when developing machine-learning algorithms to facilitate secure data sharing:
+
+Inspect data channels with constantly improving machine learning algorithms.
+	?Machine learning algorithm availability inside the datastore greatly influences data products. Use machine-learning algorithms based on people, existing policies and activities.
+	?Have transparency based on policy. By law, some agencies, and certain people, have restricted access to certain data.
+	Maintain full raw source material throughout the data enrichment and recommendation process. That is the only way to correctly execute prosecutions in court.
+It is clear that data sharing facilitates mission achievement, improves workflows and makes government more efficient. Secure data sharing can improve efficiency and output.
+
+Rob Morrow is chief technologist for the U.S. Public Sector at Cloudera.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

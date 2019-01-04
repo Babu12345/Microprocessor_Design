@@ -1,0 +1,26 @@
+<article>
+  <type>blog</type>
+  <title>C2 Architecture To Unite Army Systems Under One Roof</title>
+  <author>Beverly Schaeffer</author>
+  <date>July 15, 2010</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>air defense</tag>
+    <tag>North</tag>
+    <tag>Northrop Grumman</tag>
+    <tag>sensors</tag>
+    <tag>US Army</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>The IBCS system must be agile enough to operate in uncertain situations without degrading the lethality of the weapons systems. Will the system be able to achieve this goal? Read the full article and share your opinions and ideas.</abstract>
+  <text>By mid-decade, the U.S. Army should be able to pull together all of its sensor and weapons systems into a single net-centric platform for air defense. This technological family reunion will foster an interoperability that makes future gatherings flow smoothly, both in theater and elsewhere. Like getting grandma and Uncle Joe wired into e-mail or Facebook, the Integrated Air and Missile Defense (IAMD) Battle Command System (IBCS) program will connect Army forces for quicker data access, and faster action. In this issue of SIGNAL Magazine, Henry S. Kenyon delves into how the IBCS mix of hardware and software will give warfighters a unified picture of airspace above a battlefield. The system comprises servers, radios, workstations and virtual systems, as described in Kenyon's article, "Air Defense System to Forge Many Platforms Into One Network." Commanders will be able to scale and tailor their force packages to meet the threats, according to strategic planner and adviser to the Air Defense Artillery Commandant, Col. Harry Cohen, USA (Ret.), at the Center of Excellence in Fort Sill, Oklahoma. He says this capability will help commanders regain their decision space in the face of complete data ambiguity:
+
+	It will fundamentally change the way we fight air and missile defense warfare.
+The IBCS links to the Joint Data Network to provide users with data, and to link them to the Integrated Fire Control Network for plug-and-play capability so they can tap into the larger defense picture. Col. Cohen explains that this is a step beyond the Army's current system-centric C2 system, which only allows users to control the systems to which they're linked, such as the Patriot missile, which has a unique weapons interface. The colonel notes that:
+
+	Through the years, we have been able to achieve varying levels of "interoperability" with these other platforms, but it has fallen far short of the "integration" of air and missile defense assets needed to succeed in today's operating environment.
+The plug-and-play feature is key-it helps new systems interact and get along well with legacy systems. In addition to the Patriot, other systems the IBCS will integrate include the Surface-Launched Advanced Medium-Range Air-to-Air Missile and the Joint Land Attack Cruise Missile Defense Elevated Netted Sensor. IBCS hardware will include communications equipment, servers, processors and antennas working in their own command posts. There will be A and B kits-the A kits reside with the platforms to help them interface, and the B kits serve as a link to the network. It also uses Harris highband networking radios to link C2 nodes. This connectivity is important, notes Northrop Grumman's IBCS strategic planner, Mark McGee, because the system is made to link units spread across an entire region, a necessity that came to light during during operation Iraqi Freedom, when one battalion was spread across four countries. McGee adds that an open-systems, nonproprietary approach will permit the Army to easily include improved software tools and applications. Onsite, laptops will replace computers, and each computer system linking into the IBCS must run different functions. The ultimate goal is to adapt the systems to the warfighter, not the other way around. The result is a tighter, more precise C2 capability that prevents potential fratricide and brings about highly efficient communications. The IBCS system must be agile enough to operate in uncertain situations without degrading the lethality of the weapons systems. Will the system be able to achieve this goal? Read the full article and share your opinions and ideas.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

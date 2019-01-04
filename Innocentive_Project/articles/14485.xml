@@ -1,0 +1,53 @@
+<article>
+  <type>article</type>
+  <title>Size Matters in Development of Next-Generation Satellite Technology</title>
+  <author>Sandra Jontz</author>
+  <date>May 6, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>satellite systems</tag>
+    <tag>DISA</tag>
+    <tag>Pathfinder Systems</tag>
+    <tag>ISR</tag>
+    <tag>WGS</tag>
+  </tags>
+  <abstract>Years ago, commercial satellite providers successfully nudged their way into the military space domain. More than a decade later, some companies are gambling with technological improvements in hopes of retaining that hold on the lucrative market.</abstract>
+  <text>Years ago, commercial satellite providers successfully nudged their way into the military space domain, providing critical bandwidth services for platforms for which the Defense Department could not, particularly for airborne intelligence, surveillance and reconnaissance (AISR) missions. More than a decade later, some companies are gambling with technological improvements in hopes of retaining that hold on the lucrative market.
+
+Intelsat General, a leading provider of satellite services, recently completed a series of tests on its revolutionary Intelsat EpicNG satellites, committing to launch seven over the next several years. The first in the series, Intelsat 29e, is scheduled for liftoff in the first quarter of 2016 and features its spot-beam technology. “It will not only outperform existing Ku-band satellites for these AISR missions, but will also transmit more information with equal or less satellite bandwidth than the U.S. government’s own Wideband Global SATCOM (WGS) Ka-band satellites,” says Chris Hudson, a senior solutions architect engineer at Intelsat General.
+
+“An EpicNG-class satellite is starting to open up the realm of possibilities that you can have a small enough satellite terminal that would fit on a smaller systems,” such as unmanned aerial vehicles (UAVs), upon which the U.S. military relies heavily. The all-digital payload allows connectivity in any bandwidth increment from any beam to any beam, an upgrade on the high-performance technology first developed by Boeing Company for the WGS communications system.
+
+“If you have a small dish today being used for airborne ISR, the 18-inch satellite antennas out there, they typically can do about a megabit, and that’s the limit of what they can do,” Hudson explains of the transmission parameters. “On EpicNG, they’re going to be able to do 4 or 5 or even 6 megabits, depending on where they are. You can send four times the sensor data in that same pipe with the same hardware that you’re using today.” The upgrade can translate into financial savings for customers who purchase satellite bandwidth.
+
+Intelsat also is improving on the spot beam technology, developing what Hudson calls "steerable" spot beams that can evade jamming efforts incorporating protected tactical waveform (PTW).
+
+The first EpicNG Class satellite will be positioned over the Atlantic Ocean, providing coverage to all of South America, the eastern two-thirds the United States and the flight route between the United States and Europe. The second, scheduled for launch later in 2016, will be positioned over the Indian Ocean, covering all of Africa, Europe and into the western area of Asia.
+
+“We do hear, ‘Less boots on the ground and more eyes in the sky.’ Those capabilities often need to have satellite communications,” Hudson says. As satellite technology improves, providers develop more and more sensitive systems, able to pick up weaker and weaker signals and operate with much smaller antenna than today, he adds.
+
+Hughes Network Systems LLC has developed a new sustainable microsat waveform to mitigate problems of interrupted, or “chopped up” links between antenna and satellites by the rotating blades of some aircraft and packaged a modem and airborne-qualified technology available for both fixed-wing and rotary-wing aircraft, including UAVs, says Rick Lober, vice president and general manager of Defense and Intelligence Systems at Hughes.
+
+“The new waveform is an enabler for small antenna users for supporting communications on the move, remotely piloted aircraft and other disadvantaged users,” such as those operating beyond-line-of-sight platforms, adds Dan Losada, senior director of Defense Systems at Hughes.
+
+Satellite technology can be used for radio communications, astronomy, weather forecasting, broadcasting, mapping and much more on varying frequency bands across the spectrum. “Each one has its own benefits on how you are able to use the satellite and what the terminals will look like,” Losada says. “We’ve created a waveform that allows you to operate in the middle [of the spectrum.] The waveform allows you to shrink the terminals to the size of a [mobile satellite service] system but still operate on the [fixed satellite service.] That gap has existed, and now we’re fulfilling it through some of the development that we’re doing.”
+
+Satellite providers are modifying their commercial technologies for use by the Defense Department, especially in areas of communications. The development of small X-band terminals—which measure about the size of a laptop computer—means connectivity on the go, and might provide a solution to the Army’s Warfighter Network-Tactical (WIN-T) program, which is wrestling with high costs due to, in part, the communication systems' very large antenna, Lober says. “Try putting that on a Humvee and swinging the gun. We feel we can get the same data rates with much smaller antennas using some of these specialized waveforms.”
+
+A new airborne modem provides Wi-Fi capabilities in flight, addressing high throughput needs of manned and unmanned ISR requirements that can stream video to analysts in real time. “People in the aircraft can be connected while they’re in the air, as if the aircraft is their office,” Losada explains. “Then there is the ISR mission, which can collect a lot of data but there is no way to interpret until it lands and gets to an analyst—and by that time, it can be too late.”
+
+Some cost-saving solutions industry can provide the government might be service-based instead of gadgets and widgets. “We think the Holy Grail is going to the managed network model, and that’s still a few years away in these so-called 'pathfinders,'" Lober says.
+
+It does not appear that the military’s reliance on commercial satellite services will abate. Before the September 11, 2001, terrorist attacks in the United States, the WGS provided roughly 80 percent of the military’s satellite bandwidth. When the United States launched combat operations in Afghanistan in 2001, and then in Iraq in 2003, the military could not fulfill the need for bandwidth, and the ratio flipped with commercial providers leasing its bandwidth to the Defense Department, often at high prices.
+
+Over the years, in an effort to decrease costs, the Defense Department searched for alternative means to acquire commercial satellite communications services, including multiple-year leasing and upfront investments in commercial capabilities. Currently, the Defense Information Systems Agency arranges for roughly 70 percent of the military’s commercial satellite leases. The U.S. Air Force has leased Ku-band capacity and sought to procure transponder capacity on commercial satellites.
+
+Virginia-based SES Government Solutions received an $8.2 million firm-fixed-price contract for the purchase of commercial on-orbit transponders to support Ku-band communications for the U.S. Africa Command. The work will be performed at Ramstein Air Base in Germany and the western portion of Africa, and is expected to be complete by August 2019, according to officials at the U.S. Air Force Space and Missiles Center in California.
+
+Additionally, the U.S. Air Force intends to use hosted payloads on commercial systems to gain affordable access to space. The Space and Missile Systems Center awarded an indefinite-delivery, indefinite-quantity contract under the Hosted Payload Solutions program in July, which created a pool of qualified vendors to fulfill federal needs for various hosted payload missions in one of two fields: geosynchronous orbit hosted opportunities and low-earth orbit/medium-earth orbit hosting opportunities.</text>
+  <imgalttext>
+    <img>An Intelsat EpicNG satellite. Rendering courtesy of Boeing</img>
+  </imgalttext>
+</article>

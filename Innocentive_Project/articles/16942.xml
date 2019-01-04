@@ -1,0 +1,52 @@
+<article>
+  <type>article</type>
+  <title>NOMAD Tackles Big Data </title>
+  <author>George I. Seffers</author>
+  <date>December 1, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>big data</tag>
+    <tag>supercomputers</tag>
+  </tags>
+  <abstract>Researchers are developing an open source machine-learning framework that allows a distributed network of computers to process vast amounts of data as efficiently and effectively as supercomputers and to better predict behaviors or relationships.</abstract>
+  <text>Researchers are developing an open source machine-learning framework that allows a distributed network of computers to process vast amounts of data as efficiently and effectively as supercomputers and to better predict behaviors or relationships. The technology has a broad range of potential applications, including commercial, medical and military uses.
+
+Anyone who needs to analyze a few trillion datasets can use a supercomputer or distribute the problem among processors on a large network. The former option is not widely available, and the latter can be complicated. 
+
+Normally, systems manage distributed computations through a process known as bulk synchronization, which requires each of the processors—often thousands—to stop calculating long enough to communicate results to a central computer. “One of the problems with that approach is that all of the machines have to finish at the same time, and they all have to talk to the central machine at the same time. And then they have to receive inputs from the central machine and proceed,” explains Swaminathan Vishwanathan, professor of computer science at the University of California, Santa Cruz. 
+
+But with the system called NOMAD, which stands for “non-locking, stochastic multi-machine algorithm for asynchronous and decentralized matrix completion,” the processors no longer have to stop computing. NOMAD can handle datasets large enough to break other software systems, researchers say. At NOMAD’s heart is a new method for orchestrating computations among those hosts. Certain variables behave nomadically as they migrate from processor to processor after performing tasks at each one.
+
+“We are trying to develop an asynchronous method where each parameter is, in a sense, a nomad,” Inderjit Dhillon, professor of computer science and director of the Center for Big Data Analytics at the University of Texas at Austin, explains in a written statement. “The parameters go to different processors, but instead of synchronizing this computation, followed by communication, the nomadic framework does its work whenever a variable is available at a particular processor.” Dhillon and Vishwanathan serve as co-principal investigators for a NOMAD project funded by the National Science Foundation (NSF).
+
+Another problem with typical solutions is that one slow machine essentially can lock up the process while the other computers wait for it to finish its calculations. NOMAD takes a different path. “Instead of these machines stopping, synchronizing and communicating, they simply talk to each other. Each machine will work on the part of the data that it owns and then generate a message, and the message is passed to a random neighbor. The random neighbor will receive the message, and it will perform some computations, so no machine is waiting for any other machine,” Vishwanathan adds.
+
+The system is especially good at two kinds of problems. The first is matrix completion, in which NOMAD fills out missing entries in an incomplete matrix. Matrix completion is helpful for so-called recommender systems used primarily for commercial marketing. “We see this sort of thing in Netflix or any of these recommender systems. Based on observations of what you’ve done in the past, some system or some agent is trying to recommend ... things you might like to do, like to purchase or like to see,” says Jack Snoeyink, NSF program director in Computing and Communication Foundations. 
+
+The matrix to determine Netflix’s movie suggestions might consist of rows of users and columns of movies. “You get partial information from the activities and ratings that have been given, and you’re trying to predict the results or ratings that haven’t yet been done. That’s the basic problem that NOMAD is attacking for very large numbers of users, very large numbers of movies … when the dataset is so large or [because] all the data can’t be put together in one computer,” Snoeyink adds. 
+
+The NOMAD system also is notably proficient at topic modeling, in which a machine learns the topics of billions of documents based on the number of times prominent words appear. In a 2010 article in the journal Colloquium Polaris, researchers reported that on a distributed machine with 32 processors where each processor has four cores, NOMAD solved a matrix completion problem with 2.7 billion ratings in 10 minutes and a topic modeling problem with 1.5 billion word occurrences and 1,024 topics in 16 minutes. “For a classic problem, it’s probably two to three times faster than anything else that’s out there. This is one of the examples where NOMAD has a big advantage,” Vishwanathan says. 
+
+He allows that NOMAD is not the only solution for such problems. Other systems have their pros and cons, depending on the specific task, goals and technology architecture, he offers.
+
+Dhillon and his team used the Stampede supercomputer, one of the most powerful in the world, and a system called Rustler that specializes in running machine-learning algorithms, to develop and test NOMAD. The team ran the code on 1,000 processors and seamlessly handled millions of documents with billions of occurrences of words.
+
+Snoeyink says NOMAD is more affordable and scalable than supercomputer algorithms. “Netflix can go out and buy the big iron to run it on a supercomputer,” he says, but others may need to start more slowly and “build up computing capabilities in a more distributed fashion.”
+
+The distributed computer approach has other advantages as well. “That also makes it more resilient. If someone knocks out your supercomputer, you’re done. If someone knocks out a few nodes of the network to a collection of computers running this algorithm, because it’s asynchronous and lock-free, it can recover,” Snoeyink states.
+
+The NOMAD software can be used for much more than movie predictions. The system analyzes genes and predicts their roles in particular diseases. Dhillon teamed with researchers in his university’s biology department to apply NOMAD’s algorithms to gene-networking problems. They found it possible to predict gene-disease associations for diabetes. Furthermore, the software may prove helpful in predicting co-morbidities—the presence of two diseases infecting one person—and the propensity for some patients to be rehospitalized.
+
+In addition, Snoeyink suggests the system might help warfighters select team members for specific missions. “If you want to assemble a team that is able to handle a particular situation well, you may be able to predict that from the training exercises they’ve done or the qualities that you’ve observed and recorded on the individual,” he offers.
+
+Vishwanathan explains that the researchers have not yet examined national defense or security-related applications. But they are exploring a broad range of problem sets, such as Bayesian modeling, a form of statistical analysis. They also are exploring NOMAD’s usefulness with multiclassification problems. For example, if a user knows a person could belong to one of multiple organizations, and they have data about the person, NOMAD can help determine which organization the person has joined. Or, if a user is given a document and a particular ontology and needs to know where the document came from, NOMAD can analyze the data and come up with an answer. “For this particular class of problems, we have been working on how to use NOMAD for speeding up computations,” Vishwanathan reports.
+
+The research team also seeks to develop a nomadic template adaptable for a wide variety of applications. “We want to develop a framework and give people a template, so if you have a particular kind of problem, you follow steps three, four, five and six, and you can apply the nomadic computing ideas to your problem,” Vishwanathan says. 
+
+The framework will be released as open source technology. Each time the researchers publish new results, they also provide the technology as open source. “Disseminating ideas is what we’re all about,” Snoeyink says.</text>
+  <imgalttext>
+    <img>A U.S. Marine Corps corporal fires a GAU-17/A gun during a Valiant Shield exercise over Farallon de Medinilla, Northern Mariana Islands. Machine-learning software may help predict which warfighters will be best suited for specific missions.</img>
+  </imgalttext>
+</article>

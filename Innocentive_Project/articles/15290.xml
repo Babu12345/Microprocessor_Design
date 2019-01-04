@@ -1,0 +1,28 @@
+<article>
+  <type>blog</type>
+  <title>Device Converts Light into Direct Current</title>
+  <author>George I. Seffers</author>
+  <date>September 30, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>Georgia Tech</tag>
+    <tag>research and development</tag>
+    <tag>Solar</tag>
+    <tag>New Products</tag>
+  </tags>
+  <abstract>Using nanotechnology, researchers at the Georgia Institute of Technology develop a device for converting light to direct current electricity.</abstract>
+  <text>Using nanometer-scale components, researchers have demonstrated the first optical rectenna, a device that combines the functions of an antenna and a rectifier diode to convert light directly into direct current electricity.
+Based on multiwall carbon nanotubes and tiny rectifiers fabricated onto them, optical rectennas could provide a new technology for photodetectors that would operate without the need for cooling and energy harvesters that would convert waste heat to electricity. The technology also could ultimately result in a new way to efficiently capture solar energy.
+In the new devices, developed by engineers at the Georgia Institute of Technology, the carbon nanotubes act as antennas to capture light from the sun or other sources. As the waves of light hit the nanotube antennas, they create an oscillating charge that moves through rectifier devices attached to them. The rectifiers switch on and off at record high petahertz speeds, creating a small direct current.
+Billions of rectennas in an array can produce significant current, though the efficiency of the devices demonstrated so far remains below 1 percent. The researchers hope to boost that output through optimization techniques, and predict a rectenna with commercial potential may be available within a year.
+"We could ultimately make solar cells that are twice as efficient at a cost that is 10 times lower, and that is to me an opportunity to change the world in a very big way," Baratunde Cola, an associate professor in the George W. Woodruff School of Mechanical Engineering at Georgia Tech, said in a written announcement. "As a robust, high-temperature detector, these rectennas could be a completely disruptive technology if we can get to 1 percent efficiency. If we can get to higher efficiencies, we could apply it to energy conversion technologies and solar energy capture."
+The research, supported by the Defense Advanced Research Projects Agency, the Space and Naval Warfare Systems Center and the Army Research Office, is reported in the journal Nature Nanotechnology.
+Developed in the 1960s and 1970s, rectennas have operated at wavelengths as short as 10 microns, but for more than 40 years researchers have been attempting to make devices at optical wavelengths. There were many challenges, including making the antennas small enough to couple optical wavelengths and fabricating a matching rectifier diode small enough and able to operate fast enough to capture the electromagnetic wave oscillations. But the potential of high efficiency and low cost kept scientists working on the technology.
+Cola sees the rectennas built so far as simple proof of principle. He has ideas for how to improve the efficiency by changing the materials, opening the carbon nanotubes to allow multiple conduction channels and reducing resistance in the structures.
+ </text>
+  <imgalttext>
+    <img>Researchers predict the optical rectina, which converts light to direct current, could be a game changer.</img>
+  </imgalttext>
+</article>

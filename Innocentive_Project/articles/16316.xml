@@ -1,0 +1,34 @@
+<article>
+  <type>blog</type>
+  <title>Let Legacy IT Systems Just Die</title>
+  <author>J. Wayne Lloyd</author>
+  <date>July 8, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>Federal agencies need to address their aging legacy systems and need to do it now. But how? Let these legacy systems die, says Wayne Lloyd from RedSeal. The government should not put any more money into a sinking ship and should instead invest $3.1 billion earmarked for improvements to design and implement next-generation networks created from the ground up with security and performance built in.</abstract>
+  <text>Federal agencies need to address their aging legacy systems and need to do it now. The situation is so dire that some systems are more than 50 years old and running on 8-inch floppy disks, according to a report by the Government Accountability Office.
+
+President Barack Obama’s IT budget request for fiscal year 2017 is $89 billion. More than 70 percent is allocated just for operating and maintaining legacy systems, systems that pose “a crisis that’s bigger than Y2K,” according to U.S. Chief Information Officer Tony Scott.
+
+To address the problem, the administration established a $3.1 billion fund enabling agencies to transition from legacy IT systems, enticing many technologists in both the government and commercial sector out of the woodwork to offer recommendations such as encryption, updating operating systems and installing new hardware that can run the latest applications, to name a few. The suggestions are worthy, but fail to address the underlying problem. These systems are really old and the applications they run on are not compatible with new technology. 
+
+Specifically, legacy systems were not built for security, which was constructed around them much later in their life cycle. Systems and networks are riddled with misconfigurations that allow unintended access to high-value assets and mission critical components. Case in point: Just analyze the spate of attacks over the past few years, such as the Office of Personnel Management data breach that compromised the personal information of nearly 22 million people.
+
+What is the solution? Let these legacy systems die. Don’t put any more money into a sinking ship. Instead, invest the $3.1 billion and design and implement next-generation networks created from the ground up with security and performance built in.
+
+But before designing the new network, experts should model it to ensure that, from a security perspective, everything is configured as intended. Too many times last minute changes compromise the integrity of a secure network design. To prevent that from happening, the network must be continuously modeled from a security and risk perspective so any changes made during its system life cycle can easily be viewed and assessed. 
+
+Agencies will have to conduct up-to-date network diagrams and complete asset inventories, an added benefit of this type of modeling, which helps the network become and remain resilient.
+
+But even with new networks problems arise. Legacy systems and the applications they run remain necessary for many agencies to function. Some of the applications and systems can be migrated to the new environment, but many cannot and won’t be. They will need to be isolated in secure enclaves without impacting operations. How long should this period of isolation last? Until either a new application that replaces the functionality of the legacy system is developed or until the application no longer is required. 
+
+Over the course of the next decade or so, all legacy systems eventually will fade away and cease to exist. And when that time comes, no one will shed a tear.
+
+J. Wayne Lloyd is the federal chief technology officer at RedSeal.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

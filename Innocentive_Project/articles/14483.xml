@@ -1,0 +1,25 @@
+<article>
+  <type>blog</type>
+  <title>The Rise of the PIIPs</title>
+  <author>Glenn Kesselman</author>
+  <date>May 5, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>Personal identifiable information (PII) constantly is under threat of being compromised. One solution may be to create vaults that grant access to authorized organizations. But will it work, or even be embraced by the public?</abstract>
+  <text>If you have a credit card, an account with a health care provider or your personal identifiable information (PII) stored with a vendor, your PII probably has been compromised. What if there was another way to allow commerce and government to use your PII without storing it?
+
+As an alternative, when an organization initially requests your PII, instead of providing your PII directly, you would send them a link to your PII vault, or PIIV. Your designated personal identity information provider, or PIIP, maintains your PIIV. You contract with the PIIP to maintain your PII and authorize it to grant access to your PII based on your personal information policy, or PIP. The viewing of your PII is granted for a fixed period of time, and then it reverts back to a link. When the organization needs access to your PII again, the process is repeated.
+
+The PIIP’s security operations center monitors the Internet for PII breaches. In the event of a PII breach, increased scrutiny is applied to requests for your PII.
+
+What do you think about the concept of PIIPs? Would the use of PIIPs make a difference in how we share and secure our personal information?
+
+ 
+
+Glenn Kesselman is the president of Kesselman &amp; Associates and vice president of programs for the AFCEA Silicon Valley Chapter.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

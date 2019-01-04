@@ -1,0 +1,52 @@
+<article>
+  <type>article</type>
+  <title>Best Places to Find Cyberwarriors? Elementary Schools</title>
+  <author>Sandra Jontz</author>
+  <date>August 27, 2015</date>
+  <departments>
+    <department>Event Coverage</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>TechNet Augusta 2015 Show Daily</tag>
+  </tags>
+  <abstract>Some of today’s 9-year-olds code in Java during their summer vacations, making them the optimal candidates the U.S. government and military should school to be the next generation of cyberwarriors.</abstract>
+  <text>Some of today’s 9-year-olds code in Java during their summer vacations, making them the optimal candidates the U.S. government and military should school to be the next generation of cyberwarriors, offered Gary Wang, deputy chief information officer/G-6 in the U.S. Army.
+
+The government has waited until it’s nearly too late to begin cultivating the next-generation cadre of scientists, programmers and security experts needed to shore up cyber vulnerabilities to prevent intrusions and attacks that threaten to deliver even more debilitating blows against the nation.
+
+“We should be trolling all of the Cyber Patriot games [and] the cyber competitions, and we should already be singling out who the high performers are,” Wang said during the third and final day of the well-attended annual TechNet Augusta conference, hosted by AFCEA International. “You have to start really early. We cannot wait until a person is in college. … It has got to be way earlier than that.
+
+“There is no Smokey Bear for cybersecurity,” Wang continued. “There is no public service announcement for cyber awareness. But to me, if we really want to be effective and kind of prepare the next generation, we really have to start at a much earlier age. We’re preparing for a future where we don’t even know what the problems are.”
+
+Until then, the Defense Department has embarked on an imposing venture to streamline cybersecurity efforts and reshape the military work force. One approach that might make the effort to reduce stovepiped operations—which leaders have dubbed “convergence”—a little less painful, or at least allow it to run a bit smoother, is to move military leadership into different positions traditionally not their job, Wang suggested.
+
+“Unlike any other time in our history, you’re watching our strategic and tactical world collapse into one, and it really is unprecedented,” said Maj. Gen. John Morrison Jr., USA, commanding general, U.S. Army Network Enterprise Technology Command and deputy commanding general for 2nd Army.
+
+The department’s best example of digital convergence taken from industry is the creation of the smartphones, which combined televisions, cameras, telephones, typewriters, radio and more into a single device. “But the motivating economic factors to get to that single box are not the same factors that we have in government,” Wang pointed out. “Are we willing to converge budgets? Are we willing to converge programs? Are we willing to give up program names that have been associated with something for 15, 20 years and be able to kind of consolidate that down to some generic name?”
+
+The Defense Department must move quicker at streamlining its cyberwarrior force, from training to all-out operations. “That’s the purpose of convergence … to make us much better than we are today and actually deny or degrade the enemy’s opportunity to use this information space for his own advantage,” said Maj. Gen. Stephen Fogarty, USA, commanding general of the U.S. Army Cyber Center of Excellence at Fort Gordon, Georgia.  
+
+Military leaders needs help for strategies and technologies from the private industry. A theme Wang said he noted while visiting the exhibit floor of vendors presenting technologies were the number of tools geared toward cybersecurity. “We’re kind of in the ‘Darwiniancy’ phase of what tools are going compete,” he said. “When we open the aperture, everybody kind of enters in the market for some competition that slowly will converge or draw down to what are some of the big players that people will adopt.”
+
+The Defense Department’s cyber strategy is headed in the right direction, but must be fine-tuned and keenly focused, because industry has been hit by the same fiscal constraint woes that hit the federal government, suggested Brig. Gen. William J. Scott, USA (Ret.), vice president for solutions integration at L-3 national Security Solutions.  “We must be able to focus limited [research and development] monies on the right things,” said Scott, a panelist that presented attendees an industry perspective on the convergence process. “There’s not enough [money] to spread across too many efforts. We have to be focusing on things that are the most important to you and the most relevant to you. All of these things mean we have to collaborate better.”
+
+“The best people with the most current skills are always going  to cost more than we want to pay, and we’re always going to be competing for the same folks out there,” Scott added. “We must work together to refine the right training standards and the right certification standards so that we can actively target our training efforts for those folks.” 
+
+Scott proposed three focus areas for both government in industry: Agile development with baked-in software assurance to keep pace with developments, expanding the application of data analytics and enhance situational understanding and cyber visualization.
+
+“Data analytics is obviously a game changer, but it’s a game changer on level playing field,” Scott warned. “Our potential adversaries have access to that capability just as we do, so we’re going to have to stay ahead of them. A lot of that has to do with how we’re able to leverage and develop high-end data scientists.”
+
+Recent cyber attacks against both private and federal networks over the past few years indicate that adversaries are honing their skills against automation and control systems, said Michael Assante, the SANS lead for Industrial Control System (ICS) and Supervisory Control and Data Acquisition (SCADA) security and co-founder of NexDefense, an Atlanta-based ICS security start-up. “The visibility of the risks that we faced were not fully appreciated or understood, and I think we’re still there today. … We don’t fully understand how an adversary can affect our capabilities because the complexity of the systems.”
+
+"It’s said in the military that offensive maneuvers often mirrors defensive ones in cyber, which could prove to be an advantage if cyberwarriors, stated Rear Adm. William Leigher, USN (Ret.), advanced solutions director for intelligence, information and services at Raytheon. “I think our adversaries are more likely to take shortcuts when it comes to industrial design, system design and system integration.”
+
+In actuality, talk of convergence is really not a new concept to be tossed around defense reform circles, said Tom Patterson, vice president and general manager for Unisys Global Security Solutions. “A lot of us have been talking about convergence for years. But if it was easy, we would have done it by now,” said Patterson, who cautioned military leaders against changing the culture too quickly. “Before you converge them, you have to secure them.”
+
+After years of effort and millions of dollars spent to harden the outside of the systems and networks, “now we’re asking to let everything in and converge with it. That makes it a very hard problem to solve when you think about it that way.” Technologies already exists to provide some protections, such as IPv6 rollout and solutions called micro-segmentation, which secures small portions of networks allowing only authorized groups to access data and making key portions invisible to intruders.</text>
+  <imgalttext>
+    <img>Gary Wang, deputy chief information officer/G-6 in the U.S. Army, says the U.S. government needs to identify the next generation of cyberwarriors when you are children. Photo by Mike Carpenter</img>
+    <img>Students and military personnel experiment with technologies at the 3rd Annual TechNet Augusta conference in Georgia. Photo by Mike Carpenter</img>
+    <img>Attendees list as industry panelists present thoughts on the military's effort to streamline cybersecurity efforts at AFCEA International's TechNet Augusta conference in Georgia. Photo by Mike Carpenter</img>
+  </imgalttext>
+</article>

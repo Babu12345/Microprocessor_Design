@@ -1,0 +1,62 @@
+=== Generated schedule for mkMagicMemory ===
+
+Method schedule
+---------------
+Method: put
+Ready signal: mem_state == 3'd1
+Conflict-free: dumpCompletion
+Sequenced before: nodeDump
+Sequenced after: get0, get1, get2, get3
+Conflicts: put
+ 
+Method: get0
+Ready signal: mem_state == 3'd1
+Conflict-free: get0, get1, get2, get3, dumpCompletion
+Sequenced before: put, nodeDump
+ 
+Method: get1
+Ready signal: mem_state == 3'd1
+Conflict-free: get0, get1, get2, get3, dumpCompletion
+Sequenced before: put, nodeDump
+ 
+Method: get2
+Ready signal: mem_state == 3'd1
+Conflict-free: get0, get1, get2, get3, dumpCompletion
+Sequenced before: put, nodeDump
+ 
+Method: get3
+Ready signal: mem_state == 3'd1
+Conflict-free: get0, get1, get2, get3, dumpCompletion
+Sequenced before: put, nodeDump
+ 
+Method: nodeDump
+Ready signal: mem_state == 3'd1
+Conflict-free: dumpCompletion
+Sequenced after: put, get0, get1, get2, get3
+Conflicts: nodeDump
+ 
+Method: dumpCompletion
+Ready signal: True
+Conflict-free: put, get0, get1, get2, get3, nodeDump, dumpCompletion
+ 
+Rule schedule
+-------------
+Rule: findMemSize
+Predicate: mem_state == 3'd2
+Blocking rules: (none)
+ 
+Rule: dumpData
+Predicate: mem_state == 3'd0
+Blocking rules: (none)
+ 
+Logical execution order: get0,
+			 get1,
+			 get2,
+			 get3,
+			 put,
+			 nodeDump,
+			 dumpCompletion,
+			 findMemSize,
+			 dumpData
+
+=============================================

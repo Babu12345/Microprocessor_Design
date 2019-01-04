@@ -1,0 +1,48 @@
+<article>
+  <type>blog</type>
+  <title>Why Migrating to the Cloud is Great for Government IT Security</title>
+  <author>Joe Kim</author>
+  <date>November 29, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>cloud</tag>
+    <tag>cloud computing</tag>
+    <tag>guest bloggers</tag>
+    <tag>Guest Blogs</tag>
+    <tag>FedRAMP</tag>
+  </tags>
+  <abstract>While it’s clear the cloud is the future of government IT, concerns surrounding cloud security continue to abound. Some agency IT personnel remain skittish about handing over data to cloud service providers and skeptical that the data will remain out of the hands of bad actors. As a result, they’re more comfortable housing information in legacy IT systems, even if those systems are, in some cases, decades old and prone to security vulnerabilities, writes SolarWinds blogger Joe Kim.</abstract>
+  <text>While it’s clear the cloud is the future of government IT, concerns surrounding cloud security continue to abound. Some agency IT personnel remain skittish about handing over data to cloud service providers and skeptical that the data will remain out of the hands of bad actors. As a result, they’re more comfortable housing information in legacy IT systems, even if those systems are, in some cases, decades old and prone to security vulnerabilities.
+
+In truth, deploying a cloud IT infrastructure is ideal for managing today’s ever-changing threat landscape, for several reasons. Here are three reasons why.
+
+Software updates are automatic and in near real time.
+Gone are the days when organizations were forced to buy expensive upgrades to ensure they ran the most recent and secure software. Cloud-based solutions are updated continuously, contain the latest security patches and provide on-the-spot intelligence designed to combat the latest threats. Administrators need not be concerned with always having the latest and greatest protection, as it’s given automatically. 
+
+Much of this is due to the hard work of the open source development community, made up of millions of enterprising developers around the world. Many cloud solutions are built on open source and the development community is in tune with the latest security threats facing agencies. As such, they quickly deliver updates that address immediate threats, in near real time. Agencies benefit by rapidly and easily installing patches that prevent harmful worms or viruses.
+
+Administrative efforts are minimized, letting personnel focus on what’s truly important.
+Due to the automated nature of the software, cloud services relieve a lot of the management onus for IT personnel. Legacy software requires constant monitoring and updating. Traditional hardware servers often need to be updated with replacement parts, which can be hard to come by and onerous to install. Each of these takes time, energy and money.
+
+Cloud service providers such as Amazon, Microsoft and Google take on these tasks and, in the process, let administrators focus on what’s most important for their agencies. This affords them more time to devote to monitoring data and intelligence feeds to build better agency security postures.
+
+Deployment times are instantaneous and cloud infrastructures are scalable.
+It used to take weeks—sometimes months—to install legacy technologies still used by some agencies, and costs could become astronomical. In some cases, the deployment challenge and expenses may exceed the value of buying the software or hardware in the first place. These systems can be extraordinarily inflexible and difficult to scale; an organization is pretty much stuck with what they have, even if they need more or less down the line.
+
+By contrast, cloud services are deployable immediately and highly agile and can scale up or down as needed. This provides agencies with significant flexibility and the ability to quickly react to constantly evolving security threats.
+
+But these points pose some valid questions, concerns and challenges. It’s obviously paramount to research cloud service providers carefully to ensure they have lockdown security models that match agencies’ specific needs, such as with the Health Insurance Portability and Accountability Act (HIPPA) of 1996 and Federal Risk and Authorization Management Program (FedRAMP). It’s also important to ensure the housed data is kept on servers located within the United States that provide top-level encryption and security of data at rest and in flight.
+
+These are some of the reasons many agencies have yet to completely dive into the “cloud pool” and opted instead to dip their toes in the water via a hybrid IT approach, where some IT work is kept on premises (generally, that related to security) while other jobs are outsourced.
+
+This environment brings its own challenges. Organizations must monitor applications both on premises and in the cloud to ensure continued efficacy and optimal performance. They also need the flexibility to monitor customized applications across all types of environments—physical, virtual and cloud. And they must deploy continuous monitoring strategies that provide real-time insight and reporting into who’s accessing their networks and applications and which devices they use.
+
+The government's move toward cloud environments has become far more aggressive over the past couple of years and will continue, even if agencies might not move everything over to the cloud, as a recent SolarWinds survey suggests. Ultimately, however, the benefits of cloud deployments —particularly from a security standpoint—will prove too great to ignore. Put simply, the cloud offers the best and most responsive option for today’s cybersecurity landscape.
+
+Joe Kim is senior vice president and global chief technology officer at SolarWinds.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

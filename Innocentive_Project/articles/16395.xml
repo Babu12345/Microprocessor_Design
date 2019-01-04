@@ -1,0 +1,34 @@
+<article>
+  <type>article</type>
+  <title>Industry Bringing Space-Based RF Mapping and Analytics to Commercial Sector</title>
+  <author>Sandra Jontz</author>
+  <date>July 28, 2016</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>space</tag>
+    <tag>geo-location</tag>
+    <tag>Lockheed Martin</tag>
+    <tag>Small Business</tag>
+  </tags>
+  <abstract>A Virginia-based radio frequency and analytics startup wants to go where no commercial business has gone before. HawkEye 360, a subsidiary of Allied Minds, is teaming with Lockheed Martin and Deep Space Industries to launch the small business' detection, mapping and predictive analytic technologies to detect radio frequency from space for global commercial and government use, giving customers a unique intelligence offering that cuts across air, land and sea networks.</abstract>
+  <text>A Virginia-based radio frequency and analytics startup wants to go where no commercial business has gone before.
+
+HawkEye 360, a subsidiary of Allied Minds, is teaming with Lockheed Martin and Deep Space Industries to launch the small business' RF detection, mapping and predictive analytic technologies to detect radio frequency (RF) from space for global commercial and government use, giving customers a unique intelligence offering that cuts across air, land and sea networks.
+
+Next year, the Herndon-based company, which got its start in September, plans to deploy in low–Earth orbit its first constellation of three small satellites built by Deep Space Industries. “We realize that the signals we want to analyze are not currently commercially available,” says HawkEye 360’s Chief Operating Officer Chris DeMay. “Given our background and our expertise, we decided the best path forward for detecting signals for commercial purposes was to do some space-based detection and geolocation of signals. What makes us unique is our ability to process and analyze those signals.”
+
+Monitoring RF spectrum usage from space can determine where signals come from, what kind of signals they are and geolocate the signals to help in creating detailed area maps of spectrum interference, for example, or establishing transportation network patterns of congested shipping lanes. “We can develop heat maps of signals to show how RF is used in a certain geographic region so we can mitigate interference or jamming signals,” DeMay says. “We are essentially putting dots on the map of emitters—so mapping out cellular tower networks, mapping out congestion in maritime situations for ships going through straits for commerce purposes or mapping the same ships to track for illegal fishing or other illicit maritime activity.”
+
+It’s a three-step process of putting sensors on orbit, processing the signals on the ground and using analytic tools to glean useful intelligence from the data feeds. HawkEye 360 will launch the first three satellites during the second half of 2017. The three will fly as a cluster, which the company calls its pathfinder. “This first set of satellites will prove out what our technology can do, but will prove it on space-based detection for the first time,” DeMay says. “The long-term plan, and by long-term I mean 2018 and 2019, is to build and launch satellites that fill out the constellation to the tune of six clusters.”
+
+While commercial companies track the automatic identification system (AIS) collision avoidance signals that identify ships and provide information such as speed, course and contact information, tracking RF from space is not yet a commercially available service. “The government takes pictures from space, detects signals from space and they perform communications missions from space,” DeMay says. “The commercial world does commercial imagery very well, and they do commercial space-based satellite communications very well, but no one is detecting RF from space commercially.”
+
+Unlike the AIS-only approach, HawkEye 360 will detect a wider range of frequencies to better map RF use and glean actionable intelligence. “The differentiation between our service and that of a typical AIS collector is that we are going to be able to independently geolocate those signals,” DeMay says. “We are going to be able to tell you if a vessel is turning off its AIS, or in the case of illegal fishing where there are a number of bad actors, we will know if they are spoofing their AIS.”
+
+Collaborating with Lockheed Martin for the new mission solutions might extend the technology’s adoption across multiple customer segments and new markets. "We are delighted that Lockheed Martin has chosen to collaborate with us as we build one of the world's first privately funded global RF signal monitoring systems," Chris Silva, Allied Minds CEO, says in a statement. "Their relationships across multiple customer domains will be invaluable to help accelerate the commercial use of HawkEye 360's RF monitoring data and analytics."</text>
+  <imgalttext>
+    <img>HawkEye 360 and Lockheed Martin collaborate to bring space-based RF mapping and analytics technology to the commercial sector. Image courtesy HawkEye 360 </img>
+  </imgalttext>
+</article>

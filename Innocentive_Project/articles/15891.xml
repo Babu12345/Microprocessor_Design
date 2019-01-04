@@ -1,0 +1,23 @@
+<article>
+  <type>blog</type>
+  <title>Reverse Engineering the Human Brain</title>
+  <author/>
+  <date>April 5, 2016</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>IARPA</tag>
+    <tag>artificial intelligence</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The Intelligence Advanced Research Projects Activity (IARPA) has awarded an $18.7 million contract to the Allen Institute for Brain Science to create the largest-ever road map to understand how the function of networks in the brain’s cortex relates to the underlying connections of its individual neurons.</abstract>
+  <text>The Intelligence Advanced Research Projects Activity (IARPA) has awarded an $18.7 million contract to the Allen Institute for Brain Science, as part of a larger project with Baylor College of Medicine and Princeton University, to create the largest-ever road map to understand how the function of networks in the brain’s cortex relates to the underlying connections of its individual neurons. The project is part of the Machine Intelligence from Cortical Networks (MICrONS) program, which seeks to revolutionize machine learning by reverse-engineering the algorithms of the brain.
+
+“This effort will be the first time that we can physically look at more than a thousand connections between neurons in a single cortical network and understand how those connections might allow the network to perform functions, like process visual information or store memories,” R. Clay Reid, Ph.D., senior investigator at the Allen Institute for Brain Science and principal investigator on the project, said in a written statement.
+
+The ultimate goal is to implement the algorithms and learning rules that scientists decipher from the brain to advance the field of artificial intelligence. Artificial neural networks have recently developed capabilities to do speech recognition, recognize faces and help analyze big data for biomedical research, but in many ways, researchers consider the artificial neural networks still primitive.</text>
+  <imgalttext>
+    <img>An IARPA program will study the human brain in an effort to make machines smarter.</img>
+  </imgalttext>
+</article>

@@ -1,0 +1,19 @@
+<article>
+  <type>blog</type>
+  <title>Scientists Developing 'X-Ray Vision' Using Wi-Fi Signal</title>
+  <author>Cyndy Hogan</author>
+  <date>January 14, 2014</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>research and development</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>Researchers have taken the concept of radar and sonar imaging a step further to track people, even through walls. Wi-Vi, which Dina Katabi and her graduate student Fadel Adib are developing at MIT’s Computer Science and Artificial Intelligence Laboratory, transmits a low-power Wi-Fi signal and uses its reflections to track human movement.</abstract>
+  <text>Researchers have taken the concept of radar and sonar imaging a step further to track people, even through walls. Wi-Vi, which Dina Katabi and her graduate student Fadel Adib are developing at MIT’s Computer Science and Artificial Intelligence Laboratory, transmits a low-power Wi-Fi signal and uses its reflections to track human movement. Katabi is a professor in MIT’s Department of Electrical Engineering and Computer Science. The system uses two transmit antennas and a single receiver. Static objects create identical reflections and cancel each other out, so the system can track people’s movement and calculate a person’s location.
+Applications for Wi-Vi include allowing law enforcement to pinpoint the number of criminals in a building and their location, and helping search and rescue teams find survivors. The capability also could be used to develop a personal safety device.
+Find out more in this YouTube video from Adib's channel: "Wi-Vi: See through walls with Wi-Fi signals."
+</text>
+  <imgalttext>
+  </imgalttext>
+</article>

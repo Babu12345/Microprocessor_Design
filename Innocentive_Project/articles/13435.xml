@@ -1,0 +1,28 @@
+<article>
+  <type>blog</type>
+  <title>Cyber Can't Protect Everything</title>
+  <author>George I. Seffers</author>
+  <date>September 9, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+    <department>Cyber</department>
+    <department>Event Coverage</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>Army</tag>
+    <tag>TechNet Augusta 2014</tag>
+  </tags>
+  <abstract>Sometimes, cyber warriors will have to pick and choose what to protect, because, “It’s increasingly clear we can’t protect everything,” said Lt. Gen. Edward Cardon, USA, commanding general, U.S. Army Cyber Command, while addressing the AFCEA TechNet Augusta audience.</abstract>
+  <text>Sometimes, cyber warriors will have to pick and choose what to protect, because, “It’s increasingly clear we can’t protect everything,” said Lt. Gen. Edward Cardon, USA, commanding general, U.S. Army Cyber Command, while addressing the AFCEA TechNet Augusta audience in Augusta, Georgia.
+
+Gen. Cardon described the Defense Department’s cyberdefense as a pyramid, with the Department of Defense Information Network as the base. “That network is guarded by all kinds of sensors, perimeter devices. Think of it as a static area defense. It’s very agnostic—firewalls, etc,” he said. “Then there’s the next layer called defensive cyber operations. This is really groundbreaking work. This is a different kind of defense. Think of it as defense-in-depth, but it’s threat-specific and mission-focused.”
+
+With defensive cyber operations, “Now, all of a sudden for operational commanders, you have to be able to describe what terrain you want protected, what operation you want protected,” he said, citing intelligence, surveillance and reconnaissance as an example of information that might be considered critical for protection.
+
+“Then there’s the top piece, offensive cyberspace operations,” he said, declining to discuss offensive operations in depth because of security concerns. “If you had to think about the structure, though, offensive cyberspace is small, at the top. Defensive cyber operations is in the middle, but it sits on the base of the Department of Defense Information Networks,” he explained.
+
+Gen. Cardon acknowledged that operational commanders often have trouble understanding the cyber domain. He pled guilty to sometimes telling his staff to “just make my stuff work.” He simplified network operations by comparing it to city terrain. The roads represent wireless, fiber, cables, etc., while the intersections are routers and switches. Buildings contain people with various devices, whether desktop or mobile. “Now, think about how to navigate through that network from one end of the city to the other. You go down a pathway, run into a router, you have to go through that and all of a sudden, you realize that you maneuver through cyberspace. This fits very well with the way the Army operates on the land,” he said. “We have these warfighting functions—maneuver, fires, intelligence, protection, sustainment—they all apply.”</text>
+  <imgalttext>
+  </imgalttext>
+</article>

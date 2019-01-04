@@ -1,0 +1,23 @@
+<article>
+  <type>article</type>
+  <title>Army Integrates Systems Tools Across Network Echelons </title>
+  <author>Rita Boland</author>
+  <date>February 10, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>Tactical Operations</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>Soldiers are moving away from the programs that developed stovepiped network operations solutions for particular needs and domains, transitioning to integrated capability sets.</abstract>
+  <text>The U.S. Army is changing direction in how it manages systems as recent sustained conflicts draw to a close. Soldiers are moving away from the programs that developed stovepiped network operations (NetOps) solutions for particular needs and domains, transitioning to integrated capability sets.
+	Officials with the Army’s Program Executive Office Command, Control, Communications-Tactical (PEO C3T) say the service is examining NetOps from a more holistic, simplified standpoint. Efforts are underway to provide an integrated set of tools that allows communications officers, or S6s, to optimize on missions each system across the various domains, echelons, and transport and computing infrastructures resident in tactical formations. PEO C3T is the lead for this Integrated Tactical NetOps effort.
+The office also is the lead for Project Manager Warfighter Information Network-Tactical (WIN-T). An improved WIN-T NetOps suite will serve as the baseline for tactical NetOps as personnel work to converge other products, such as those used to manage the lower tactical Internet. This spring, the next version of the advanced WIN-T NetOps capabilities is scheduled for further study at the Network Integration Evaluation 14.2 before it fields to units.
+	Changes in Army networks over the last few years have mandated more efficiency in managing them. The service has merged satellite and radio networks down to the platoon and sometimes even the squad level using Internet protocol communications. “The improved WIN-T NetOps tools help provide better situational understanding across the entire battlefield, while an early success for lower tactical Internet NetOps convergence was realized with the 2013 fielding of the Joint Tactical Networking Environment NetOps Toolkit (J-TNT),” an official explains. “The J-TNT collapsed several lower tactical network tools, mostly radio management tools, onto one laptop, helping to streamline how the S6 manages the tactical network.” Experts also are examining NetOps tools at the strategic level in an effort to improve network visibility from the enterprise level to the tactical one, which should achieve efficiencies and improve operational flexibility.
+	WIN-T NetOps tool suites support the S6s in theater as they plan, initialize, monitor, manage and respond to the network. The Army aims to give these personnel one method to do their jobs, train them once and require only one set of tools. Buying fewer or the same tools more strategically and cost effectively saves taxpayer dollars, an important consideration, especially in the current constrained fiscal environment.
+	The Army is pushing a large number of new capabilities to echelons that traditionally lacked such resources, all while following the requirement not to add soldiers supporting the network. Leaders look at NetOps as a key force multiplier that will help combat the additional complexity and workload introducing the capabilities otherwise would impose. Developers look at their standards-based framework as the basic building block onto which future capabilities, whether military or commercial, will integrate.
+	“We look at NetOps convergence as a journey, not a destination,” the official states. “Often, in previous or legacy programs that provided a component of the network, NetOps functionality was conceived and executed in a stovepiped manner.” The current efforts integrate these legacy systems vertically and horizontally.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

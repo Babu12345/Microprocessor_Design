@@ -1,0 +1,29 @@
+<article>
+  <type>blog</type>
+  <title>Solving the Wireless Crowding Conundrum</title>
+  <author/>
+  <date>February 19, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>National Institute of Standards and Technology</tag>
+    <tag>research and development</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>Researchers at the National Institute of Standards and Technology are developing measurement tools for new mobile communications channels that could offer more than 1,000 times the bandwidth of today’s cellphone systems.</abstract>
+  <text>Researchers at the National Institute of Standards and Technology (NIST) are developing measurement tools for new mobile communications channels that could offer more than 1,000 times the bandwidth of today’s cellphone systems. The research aims to resolve burgeoning bandwidth demands associated with the rapid expansion of wireless devices. Boosting bandwidth and capacity could speed downloads, improve service quality and enable new applications like the Internet of Things connecting a multitude of devices.
+
+To support the next generation of mobile technology (5G cellular), telecom researchers can find open spectrum by going up to higher frequencies. Mobile devices such as cellphones, consumer WiFi devices and public safety radios mostly operate below 3 gigahertz (GHz). But some devices are starting to use fast silicon-germanium radio chips operating at millimeter wavelengths above 10 GHz. Researchers at NIST and elsewhere are eyeing channels up to 100 GHz and beyond.
+
+The metrology infrastructure for telecommunications at these frequencies is incomplete. NIST’s challenge is to develop tools and test methods that are far more precise than today’s versions to optimize device performance. Because high-speed digital circuits can distort millimeter wave signals, even tiny errors can result in erroneous bits of information. In addition, millimeter waves do not travel around corners as well as lower frequency waves, so channel models will be complex, NIST officials explain. 
+
+Possible solutions include development of complex antenna arrays that may provide novel capabilities such as beam steering—the capability to transmit in many different directions to point the beam directly at the receiving device, and even track mobile devices. 
+
+So far, NIST researchers have developed a calibrated, modulated signal source to test millimeter wave instruments such as receivers and “channel sounders” to support modeling of millimeter wave communications channels in indoor and outdoor environments. Other NIST researchers have demonstrated a new probe for making the first calibrated measurements of electric fields above 100 GHz and a new facility for characterizing antennas operating above 100 GHz. 
+
+The research is being conducted in NIST’s new Communications Technology Laboratory. The signal source was funded in part by the Defense Advanced Research Projects Agency.?</text>
+  <imgalttext>
+    <img>NIST researchers developed this directional 16-antenna array to support modeling of wireless communications channels at 83 gigahertz.</img>
+  </imgalttext>
+</article>

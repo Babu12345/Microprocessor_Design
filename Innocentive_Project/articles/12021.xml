@@ -1,0 +1,19 @@
+<article>
+  <type>blog</type>
+  <title>Researchers Shrink 50 Meters of Optical Fiber to the Size of a Microchip</title>
+  <author>Cyndy Hogan</author>
+  <date>December 3, 2013</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>Researchers funded by the Defense Advanced Research Projects Agency (DARPA) created a new class of photonic waveguides with signal losses approaching that of optical fiber, resulting in a smaller, more precise component.</abstract>
+  <text>Researchers funded by the Defense Advanced Research Projects Agency (DARPA) created a new class of photonic waveguides with signal losses approaching that of optical fiber, resulting in a smaller, more precise component. Optical fiber has a low signal loss, enabling it as the backbone of the Internet. But connecting fiber optics with microchip-scale photonic systems traditionally has required sensitive, labor-intensive assembly with a large number of connections, resulting in signal loss.
+	DARPA’s integrated Photonic Delay (iPhoD) program developed new methods to integrate long coils of waveguides with low signal loss onto microchips. The microchip waveguides include up to 50 meters of coiled material that is used to delay light, and modern silicon processing achieves more precise and efficient manufacturing.
+	The new waveguides are built onto microchips and include up to 50 meters of coiled material that is used to delay light. Conventional fiber optic coils of the same length would be about the size of a small juice glass. These waveguides also employ modern silicon processing to achieve submicron precision and more efficient manufacturing.
+	Research teams led by the University of California-Santa Barbara and the California Institute of Technology both developed chip-scale waveguides under iPhoD.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

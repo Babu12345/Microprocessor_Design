@@ -1,0 +1,36 @@
+<article>
+  <type>article</type>
+  <title>Clarifying DISA's Cloud Computing Role</title>
+  <author>George I. Seffers</author>
+  <date>October 29, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>DISA</tag>
+    <tag>cloud computing</tag>
+    <tag>Cybersecurity</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The Defense Department is expected very soon to release a new policy revising the role DISA plays in brokering cloud services. The changes are designed to speed cloud service acquisitions. DISA no longer will be the sole acquisition agency, but it will continue to ensure network access to cloud service providers is secure and reliable, agency officials say.</abstract>
+  <text>Terry Halvorsen, the Defense Department’s acting chief information officer, is expected very soon to release a new policy revising the role the Defense Information Systems Agency (DISA) plays in brokering cloud services. The changes are designed to speed cloud service acquisitions by preventing bottlenecks created by having only one agency act as broker. DISA no longer will be the sole acquisition agency, but it will continue to ensure network access to cloud service providers is secure and reliable, agency officials say.
+
+“I don’t think DISA is going to be moving away from our participation in the cloud brokerage, cloud services,” said Alfred Rivera, the agency’s acting director, strategic plans and information. “In fact, it’s going to be more focused in how we’re going to provide security guidelines, to include security reference models that are going to be the basis of determining what classes of applications would be candidates for moving into a cloud service, depending on those cloud service models and profiles that are established.”
+
+Rivera and other DISA officials attempted to clarify the situation during an October 29 conference call with reporters, which included a variety of topics. Halvorsen had said during a similar media roundtable that the new policy should be out by the end of October. That is no longer expected to be the case, but DISA officials did not offer a timeline for the policy’s release.
+
+While the agency’s role may be changing, it is not necessarily diminished, agency officials indicated. “We’re going to continue to play a very big role from a cloud brokerage perspective in that aspect of a cloud service provider, as well as we’re going to be that vehicle from a network perspective ensuring that network access to these cloud service providers is available, secure and reliable. Those two elements are still going to be germane to DISA’s responsibility,” Rivera stated.
+
+"We’re still going to be maintaining the security requirements," explained Mark Orndorff, DISA’s mission assurance executive. "We’re still going to do provisional authorizations, and we’re developing the architecture for the cloud access point." By performing those “key roles,” the agency will help “accelerate the pace of adoption of the commercial cloud,” he added.
+
+David Mihelcic, DISA's chief technology officer, predicted the changes will lead to expanded usage of public cloud services. “What it does do is to put in place a structure where we will see certain applications move to the public cloud, particularly those that process non-sensitive or public facing data. We’ll see then other applications that do sensitive, non-classified data have the potential to move to a subset of highly secure government clouds,” he said. Other applications will need to be localized because they need to be physically near their customers or near existing large data clouds, or for security reasons, need to be within large Joint Information Environment (JIE) core data centers.
+
+“Really what this updated policy and updated direction on the cloud does is to allow all those things to co-exist in harmony,” Mihelcic added. “Classified data will have to remain either within the JIE core data centers or within future private clouds that we might acquire from industry.”
+
+Orndorff tied DISA’s new cloud role with the agency’s new operational cyber role, which will include the formation of a Joint Force Headquarters Department of Defense Information Network. “There is a linkage in the roles of DISA’s Joint Force Headquarters emerging responsibilities and the cloud broker in the sense that Mr. Halvorson has highlighted DISA maintaining the responsibility to review the security approaches for everyone who goes into the commercial cloud. A key task under that is for us to make sure that the commercial cloud-hosted systems are linked into a cyberdefense structure so that DISA’s joint force headquarters will be able to execute orders and get the visibility of systems hosted in the commercial cloud,” Orndorff offered.
+
+One of the “major sea changes” is that under current policy, Defense Department organizations seeking to use commercial cloud must first have their requirements evaluated by DISA, Mihelcic stated. “That isn’t necessarily the case moving forward. If the requirement can be satisfied on one of these secure, commercially provided government clouds, they are free to acquire that themselves.”</text>
+  <imgalttext>
+  </imgalttext>
+</article>

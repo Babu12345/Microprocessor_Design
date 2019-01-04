@@ -1,0 +1,43 @@
+<article>
+  <type>article</type>
+  <title>To Win the Cyber War, Think Like a Hacker</title>
+  <author>Danny Ilic</author>
+  <date>March 1, 2017</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Hacker</tag>
+    <tag>artificial intelligence</tag>
+    <tag>Internet of Things</tag>
+    <tag>Cybersecurity</tag>
+    <tag>The Cyber Edge</tag>
+  </tags>
+  <abstract>By hacking a system from within, security experts can identify vulnerabilities and try to stay one step ahead of increasingly sophisticated cyber criminals.</abstract>
+  <text>If you can’t beat the hackers, join them—or at least act like them. By hacking a system from within, security experts can identify vulnerabilities and try to stay one step ahead of increasingly sophisticated cyber criminals. Thinking like an attacker cultivates an offensive mindset that leads to streamlined systems that incorporate the best of human skills and automated capabilities to shore up defenses from the inside out. 
+
+Attacking your own systems is a critical step in formulating the best cybersecurity defense strategies, beginning with identifying risky insider behavior to determine how hackers might infiltrate a network. It also can help establish measurements for continuous security monitoring. Today, too many organizations approach cybersecurity with outdated, multilayered systems that can delay advanced threat detection. A 2015 report by the Ponemon Institute, a security think tank, estimates that organizations take up to 200 days to detect such threats, which means significant damage to their networks is already done. Companies tend to employ best-of-breed point solutions when securing information technology systems. For instance, many businesses use an individual solution to monitor employees’ web usage rather than a system that is part of a larger security strategy. 
+
+Each system generates copious volumes of data that security analysts must scrutinize. As it stands, human error plays a major role in 95 percent of successful cyber attacks. A streamlined security system can help reduce this risk. 
+
+Securing Internet of Things (IoT) systems is perhaps the biggest challenge facing experts, as the use of connected devices continues to increase dramatically. IoT devices are especially vulnerable to hacking. A recent report found that 70 percent of them did not encrypt Internet or local network communications, putting an enormous amount of data at risk. IoT ecosystems will require new approaches to cybersecurity. The nature of cyber attacks on IoT devices differs from traditional attacks because hackers do not need to access computers, laptops, mobile phones or other hyperprotected sources of data. Companies and individuals must be aware that seemingly harmless devices pose threats. Among them are Internet-connected heating and air conditioning systems, wearable or implanted medical devices and security alarm systems—all constantly collecting data on users and creating user profiles.
+
+As organizations build ever-expanding ecosystems of connected, data-mining devices, they are significantly increasing their vulnerable access points. With billions more connected devices expected to be in use over the next few years, it is unrealistic—indeed dangerous—for security experts alone to constantly monitor vulnerabilities. Artificial intelligence (AI), or machine learning, will be required for IoT security and will keep tabs on multiplying access points and report unusual behavior. 
+
+Implementing regular, self-inflicted “stress tests” will be more important than ever. Hacking from within is the best way to anticipate attacks and strengthen defenses. If a well-trained, top-notch in-house security team cannot break into a system, chances are it would be nearly impossible for an outsider to do so. Once experts identify defense holes, security personnel will be able to define what is “normal” on the network and, therefore, what constitutes “abnormal” behavior. This baseline is essential because it provides a measurement tool to conduct real-time audits of a security system moving forward. The baseline helps gauge both vulnerability and compliance. Establishing and analyzing baseline measurements makes it much easier to assess risk scenarios and determine how to build security controls that best suit a company’s infrastructure. 
+
+As they hack from within, security teams should not be afraid to explore the Internet’s “dark side.” While humans cannot always venture to the web’s more unstable and dangerous networks, AI can. The surface web, or the portion of the Internet that the vast majority of individuals use every day, only makes up about .1 percent of the total Internet. The massive remainder of that surface is the dark web, or the encrypted networks that are not indexed by search engines. Here is the breeding ground for malicious attacks. 
+
+AI systems can analyze dark web data in real time, including scanning for new malware releases or monitoring the activities of anonymous hackers. This capability can help track the trade of illicit credit card information, ransomware tools and other nefarious hacker activities. Continuous monitoring will help identify new threats and hackers’ patterns, helping organizations get one step ahead of them.
+
+Some threats are homegrown. A company’s greatest asset—its employees—also is its greatest cyberthreat. For starters, many employees already have access to critical data. All they need to do is lift and distribute it without setting off any alarms. Insider attacks can occur at any time, regardless of when a firm last conducted an insider threat assessment.
+
+Simulating attacks regularly is so vital to ensuring the continued security of a company’s data. The “red team,” or specified internal hackers, should be deployed often and allowed to do their worst. This will provide a near-constant source of new information that can be analyzed against measurements for normal behavior—and, with any luck, close holes and identify new methods of intrusion since the last analysis. 
+
+Winning the war against cyber attacks means developing strategies for pre-emptive strikes and eliminating threats as they develop. It boils down to determining how systems fail rather than how they work. For that, it is time to put your hacker hat on. 
+
+Danny Ilic is the global information security head at Wipro Digital. The views expressed here are his alone.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

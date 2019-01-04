@@ -1,0 +1,15 @@
+<article>
+  <type>blog</type>
+  <title>Raven Takes Digital Flight</title>
+  <author>H. Mosher</author>
+  <date>November 21, 2008</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract></abstract>
+  <text>The Raven unmanned aerial system (UAS) will be upgraded with a new digital datalink that will quadruple the number of available video channels and improve video quality, relay capability and encryption. The Natick Soldier Research, Development and Engineering Center developed the datalink, which has been transitioned to the production line. Until this time, the Raven has used an analog downlink to share video and telemetry information. However, video data that cannot be compressed prior to transmission consumes large amounts of bandwidth, and when the signal weakens, the full-motion video feed degrades. Switching to digital addresses these issues. </text>
+  <imgalttext>
+  </imgalttext>
+</article>

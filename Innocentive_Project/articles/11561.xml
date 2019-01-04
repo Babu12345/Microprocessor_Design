@@ -1,0 +1,20 @@
+<article>
+  <type>blog</type>
+  <title>Navy Surfs the Crowd</title>
+  <author/>
+  <date>August 20, 2013</date>
+  <departments>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>Navy Technologies</tag>
+    <tag>research and development</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract></abstract>
+  <text> 
+The U.S. Navy is turning to crowdsourcing as a possible situational awareness aid during disasters and social unrest. Data from eyewitnesses or participants would be fused with information from other sources to provide timely understanding and appreciation of an environment or location to response teams.
+	During the first phase of the Crowdsourcing Situational Awareness (Crowd-SA) project, a technical approach is being developed and prototype software will be demonstrated using simulated data. The goal is to design text analysis tools that extract events and entities in context, using language and patterns typically found in social media settings. This data would then be adjusted to improve fusion with information from non-crowdsourcing resources by using distributed cloud-based computing methods for processing the disparate data simultaneously.Modus Operandi is developing the phase one software under a Small Business Innovation Research contract.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

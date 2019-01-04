@@ -1,0 +1,38 @@
+<article>
+  <type>blog</type>
+  <title>IARPA Launches its Multi-View Stereo 3D Mapping Challenge</title>
+  <author/>
+  <date>July 6, 2016</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>IARPA</tag>
+    <tag>3-D mapping</tag>
+  </tags>
+  <abstract>IARPA has launched its Multi-View Stereo 3D Mapping Challenge, inviting the broader research community of industry and academia, with or without experience in multiview satellite imagery, to participate in a competition to produce a solution to accurately produce 3-D mapping from satellite photos.</abstract>
+  <text>An intelligence-based research agency has launched a challenge to foster a community of participants that will produce a solution to accurately produce 3-D mapping from satellite photos.
+
+The Intelligence Advanced Research Projects Activity (IARPA), within the Office of the Director of National Intelligence, set in motion its Multi-View Stereo 3D Mapping Challenge, inviting the broader research community of industry and academia, with or without experience in multiview satellite imagery, to participate in a non-contractual way.
+
+"Numerous commercial satellites, including newly emerging CubeSats, cover large areas with higher revisit rates and deliver high-quality imagery in near real-time to customers,” HakJae Kim, IARPA program manager, says in a statement. “Although the entire Earth has been, and continues to be, imaged multiple times, fully automated data exploitation remains limited.”
+
+The new challenge aims to:
+
+• Promote and benchmark research in multiple view stereo algorithms applied to satellite imagery.
+
+• Stimulate various communities to develop and enhance automated methods to derive accurate 3-D point clouds from multiview satellite imagery, including computer vision, remote sensing and photogrammetry.
+
+• Foster innovation through crowdsourcing and moving beyond current research limitations for 3-D point clouds.
+
+• Cultivate and sustain an ongoing collaborative community dedicated to this technology and research.
+
+IARPA wants to tap a crowdsourcing approach to stimulate breakthroughs in science and technology and also supports the White House’s Strategy for American Innovation.
+
+The challenge ends in September. Participants should expect to generate an algorithm to convert high-resolution satellite images to 3-D point clouds, according to an agency statement. They will have access to an online leaderboard that will display solvers’ rankings and work. The participant with the most accurate and complete solution will be eligible to win cash prizes from a total prize purse of $100,000.
+
+Participants must register online.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

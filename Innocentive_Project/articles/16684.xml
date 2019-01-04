@@ -1,0 +1,35 @@
+<article>
+  <type>blog</type>
+  <title>How Do You Know Your Artificial Intelligence is Intelligent?</title>
+  <author>Matt Gould</author>
+  <date>September 27, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>artificial intelligence</tag>
+  </tags>
+  <abstract>For all the abilities of artificial intelligence (AI) technologies, there’s one particular area of intelligent behavior where machines fall short of humans—an area becoming increasingly important as AI takes on more complex tasks. They must communicate with the same fluency and articulation expected of humans so they can explain precisely what they are doing and provide interpretations of the complex data sets upon which they increasingly rely.</abstract>
+  <text>Artificial intelligence (AI) is already all around us: It’s the mobile personal virtual assistant, and the Google-created computer program that defeated the world’s champion of the ancient Chinese board game, Go. It’s the self-driving car that soon will be taking you to the office. There’s no doubt machines are smarter than ever, and getting smarter all the time.
+
+For all their abilities, there’s one particular area of intelligent behavior where machines fall short of humans—an area becoming increasingly important as AI takes on more complex tasks. They must communicate with the same fluency and articulation expected of humans so they can explain precisely what they are doing and provide interpretations of the complex data sets upon which they increasingly rely.
+
+So how do we give machines this ability? The solution lies in natural language generation (NLG), a technology that applies information analysis skills to large data sets that previously were unique to humans and communicates that information coherently and fluently in natural language.
+
+This ability goes far beyond the outputs we see from programs such as Siri and Cortana. A typical intelligent virtual assistant (IVA) responds to user requests by using a large array of simple templates filled in with data related to the response. For questions that can’t be handled by the IVA’s built-in capabilities, the fallback response is to read out a chunk of an existing Web page—text written at some earlier point by a person. Neither approach is capable of scaling up to the needs of a truly dynamic AI, where required responses can’t be predicted in advance and must be more personalized than is possible using pre-written text.
+
+It’s easiest to see the massive impact that NLG can have by considering the contrast with systems that rely on charts and graphs to convey information. Suppose your stock portfolio has experienced a wide range of fluctuations over the past year; you’ve been able to stay afloat despite the changes, but you wonder about the long-term impact on your portfolio. A management tool provides plenty of graphs and charts with red and green arrows to direct your attention to important data. But it’s hard to comprehend the impact of global events on stock price if they don’t fit on the graph. The lack of information constrains you to look elsewhere, leading users to yet another graph or chart. In trying to make sense of what happened and what might happen in the future, you get what’s been called “dashboard fatigue,” the sense of being overwhelmed that comes from trying to comprehend all of these disparate data sources.
+
+Graphs and charts are great at conveying simple information but fail at relating lots of different sources of information. As humans, when we need to do that, we use language—the best data aggregator ever developed.
+
+NLG gives that same ability to machines. With the click of a button, a narrative report is generated in real time. All the pieces of the puzzle—current events, risks, trends, new stocks, revenue reports—are brought together to provide the best insights on your portfolio and careful recommendations for how to succeed in the short and long term. This is the value-add of NLG—the ability to take the data and communicate important information as an expert would to a non-expert.
+
+When you ask Siri for today’s weather report, you’ll get a response that is built on simple templates. But those templates will become cumbersome as the weather reporting functionality becomes more complex, more personalized and more intelligent. The app will know that you’re considering an afternoon hike and can warn you that it might be cold and windy on the hills and provide a personal recommendation for what you should take in your day pack. But the variety of possible responses here are unmanageable using templates; you need the sophistication of NLG.
+
+As technology improves, the only way you’ll really know you’re interacting with a true AI is when it communicates back to you just as a human would; and for that you need NLG.
+
+Matt Gould is co-founder and chief strategy officer of Arria NLG.    </text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

@@ -1,0 +1,43 @@
+<article>
+  <type>blog</type>
+  <title>Cybersecurity Isn't Only About the Network</title>
+  <author>Christine Robinson</author>
+  <date>June 1, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>Cybersecurity</tag>
+    <tag>Cyberspace</tag>
+    <tag>Homeland Security</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>The Air Force and Arlington County, Virginia,  are taking preventative measures against hackers such as the ones that recently attacked Sony, costing them over $170 million. It's not just money at risk for government networks, however.</abstract>
+  <text>The Air Force and Arlington County, Virginia,  are taking preventative measures against hackers such as the ones that recently attacked Sony, costing them over $170 million. It's not just money at risk for government networks, however.
+
+ The Air Force has the lead for the Next Generation Airspace and lead for the Department of Defense. Arlington County, which collaborates extensively with the department on many levels, has undertaken continuous monitoring and risk analysis and is currently evaluating its supervisory control and data acquisition (SCADA) systems.
+
+Maj. Gen. Edward L. Bolton Jr., USAF, director of cyber and space operations, office of the DCS for ops, plans and requirements, led a discussion with B.G. Ranck Jr., director of warfighter systems integration at the office of the Secretary of the Air Force,  and Mark Orndorff, PEO for Information Assurance and NETOPS for DISA at the AFCEA D.C. chapter's cyber security luncheon on May 20 describing the Air Force's approach. 
+
+Gen. Bolton asked everyone in the audience to say at what level they thought we should protect. The audience answered that we should protect "every link at every level." 
+
+He also suggested that Air Force's biggest issue with communications is the "lack of transportability" of the equipment and parts driven by its inability to interoperate between stovepiped systems. He described a soldier as having to carry a pack with three computers, multiple batteries, and multiple wires in order to communicate.
+
+According to Bolton, the Air Force will focus on three main areas: capabilities, employment, and people. He also stated that the Air Force will change the discussion from aircraft allocation to "what information do I need vs. how many airplanes do I have in the air?" It also maintains that, "every airman must have a certain understanding of cyber."
+
+The Defense Department envisions a joint architecture and joint services information-sharing requirement that is not specific to a particular agency that promotes interoperability and information sharing across previously discrete domains. In keeping with this vision, the Air Force will migrate away from the plethora of often proprietary and stove-piped systems and transition to a single standards-based network. These systems often do not interoperate with other systems both in and outside of the Air Force. The Air Force will channel the resulting savings into building operational capability.
+
+Gen. Bolton also asked the defense contracting community to help the Air Force by not perpetuating proprietary and controlled environments and boxing the Air Force into a technology or proprietary solution.
+
+Though the panel focused primarily on the network and interoperable systems, it did not address the issue of SCADA systems, which are an integral part of Air Force and Defense Department infrastructure. We often don't realize that our traffic lights, transportation systems, bridges, dams, power systems, water treatment plants and other systems contain digital information vulnerable to attack and theft even though they are not a part of other network systems.
+
+Arlington County has undertaken an initiative to evaluate its SCADA systems and mitigate any risks found. In a public forum, Chief Information Security Officer David Jordan mentioned an article that described how U.S. officials who initially were going to conduct a public forum to discuss the risk of SCADA systems quietly decided the risk was too great to bring it to the public's attention and cancelled the forum. "We started with the critical infrastructure systems; those connected to the network and are conducting other evaluations according to priority. SCADA systems are vital in the support of day-to-day life in a city," Jordan stated.
+
+But there are other important systems not directly under the control of the jurisdiction or the Federal Government; such as local phone switching center operating systems, cable, and wireless broadband operating systems and their related command and control networks, he continued.
+
+The Defense Department would do well to conduct similar analyses across the Defense Department, if these are not already under way.
+
+</text>
+  <imgalttext>
+  </imgalttext>
+</article>

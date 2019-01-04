@@ -1,0 +1,61 @@
+<article>
+  <type>article</type>
+  <title>DHS Navigates the World of Vehicular Digital Forensics</title>
+  <author>George I. Seffers</author>
+  <date>May 25, 2016</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>Department of Homeland Security</tag>
+    <tag>GPS</tag>
+    <tag>Homeland Security</tag>
+    <tag>2016 Homeland Security Conference</tag>
+  </tags>
+  <abstract>U.S. Department of Homeland Security researchers are pursuing possible partnerships to continue developing a toolkit that provides access to the digital data stored by cars used in crimes, including terrorist acts.</abstract>
+  <text>U.S. Department of Homeland Security researchers are pursuing possible partnerships—both domestically and internationally—to continue developing a toolkit that provides access to the digital data stored by cars used in crimes, including terrorist acts.
+
+Modern cars have an average of about 70 computers that can reveal a wide variety of data, mostly from their infotainment and telematics systems. These systems, which include Wi-Fi, Bluetooth, navigation aids and various apps, store a vast amount of data, such as recent destinations, favorite locations, call logs, contact lists, text messages, emails, pictures, videos, social media feeds and navigation history. Many systems also may record when and where vehicle lights are turned on and locations where doors are opened and closed or Bluetooth devices connected.
+
+When drivers are terrorists or other criminals, that data becomes vitally important to an investigation. Under Project iVe (eye-vee), investigators across the country and around the world can access it readily. In 2013, the Department of Homeland Security Science and Technology Directorate’s (S&amp;T’s) Cyber Security Division initiated a partnership with Berla Corporation, Annapolis, Maryland, on the project. The partnership has resulted in a digital forensics toolkit that has assisted federal, state and local law enforcement as well as the international community.
+
+“We’ve assisted in pretty much every major terrorism investigation in the last year, from the Paris bombing to the Chattanooga, Tennessee, shooting to San Bernardino,” reveals Ben LeMere, Berla’s CEO, declining to provide details about those investigations.
+
+While a car’s internal systems collect reams of data, devices that drivers connect to a car also offer evidence. “What’s been helpful from that perspective are things like the cellphone’s locked and you can’t get in it, but they’ve connected the phone to the car, so it reveals some data about the phone. That’s been essential to investigations, to get them access to data that they wouldn’t typically have,” LeMere states.
+
+Additionally, more and more cars are coming with a host of their own apps that can provide information relevant to an investigation. “Almost every automotive manufacturer has its own app store now. Most of them are private or closed, and they invite people to write applications for them,” LeMere points out. “If I connect a media player, any kind of [external] device that could connect to the car, some data gets recorded about the phone or device down onto the car itself.”
+
+When the partnership between Berla and the Department of Homeland Security began, Berla could access the data of about 80 car models. With help from the S&amp;T’s Cyber Security Division, that number is now more than 4,600. With Project iVe scheduled to end soon, S&amp;T officials are searching for new partners to continue developing the toolkit for an even greater number of automobiles. “Right now, we expect three more releases” before funding is exhausted, reports Megan Mahle, an S&amp;T Cyber Security Division program manager. “We know some law enforcement agencies see the value in this tool, and we’re hoping other people have interest in co-funding this effort so we can take it a little further.”
+
+Although funds are projected to run out at the end of the calendar year, the contract includes unfunded options for another 18 months. “We have this contract in place, and we’re hoping we can get some co-funding. It’s great that it’s an S&amp;T success story, but we’d love it to be more of a community-funded capability as well,” Mahle says.
+
+Options include international partnerships. Mahle reveals that the iVe team is in talks with some potential partners, but she opts not to share specifics.
+
+The iVe toolkit includes all the hardware and software necessary to connect to a variety of cars. Because automakers use varied components with different connections, the kit is hardware-intensive, and the processes for accessing data can vary. “Some vehicles you can plug into the USB port. Some are through a diagnostic port underneath the steering column. Some, you’re tearing the dash apart,” LeMere explains before suggesting that “tearing” is an exaggeration.
+
+The team often must design hardware specific to a particular make or model. “There’s not going to be one end-all, be-all cable that allows you to do this. If we go after [a particular] infotainment system, we may have to make a special cable or special harness or a jig that allows us to attach to that thing and download the data,” LeMere says.
+
+Furthermore, automotive digital forensics is a new area for investigators, so law enforcement officials require training. “People weren’t even considering vehicles having any [digital] evidence on them just three, four, five years ago,” Mahle contends. “We’re providing a brand new capability for law enforcement. We’re getting something out to the community that wasn’t there. It’s really been a learning curve for law enforcement as well.”
+
+Perhaps surprisingly, the training can include how to dismantle and reassemble parts of the car, which can be especially useful in cases where the vehicle needs to be returned to its owner. “It’s not the same with every single manufacturer regarding where the information resides. We’re asking people, in some cases, to tear off the dash of the car. In the beginning, people were a little nervous about having to take apart a vehicle,” Mahle explains.
+
+LeMere notes that dismantling a $70,000 car is far different from cracking into a $1,000 iPhone. “It became important early on to document how to remove a panel from the dash. You don’t use a chain saw. It’s a process that any mechanic could do, but you have to teach the law enforcement guys to treat it with the same care as a mechanic would,” he says. “You’re unbolting parts of the dash and removing a module. You dump the data from the module and then you can put it back in. The important message is that everything we do is nondestructive in nature, so that law enforcement doesn’t have to buy a $5,000 infotainment system and put it back in the car.”
+
+While some information has to be accessed at a lab, the team aims to make the retrieval process easier for the average investigator. “We’re hoping to make it less burdensome. Not that we’re there 100 percent, but we’re working toward that end,” Mahle says, adding that the team also is fixing some system bugs and working on a complementary mobile application.
+
+LeMere and Mahle point out that the toolkit only allows investigators to retrieve data after a serious crime has been committed and a warrant obtained. Investigators are not, for example, examining the causes of routine traffic accidents or collecting Bluetooth and Wi-Fi data as drivers go about their daily routines. The iVe team, however, would like to deliver the toolkit to a broader set of users, including state and local agencies.
+
+The team releases a new toolkit version roughly every 90 days based on extensive feedback from law enforcement officials participating in the S&amp;T’s Cyber Forensics Working Group, which is composed of federal, state and local law enforcement agents. Much of the feedback so far has centered on which vehicle makes and models investigators most often need to access. “It’s been neat to watch it evolve over time. What was a priority when we first started in 2013 wasn’t the priority a year later. It ebbs and flows. Honda was really big at one point because there were several cases with Hondas,” LeMere states. “They come in, and they’ve got 10 cases that involve this type of car, and then three months later, they have a release that supports their current caseload.”
+
+Digital forensics has, of course, made headlines recently with the spat between the FBI and Apple over accessing encrypted information on the iPhone used by the San Bernardino killers. LeMere says the case likely will have little effect on iVe for one important reason: Carmakers lag others when it comes to digital security. “Generally, the problem with the automotive industry is they’re probably 15 years behind, technology-wise, where everybody else is,” he says, adding that carmakers have not thought about security until the last 12 to 18 months.
+
+Automakers may not be behind for long, though. “The iPhone came out in 2007. It took until 2015 for [Apple] to make an iPhone that forensic tools couldn’t get into,” LeMere states, noting that his company has been assisting automakers with securing car data. “I don’t think we’re going to have that luxury of the same time period with the automotive manufacturers. They’re implementing things like Apple CarPlay and Android Auto from Google. You’re going to see that they’re going to catch up real quick.”
+
+Even if the auto industry does just that, the iVe toolkit should be useful for years to come. “The good news is that cars are on the road for 15 to 20 years on average,” LeMere says. “Criminals right now typically use cars that are around the 2007 or 2008 model years. We’ll be able to support law enforcement for many, many years to come just because these cars won’t go off the road, and [automakers] don’t really update the system after the service warranty is no longer valid.”
+
+For more on this topic, AFCEA is hosting the 2016 Homeland Security Conference June 21-22 in Washington, D.C., exploring the theme of "Securing the Nation—Solving Technology and Human Capital Challenges: People, Partners, Priorities."</text>
+  <imgalttext>
+    <img>Project iVe has its roots in a previous Department of Homeland Security and Berla Corporation program known as Blackthorn, which focused on gathering data from navigation devices such as Garmin, TomTom and Magellan.</img>
+    <img>Syed Farook and his wife, Tashfeen Malik, were killed in a shootout with law enforcement officials after carrying out a deadly mass shooting in December in San Bernardino, California. Technology developed by the Department of Homeland Security and Berla allows law enforcement agencies to access the data collected by automobile computers when terrorists use cars in crimes.</img>
+  </imgalttext>
+</article>

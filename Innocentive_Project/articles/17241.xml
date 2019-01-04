@@ -1,0 +1,77 @@
+<article>
+  <type>article</type>
+  <title>Girding the Grid For Cyber Attacks</title>
+  <author>Robert K. Ackerman</author>
+  <date>March 1, 2017</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+    <tag>Homeland Security</tag>
+  </tags>
+  <abstract>Enemy states and terrorist groups increasingly are developing the means to wage an attack on a nation’s power grid just as electric companies are relying more on automated information technology.</abstract>
+  <text>Enemy states and terrorist groups increasingly are developing the means to wage an attack on a nation’s power grid just as electric companies are relying more on automated information technology. Vulnerable supervisory control and data acquisition, or SCADA, systems offer access for attackers, who also are learning more devastating ways of bringing down a grid.
+
+Small nation-states and organizations, in particular, are cultivating advanced methods of attacking electrical grids, and these groups may not be as inhibited about setting an attack in motion as the larger, well-known cyber superpowers. Many threats to the grid already may be in place, undetected and at work, ready for launching at will.
+
+The cyberthreat facing the U.S. power grid has become “more practical and applied,” explains Michael Assante, director of industrials and infrastructure and lead for industrial control systems (ICS) curriculum at the SANS Institute. He notes that grid threats traditionally focused on undermining the security of their targets, often through the Internet. Attackers tended to concentrate on taking over a computer. 
+
+Now, the grid sees highly specific threats directed at penetrating a particular utility or power system and determining what can be accomplished. Attackers’ goals can range from exfiltrating information to taking control of a system to disrupt power delivery or even damage equipment.
+
+“We are entering an age now where more actors are capable of amassing the right skills, like power engineering skills, along with good cyber engineering and access skills,” Assante states. “There now are more people capable of conducting these attacks.”
+
+In a power grid, SCADA is used largely for transmission and distribution systems. But power systems also use process control and distributed control systems. Many SCADA systems are old and consist of legacy technologies, some of which do not even feature authentication, Assante says. Adversaries often just harvest system credentials and use systems with weak credentials to wreak havoc, which can include physical effects. 
+
+Assante relates that Department of Homeland Security officials discussed theoretical attacks on the power grid in the early 2000s. By the mid-2000s, cyber attacks in other parts of the world were creating outages. In 2015, three civilian power distribution entities in Ukraine were attacked, resulting in outages and rendering SCADA systems useless even when power was restored. Last year, another attack in Ukraine focused on the transmission level, again leading to an outage.
+
+“The threat has become very real, very applied and demonstrated, and attackers have become very good at two things,” Assante declares. One involves delivering their attacks to utilities. He relates that in 2014, he discovered two malware campaigns operating in North America and Europe—BlackEnergy 2 and Havex. U.S. government experts have linked both, which have been active for years, to Russian intelligence services. When researchers looked deeply into the pieces of malware, they discovered modules that revealed a focus on ICS environments. These access attempts had the necessary tools for attacking a grid, he points out.
+
+Late last year, malware identified as part of the hack operation Grizzly Steppe—also sourced to Russian intelligence—was found on a computer belonging to Burlington Electric, a rural electric cooperative in Vermont. While this malware could not access the grid in its discovered location, its indicators of compromise showed the computer had been talking to an innocent Internet protocol (IP) address—a Yahoo email server. No proof was found that Russian intelligence services were behind this particular hack, but the presence of the malware illustrated how it could travel via the Internet and latch onto a computer for later action. Ultimately, the malware could have made its way to the grid.
+
+“Most [SCADA] attacks start with an adversary gaining a foothold, where they conduct reconnaissance and come up with a scheme to deliver an attack, [often] through spear-phishing. The bad guys try to harvest that foothold machine so they can move to the next machine and so on. They move from having a foothold to gaining persistence and control over the information technology environment,” Assante says, adding that many power systems likely already have been compromised.
+
+In some cases, hackers use the target system’s own tools. In Ukraine, the hackers used the utility’s virtual private networks (VPNs) instead of the malware itself. This allowed them to communicate directly with the utility without talking to a server on the Internet.
+
+“Adversaries are learning, investing, building tools and getting good at delivering attacks into control system environments,” Assante declares. “They also—based on Ukraine—are learning how to develop concepts to operate against a power system. They know how to disrupt power by opening circuit breakers, they know how to damage important tools related to the operations of the power system—like the control system—and so they are building blueprints for attacking power systems.” 
+
+The other challenge is that adversaries are becoming very good at taking advantage of vulnerabilities stemming from the shift to automation by power companies. Power systems aim to be more efficient and productive through information technologies, but these automated systems are the “soft underbelly” of the grid, Assante points out. As cybermarauders access these core systems, they can achieve success on a massive scale more often. 
+
+Assante expresses concern about the growing trend of nation-states investing in capability development, engineering and ongoing access campaigns for power grids. Their goal is to put a nation’s infrastructure at risk, possibly sending a message of deterrence or even threats short of an outright attack, which is likely in a conflict. “You don’t want a country to be able to have that kind of leverage over your country,” he offers.
+
+Simply assuming an enemy state does not want to attack the U.S. power system materially could be dangerous, Assante suggests. “Intent is a very bad variable to base your assessment off of,” he declares.
+
+Considering intent without context also is hazardous, especially if international situations change, as they often do. Take the 1962 Cuban missile crisis, Assante says. When U.S. officials discovered that the Soviet Union was placing nuclear-tipped ballistic missiles in Cuba, they realized these warhead delivery systems, if launched, were so close that the detect-to-decision-making cycle was too short. This upset the balance of all forms of deterrence and defense. Yet the only uncertainty was about the intent of Soviet forces—whether or not they would launch. That uncertainty of intent drove the United States to force a resolution of the crisis.
+
+The U.S. power grid is a much different scenario. Potential adversaries have penetrated U.S. power systems, and the U.S. government does not know how successful they have been, whether they have prepositioned capabilities and even what the cyber capabilities can do. “Right now, we’re resting on intent, but we weren’t in 1962,” Assante relates. “We must decide now if it is unacceptable that adversaries might have capabilities already in place … and we don’t know what level of damage [they could inflict].”
+
+The issue goes beyond intent. “The question is, Do we have the defenses that, if [adversaries] were to go after power systems to achieve objectives, could we stop them? The answer is, At this stage of the game, we haven’t worked out those protocols,” Assante concedes. “When you think about it, we’re struggling.”
+
+U.S. cyber experts “clearly know” of the technical gaps and challenges facing grid cyber defense, he imparts. However, authorities cannot easily determine which utilities already have been penetrated or are at risk. “If we don’t have knowledge of where the bad guy might be, then we can’t bring tools to bear in time before it’s too late,” Assante notes.
+
+Part of the homeland security grid debate centers on how much utilities should be expected to do to defend themselves, he says. “Should they make investments in protecting against threats that could be exceeding even what some of the best cybersecurity defenses can address?” Assante asks. Some utilities demur on establishing that degree of security, believing it is not their responsibility to defend against more than nontarget threats or even hacktivists. This makes protecting the grid a national objective, Assante points out.
+
+“Many utilities are positioned to offer an initial defense against attempts to punch through their firewalls,” he observes. Some utilities can recover after an intrusion, but only a small number are investing in the tools and skill sets necessary for detecting and disrupting an attack on ICS SCADA environments, Assante states. All utilities should have a defendable infrastructure along with the ability to protect it against a certain level of threat.
+
+The nuclear power industry does for physical attacks. In the United States, these plants are commercially owned and operated, and the government mandates the degree of physical security they must deploy. If a threat manifests itself that overwhelms the defenses outlined in these standard security requirements, national forces will step in and assume control. Assante notes that a nuclear company’s security is designed largely to slow down an attacker until the government can respond, if necessary. “We have to figure out that schema for power infrastructures in the cyber dimension,” he says, adding that this will apply to nuclear power plants as well.
+
+New information technologies could play a vital role in this schema. Assante believes that advances such as machine learning and data analytics could be useful tools against grid cyber attackers. Instruments and sensors could catch early attempts at intrusion. “We need to be able to detect when that happens … and put the system in a safe state or clean things up,” he says.
+
+Defenders also can take the initiative by introducing uncertainty the attacker cannot observe. “If we do those things, I think we have a chance to be able to start closing the gap between the offensive side and the defensive side,” Assante offers.
+
+Above all, the United States must consider ways of implementing technology that limit the damage a cyber attack can inflict on the grid. Preventing a catastrophic outage should be the top priority, Assante offers. 
+
+And with adversaries having more specific abilities, they could inflict physical damage that knocks out a power system for weeks or months, he says. “As a country, we’re going to have to come to grips with what is acceptable or tolerable. And, if it is not tolerable, we’re going to have to work together to find out how we increase our ability to defend, how we detect these capabilities and how we develop an ability to disrupt an attack if detected,” Assante states.
+
+These capabilities are spreading among nations. Russia and China currently are viewed as leading cyber superpowers, but Iran and North Korea may not be far behind, Assante says. Those two nations are gaining capability rapidly, and they may prove to be less rational and have less to lose by taking down the U.S. power grid.
+
+Protracted cyber campaigns have been taking place in Syria and the Korean Peninsula, he notes. All participants learn from these efforts and improve their capabilities. “The threat actor pool is growing,” Assante says. “What really worries me are these less responsible countries that couldn’t take on anyone with a symmetric capability, so they invest in asymmetric warfare as a tool of choice and are ready to use it.”
+
+Another of his concerns is the entrance of groups—single-interest organizations, hacktivists and terrorists—into the cyberthreat realm. Their ongoing activities do not grab headlines, but that could change as younger radicals apply their homegrown computer skills. Assante fears that an attack on the power grid could be paired with a kinetic terror strike, such as the November 2015 Paris attacks that left more than 100 dead.
+
+Ultimately, the global community may need to arrive at a policy consensus for response. An opportunity was missed after the Ukrainian attacks in 2015, Assante charges. If the international community defined this type of attack as unacceptable behavior, it could set a precedent for “drawing lines,” he offers.</text>
+  <imgalttext>
+    <img>Power lines, such as these near the Celilo substation in Dallas Dam, Oregon, could go cold as a result of a cyber attack on the power grid. Adversaries already may have sown the seeds for shutting down power stations by embedding malware in a host of industrial control systems.</img>
+    <img>Nuclear power plants such as California’s Diablo Canyon Power Plant must meet U.S. government standards for physical security. These standards lay out combined defense and response measures from both government and industry and could serve as a template for cybersecurity standards for all types of generating plants across the grid. Wikimedia/Mike Baird</img>
+  </imgalttext>
+</article>

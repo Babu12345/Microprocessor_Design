@@ -1,0 +1,51 @@
+<article>
+  <type>article</type>
+  <title>Advancing the State of Artificial Intelligence Assistants</title>
+  <author>George I. Seffers</author>
+  <date>September 3, 2015</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>Homeland Security</tag>
+    <tag>NASA</tag>
+    <tag>Jet Propulsion Laboratory</tag>
+    <tag>artificial intelligence</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>NASA and DHS researchers are linking together the Internet of Things, cloud computing and artificial intelligence to develop a next-generation computerized assistant known as AUDREY.</abstract>
+  <text>Researchers are linking together the power of the Internet of Things, artificial intelligence and cloud computing to create a personal assistant to provide total situational awareness to first responders. The advanced program is wise enough to provide only the information necessary for each user, smart enough to ask questions and versatile enough for virtually anyone to use, including firefighters, warfighters, factory workers and home owners.
+
+If all goes well, the system is set to begin prototype testing within the next 16 months, and an initial capability could be fielded soon.
+
+The program, known as the Assistant for Understanding Data through Reasoning, Extraction and sYnthesis (AUDREY), is a joint program between NASA’s Jet Propulsion Laboratory (JPL) and the Homeland Security Department’s Science and Technology (S&amp;T) Directorate.
+
+AUDREY is a computerized “human reasoning capability” and a “decision support system,” says John Merrill, who directs S&amp;T’s Office for Interoperability and Compatibility, which falls under the organization’s First Responder Group. “It does not replace the human being. When you receive literally thousands of bits of information that come in, it learns to understand you in terms of how you use information and makes some recommendations to help you in your decision-making process,” Merrill explains.
+
+AUDREY uses a different kind of infrastructure than most artificial intelligence systems, reports Ed Chow, an engineer who leads the Homeland Security project portfolio at JPL’s National Space Technology Applications Office, where AUDREY was first conceived. The scalable platform uses a cloud-based infrastructure and ties into the Internet of Things to provide the right information to the right user at the right time.
+
+“Many of these kinds of systems try to get tons and tons of data and then they try to analyze all of that data, and you need big computers in many cases, a roomful of servers. We tried to build AUDREY as more of a software element that can run on a personal computer. Each node may know less, but when we put many of these nodes together, collaboratively, they can achieve greater performance. Each node can ask other nodes questions.”
+
+The system can be tailored to individual users. For example, the firefighter headed into a burning building may need different information than the on-site commander or a helicopter crew. The system can recommend which units respond to an emergency based on who is closest, what types of equipment they carry or how busy they are at the time. It also could warn of the presence of dangerous chemicals or tell firefighters when a floor is in danger of caving in, according to DHS and NASA officials.
+
+AUDREY tries to address three major challenges, Chow says.
+
+First, the system is being designed to be more flexible than similar technologies. “Today’s artificial intelligence systems are typically very brittle. You design an artificial intelligence system for some specific application. You cannot take that software and use it for another application. For example, I cannot take the NASA Rover software and directly apply it to first responders. You have to modify that,” Chow points out.
+
+Second, developers intend to teach AUDREY to use tools, such as mathematical formulas and modeling. For example, firefighters often have to make an educated guess as to how much equipment or what types of equipment they might need, but they could be lacking certain information, such as wind conditions or moisture levels from the previous night’s rain, Chow hypothesizes. “We can teach AUDREY with different fire models, and then we connect the video from the helicopter, for example, and then you connect the firefighters’ body worn sensors, so you have temperatures and other kinds of weather data. AUDREY can apply a mathematical model and try to do a much better scientific estimate of the initial fire situation. With a wildfire, the initial attack is critical. If you don’t handle that correctly, everything will just go all to hell,” Chow states.
+
+He adds that with image processing, feature extraction and target recognition programming, “AUDREY can see.”
+
+Third, the researchers intend to improve collaborative intelligence with AUDREY. “We need to have AUDREY be smart enough to ask questions of other AUDREYs. This is actually very critical and fundamentally different from most of the AI technology out there,” Chow says. “AUDREY uses forward and backward chaining or inferencing to figure out what AUDREY does not know. When AUDREY does not know, AUDREY will ask. Knowing what you do not know is absolutely critical for the next level of collaborative intelligence.”
+
+Chow describes AUDREY’s questioning ability as fundamentally different from other AI approaches, which use deductive reasoning. If the Mars Rover, for example, saw something unexpected, it would simply ignore it because it does not know what it does not know. On the other hand, when AUDREY realizes it is missing critical information, it will send a message to other AUDREYs. “One thing we’re trying to do is define a world model for a community of AUDREYs,” Chow says.
+
+While first responders are the first priority, officials foresee a wide range of users for AUDREY. Mankind is moving from the era of big data to an era of “big information,” meaning that even the information drawn from massive databases is too much, according to Chow.
+
+“There could be many commercial applications,” Chow says. “There are tons of information out there. We, ourselves, individually, will need some type of intelligent system just for us to be able to do our jobs because information is saturating humans.”
+
+Both Chow and Merrill emphasize privacy concerns, saying that each system, whether it will be used by law enforcement, firefighters or the Defense Department, will be programmed to share only specific kinds of information with other systems. Negotiating what can and cannot be shared is one of the challenges, but in the future, individuals also will be able to pick and choose what information they share.</text>
+  <imgalttext>
+    <img>Helicopters drop water and fire retardant on a fire near the Mexican border. AUDREY will provide tailored information to firefighters, whether in the air or on the ground.</img>
+  </imgalttext>
+</article>

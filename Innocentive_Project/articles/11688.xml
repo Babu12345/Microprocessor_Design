@@ -1,0 +1,24 @@
+<article>
+  <type>blog</type>
+  <title>AFCEA Answers: The Five "Vs" of Big Data</title>
+  <author>Max Cacas</author>
+  <date>September 13, 2013</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>AFCEA Answers</tag>
+    <tag>big data</tag>
+  </tags>
+  <abstract></abstract>
+  <text>In considering how best to manage the challenges and opportunities presented by big data in the U.S. Defense Department, Dan Doney, chief innovation officer with the Defense Intelligence Agency (DIA), says the current best thinking on the topic centers around what he calls, “the five Vs”.
+	Appearing on a recent episode of the AFCEA Answers radio program, Doney says it’s important to always consider “volume, velocity, variety, veracity and value” when trying to manage and take advantage of big data.
+	“Volume gets the most attention,” he says, noting that most people focus on datasets measured in terabytes and petabytes. “In fact, though, that’s the one in which we’ve made the most progress. When it comes to “velocity,” or the rate at which large datasets often pour into servers, Doney notes that many algorithms originally designed for static databases now are being redesigned to handle datasets that require disparate types of data to be interconnected with metadata to be useful.
+	Doney goes on to say that “variety” remains one of the last three challenges when it comes to big data for his agency because of the DIA’s mandate to create a “big picture” that emerges from all that information. And he says that solutions have so far not caught up with the DIA’s needs.
+	Doney says “veracity,” or the “ability to put faith behind that data,” becomes a challenge when one needs to put equivalent amounts of context to disparate data types to add important detail to that “big picture.”
+	 
+Brian Weiss, vice president, Autonomy/HP, says that when it comes to “value” in consideration of big data, some of the most exciting innovation is coming in terms of how to distinguish and sort out important information from the huge datasets.
+	“Some of the ones that are the most difficult for computing are human information. It’s easy to understand how we might get a lot of datapoints that are structured, and it’s easy to see how you can do analytics at a massive scale that provides insight.” Weiss adds that the interesting thing is when you couple it with fuzzy information. “What’s this information about? If I say the word ‘sick,’ did I mean that I’m not feeling well, or did I say that I’m really excited by my new car? How do you understand the meaning of things when things don’t match?”
+	Weiss concludes some of the most exciting innovation is in using advanced probability modeling and pattern-based algorithms to allow computers to interpret such human information.So tell us: what’s it like in your agency? How are you and your colleagues dealing with big data? Leave a comment below.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

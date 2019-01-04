@@ -1,0 +1,55 @@
+<article>
+  <type>article</type>
+  <title>DOD Must Rapidly Adapt to IoT Because Enemies Already Have</title>
+  <author>Sandra Jontz</author>
+  <date>May 17, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Internet of Things</tag>
+    <tag>defense operations</tag>
+  </tags>
+  <abstract>The U.S. military must be able to rapidly leverage both technologies and new policies surrounding the Internet of Things—not to keep pace with industry, one official said during Tuesday's IoT Summit hosted by the AFCEA DC Chapter, but because U.S. adversaries already have figured out how to adapt and capitalize on what’s available.</abstract>
+  <text>The U.S. military must be able to rapidly leverage both technologies and new policies surrounding the Internet of Things—not to keep pace with industry, one official said, but because U.S. adversaries already have figured out how to adapt and capitalize on what’s available.
+
+“The enemy is capable … and we have to be able to do that,” Maj. Scott Cuomo, USMC, said Tuesday at an IoT Summit hosted by the AFCEA DC Chapter.
+
+Adversaries have taken simple, commercial mapping software, for example, and successfully developed fairly robust targeting systems using inexpensive handheld devices, said Maj. Cuomo, Marine Air-Ground Task Force operational planner and ground combat element integration officer. “Why are we precluding ourselves from doing this? Why are we not educating the [service members] on the strengths and potential vulnerabilities [of the IoT]?”
+
+Technology often outpaces government policy—sometimes to the detriment of warfighters, Maj. Cuomo offered. “We’ve got to leave a lot of wiggle room” for rapid policy adoption surrounding IoT," he said.
+
+Security is one primary reason slowing the government’s full embrace of the IoT, with untrusted devices running on trusted networks a key concern, offered David Post, technology area champion–Internet of Things, Information Assurance Directorate for the National Security Agency.
+
+The ecosystem is propelled by two irresistible technology arguments: Things are more useful when they’re smarter, and more useful when they’re mobile, offered summit keynote speaker John Pellegrino, deputy assistant secretary of the Army (Strategic Integration).
+
+The policies will have to follow suit for immersion into the IoT ecosystem as the Army needs adaptability, scalability, autonomous management and situational awareness, Pellegrino said. To that end, the service’s approach is from two angles: the enterprise side and the tactical side, he said. 
+
+The enterprise will focus applying the IoT to projects such as smart installations, logistics, energy management, building security and vehicles and transportation needs. Tactical efforts will mean applying the IoT to sensor networks, networked munitions, weapon systems and robots.
+
+The notion that millions of things will be connected to one another in just one square kilometer is not an unreasonable expectation, Pellegrino offered. “Things are going to be diverse,” Pellegrino said. “Some of these things are going to be intelligent, some are going be marginally intelligent … but we’re going to see it spread from munitions to robotics to vehicles.”
+
+With the IoT come the hard conversations surrounding privacy, illuminated by discussions to equip law enforcement with body cameras, said Wolf Tombe, chief technology officer for the U.S. Customs and Border Protection. Will police officers be required to video a rape victim? What about private health information of police clad in wearable technologies that monitor heart rate, breathing, physical fitness, perspiration and more?
+
+And yet, those same sensors can provide life-saving details the moment an officer finds trouble while on patrol, he offered. Within seconds of being shot, for example, data from body-worn sensors can transmit a need for help. 
+
+Such scenarios easily can adapt to military missions. 
+
+Government policy and technical experts face a number of struggles when it comes to the IoT, from best practices to connect everything and how best to get use out of them, said Robert Palmer, deputy chief technology officer at the Department of Homeland Security.
+
+In the absence of specific standards governing IoT, agencies can rely on other networking standards, Post said.
+
+The current practice of assigning Internet protocol addresses to each and every device connected to the Internet is not sustainable. “We’re talking about moving from a world of a billion devices to a world of 50 billion devices in five years,” said Philip O’Reilly, vice president and chief technology officer at Brocade. “Keeping control and naming everything, on that kind of scale, is a huge problem.” 
+
+There are three steps to the IoT, O’Reilly offered: sense, make sense and execute. “We can build sensors out the wazoo, we can make virtual sensors now, we can do anything we want. But what do we do with all of that information? The idea of a hierarchization of the data, what’s important and what’s not, that’s a really, really critical step to making the Internet of Things a reality.”
+
+The ecosystem has to move from a data analysis model of big data to a much more machine learning-oriented environment, taking advantage of the infrastructure’s ability to learn, he shared.
+
+“We are so enamored with shiny new penny of sensors that we just deploy them willy nilly, and we get a lot of garbage,” O’Reilly said. </text>
+  <imgalttext>
+    <img>John Pellegrino, deputy assistant secretary of the Army (Strategic Integration) speaks during the AFCEA DC Chapter's IoT Summit. Photo by Mike Carpenter</img>
+    <img>Panelists talk about how the IoT can impact the battlespace during during the AFCEA DC Chapter's IoT Summit. Photo by Mike Carpenter</img>
+    <img>Attendees of AFCEA DC Chapter's IoT Summit on Tuesday get to network and visit with exhibitors. Photo by Mike Carpenter</img>
+    <img>Member of a panel titled "Sustaining the Mission" discuss challenges the IoT will present to government and the military. Photo by Mike Carpenter</img>
+  </imgalttext>
+</article>

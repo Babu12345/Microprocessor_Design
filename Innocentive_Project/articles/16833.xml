@@ -1,0 +1,39 @@
+<article>
+  <type>article</type>
+  <title>How to Easily Deny Denial of Service</title>
+  <author>Robert K. Ackerman</author>
+  <date>October 26, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+    <tag>DDOS</tag>
+    <tag>Carbon Black</tag>
+  </tags>
+  <abstract>A repeat or expansion of the recent distributed denial of service (DDoS) attacks on Dyn could be prevented with just three simple security measures and basic cyber hygiene.</abstract>
+  <text>A repeat or expansion of the recent distributed denial of service (DDoS) attacks on Internet traffic firm Dyn could be prevented with just three simple security measures ranging from adoption of a secure network architecture down to basic cyber hygiene. These measures could forestall up to 99 percent of these types of cyber attacks, according to a Washington, D.C.-area chief information officer (CIO).
+
+This CIO is a customer of Dyn and has knowledge of the attack vectors. He has viewed some of the code used in the attacks, which he describes as malware that seeks out other Linux devices through local links. Among the most successful penetration codes was one that sought open Telnet connections, tried numbers different combinations of everyday user names and passwords, and then infected those that matched those combinations.
+
+The first measure for combating DDoS attacks involves default passwords on everyday devices. Many manufacturing facilities ship wireless devices with easy-to-guess passwords such as “password” or a blank space. In many cases, the username is “administrator” or “admin.” The CIO says he saw several potential searches in the malware code targeted to accounts such as (user) “administrator” and (password) “password.” Even trying 100 different combinations of common usernames and passwords likely will generate hits about 90 percent of the time, he allows. These were hugely successful in gaining access to a range of different devices that then served as bots in the DDoS attack.
+
+And these devices proliferate among categories constituting the Internet of Things (IoT). Refrigerators, security cameras, thermostats and other large appliances may operate unsecured in a single wireless environment, which allows malware to hop among them and infect them to do its bidding. The result is that the very devices that are building the IoT in typical homes can end up ganging up to deny service at the behest of intruding malware.
+
+The CIO adds that a recent news story described how a Chinese manufacturer of security cameras—under several brand names—recently recalled all of its equipment because the default password was blank. Packaged instructions directed users to change the password, but most did not—which is not unusual, he says. Users cannot be relied on to set safe passwords on every wireless-capable item they own, even though they should, he adds.
+
+The solution to this vulnerability is for manufacturers to provide a distinctive password for every device that comes off the assembly line, the CIO declares. This is not difficult; at least one major commercial telecommunications company does that with its customer wireless routers, each of which has its own unique password etched on the casing. “There is culpability on the manufacturer’s side, without a doubt,” the CIO says. “Just having manufacturers required to have distinct passwords would the be the biggest change we could make globally. I don’t think you can count on users, no matter how much you try and press them to do it.”
+
+He continues that just having 90 percent of these devices come off the assembly line with a distinct username/password combination would almost completely eliminate the possibility of inserting malware. The only way an attack would succeed is through a brute force dictionary assault that would take days or even weeks. Almost half a billion legacy devices currently on the web do not have effective password security, he notes, and replacing them with systems having established secure passwords would reduce the success of this kind of DDoS attack by more than 90 percent. In addition, removing secure shell (SSH) and Telnet, and adding logic to prevent a brute force attack, would reduce the likelihood of a successful DDoS attack by more than 99 percent, the CIO states.
+
+The second security measure is related to the horizontal vulnerability of wireless devices. IoT appliances and other wireless systems may need to be linked to the Internet to talk to a cloud service, but they often do not need to connect to each other in the same wireless environment, the CIO explains. This is one example where silos are advantageous to cyber operations. Establishing access point (AP) isolation allows any wireless device to connect to the Internet via stovepipe, but it prevents the devices from linking horizontally with other devices in the same wireless environment. This prevents malware from infecting other network devices even if it infects one device.
+
+The CIO points out that most large corporate systems have AP isolation capability built in as a single-click operation to be activated during setup. This feature also is a fairly easy setting to activate on home or small business routers, but it does not turn on by default. “It is a setting that is one click and a save button away from being implemented, but nobody does it [at startup],” he states. One reason for not activating AP isolation at home is that it does create barriers within a single wireless network, so home users cannot seamlessly share tunes among their computers and personal devices or print to a wireless printer. By not activating that feature, manufacturers ensure greater interoperability among family wireless devices but reduced security.
+
+Almost every router has a wireless setup tab on the website interface. In its advanced section, a user could activate an AP isolation by checking the appropriate box, he says.
+
+The third measure involves establishing virtual local area networks (VLANs). This approach is used in many corporate environments to separate some traffic, the CIO notes. Voice and data services may operate on separate LANs so they are not connected digitally. “I can certainly see a need for more aggressive network grouping for technologies that don’t need to talk across the wire,” he says. Systems such as HVAC, a security IP camera or a supervisory control and data acquisition (SCADA) gateway should be on their own VLANs so computers in the network that might become infected by malware cannot see them. VLANs have been used primarily as a performance tool to date, but they should also be implemented as a security tool, he adds.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

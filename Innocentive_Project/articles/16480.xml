@@ -1,0 +1,56 @@
+<article>
+  <type>article</type>
+  <title>Facing the Truth on Cyber</title>
+  <author>George I. Seffers</author>
+  <date>August 3, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>critical infrastructure</tag>
+    <tag>Russia</tag>
+    <tag>TechNet Augusta 2016 Online Show Daily</tag>
+    <tag>TechNet Augusta 2016</tag>
+  </tags>
+  <abstract>On day two of the AFCEA TechNet Augusta conference, cyber experts from across the military and industry openly and bluntly discussed the challenges of cybersecurity.</abstract>
+  <text>AFCEA TechNet Augusta 2016The SIGNAL Magazine Online Show Daily, Day 2
+
+Quote of the Day:“There isn’t a warfighting function that isn’t impacted by cyber, so securing, operating and defending the Army portion of the DODIN is a core warfighting capability.” —Ronald Pontius, deputy to the commanding general, U.S. Army Cyber Command and Second Army
+
+On day two of the AFCEA TechNet Augusta conference, cyber experts from across the military and industry openly and bluntly discussed the challenges of cybersecurity.
+
+Ronald Pontius, deputy to the commanding general, U.S. Army Cyber Command and Second Army, kicked off the day with what he described as three basic truths about Army cyber. First, Department of Defense Information Network (DODIN) operations are fundamental to the way the military operates and fights. “There isn’t a warfighting function that isn’t impacted by cyber, so securing, operating and defending the Army portion of the DODIN is a core warfighting capability,” Pontius said.
+
+Second, the vast majority of DOD’s operations in cyberspace are defensive operations. “DOD estimates there are 16 million attempted intrusions of the DODIN each year, or about 43,000 every day. We don’t do anywhere near that number of offensive operations,” he reported.
+
+Third, the network is foundational to cyberspace operations. “It is our operational platform for offensive and defensive cyberspace operations, so securing and defending the DODIN is key, and there is no disputing that fact,” he declared. “Because cyberspace cuts across all warfighting domains, all cyberspace operations, both offensive and defensive, need to be synchronized and integrated into the combined arms fight and other military operations.”
+
+Shawn Wells, chief security strategist for the public sector, Red Hat Inc., entertained the audience with his recollections of being a young hacker who was both busted and hired by the NSA after cracking into the Johns Hopkins University site.
+
+Wells also reported an interesting nugget he learned while attending a Department of Energy event. At some point—Wells didn’t specify exactly when—an unknown adversary corrupted GPS data feeding into a power station. That data is normally used to measure how long it takes electricity to travel from one point to the next. When the timing seems awry, the power company will take steps to resolve the issue.
+
+In this case, false data caused the company to ramp up power, which ultimately damaged 70 substations, Wells said.
+
+Lt. Gen. Rhett Hernandez, USA (Ret.), West Point cyber chair, Army Cyber Institute, said that while destruction of critical infrastructure is possible, disruption is a major concern. “In my view, disruption—not destruction—will cause us to lose confidence in the basic services we all take for granted,” he said.
+
+Maj. Gen. Bruce Crawford, USA, commanding general, Army Communications-Electronics Command, addressed the topic from the viewpoint of a post commander responsible for protecting the base’s critical infrastructure. “Wearing the hat of an installation commander, your perspective is a little different because job one is protecting the people on the installation,” Gen. Crawford said.
+
+He cited the Army Research Lab’s supercomputer at Aberdeen Proving Ground as a part of the base’s critical infrastructure in need of protection. “Of course, there’s a network there, but when you have one of the top 100 [supercomputers] in the world, it takes on a different life in terms of what it takes to defend or protect that,” Gen. Crawford asserted.
+
+He also questioned the cybersecurity needed at the front gates leading onto military installations. “Every post, camp and station you go into today, at the front gate folks are not checking ID cards any more. Most of them are using an automated way of scanning you in,” he said, before adding that he doesn’t “own” those systems and does not know how secure they are.
+
+Eric Bassell, chief operating officer, SANS Institute, continued the theme from the first day of the conference regarding Russia’s cyber and electronic warfare capabilities. “They’ve been combining cyber and kinetic activities since 2007,” Bassell said. He reminded the audience that Russia has launched cyber attacks in Estonia, Georgia and the Ukraine. In some cases, they got into the information technology systems using “spearphishing 101” before launching malware, he added.
+
+“They literally have the ability to shut down power to hundreds of thousands of people just like that,” Bassell warned.
+
+Natalie Givans, senior vice president, Booz Allen Hamilton, warned that sometimes “the simple things” get ignored when it comes to critical infrastructure protection. “When we think about critical infrastructure, sometimes we don’t think about the simplest things. So many of the systems we rely on day to day are not as well protected as they should be," she indicated.
+
+Givans said the challenge goes much deeper than simply “a technology problem” and stressed the need to—and difficulties of—training everyone who has access to the network, including average users and suppliers.
+
+Rear Adm.William Leigher, USN (Ret.), advanced solutions director for intelligence, information and services, Raytheon, warned that weapon systems can be vulnerable to cyber attacks. Those designing new systems don’t consider cybersecurity, and it is difficult to convince them they should, he said. Additionally, weapon systems operators, such as tank drivers, are not trained to recognize a cyber attack on the platform.
+ </text>
+  <imgalttext>
+    <img>A TechNet Augusta panel discusses critical infrastructure protection.</img>
+  </imgalttext>
+</article>

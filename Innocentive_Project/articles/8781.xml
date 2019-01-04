@@ -1,0 +1,30 @@
+<article>
+  <type>blog</type>
+  <title>Seeing is Retrieving</title>
+  <author>Beverly Schaeffer</author>
+  <date>October 17, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>brainwaves</tag>
+    <tag>cognitive technology</tag>
+    <tag>DARPA</tag>
+    <tag>human-computer interface</tag>
+    <tag>intelligence analysis</tag>
+    <tag>National Geospatial-Intelligence Agency</tag>
+    <tag>neuroscience</tag>
+    <tag>Neurotechnology for Intelligence Analysts program</tag>
+    <tag>U.S. Defense Department</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>No detail is too small to hide from a new imagery analysis technology that aims to harness brainwaves to narrow down-and speed up-the search process.</abstract>
+  <text>The eyes may have it, but the brain takes it to another level in a new technology being developed by researchers for the U.S. Defense Department. Imagery is viewed by the human eye, and the breakthrough advance uses neurotechnology to narrow that data into smaller, more concentrated images for further interpretation. In his article, "Brainwaves Boost Intelligence," in this issue of SIGNAL Magazine, George I. Seffers looks at the Neurotechnology for Intelligence Analysts (NIA) program. The NIA records brain signals in an operational environment, and processes those signals in real time to select images for further review. In the next several months, the Defense Advanced Research Projects Agency (DARPA) expects to complete the third and final phase of research and development on the program before turning it over to the National Geospatial-Intelligence Agency (NGA) for potential fielding. The competition included three prototype systems from Teledyne Technologies Incorporated, Honeywell International, and a team involving Columbia University and Neuromatters LLC. These prototypes were installed in an NGA-owned geospatial analysis testbed, and experiments were conducted with image analysts. For comparison, participants analyzed images using the traditional method as well. Todd Hughes, DARPA's NIA program manager, likens the traditional process of broad-area search to a dog owner searching for pet photographs:
+
+	Imagine you have a stack of photos on your hard drive, and you're looking for photos of your dog. You flip through all those photos and pull out the ones of the dog and put those in a separate file.
+Defense analysts, however, are more likely to be searching for airplanes, tanks or ammunition stockpiles. The human brain continually generates various kinds of electrical signals or brainwaves. The brain can transmit more than one kind of wave simultaneously, but one kind usually will dominate. Intel agencies can speed up the process by breaking down a larger image into smaller, more manageable pieces known as chips. When an image with target data flashes before the eyes, the viewer's brain will send out a signal within 300 milliseconds-before the analyst even consciously realizes the image contains something interesting. Sensors detect that brainwave response, known as P300, in an electroencephalography cap, traditionally used in hospitals for monitoring brainwaves. Hughes explains part of the retrieval process:
+
+	Every time one of those chips appears containing something an analyst is looking for, that P300 goes off, and that image is put into a smaller folder. We're anticipating that this could at least double the rates at which an image analyst can research an area of terrain.
+What additional applications could benefit from the NIA program? Are other organizations making inroads with similar projects? Share your input here.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

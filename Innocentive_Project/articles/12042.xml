@@ -1,0 +1,26 @@
+<article>
+  <type>article</type>
+  <title>Disaster Response Generates Network Security Concerns</title>
+  <author>Robert K. Ackerman</author>
+  <date>December 4, 2013</date>
+  <departments>
+    <department>Defense Operations</department>
+    <department>International</department>
+  </departments>
+  <tags>
+    <tag>Asia-Pacific</tag>
+    <tag>emergency response</tag>
+    <tag>Networks</tag>
+    <tag>PACOM</tag>
+    <tag>Security</tag>
+    <tag>TechNet Asia-Pacific 2013 Coverage</tag>
+  </tags>
+  <abstract>The networking assembled for the emergency Philippine typhoon response broke new ground in connectivity among governments and relief organizations. However, it also opened the door to sabotage by cybermarauders.</abstract>
+  <text>The recent humanitarian assistance/disaster response (HA/DR) effort in the wake of the Philippine typhoon demonstrated new capabilities and vulnerabilities for the broad networking necessary for successful operations. Information was shared to a degree greater than at previous emergencies, but this opened the door to potential information assurance problems.
+	Wednesday panel speakers at TechNet Asia-Pacific 2013 in Honolulu, Hawaii, related how effective the emergency network proved during the crisis response. Cdr. Michael Bennett, USCG, crypto officer for the Coast Guard in Hawaii, said the ability to muster a response among government and other organizations by cyber was unprecedented. Cameron Ashe, deputy J-2 at PACOM, related that damage assessment information from the field was placed on the All Partners Access Network (APAN), which is a non-dot-mil network that eases information exchange between the U.S. Defense Department and external organizations.
+	That type of information proved invaluable to rescue personnel. However, Rear Adm. Willie Metz, USN, the U.S. Pacific Command (PACOM) J-2, warned that this broad networking has its drawbacks. In addition to having a framework for providing information, one concern is how that network can become vulnerable to those wanting to harm it. Information assurance is a critical contributor to HA/DR, the admiral offered.
+	Adm. Metz related that one vital area for the PACOM J-6 was to emplace an information-sharing network to provide information rapidly to organizations providing critical relief services. He added APAN now can serve as the vehicle for disseminating critical information, such as population data, as well as a good planning and command and control capability for relief efforts.
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

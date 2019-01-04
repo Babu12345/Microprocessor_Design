@@ -1,0 +1,31 @@
+<article>
+  <type>article</type>
+  <title>NIST Releases Latest Catalog of Security and Privacy Controls for Federal Systems</title>
+  <author>by Max Cacas</author>
+  <date>May 3, 2013</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cloud computing</tag>
+    <tag>data management</tag>
+    <tag>mobile</tag>
+    <tag>Networks</tag>
+    <tag>research and development</tag>
+    <tag>Security</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>A government-wide task force led by NIST is out with the latest catalog of security and privacy controls for federal information systems, including some new thinking when it comes to addressing insider threats that go beyond technology.</abstract>
+  <text>The revision reflects efforts of government-wide joint task force.
+Managers of information technology systems for the federal government have new mandatory guidance on security and privacy controls used to manage and protect those systems from cyber attack.
+	The document released this week by the National Institute of Standards and Technology (NIST) constitutes the final edition of “Special Publication (SP) 800-53, Revision 4, Security and Privacy Controls for Federal Information Systems and Organizations.” It is the work of an interagency joint task force created in 2009, which is led by NIST and includes the Defense Department, the intelligence community and the Committee on National Security Systems.
+	“It’s a complete scrub of our security control catalog, which was first published in 2005,” Dr. Ron Ross, NIST fellow, leader of the Joint Task Force and principal author of SP 800-53, says. “We looked at all of the public comments that came in over the last several years, we tried to clarify some of the controls and we added some new controls that are a reflection of the ongoing sophistication of the threat space. As the cyber attacks get more frequent, more persistent and more sophisticated, we have designed defensive measures to stop those cyber attacks in their tracks.”
+	New to SP 800-53 are a series of security controls known as “overlays.” Ross says the overlays give agencies the flexibility to tailor their security systems to their organizations’ specific needs and still remain compliant with the mandates of the overall document. He believes that this will be especially valuable to the Defense Department and the military services. “For example, an organization that deploys controls in a garrison environment in a secure facility in a general purpose system may look different from a DOD system deployed in a combat or tactical environment. The overlay allows you to specialize or tailor the set of controls from the catalog. They are specifically attuned to the mission, business operation or the environment of operation for the organization,” he explains. Overlays also can be tailored to specific types of technologies, such as cloud computing or mobile devices.
+	Ross offers one example of an overlay pertinent to a military combat system that deals with auditing. “When you’re in a combat environment, and you don’t have the storage capacity for all of those [security] auditing activities, those types of controls would be tailored out of a tactical overlay. DOD is building overlays for those kinds of environments.”
+	Another change is the addition of new categories of security controls to reflect shifts in focus for government organizations. “We have the systems and acquisition family, the systems integrity family and the configuration management family,” he explains, adding that these families focus on how to harden and strengthen information systems to make them more resistant to penetration. Ross adds that these controls go beyond what he considers “traditional ‘cyber hygiene,’ where you count your boxes on a network, configure your boxes properly, patch as often as you need to, and if you can use automation to do that, so much the better. In order to stop some of the high-end cyber attacks, we have to make sure we engineer and architect these systems properly.” An appendix to SP 800-53 deals with software assurance, focusing on what developers can do to build better hardware and software.
+	Information technology specialists don’t always have access to the source code behind most cybersecurity equipment and software, so the SP 800-53 document also includes an appendix devoted to common criteria. These are specifications based on detailed testing to determine if the equipment works as advertised.
+	NIST and the joint task force also worked with the U.S. Chief Information Officers Council to develop guidelines consistent with the Privacy Act of 1974—a law which contains information technology mandates similar to those found in the Federal Information Security Management Act (FISMA). Privacy controls in SP 800-53 mirror those found in Fair Information Practice Principles, which Ross describes as, “an internationally recognized set of best practices that deal with eight different privacy issues.” He goes on to say that privacy goes hand-in-hand with good security.
+	Ross concludes by saying that the new catalog also includes security controls to deal with insider threats. “We worked with Carnegie Mellon University’s insider threat group, resulting in many new controls spanning a number of different families to address the potential insider threat problems. Cybersecurity problems are not just technology based, they deal with people, processes and technologies.” He says this is an attempt to provide a more holistic approach to cybersecurity in federal information systems.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

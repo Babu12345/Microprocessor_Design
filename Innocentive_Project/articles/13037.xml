@@ -1,0 +1,28 @@
+<article>
+  <type>article</type>
+  <title>Extending Cybersecurity in Romania</title>
+  <author>Rita Boland</author>
+  <date>June 23, 2014</date>
+  <departments>
+    <department>Cyber</department>
+    <department>International</department>
+  </departments>
+  <tags>
+    <tag>Europe</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>Companies Deep-Secure and Sweetwater s.r.l. signed a contract earlier this month that will extend cybersecurity measures in the Romanian market. The move should help address common cybercrime issues prevalent in former Eastern Bloc nations.</abstract>
+  <text>Companies Deep-Secure and Sweetwater s.r.l. signed a contract earlier this month that will extend cybersecurity measures in the Romanian market. The move should help address common cybercrime issues prevalent in former Eastern Bloc nations.
+	According to a U.S. State Department report on 2013 crime in Romania, “Cyber crime is a major threat and a constant challenge for the local law enforcement as it grows constantly and spreads across the borders, despite the efforts of the authorities to combat this phenomenon through international cooperation.” Through the deal, Sweetwater, which is located in Romania, can sell Deep-Secure’s Guard technologies in the European country. The products are designed for secure information sharing between organizations with any level of mistrust.
+	“So you trust people, but you want to make sure,” explains Colin Nash, Deep-Secure’s business development manager. The British company traditionally works with U.K. customers in defense and government who need to exchange information not only among themselves, but also with other nations. Guard technologies protect data going out, ensuring that nothing protected is released, and data coming in, preventing penetration of system vulnerabilities. So, for example, the products can ensure compliance with International Traffic in Arms Regulations when business is conducted with the United States.
+	The technologies also protect Web activity, ensuring nothing illicit is downloaded. Tim Freestone, technical architect, Deep-Secure, explains that at the end of the day, it boils down to not leaking out the wrong information and not allowing malware into a protected network.
+	With the Romanian license, the same defenses can be applied to organizations there, better securing the country’s networks and making it more secure for them to work with international groups. Additionally, it should help protect against the rising wave of cybercrimes there from bank fraud to child pornography.
+	Sweetwater first became interested in working with Deep-Secure after Mike Brown, a senior security consultant with the former company, heard an interview with the latter’s Chief Technology Officer Simon Wiseman on BBC Radio 4. Brown had become concerned about cybersecurity at a conference in Bucharest nearly four years earlier, but had trouble finding the right partner to address the issues he identified.
+	The companies found that Deep-Secure’s products filled the right gaps in Sweetwater’s portfolio of security solutions, and Sweetwater allowed the small Deep-Secure to move into a new market with personnel on the ground. Guard technologies use self-defending architecture, making it harder for criminals to penetrate networks. They provide services such as application firewalling, strong content verification for data loss and malware prevention and threat management integration.
+	“You only need to look at the proliferation of information about cyber attacks to realize that there is a growing problem with current technologies not providing adequate defenses from attack for individuals, businesses and organizations,” Brown states. He adds that, “Increasingly, organizations are realizing that a supply chain is only as secure as the weakest link so everyone has the responsibility to raise the level of security against the enhanced level of threat from cyber attacks.”
+	Deep-Secure has a patent-pending ring architecture, which allows business traffic, configuration files and system log files within Guards to flow only in one direction into content verifiers, so there is no way for an attacker to gain information about the defenses.
+	Wiseman explains the ring is about using physically separate processes to isolate security-critical functions from complex functionality. Previously, racks of equipment were necessary to carry out what personnel now can accomplish with only five small processors integrated onto a single board. The ring allows necessary checks of data while also protecting management traffic. “It’s a practical way to fold together the different processors,” Wiseman explains.
+	Deep-Secure has developed an Appliance Guard that takes only the business information from a file and strips out the complexity, so a Word document could come out as a rich text file, ensuring nothing malicious is encoded. Freestone explains that cybersecurity personnel struggle to keep up with the various viruses that come out, reacting to developments in an attempt to detect attacks. The Appliance Guard can help protect against zero-day attacks by pulling key information from data passing through and ignoring everything else. This eliminates the need to update virus software constantly.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

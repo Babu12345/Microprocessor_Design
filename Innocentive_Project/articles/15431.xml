@@ -1,0 +1,63 @@
+<article>
+  <type>blog</type>
+  <title>Enhancing Situational Awareness Throughout an IT Infrastructure</title>
+  <author>Joel Dolisy</author>
+  <date>November 6, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>information technology</tag>
+    <tag>situational awareness</tag>
+    <tag>defense networks</tag>
+    <tag>ISR</tag>
+  </tags>
+  <abstract>Across the entire Defense Department, situational awareness is mission critical. Real-time understanding of mission activities and the information delivered by intelligence, surveillance and reconnaissance (ISR) systems, in particular, is crucial for military commanders to make key decisions. </abstract>
+  <text>Across the entire Defense Department, situational awareness is mission critical. Real-time understanding of mission activities and the information delivered by intelligence, surveillance and reconnaissance (ISR) systems, in particular, is crucial for military commanders to make key decisions.
+
+To ensure that ISR systems provide mission-critical information, the information technology infrastructure must run flawlessly—relaying collected data to people quickly and accurately.
+
+How do you ensure successful information flow? And just as important, how do you increase real-time visibility across traditionally siloed systems run by different teams and monitored and managed by different products?
+
+The answer is to take a two-pronged approach:
+
+Identify the components that make up the whole IT infrastructure, including the ISR systems, to ensure that each one is monitored and managed properly.
+	Implement technology that provides a higher level, single view across the infrastructure to understand which systems are operational, how the information flows and where data flow problems exist to ensure that flow continues uninterrupted.
+Identifying and monitoring the pieces
+
+The total system consists of standard devices such as servers, databases, storage devices, network machines and applications combined with nonstandard IT devices such as high-definition cameras or other sensors. The devices are located either at the tactical edge, within a data center or somewhere in between, and each plays a part in ensuring critical information flows from device to decision maker.
+
+There’s a good chance that each component has its own team to operate and maintain a piece of the total system, presenting an initial challenge. Each team has a different procedure, or view, of the infrastructure, which could further complicate matters. Most IT systems consist of an array of technology silos that interoperate to deliver IT services. It is important to be aware of each piece, each team and each set of procedures, and make sure they all operate at peak performance.
+
+Tracking network quality of service measurements is paramount and a best-practice approach, regardless of the end customer, and is particularly critical in a real-time mission-awareness scenario. Optimized network configuration management and performance must be part of the monitoring protocol to ensure the best network bang for your buck.
+
+Create a baseline of performance—for every critical application—from the back-end data center to applications on the infrastructure’s perimeter, so that if an application slows down, you can quickly determine if its performance has degraded. If monitored properly, you should be able to tell whether the slowdown is within the application itself, on the end-user’s system or in an area of the network infrastructure handling the information flow.
+
+For servers, databases and storage devices, performance monitoring is critical—but so too are capacity planning and monitoring. Understand the ebb and flow of data and the impact on systems to optimize each of them. And, of course, avoid running out of storage space with automated capacity forecasting.
+
+Don’t forget about the nonstandard devices such as HD cameras and other sensors that might send a constant flow of critical information. Make sure there is a way to monitor all such devices as well as each ISR tool and data source.
+
+Using a combined view
+
+Having an optimally performing information technology infrastructure fulfills every federal IT professional’s ideal scenario. That said, it’s only half the picture.
+
+A 2014 SolarWinds survey of 176 federal IT professionals revealed an interesting discovery: Most respondents indicated that they do not have the cross-domain visibility crucial for fixing problems quickly. The majority only use siloed tools or approaches that do not provide extended visibility.
+
+Several consequences emerge from following this approach. In the study, respondents indicated the following repercussions:
+
+65 percent said it takes between seven and 24 hours to identify a problem somewhere in the infrastructure.
+	82 percent said it takes between seven and 24 hours to find an application problem within their environments.
+	85 percent said it takes between seven and 24 hours to uncover the root of a problem in an application. 
+These results highlight how crucial the second part of the two-pronged approach is to ensure situational awareness throughout an IT infrastructure.
+
+When a single holistic view is available, IT professionals work for specific departments, and those who work across many departments can see the role each piece of the infrastructure plays in the overall information flow. The holistic view demonstrates how large volume data sources tax the capacity of individual components. If there is a problem, it highlights the relationships between the components to effectively pinpoint the problem.
+
+In fact, the survey revealed that federal IT professionals using a combined view—with automated correlation among the different IT infrastructure components—identified an infrastructure problem within 20 seconds. Yes, you read that correctly: The time to identify a problem dropped from at least seven hours to 20 seconds.
+
+That is precisely the kind of visibility IT professionals need to provide senior military leadership rapid and accurate situational awareness through an optimally functioning IT infrastructure.
+
+Joel Dolisy is chief information officer at IT management software provider SolarWinds, Austin, Texas.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

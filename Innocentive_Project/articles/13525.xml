@@ -1,0 +1,65 @@
+<article>
+  <type>blog</type>
+  <title>Guest Blog: Government IT Pros Hindered by Lack of App Visibility </title>
+  <author>Chris LaPoint</author>
+  <date>September 23, 2014</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>app</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Without quick problem resolution, information technology pros are very often the first to be blamed for slow application performance. A SolarWinds survey found that the lack of cross-silo visibility delays app problem resolution, hindering government information technology professionals from accomplishing their missions.</abstract>
+  <text>When your personal applications are slow, there’s no doubt it’s frustrating. The news clip buffers, the song won’t download, a game takes ages to start up, etc. But when apps perform slowly for military, intelligence or other critical government entities, national security might, in fact, be at risk.
+
+Without quick problem resolution, information technology pros are very often the first to be blamed for slow application performance. In a recent survey from SolarWinds, 176 information technology professionals from the federal government disclosed how they manage applications in their environments. We asked respondents which types of apps they’re using, where they are stored, how they identify and address app performance issues and about service-level agreement (SLA) requirements, among other things.
+
+We found that the lack of cross-silo visibility delays app problem resolution, hindering government information technology pros from accomplishing their missions.
+
+Federal information technology pros use siloed monitoring tools.
+
+Most respondents said that unique types of applications are hosted in different locations—both on premise and in various cloud environments including public, community and private clouds at government agencies. But ultimately, information technology pros are responsible for application performance—for anything from Microsoft Exchange to Google Docs to Tweetdeck, regardless of whether the application resides on premise or in the cloud. They must be able to identify where a problem lies and address it quickly.
+
+The majority of government pros depend on their own siloed information technology solution to identify root causes of application issues:
+
+54 percent use monitoring tools specific to their primary application or infrastructure area
+	42 percent use interface data from the individual applications or infrastructure they use
+	Only 5.7 percent use integrated monitoring across application and infrastructure silos
+This lack of cross-domain visibility or application-centric correlation among layers causes lag time in determining where an app problem is located within the environment, finding its cause and resolving the problem.
+
+App issues can take up to a day to fix.
+
+How long would you be willing to wait for a page to load, or to access an important spreadsheet? If an app you needed was down for an entire day, how much of your productivity would be wasted?
+
+While most respondents said they have less than an hour of downtime per month (86 percent), they still likely are experiencing significant delays and problems because it takes up to a day for information technology pros to fix the issues. So while a problem app might not be completely down, it is assuredly slow.
+
+Within seven to 24 hours:
+
+82 percent of information technology pros can determine where an application problem is located within their environments
+	85 percent can uncover the root cause of a problem in an application
+	88 percent can fix the problem
+However, a 24-hour turnaround for app fixes is still too long, because taking hours—let alone a whole day—to resolve an issue can lead to other significant problems.
+
+Information technology pros must do more in less time.
+
+Information technology managers can waste a lot of time examining the app stack to solve an issue, and workers can be impacted by system downtime caused by a single, unruly app. This can seriously impede workers from doing their jobs.
+
+Further, nearly 80 percent of respondents said their response time SLA metrics for key applications have been reduced more than 50 percent in the past two years, as organizations call for shorter response times and put higher performance requirements in place for information technology pros.
+
+Visibility across the application stack is essential.
+
+It’s clear that performance expectations for government pros are high. Even the shortest delays from unresponsive Web pages, online apps that don’t work and crawling download speeds can affect customers or prevent employees from working as quickly and efficiently as they expect to, especially given today’s demands for speed and the “always on” mindset.
+
+And when applications used in military operations or critical government communications experience problems, government information technology pros must have the solutions and strategies in place to ensure they can find and resolve problems quickly.
+
+Visibility and management of the entire application stack are critical for efficient monitoring and management of government information technology infrastructures. However, the siloed approach that so many government information technology pros use often prevents this, leading to a lot of time spent trying to identify application-specific problems, causes and potential resolutions.
+
+That’s simply not a sustainable model for the increasing number of government organizations that depend on complex and layered app stacks. It’s a burden that ends up costing the entire agency.
+
+Has a lack of cross-application visibility kept you from fixing apps in time? What’s your opinion? Let us know in the comments section.
+
+Chris LaPoint is vice president of product management at information technology management software provider SolarWinds, based in Austin, Texas.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

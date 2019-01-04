@@ -1,0 +1,49 @@
+<article>
+  <type>blog</type>
+  <title>Commanding and Controlling the Cyber Domain</title>
+  <author>George I. Seffers</author>
+  <date>June 17, 2015</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>DISA</tag>
+    <tag>Cyber Command</tag>
+    <tag>Defensive Cyber Operations Symposium 2015 Show Daily</tag>
+  </tags>
+  <abstract>Command and control of military networks takes center stage at the AFCEA Defensive Cyber Operations Symposium.</abstract>
+  <text>Defensive Cyber Operations Symposium 2015 
+
+The SIGNAL Magazine Online Show Daily 
+
+Day 2
+
+Quote of the Day: “JIE is a good thing, because it allows us to bring a more centralized capability to bear and that is a lot of security capability.”
+--John Hickey, DISA cybersecurity risk management authorizing official executive.
+
+The U.S. Defense Department recently established the Joint Force Headquarters-Department of Defense Information Network (JFHQ-DODIN) within the Defense Information Systems Agency (DISA), giving the agency an operational role—largely command and control (C2)—in the cyber domain. Military and industry leaders highlighted the JFHQ-DODIN and the command and control of military networks during the second day of the AFCEA Defensive Cyber Operations Symposium in Baltimore, illustrating the critical nature the network plays in both administrative and warfighting realms.
+
+In a round table discussion with reporters, Lt. Gen. Ronnie Hawkins Jr., USAF, DISA director, elaborated on comments he had made the day before when he said the JFHQ-DODIN is about C2 of C2.
+
+“When we look at what the definition of C2 is all about, it gives a specific commander the authority to provide the situational awareness, provide the direction and provide the force management of certain capabilities,” Gen. Hawkins told reporters. “We are providing the situational awareness and the understanding of our capabilities on the defensive cyber operations side to the commander of Cyber Command, that being Adm. Rogers, and then he in turn directs how we, the Department of Defense, will align our capabilities, and we provide that back out to the component commanders.” He added that the military services then deploy forces based on the direction that filters down from Cyber Command.  
+
+Gen. Hawkins said the misunderstanding he hears most about the Joint Force Headquarters is that it is akin to the former Joint Task Force-Global Network Operations, which was housed within DISA years ago and also gave the agency an operational role in network security. “Now that we’re standing up the Joint Force Headquarters-DODIN, and the command and control of that is infinitely different, especially when you look at what we’re doing across the entire Department of Defense and the authority we now have,” Gen. Hawkins stated.  
+
+During the round table discussion with reporters, DISA officials described the role the Joint Information Environment (JIE) plays in providing cyber situational awareness and controlling network security. "JIE allows us to see and defend and monitor the systems we have today, and we can provide the ability to automate and use big data analytics and other items available on the market today,” explained John Hickey, who serves as the DISA cybersecurity risk management authorizing official executive.
+
+When asked by a reporter if consolidation under JIE presents risks, Hickey said the opposite is true. “JIE is a good thing, because it allows us to bring a more centralized capability to bear and that is a lot of security capability. I don’t see centralization in the joint environment as a bad thing,” Hickey countered. He added that the Joint Regional Security Stack (JRSS) will contribute to security.
+
+The next version of JRSS, version 1.5, which will provide a full packet capture capability, should be available by the end of summer, reported John Wilmer, DISA deputy chief technology officer for enterprise services. Version 2.0 will be more long-term  and will “ensure we’ve got all of the comprehensive security requirements for the department moving forward,” Wilmer said. DISA currently is working with the Navy and Marine Corps to iron out their requirements for the system.
+
+Lt. Gen. James “Kevin” McLaughlin, USAF, deputy commander, U.S. Cyber Command, led off the symposium’s second day, and he also touched on the importance of command and control. “We also are going to continue to work on refining our command and control processes, especially to operate and defend the DOD information network. Over the decades, he added, the Defense Department has gone from a “highly decentralized everything” to “a more unified command and control.”
+
+The Cyber Command commander “needs to have visibility and access and the ability to direct across the DOD information network,” he said, adding that, “you don’t just create that and have it fully fleshed out right off the bat.”
+
+During a panel discussion on network defense, Richard Hale, Defense Department deputy chief information officer for cybersecurity, noted the complexity of defending the network when it includes major weapon systems. “If I count all the computers that are attackable, it’s a lot. We have airplanes filled with computers. A small diameter bomb has a computer in it. Anything with a computer or software in it is cyber attackable,” Hale said, while serving as the panel moderator.
+
+During the final presentation of the day, Brig. Gen. Robert Skinner, USAF, deputy commander, JFHQ-DODIN, also touted the benefits the JIE offers for cyber command and control. “JIE enables the rapid command and control of our defensive operations for the department,” he said, adding that the JIE will “be an enhancer” not only to the Defense Department network but to “all entities that fall under the DODIN construct.”</text>
+  <imgalttext>
+    <img>Lt. Gen. James McLaughlin, USAF, deputy commander, U.S. Cyber Command, kicked off the second day of the AFCEA Defensive Cyber Operations Symposium in Baltimore, during which military officials highlighted the importance of command and control in defending cyberspace.</img>
+  </imgalttext>
+</article>

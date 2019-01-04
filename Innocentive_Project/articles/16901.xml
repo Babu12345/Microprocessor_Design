@@ -1,0 +1,56 @@
+<article>
+  <type>blog</type>
+  <title>Like Sands of Time: Shifting From IPv4 to IPv6 </title>
+  <author>Joe Kim</author>
+  <date>November 8, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>guest bloggers</tag>
+    <tag>Guest Blogs</tag>
+    <tag>IPv6</tag>
+    <tag>IPv4</tag>
+    <tag>modernization</tag>
+    <tag>legacy system migration</tag>
+    <tag>U.S. DOD</tag>
+  </tags>
+  <abstract>More than a decade ago the Defense Department announced plans to convert its network to the Internet Protocol version 6 (IPv6) standard. Today, the wait continues. The department no longer can afford to cite the re-occurring mantra “if it ain’t broke, don’t fix it.” Today’s military simply cannot overlook the need to transition, writes Joe Kim, SolarWinds' senior vice president and global chief technology officer.</abstract>
+  <text>More than a decade ago—2003 to be precise—the Defense Department announced plans to convert its network to the Internet Protocol version 6 (IPv6) standard. Today, the wait continues.
+
+Even the DOD seems impatient for the conversion. A 2014 inspector general report admonishes the department for its failure to convert to IPv6, noting that the department failed to make IPv6 a priority and lacked an effectively coordinated effort to realize the conversion. The report notes that the DOD is overlooking the benefits of IPv6 implementation, such as creating dynamic IP addresses for devices such as sensors, weapons systems and remote, mobile networks. The shift would enhance embedded IT security through IPSec, which helps maintain data integrity and is much better at protecting information than IPv4.
+
+Nonetheless, the DOD continues to hang onto its legacy version, seemingly mired in the notion of the barriers and pitfalls of hardware and software compatibility issues, cost and the daunting task of having to train and re-train new and existing personnel. The concerns are not without merit, especially when considering that agencies still rely on legacy technologies and compatibility issues remain commonplace. The cost to convert is expected to be in the billions. And finding the right people with the right expertise to manage such a massive transition would be no small feat.
+
+Yet the department no longer can afford to cite the re-occurring mantra “if it ain’t broke, don’t fix it.” Today’s military simply cannot overlook the need to transition. 
+
+Technology use has changed. The Internet of Things (IoT) is now pervasive. And the clock is ticking. Although IPv4 addresses are still available within government circles, it’s a finite supply that will continue to run low. Fortunately, the benefits of IPv6 are tailor made for the new technology era, an era which–despite compatibility woes, tremendous costs and personnel concerns–cannot be overlooked.
+
+How can agencies ready themselves to adopt IPv6 and overcome the barriers—even misconceptions—to make the transition a reality?
+
+Cost or investment? The dual-stack dilemma
+Conflicting cost-related viewpoints emerge from the inspector general report. One is the notion that delaying the inevitable transition to IPv6 will only increase costs; the other that the switch is neither cost effective nor warranted.
+
+While agencies already have invested in network upgrades designed to support dual stack environments, the environment harbors hidden, incremental costs such as those needed for maintenance and network administrators’ focus on address reclamation. Each takes manpower and hours, impacting budgets and administrators attention to mission-critical tasks. The longer the dual stack approach is maintained, the higher the costs will go.
+
+Today’s technological advancements dictate the need for mobile communications, constant connectivity and security. IPv6 can help agencies with each by providing a more powerful, scalable and secure IP. With agencies already investing in cloud and virtualization technologies to move communications and network management forward, some funds could be reallocated toward the IPv6 transition. 
+
+Thinking beyond the manpower box
+Make no mistake—agencies are hard-pressed to find a different type of expertise for new technological demands, from cloud management to virtualized networks and the pervasiveness of the IoT. In recent years, agencies sought managers with expertise in these areas to make the leap forward in the hopes of eventually leaving legacy technologies in the rearview mirror. 
+
+The transition to IPv6 is no different. Agencies must think outside of the hiring box and explore personnel with deep proficiencies and skill sets in the latest networking technologies—IPv6 in particular.
+
+Network performance monitoring key to aid transitioning
+Although agencies are pushing toward modernized networks, many still rely on legacy technologies, and so must deploy solutions that are both interoperable with existing systems, but are also cost-effective. Emerging technologies should ensure networks continue to operate effectively using IPv6. Network performance monitoring and configuration software are crucial components to ensure organizations ascertain overall network performance, look for security flaws and track devices and IP traffic. 
+
+Many agencies already have adopted these solutions as part of their overall network automation and modernization initiatives. For them, no additional investment is required; they can simply use what’s already at their disposal to ensure their networks run seamlessly post-migration.
+
+Despite the fears, misconceptions and perceived pitfalls, the IPv4 address crisis is still very much alive. While delayed a bit, it is still very much the reality that agencies face. The question should not longer be whether the Defense Department will adopt IPv6, but when.  
+
+Others interested in leading the pack and gleaning the benefits of IPv6 adaptation – having a more powerful, scalable and secure IP –are eager to proceed before the hourglass runs empty.
+
+Joe Kim is senior vice president and global chief technology officer for SolarWinds.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

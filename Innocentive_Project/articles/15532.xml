@@ -1,0 +1,35 @@
+<article>
+  <type>article</type>
+  <title>DARPA Fishing for Undersea Communications Capabilities With TUNA Program </title>
+  <author>Sandra Jontz</author>
+  <date>December 8, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>DARPA</tag>
+    <tag>undersea</tag>
+    <tag>fiber optic cable</tag>
+  </tags>
+  <abstract>Move over Charlie, the seas could be getting a new kind of tuna.</abstract>
+  <text>Move over Charlie, the seas could be getting a new kind of tuna.
+
+LGS Innovations secured a contract to support a program launched by the Defense Department’s futurist research arm to develop the Tactical Undersea Network Architectures, or TUNA, program.
+
+Researchers want a rapidly deployable, temporary undersea network of lightweight, unpowered cables capable of lasting in the ocean for at least 30 days. TUNA would provide a backup network to restore tactical data network connectivity in contested environments where adversaries might disrupt communication channels, says Bob Beyers, technical director of Applied Research and Technology at LGS Innovations. Researchers are probing three technical areas of system design, small fiber optic cable systems and buoy nodes.
+
+“We live in the midst of a communications revolution, in which consumers expect communication connectivity wherever they are in the world,” Beyers says. “Military systems have extended that kind of anywhere, anytime connectivity to terrestrial, air and surface water domains—but not yet to the undersea domain. TUNA seeks to develop a … network that will allow users of military undersea systems to vastly improve their ability to communicate and interact with other military systems.”
+
+The Defense Advanced Research Projects Agency (DARPA) funds the effort to advance optical-fiber-based technology options and to create the world’s strongest neutrally buoyant undersea network.
+
+Planners envision the cable system interacting with existing networks—an undersea domain matrix adopted from the land-based network-centric warfare concept.  
+
+For phase 1 of the 15-month project, which began in September, LGS teamed with two companies: Linden Photonics, which has developed a range of miniature, high-strength optical fiber and hybrid cables optimized for underwater use; and Tethers Unlimited, a company that supplements transformative technologies for space and defense missions. The company is repurposing proprietary techniques originally enabling deployment of long tethers in space to create high-speed deployment of optical fibers for use underwater. One project includes providing a capability for two-way, high-bandwidth communications for submarines, for example, even when they are submerged and moving at high speeds.
+
+The DARPA-backed researchers face a challenge in forming an undersea microcable network that “simultaneously possesses small size, high strength, low optical loss and neutral-buoyancy, and is producible in long cable lengths,” Beyers explains. “The cable proposed by LGS is based on a commercial offering by Linden Photonics called Strong Torpedo Fiber Optic Cable (STFOC). We proposed changes in design and fabrication that will allow us to make the STFOC smaller, stronger, lower loss and with the precise ability to control specific gravity.” Researchers are testing a cable that uses a liquid crystal polymer for strength.
+
+Civilian uses for this type of technology exist as companies seek reliable, small and inexpensive undersea communication systems, especially since the fiber optic cables that line the ocean floors and transmit almost all the world’s telecommunications remain vulnerable to natural disasters, ocean life and nefarious actors. An estimated 99 percent of U.S. and international data and phone traffic is transmitted over the 285 undersea cables that flow from the United States to other countries.</text>
+  <imgalttext>
+    <img>A diver descends along a deep water mooring buoy off of the coast of Guam to conduct inspection, maintenance and repair of various underwater assets.</img>
+  </imgalttext>
+</article>

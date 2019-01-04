@@ -1,0 +1,42 @@
+<article>
+  <type>blog</type>
+  <title>One Innovative BPA will have a Strong Impact on the Government</title>
+  <author>Brian Fogg</author>
+  <date>June 28, 2016</date>
+  <departments>
+    <department>Acquisition and Contracting</department>
+  </departments>
+  <tags>
+    <tag>GSA</tag>
+    <tag>web development</tag>
+  </tags>
+  <abstract>While innovations abound across the U.S. federal government and in the Defense Department, perhaps one of the more interesting efforts is the General Services Administration’s 18F Agile blanket purchase agreement (BPA)—a contract that delivers the best community-driven development practices tailored to the requirements of federal agencies.</abstract>
+  <text>While innovations abound across the U.S. federal government and in the Defense Department, perhaps one of the more interesting efforts is the General Services Administration’s 18F Agile blanket purchase agreement (BPA)—a contract that delivers the best community-driven development practices tailored to the requirements of federal agencies.
+
+Some of the practices could have far-reaching impacts, several of which I’ll explore in more detail over the coming months.
+
+For now, let’s highlight three notable applications. 
+
+1) The initiatives focus on human-centered design and the importance of a good user experience, from developing simple single-page apps to full-blown and complex enterprise systems. One of the most exciting areas of 18F is the renewed emphasis on human-centered design as part of the “design language” for developing websites. 18F has done a great job of describing and codifying design principles to be:
+
+Limited: Focusing the development teams on the scope of the project
+	Clear: Enabling the teams to know when to say no
+	Emotionally evocative: Ensuring teams build toward an emotional attachment. Co-workers tend to share well-done applications to get them excited. A user response of “it’s OK” will not work.
+	Grounded: Aligning to the perspective and expectations of the stakeholder and user communities
+18F uses a formal discovery phase to begin creation of each new website to gather stakeholder requirements and conduct usability testing, accomplished by performing such tasks such as in-person interviews, shadowing stakeholders or using Google questionnaires to elicit feedback. Most importantly, these design principles are best drawn from across the team and broader stakeholder communities to ensure everyone has a voice and all perspectives are considered. Much like the saying “it takes a village to raise a child,” we like to say it takes a community to build a great website.
+
+2) The efforts enhance transparency and increase community engagement by increasingly adopting open source tools/stacks/processes, such as the socially networked code repository GitHub. 18F fully has embraced open source principles, and digital services delivery teams should strive to:
+
+Use free and open source, which does not incur purchasing or licensing fees
+	Develop solutions in the open for the community to see, use and enhance
+	Publish solutions to public repositories for continuous and unrestricted peer reviews
+A variety of benefits exist to developing solutions in the open, beyond the obvious lower up-front cost of acquiring tools. 18F has embraced open source principles, not just for development, but also as part of agile contracting. For example, 18F uses GitHub to post RFP/RFQ responses and answer vendor questions, an innovative approach to proposal response development provides public transparency.
+
+3) Lastly, they capitalize on a reemergence of the “full-stack” developer to accelerate an agile creation. A full-stack developer is a multidisciplinary software engineer who can work on both front- and back-end, client- and server-side projects. 18F recognized the growing need for holistic development by creating a full-stack pool as part of the agile BPA. A team of talented, cross-functional developers lets organizations assign tasks efficiently, increasing their sprint velocity and ultimately providing faster delivery. Modern full-stack open software libraries, such as NPM, can be leveraged for further acceleration.
+
+I’m excited for the civilian, defense and intelligence communities because of the potential for all three to see an increase in innovative software and applications. Additionally, this means new capabilities will get in the right hands, so missions and challenges can be met faster. 
+
+Brian Fogg is vice president and chief technology officer at NCI, Inc.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

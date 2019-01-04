@@ -1,0 +1,29 @@
+<article>
+  <type>blog</type>
+  <title>DARPA Wants to 'Pancake' LiDAR Technologies </title>
+  <author>Sandra Jontz</author>
+  <date>December 9, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>DARPA</tag>
+    <tag>LiDAR</tag>
+    <tag>3-D mapping</tag>
+  </tags>
+  <abstract>DARPA, the Defense Department’s primary research agency, seeks flat optics that could revolutionize a number of industries, from surveillance technologies to how autonomous systems sense obstacles in their surroundings.</abstract>
+  <text>The Defense Department’s primary research agency seeks flat optics that could revolutionize a number of industries, from surveillance technologies to how autonomous systems sense obstacles in their surroundings, to name a few.
+
+The Defense Advanced Research Projects Agency, or DARPA, put out a call for “pancaking the telescope” when it announced its Modular Optical Aperture Building Blocks (MOABB) program. That’s fancy speak for its challenge to create ultra-compact, light detection and ranging (LiDAR) systems that would be flat, lightweight, easily transportable and inexpensive, the agency states.
+
+LiDAR systems use light beams to precisely monitor the timing of reflections to then create high-resolution maps and track objects. While the basic technology exists, it’s big, bulky and expensive. Instead, DARPA is launching its $58 million, potentially five-year program to create technology that researchers indicate they envision would “consist of an array of 10,000 light-emitting and light–detecting semiconductor dots distributed on a disk about the size of a DVD.”
+
+“You would be able to fly a MOABB-enabled helicopter or drone low over a lush forest canopy and be able to effectively peel back the leaves and see a sniper or a tank underneath,” explains DARPA program manager Joshua Conway. “It could instantaneously give you the range and velocity of everything up to a football field’s distance away with the resolution of a camera.”
+
+Other potential uses include collision avoidance systems for small unmanned aerial vehicles (UAVs) flying in tight indoor spaces, precision motor control for robotic limbs or high-capacity light-based communications and data-transfer systems. “Every machine that interacts with the 3-D world—whether it is a manufacturing robot, UAV, car, or smartphone—could have a chip- or wafer-scale LiDAR on it,” Conway says.
+
+DARPA plans to post a broad agency announcement of the MOAAB project later this month on FedBizOpps, and host a proposers day event at DARPA headquarters in Virginia on December 17.</text>
+  <imgalttext>
+    <img>Even lush forest canopies could became effectively transparent with a future generation of light detection and ranging (LiDAR) technologies. Source: Shutterstock/DARPA</img>
+  </imgalttext>
+</article>

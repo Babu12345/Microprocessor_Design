@@ -1,0 +1,17 @@
+<article>
+  <type>blog</type>
+  <title>Testbed Development for JCREW</title>
+  <author>H. Mosher</author>
+  <date>May 2, 2008</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>ITT</tag>
+    <tag>Mercury</tag>
+    <tag>Contract Awards</tag>
+  </tags>
+  <abstract>A testbed to support the Joint Counter Radio-Controlled Improvised Explosive Device Electronic Warfare (JCREW) program will be developed and demonstrated. The U.S. government will use the testbed to develop and test advanced open architecture technology for counter-improvised explosive device (IED) systems development. </abstract>
+  <text>A testbed to support the Joint Counter Radio-Controlled Improvised Explosive Device Electronic Warfare (JCREW) program will be developed and demonstrated. The U.S. government will use the testbed to develop and test advanced open architecture technology for counter-improvised explosive device (IED) systems development. An open-systems digital signal processing (DSP) architecture technology and testbed systems for counter-IED research and development, along with systems engineering support services for the government and contractors who use the testbed facilities, will be provided as part of the agreement. A scalable data acquisition and processing application within a very dense, size/weight/power-constrained environment will be demonstrated. Also scheduled for demonstration is the X-Midas platform-independent software framework as an application environment, which is designed to reuse existing applications from other government and contractor sources for developing DSP applications. Mercury Federal Systems Incorporated received a $2.5 million contract for the work from the U.S. Army Fort Monmouth's Communications and Electronics Command. Mercury also entered into an agreement with ITT Electronic Systems to collaborate and leverage each company's strengths to demonstrate algorithm component portability for the JCREW testbed architecture. In the initial development effort, Mercury and ITT will combine forces to implement and demonstrate the portability of the Constant Amplitude Network Waveform Adaptive Combiner algorithm.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

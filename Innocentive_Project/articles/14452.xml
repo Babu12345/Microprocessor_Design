@@ -1,0 +1,47 @@
+<article>
+  <type>article</type>
+  <title>Making Progress Every Single Day on JIE</title>
+  <author>George I. Seffers</author>
+  <date>May 1, 2015</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>JIE</tag>
+  </tags>
+  <abstract>A relatively small team within the U.S. Defense Department works long hours to accomplish something big—establishing a single network for all defense missions.</abstract>
+  <text>A relatively small team within the U.S. Defense Department works long hours to accomplish something big—establishing a single network for all defense missions. That effort involves simultaneously enhancing network security, implementing a cyberspace command and control concept, improving the mission partner environment and incorporating commercial cloud into the network architecture.
+
+The Joint Information Environment (JIE) aims at optimizing the department’s use of information technology assets by converging communications, computing and enterprise services into a single joint platform to support all departmental missions. It is expected to reduce total ownership costs, shrink the network attack surface and permit network access with any authorized device anywhere in the world. “Real progress is being made and sustained by a small collection of folks in the department who are working hard to do a big thing, which is deliver the JIE,” says Brig. Gen. Brian Dravis, USAF, director, JIE Technical Synchronization Office, Defense Information Systems Agency (DISA). Gen. Dravis adds that JIE-related activities are “literally progressing and happening every single day” and that “it doesn’t get done in a 40-hour week.”
+
+Department officials already have announced significant progress with the joint regional security stacks (JRSS), a suite of equipment that provides a host of network security capabilities that include performing firewall functions, intrusion detection and prevention, enterprise management and virtual routing and forwarding. By deploying the JRSS, network security is centralized into regional architectures rather than locally distributed architectures at each military base, post, camp or station. Additionally, each physical stack comprises racks of equipment that enable big data analytics, allowing Defense Department components to take large sets of data into the cloud and provide the platforms for processing data, as well as the mechanism to help analysts make sense it.
+
+DISA officials announced in October that they had worked with the U.S. Army and U.S. Air Force to migrate network traffic through the JRSS successfully at Joint Base San Antonio. “The next steps include JRSS activations at Fort Bragg, North Carolina, and in Oklahoma City and the migration of the JRSS in Southwest Asia. That will happen at or near the end of the fiscal year,” Gen. Dravis reports. “We’ll eventually get all 11 continental United States-based JRSS online, but at the same time, work continues in Europe and Southwest Asia, and we’re planning for JRSS introduction into the Pacific Command area of responsibility,” he adds, describing the JRSS as “the fulcrum upon which all JIE activity and interest rests today.”
+
+Concurrently, the department approved a cyberspace command and control concept that enabled the standup, activation and initial operating capability of the Joint Forces Headquarters Department of Defense Information Networks (JFHQ DODIN), “which provides clear command and control relationships for command of the JRSS in a JIE context,” Gen. Dravis says. The department will continue maturing the JFHQ DODIN from the recently established initial operational capability set to a fully operational JFHQ sometime in fiscal 2016, he predicts.
+
+Cyber command and control efforts also include plans for a new Global Enterprise Operations Center that will provide complete visibility of the enterprise network and will be used to conduct global cyber operations to support combatant commands. The global operations center will be complemented by regional centers. “The Global Enterprise Operations Center has a close relationship to the standup of the joint forces headquarters. It is intended to direct global operations for the JIE; prioritize global cyber missions consistent with combatant command priorities; be the point of contact for our global external partners in the JIE context; and maintain global assessment of the status of the network,” Gen. Dravis explains. “It is very nascent, very new, but growing and maturing daily.”
+
+Also related to the JIE, department officials are “aggressively working the engineering and design needed to ease combatant command efforts in the establishment of coalition and partner networks in what we call the mission partner environment,” Gen. Dravis says.
+
+The intent is to create a commercially based, more robust mission partner environment network that will be cost effective and rapidly reconfigurable. “Those mission partner efforts are going to continue along what we expect to be a 12- to 24-month time horizon and bring all of the attributes into a standardized capability for the department. I would estimate sometime mid-fiscal year 2017 to see all those fully matured and delivered.”
+
+Officials also are incorporating the commercial cloud into the JIE architecture and framework. DISA provided a commercial cloud security requirements guide in mid-January. “We’re working with all partners to establish requirements for the cloud access plan that is intended to securely tie together all the private cloud, commercial cloud and service providers,” Gen. Dravis states.
+
+He cites a need to test the various components being woven together to form the JIE. “There’s a real determined testing line of effort that pulls all these other JIE-specific things together. That’s kind of a system of systems lab environment that ensures it all works together as intended,” he says.
+
+DISA officials have conducted an exhaustive gap analysis to identify areas that need to be further explored, developed or matured for future versions of JIE. “We identified over 50 technical gaps that we’re really aggressively working right now. Our goal is to close as many of those within the design documents within this fiscal year as we possibly can,” Gen. Dravis reveals. “Some of those we know are just out of reach now, so we’re building future technology wedges into the design documents so that we can anticipate nascent or planned capabilities that just aren’t ready for fielding today.”
+
+Gen. Dravis says it is hard to quantify JIE progress in part because rapid advances in information technology challenge traditional defense acquisition methods for marking milestones. “I like to generalize JIE progress more in terms of a steady, deliberate progress or advancement that you’re going to see accelerate with each successive fiscal year,” he says. “I see us as above the 50 percent watermark. Bringing the Navy and Marine Corps into the JRSS in fiscal 2017 becomes a point of irreversibility for JIE.”
+
+After 2017, officials will be able to focus on maturing the capability and all the complementary services the JIE is to provide. “We’re already providing enterprise-level services to roughly half the department today. I don’t want to give the wrong impression. I’m not saying we’re halfway there with JIE. I don’t believe there’s an objective measure to that, but we’re certainly making real progress,” he says.
+
+Among people who build small airplanes in their garages, he offers, there is a saying that, “You’re 90 percent done with 90 percent left to go,” and adds, “That’s kinda the environment we’re in.”
+
+But officials will know when they have reached the end state. “When the JIE provides every fielded soldier, sailor, airman and Marine with totally relevant information and the data they need to do their globally assigned missions, that’s how we’ll know we’re there,” the general says.</text>
+  <imgalttext>
+    <img>As part of the Joint Information Environment (JIE), the Global Enterprise Operations Center will provide complete visibility of the enterprise network and will be used to conduct global cyber operations to support combatant commands.</img>
+    <img>The JIE will allow network access at any time and from anywhere with any approved device.</img>
+    <img>Surface-to-air missile simulators fire at incoming aircraft during nighttime warfare training. The JIE will weave together the U.S. Defense Department’s disparate networks into a single, departmentwide network to support the full range of military missions.</img>
+  </imgalttext>
+</article>

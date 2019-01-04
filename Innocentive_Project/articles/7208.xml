@@ -1,0 +1,45 @@
+<article>
+  <type>blog</type>
+  <title>Cyberdefense and DoD Culture</title>
+  <author>Paul Strassmann</author>
+  <date>August 23, 2010</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+    <tag>Cybersecurity</tag>
+    <tag>Cyberwarfare</tag>
+    <tag>Defense Department</tag>
+    <tag>Information Assurance</tag>
+    <tag>Cyberspace</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Defense Department leadership appears to be viewing cyberdefense issues primarily as a matter of policy and strategy that can be fixed incrementally. That is not possible. Cyberdefense deficiencies have became deeply rooted as result of the defective ways in which the Defense Department acquired IT over the past decades. Cyberdefense flaws are inherently enterprise-wide and are mostly not application specific.</abstract>
+  <text>First of two parts.
+
+According to Air Force LTG William Lord, 85 percent of cyberoperations are in defense.  That being the case, How should the Defense Department  protect its network and computer assets? A 2009 RAND Corporation report on cyberdeterrence asserts "...most of the effort to defend systems is inevitably the ambit of everyday system administrators and with the reinforcement of user vigilance." The report also states "...the nuts and bolts of cyberdefense are reasonably well understood."
+
+Such views encapsulate the current thinking about cyberdefense, that such activity is primarily a back office service or a compliance matter. But these views are pernicious.  They accept existing systems as they are, other than advocating for improved implementation methods. RAND does not admit that the current hardware, software and networks within the Defense Department are obsolete and dysfunctional. The department continues to operate within a culture that does not acknowledge that its computer systems are not suited for the age of cyberwarfare.
+
+Defense Department leadership appears to be viewing cyberdefense issues primarily as a matter of policy and strategy that can be fixed incrementally. That is not possible. Cyberdefense deficiencies have became deeply rooted as result of the defective ways in which the Defense Department acquired IT over the past decades. Cyberdefense flaws are inherently enterprise-wide and are mostly not application specific.
+
+The Defense Department has not as yet confronted what it will take to make systems and networks sufficiently secure. According to DEPSECDEF William Lynn, the department operates over 15,000 networks.  The total number of named systems programs in 2009 was 2,190 (Air Force 465, Army 215, Navy 972 and Agencies 538). Each of these programs was further subdivided into subcontracts, some of which are legislatively dictated. Hardly any of the subcontracts share a common data dictionary, or data formats or software implementation codes.
+
+The IT environment at the Defense Department is fractured. Instead of using shared and defensible infrastructure, over 50 percent of the IT budget is allocated to paying for hundreds and possibly for thousands of mini-infrastructures that operate in contractor-managed enclaves. Such proliferation is guaranteed to be incompatible and certainly not interoperable.
+
+Over 10 percent of the total Defense Department IT budget is spent on cyberdefense to protect a huge number of vulnerability points. The increasing amount of money spent on firewalls, virus protection and other protective measures is not keeping up with the rapidly rising virulence of the attackers.
+
+Take the case of the Navy/Marine Corps Intranet, which accounts for less than 4.8 percent of Defense Department IT spending.  The NMCI contains approximately 20,500 routers and switches, which connect to 4,100 enterprise servers at four operations centers that control 50 separate server farms. Since the NMCI represents the most comprehensive security environment in the Defense Department, one can only extrapolate what could be the total number of places that need to be defended. Vulnerability points include hundreds of thousands of routers and switches, tens of thousands of servers and hundreds of server farms. There are also over six million desktops, laptops and smart phones with military, civilian, reserves and contractor personnel, each with an operating system and at least one browser that can be infected by any of the 2,000 new viruses per day. From a security assurance standpoint, such proliferation of risks makes the Defense Department fundamentally insecure.
+
+Defense Department leadership is aware that cyberoperations are important. JCS Chairman Adm. Mike Mullen said that cyberspace changes how we fight. Gen. Keith B. Alexander, the head of the Cyber Command, said that there is a mismatch between technical capabilities and our security policies.
+
+Meanwhile, the interconnectivity of Defense Department systems is rising in importance. For instance, the Navy's Information Dominance Corps views its information environment as being able to connect every sensor to all shooters.  Information dominance makes no distinction between logistic, personnel, finance, commander or intelligence data because all of it must be available for fusing into decision-making displays. This calls for connectivity as well as real-time interoperability of millions of devices.
+
+After decades of building isolated applications, the Defense Department has now arrived at an impasse with regard to cyberdefenses just as the demand for enterprise-wide connectivity is escalating. Unfortunately, nobody in top leadership has identified the funded program that will remedy the inherent deficiencies in cyberdefenses. Prior efforts to do that, such as the Joint Task Force for Global Network Operations (JTF-GNO) and the Joint Functional Component Command for Network Warfare (JFCC-NW) were disbanded. Right now, there are no adequate budgets in place for reducing the widely exposed "cyberattack vulnerability surface." As yet there is no unified enterprise system design or architecture that offers cybersecurity that works across separate Defense Department components at an affordable cost.
+
+Paul A. Strassmann is a Distinguished Professor at the George Mason University. He is the former Director of Defense Information, Office of the Secretary of Defense.
+
+The views expressed by our guest bloggers are their own and do not necessarily reflect the views of AFCEA International or SIGNAL Magazine.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

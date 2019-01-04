@@ -1,0 +1,23 @@
+<article>
+  <type>blog</type>
+  <title>Federal Agency Keys In to Secure Mobile Phones</title>
+  <author>Beverly Schaeffer</author>
+  <date>November 4, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>mobile</tag>
+    <tag>NSA</tag>
+    <tag>secure mobile phones</tag>
+    <tag>smartphone</tag>
+    <tag>Systems and Network Interdisciplinary Program (SNIP)</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>The National Security Agency is working to develop its own secure mobile phone architecture-using commercial off-the-shelf technologies only.</abstract>
+  <text>From circuit-switched networks (CSN), to Global System for Mobile Communications (GSM), to Enhanced Data Rates for GSM Evolution (EDGE), technology has reached the point where it is now feasible to secure mobile communications. Only recent mobile devices-witness the iPhone-can keep up with security demands required for secure communications. The National Security Agency (NSA) is developing a midterm pilot program aiming for the end goal of a mobile platform developed using only commercial off-the-shelf (COTS) components. In his article, "A Top-Secret Smartphone Could Become Reality" in this issue of SIGNAL Magazine, Capt. Steven Pugh, USAF, explains that this secure communication may not be too long in coming. A subset of the NSA's newly formed mobile comm tiger team is composed of 18 people in the Systems and Network Interdisciplinary Program (SNIP). SNIP Endpoint team member Mikhail Sosonkin explains:
+
+	In the past, technology was driven by corporations-an example would be a company issuing BlackBerry phones to employees-but today's consumers have become the early adopters and want to use their devices everywhere they go, including the office.
+And now the federal government's NSA wants to avail itself of this technology-providing its employees with secure communications that enable them to be reached reliably anytime, anywhere, regardless of classification level. Packet-switched networks (PSNs), the successor of CSNs, are leading the way for next-generation telecommunications infrastructure. In addition to reduced costs for customers and companies, PSNs also provide access to more devices. The NSA is pushing Suite B, a new direction in cryptography that contains components and advanced algorithms that surround elliptic curve cryptography. COTS acquisition trumps government off-the-shelf (GOTS) almost every time. As such, the security agency can procure necessary technology and components to speed the process along. The Endpoint team is looking at Apple iPhone devices, several phones supporting the Android operating system, laptops capable of connecting to cellular networks and voice over Internet protocol (VoIP) apps supporting cryptography. The Enterprise team then will gather all the disparate components into a centralized location where network management will occur. Several enterprise products, such as Microsoft's Lync and Cisco's Unified Communications System, are being considered. Once that goal is achieved, cutting-edge mobile devices surely will become part of the toolset-and mindset-of government workers.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

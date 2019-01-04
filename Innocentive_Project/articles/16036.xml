@@ -1,0 +1,45 @@
+<article>
+  <type>blog</type>
+  <title>Connectivity Mayhem: Ensuring Data Security in an IoT World</title>
+  <author>Joel Dolisy</author>
+  <date>May 2, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Internet of Things</tag>
+    <tag>app</tag>
+    <tag>Guest Blogs</tag>
+  </tags>
+  <abstract>Thanks to the Internet of Things, just about everything that can be connected—from tanks to smartwatches—is connected. The Defense Department’s whole work force depends on thousands of devices that work off of disparate operating systems. The net result is a security risk nightmare for those who must secure government IT networks.</abstract>
+  <text>In World War I, the U.S. Army used lumbering GMC trucks for the first time in combat—revolutionary for its time. Today, these vehicles would be considered slow, cumbersome and archaic in comparison to today's fast, powerful and, most of all, constantly connected warfighting machines.
+
+In fact, thanks to the Internet of Things (IoT), just about everything that can be connected—from tanks to smartwatches—is connected. The Defense Department’s whole work force depends on thousands of devices that work off of disparate operating systems. The net result is a security risk nightmare for those who must secure government IT networks.
+
+Is proper security even possible, given the sheer number of devices and the ever-present potential for breaches? Yes, but the IoT has made establishing a strong security posture much more challenging for beleaguered IT administrators. Still, practicing a few simple strategies can help these administrators beef up security in the face of the IoT onslaught.
+
+Step One: Build security in from the beginning
+
+Last year, the Federal CIO Council’s Mobile Technology Tiger Team released standardized security protocols for agencies that build their own mobile apps. The protocols outline the need to vet applications by building security and functionality together throughout the app development process, essentially implying that security should never be an afterthought or tacked onto an application post-development.
+
+This is a point that must resonate with security-focused federal IT administrators. For them, security must be interwoven into the fabric of agency networks. This starts with strategic planning—considering every possible breach scenario, identifying potential threats before they occur and responding to emergencies. Attention must continue with the deployment of automated tools that scan for and alert users to threats as they occur. Solutions that offer automated, round-the-clock monitoring and real-time notifications help administrators react more quickly to potential threats and mitigate damage.
+
+Step Two: Assess security risks associated with every app
+
+This is fine for homegrown applications, but what about the Apple Watch and FitBit apps that agency employees depend on? Protection against external applications that constantly track and collect data over secure networks require administrators to be particularly vigilant in the types of apps and devices they allow over these networks.
+
+Therefore, managers must ascertain closely all potential security holes and applications that do not meet stringent requirements. They can create “white lists” of approved apps and use monitoring tools to alert whenever an unauthorized app requests network access. They can also track those applications back to individual users if necessary.
+
+Step Three: Do the same for devices
+
+All of that said, we’ve obviously progressed well beyond the point where smartphones and tablets are verboten in the federal space. The devices now have assumed a useful place within the government technology hierarchy (try asking users to part with their iPhones or Androids). But the IoT takes us well beyond smartphones and tablets into a new realm of connected tools that might not yet be accepted.
+
+Just as administrators monitor apps, it’s imperative they also closely monitor the devices accessing the networks. They might permit smartphones and tablets on the network, provided they meet security standards, while eschewing untested or non-essential devices. Simultaneously, they should set up a system to track devices by MAC and IP address and monitor ports and switches those devices use.
+
+Mobile technology has brought us some great things: the ability for fighters to easily communicate and access information from anywhere in the field, opportunities for greater productivity and collaboration across agencies. But ask any federal administrator and they’ll likely tell you it’s also brought a great deal of headaches. With the IoT here, those headaches could potentially turn into continuous migraines. But consider the aforementioned strategies the IT equivalent of an Excedrin tablet—a way to ward off the pain and secure the network—before it gets to be too much.
+
+Joel Dolisy is chief information officer at IT management software provider SolarWinds in Austin, Texas. </text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

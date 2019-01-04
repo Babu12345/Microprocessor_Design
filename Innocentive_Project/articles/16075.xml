@@ -1,0 +1,48 @@
+<article>
+  <type>article</type>
+  <title>Hacking the Hackers: Should Private Companies Strike Back?</title>
+  <author>Sandra Jontz</author>
+  <date>May 6, 2016</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>Cybersecurity</tag>
+    <tag>Hacker</tag>
+    <tag>ransomware</tag>
+    <tag>malware</tag>
+  </tags>
+  <abstract>Should private companies be able to—and maybe more importantly—hack back? The question drew enthusiastic responses from panelists and the audience during a presentation Thursday by AFCEA’s Emerging Professionals in Intelligence Committee (EPIC) on intelligence and cybersecurity.  </abstract>
+  <text>Should private companies be able to—and maybe more importantly—hack back? 
+
+The question drew enthusiastic responses from panelists and the audience during at presentation Thursday by AFCEA’s Emerging Professionals in Intelligence Committee (EPIC) on intelligence and cybersecurity.  
+
+“I think Anonymous would say yes,” shared panelist Brian Winkler, a solutions architect for Hexis Cyber Solutions, a security product company that leads offensive security analysts in the U.S. intelligence community. What if it’s “only a matter of time before that becomes not only legally acceptable, but actually encouraged.”
+
+The notion elicited dissenting opinions. “I’m not sure that we’re going to be able to get that passed, just considering our own laws of physical protections,” offered Felipe Fernandez, a systems engineering manager with Fortinet. “Now you’re just a vigilante who is trying to circumvent the justice system.”
+
+With no precedent in the justice system and ethics discussions still taking place within the Defense Department, such actions in a convoluted cyberspace prove worrisome. In fact, it’s been a concern for a while in the defense arena. Adm. Michael Rogers, USN, director of the National Security Agency and commander of U.S. Cyber Command, addressed the issue in October, saying the nation does not need cyber privateers. “I still believe that, in broad terms, the application of force … should be a [military response]. I still believe that the nation-state is best posed to apply force. And I worry about what the implications are if we’re going to turn that over to the private sector.”
+
+The emerging threat landscape undoubtedly surrounds mobile devices and vulnerabilities posed by an ever increasingly connected Internet of Things, the panelists warned.
+
+The threats are punctuated by concern over the “rate at which attackers and malware are automated and coordinated,” Winkler said.
+
+The Pentagon’s futuristic research arm, the Defense Advanced Research Projects Agency (DARPA), seeks industry collaboration to develop a revolutionary system that would identify cyber  attackers using their “digital exhaust,” offered moderator Aaron Moore, an intelligence community account manager for Northrop Grumman’s cyber and intelligence mission solutions division. 
+
+DARPA’s Enhanced Attribution program aims to make “currently opaque malicious cyber adversary actions and individual cyber operator attribution transparent by providing high-fidelity visibility into all aspects of malicious cyber operator actions,” according to the agency. “The program will develop techniques and tools for generating operationally and tactically relevant information about multiple concurrent independent malicious cyber campaigns, each involving several operators, and the means to share such information with any of a number of interested parties.”
+
+The solution could address the increasingly and troublesome use in debilitating ransomware attacks, where attackers infect computers or networks with malware and demand ransoms to have the restricting malware removed.
+
+Additionally, countering cyber attacks centers on taking the fullest advantage of cyber defense technologies available in addition to sharing threat intelligence, the experts said.   
+
+“It’s very important … for those of us who declare ourselves on the good side of this fight to collaborate together and with intelligence,” Fernandez offered. For example, industry increasingly places emphasis on being proactive rather than reactive in addressing cyber threats. Additionally, companies banded together to create the Cyber Threat Alliance, co-founded by Fortinet, Intel Security, Palo Alto Networks and Symantec, a group of cybersecurity practitioners who work together in good faith to share threat information in the profession’s aim to improve defenses against advanced cyber  adversaries.
+
+“In terms of attacking ransomware and malware in general, it really comes down to we have tons of data and we need to share this data, we need to group our resources together in terms of human assets and of course, perform this joint research, joint collaboration activities, to help prevent that from permeating throughout our users’ assets,” Fernandez offered. 
+
+The government has introduced initiatives that facilitate sharing between agencies, sharing between government and industry and industry to industry. Even with such initiatives in place, however, the process remains too slow. 
+
+Adding to the lag of progress could be companies’ and agencies’ approach to security as a protect-the-perimeter-first mindset, which is not sustainable, offered Jason Wagner, CEO of Tensor Wrench. Countering threats boils down to, in part, identifying truly what data is critical, segment networks and come to grips with the idea that server infrastructures are “livestock, not pets," in other words do not get too attached, Wagner jested.</text>
+  <imgalttext>
+    <img>Intelligence and cybersecurity experts discuss emerging cyber threats at an AFCEA EPIC presentation, with growing concern over wearables and the Internet of Things. </img>
+  </imgalttext>
+</article>

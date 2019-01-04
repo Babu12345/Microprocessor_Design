@@ -1,0 +1,52 @@
+<article>
+  <type>article</type>
+  <title>Report: Global Cybersecurity Confidence Declines</title>
+  <author>Sandra Jontz</author>
+  <date>December 6, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>mobile</tag>
+    <tag>cloud</tag>
+    <tag>Internet of Things</tag>
+    <tag>virtual environment</tag>
+  </tags>
+  <abstract>Global security readiness received an overall score of 70 percent, or a C- rating, on the 2017 Global Cybersecurity Assurance Report Card, a decline of six points from last year and lower than the U.S. tally of 78 percent, according to recently released survey results.  </abstract>
+  <text>Global security readiness received an overall score of 70 percent, or a C- rating, on the 2017 Global Cybersecurity Assurance Report Card, a decline of six points from last year and lower than the U.S. tally of 78 percent, according to recently released survey results. 
+
+The survey, created by Tenable Network Security and conducted by CyberEdge Group, solicited insights from 700 security practitioners in nine countries and across seven like-industries to calculate the global index score. It measures practitioners’ attitudes and perceptions rather than actual cybersecurity system effectiveness and seeks to determine whether cyber defenses meet expectations.
+
+In the ranking by industry, government scored the lowest confidence score with an overall global tally of 63 percent. Retail led in the confidence rating, pulling in a 76 percent. It is followed by financial services and manufacturing with 72 percent, telecommunications and technology with 70 percent, healthcare with 65 percent and education with 64 percent.
+
+“Today’s network is constantly changing—mobile devices, cloud, IoT, web apps, containers, virtual machines—and the data indicate that a lot of organizations lack the visibility they need to feel confident in their security posture,” says Cris Thomas, a strategist with Tenable Network Security. “It’s pretty clear that newer technologies like DevOps and containers contributed to driving the overall score down, but the real story isn’t just one or two things that need improvement, it’s that everything needs improvement.”
+
+The dynamic environment is “complicated by the constantly evolving and multiplying threat landscape—cited for the second year in a row as the number one challenge for security pros,” reads a portion of the report. The “heightened technological complexity is creating even more opportunity for attackers to exploit gaps in security coverage, leaving all organizations vulnerable to compromise and breach, regardless of the size of their security investments.”
+
+The following are the top 10 key takeaways from the 2017 report:
+
+10. Retail takes the lead over financial services and telecom. Last year, financial services and telecom tied for first place with an overall score of 81 percent. This year, six of the seven overall industry scores fell, with telecom marking the most significant drop, down 11 points to 70 percent.
+
+9. Education and government earned the lowest overall scores.
+
+8. Japanese information security professionals marked the lowest confidence score of the ?nine countries surveyed, with an overall tally 48 percent, and placing the country in last place behind Germany, which scored 62 percent.
+
+7. India, in its first year participating in the survey, had the highest overall score at 84 percent, higher than last year’s leader, the United States, which fell two points to second place with 78 percent.
+
+6. Respondents noted they struggle ?to assess risks in an evolving threat landscape, but expressed confidence in abilities to mitigate security risks once identified.
+
+5. The single biggest drop in risk assessment in 2017 is web applications, which fell from 80 percent to 62 percent. Accessing the services online and from mobile phones puts them at users’ fingertips but also creates security challenges.
+
+4. Two new IT components were introduced for 2017 — containerization platforms and DevOps environments. DevOps is transforming the way software teams collaborate through increased consistency and automation, but it also introduces new security concerns. Respondents reported just 57 percent confidence in the ability to assess security during the DevOps process. Use of containerization technologies is exploding as organizations look to speed up innovation cycles. But only 52 percent of respondents noted their organizations knew how best to assess risks within container environments.
+
+3. Risk assessment for mobile devices received a failing grade and again declined, from 65 percent in 2016 to 57 percent for 2017.
+
+2. Cloud software as a service (SaaS) and infrastructure as a service (IaaS) were two of the lowest scoring risk assessment areas last year. SaaS and IaaS were combined with platform as a service (PaaS) for the 2017 survey, and the new “cloud environments” component scored 60 percent.
+
+And the top takeaway:  
+
+1. Last year, respondents rated their organizations’ ability to assess security risks associated with 10 different IT components. In 2017, corresponding scores fell by an average of 12 percentage points.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

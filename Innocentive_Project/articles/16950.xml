@@ -1,0 +1,49 @@
+<article>
+  <type>article</type>
+  <title>As Artificial Intelligence Evolves, So Do Ethical Concerns</title>
+  <author>Sandra Jontz</author>
+  <date>December 1, 2016</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>artificial intelligence</tag>
+  </tags>
+  <abstract>The Defense Department and other agencies want to pick up the pace to mirror the disruptive advances of years past that led to the Internet, Global Positioning System and Siri.</abstract>
+  <text>The U.S. government wants to buck the trend of years of steady but slow progress to make computers much smarter at everyday mundane tasks. The Defense Department and other agencies want to pick up the pace to mirror the disruptive advances of years past that led to the Internet, Global Positioning System and Siri.
+
+Private companies already might be beating the government to the finish line, producing advances some say are equal parts inspiring and troubling. The technology blitz has prompted government and industry officials alike to sound cautionary alarms about advanced artificial intelligence.
+
+“There is a global rush to technology that is getting increasingly challenging and harder to adapt to,” Director of National Intelligence James Clapper said in October as part of AFCEA International’s Emerging Professionals in Intelligence Committee speaker series. “Artificial intelligence, health care, agriculture, self-driving cars, 3-D printing, genetic editing—which is kind of scary—all have the potential to revolutionize our lives for the better or could present great vulnerabilities that are hard to protect.”
+
+As technologies in these areas attach themselves to the Internet, the world becomes exponentially more complicated, Clapper said.
+
+At the same time, technology has ushered in an era of data-driven decision making. The trisection of artificial intelligence, analytics and cloud computing not only expands access to data but also helps provide analysts with a better understanding of what that data means, says David Rubal, chief technologist of data and analytics at DLT Solutions, Herndon, Virginia. “As we move through the analytics continuum, from the diagnostic and now into the predictive space, it’s not just about reading out the data and reading it out on the spreadsheet,” he says. “It’s more about actually making some decisions and allowing the data to fuel decision making and prove decision making.”
+
+That said, data analytics technologies should do no harm, offers David Blankenhorn, DLT Solutions’ chief technology officer. Seemingly innocuous pieces of data, when combined with other seemingly innocuous pieces of data, can provide an accurate picture of someone—almost instantly and readily available to millions. “This is where we can start to get into potential privacy or discrimination situations,” he shares.
+
+Blankenhorn raises another red flag about data analytics. Some traffic-tracking apps, for example, want to incorporate crime demographics with the intention of routing people around high-crime areas. “This sounds like a great idea, but there are some significant social impacts,” he points out. “If not done correctly, it can throw significant bias into the results, and we can start seeing the law of unforeseen consequences. It could reinforce our biases because the machine said it was OK. Social data scientists are having a lot of discussion about how to use data responsibly and how we can make sure we’re not building bias into our systems.”
+
+The rapid proliferation of data, coupled with an inability to harness it all, presents a slew of new issues for government agencies. For one, they require tools—similar to automation solutions retailers use to send consumers coupons or sale information based on their spending histories—that can be applied to national security. These must go well beyond simple facial recognition technologies, Rubal offers. “Government agencies are faced with access and sources of data that they’ve never had before, and they need a new data-driven set of capabilities. This is an exciting time for the technology, where data now has a new role in national security and really protecting and defending all of our interests,” he says.
+
+The government needs a means to process and make sense of all the data, says Mark Testoni, president and CEO of SAP National Security Services, an independent U.S. subsidiary of the global enterprise software company SAP. “What’s different today is the vast amount of information that is digitized. We struggle to bring information together in one place and process it faster. And we can’t analyze everything—I don’t care how good the platforms are. We can’t collect everything.”
+
+One Silicon Valley developer begs to differ. Andrew Watters, director and CEO of Raellic Systems, says he is creating technology called Vision Omega that can trace with great fidelity the digital exhaust of a cyber hacker. He hopes it could alter the landscape of predictive intelligence technologies.
+
+“You can monitor everything and determine if you’re being attacked and find the [Internet protocol] addresses that people are attacking you from,” Watters explains of the tool. 
+
+Vision Omega would apply time division packet steering, a cutting-edge networking technology, to partition massive volumes of Internet traffic into manageable amounts. “The large stream of traffic is split up into smaller streams and recorded on individual servers,” Watters says. “Then, the monitoring tool reconstructs the large stream by combining all the small slices of the data for analysis.”
+
+Vision Omega is intended for use at a nation-state level to monitor Internet traffic, he adds. It could have captured information to predict the Turkish rebellion, Watters asserts. “The difference between this and a typical intrusion detection system is that this is a full traffic recorder that offers traffic replay, so you can reconstruct events as they happen and after the fact. That’s an unusual capability, certainly at the 100-gigabit level,” he states. 
+
+Although Vision Omega would not break end-to-end encryption, it could be set to alert the government if the military and citizens suddenly started communicating with each other more than usual, Watters offers. Further, the traffic replay capability could help investigate a coup and allow law enforcement to secure search warrants to collect evidence and prosecute.
+
+With millions of people using millions of devices, even in an age of continuous monitoring, something is bound to slip through the cracks, Testoni maintains. Technology, particularly machine analysis, must be balanced by human judgment, he cautions.  
+
+“It’s not a holy grail in its own right,” Testoni says. “It must still be applied against the traditional methods of intelligence. Those are never going to go away. What technology can do is aid in the analysis of it and complement it."</text>
+  <imgalttext>
+    <img>The Defense Department and other agencies want to pick up the pace to mirror the disruptive advances of years past that led to the Internet, Global Positioning System and Siri.</img>
+    <img>A materials researcher examines experimental data on the U.S. Air Force Research Laboratory’s Autonomous Research System (ARES) artificial intelligence planner. ARES uses artificial intelligence to design, execute and analyze experiments at a faster pace than traditional scientific research methods.</img>
+    <img>A U.S. sailor aboard the guided-missile destroyer USS Michael Murphy participates in an Office of Naval Research demonstration of improved training programs that combine software and gaming technology to help naval forces plan diverse missions and operations. Sailors learn to interact with artificially intelligent forces in a number of virtual settings and train for multiple missions simultaneously.</img>
+  </imgalttext>
+</article>

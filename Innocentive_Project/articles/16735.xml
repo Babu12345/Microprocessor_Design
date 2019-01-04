@@ -1,0 +1,51 @@
+<article>
+  <type>blog</type>
+  <title>5 Tips for Creating a Cybersecurity Culture Within DOD Environments</title>
+  <author>Aubrey Merchant-Dest</author>
+  <date>October 11, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cyber</tag>
+  </tags>
+  <abstract>Defense and intelligence agencies need more than security tools and solutions to guard against the increasing number of cyber threats. They must create a culture to ensure that the nation’s cyber borders are secure. It takes just one negligent worker to open the door and throw out the welcome mat to a malicious attacker.</abstract>
+  <text>Defense and intelligence agencies need more than security tools and solutions to guard against the increasing number of cyber threats. They must create a culture to ensure that the nation’s cyber borders are secure. As highlighted in last week’s blog, it takes just one negligent worker to open the door and throw out the welcome mat to a malicious attacker. With the click of a mouse, an insider can release vast amounts of sensitive data to cyber criminals, potentially causing irrevocable damage.
+
+Many insider threats come from trusted people with legitimate access to DOD networks and data, such as employees, contractors, consultants and partners. Data breaches can sometimes occur by accident due to a careless mistake. Other times, insider attacks are intentional. While the 2016 Internet Security Threat Report (ISTR) states that insider theft only accounted for about 10 percent of the data breaches in 2015, the potential damage a malicious insider can inflict upon national security is undeniable.
+
+These types of threats combined with the significant risks associated with external “bad actors” surely were the driver for the Department of Homeland Security (DHS) launching National Cyber Security Awareness Month (NCSAM) 13 years ago. This month-long program was created to “ensure every American has the resources they need to stay safer and more secure online,” and is supported by various resources and events to help strengthen the nation’s cyber posture. This includes fostering an overall cybersecurity awareness and culture.
+
+While the DOD is making great strides to develop and maintain a solid cybersecurity culture, there is always room for improvement. To mitigate insider threat risks, agencies should consider the following suggestions:
+
+Know what’s on your network
+
+Know what’s an asset and where it’s located, regardless of whether housed on-premise or managed in the cloud. This can get complicated due to the network’s configuration, presence of shadow IT or the vast number of virtual networks that exist in the agency environment. It also is important to know the associated data protection measures in place while in use, in transit and at rest. A variety of asset management tools exist to help with this task.
+
+Know who can access the assets
+
+Once agency assets are identified, determine who has permission to use them. To discover who is interacting with sensitive data, use tools such as IP addresses and user IDs to identify who is accessing what information on the network. Identity and access management solutions can link a person to any of these identifiers during a particular timeframe.
+
+Monitor and analyze
+
+Monitoring tools can flag anomalies. By using technology to analyze suspicious patterns, agencies can determine whether to employ a human investigator to further examine an incident or series of events.
+
+The human factor can be coupled with analytics to examine such anomalies as to why an employee downloaded a large volume of data at an irregular time. Perhaps the person suspected of introducing a threat was working in a different time zone. Analytics can establish baselines that make it easier to detect irregular behavior.
+
+Enforce a comprehensive security training program
+
+To stop an insider threat from turning into a nightmare, figure out what information they might seek and plan mitigation steps in case they are successful.  Enforcing a comprehensive security training program can go a long way toward preventing accidental leaks.
+
+Most people don’t know what a malicious insider looks like or how to talk to them. Provide extensive training on how to recognize warning signs such as narcissism, antisocial behavior or vindictive thoughts or actions exhibited by co-workers. None of these signs alone suggests criminal behavior, but DHS’ phrase, “If you see something, say something,” also applies to the cyber world.
+
+Form an insider threat response team
+
+Once an insider threat is discovered, there should be a special team to handle the situation. It helps to have agency leadership involved to facilitate “buy-in” from other stakeholders to devise and execute an appropriate action plan. Insider threats can cause politically charged situations depending on the suspected perpetrator, so the response team must have a plan for handling the issue once it is reported.
+
+Unfortunately, there is no perfect solution to prevent an insider threat from wreaking havoc, but through a combination of employee awareness training and technical security solutions, defense and intelligence agencies can mitigate the likelihood of these occurring. Next week’s blog will close this three-part series and will focus on recognizing and combating cyber crime.
+
+Aubrey Merchant-Dest is the federal chief technology officer for Blue Coat Systems.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

@@ -1,0 +1,15 @@
+<article>
+  <type>article</type>
+  <title>HARWARE REALLY MATTERS FOR COMPUTER FUNCTIONALITY AND SECURITY</title>
+  <author>Bob Gourley</author>
+  <date>Friday, April 15, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Intel Tech Blog</tag>
+  </tags>
+  <abstract>It may be stating the obvious to say that the hardware you use has a direct impact on the functionality of your IT. That is so fundamental of a statement it really goes without saying. But for some reason decision-makers gloss over the importance of hardware to security design. Why? The hardware you pick has a direct impact on the security of your enterprise.</abstract>
+  <text>It may be stating the obvious to say that the hardware you use has a direct impact on the functionality of your IT. That is so fundamental of a statement it really goes without saying. But for some reason decision-makers gloss over the importance of hardware to security design. Why? The hardware you pick has a direct impact on the security of your enterprise.This matters at even layer of your enterprise. From devices to networks to servers and storage. The hardware you use has security ramifications.Consider, for example, Intel Corporation’s vPro technology. This is a capability that comes with modern PC’s.  This component of hardware provides management features that enable systems administrators to exert control over devices to ensure computers are operating well and to ensure they are working securely.  This capability enables remote management, security monitoring and updating of PCs. vPro has several components (my favorites are Intel Active Management Technology (AMT) and Intel Trusted Execution Technology (TXT).  AMT is hardware that enables the secure remote management of enterprise PCs. TXT is the only technology I know of that verifies the launch environment and establishes a root of trust. TXT enables trust at a fundamental/foundational layer.  Without it, no PC can be secure. With it, more secure, resilient systems can be configured and operated and entire enterprises can be made more resilient.For more on AMT and TXT see: http://ipip.intel.com/go/fedgov/And for more on hardware and security see: http://www.intel.com/technology/security/index.htm</text>
+  <imgalttext>
+  </imgalttext>
+</article>

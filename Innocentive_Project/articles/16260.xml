@@ -1,0 +1,53 @@
+<article>
+  <type>blog</type>
+  <title>Ransomware and the Jurassic Age</title>
+  <author>David E. Meadows</author>
+  <date>6/20/16</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+  </tags>
+  <abstract>Ransomware is a menace, but potential victims can take a few simple steps to avoid becoming cyber hostages.</abstract>
+  <text>Cyberheist News recently distributed a phishing alert telling its audience that “93 percent of phishing attacks come loaded with ransomware payloads.” And here I was worrying about Windows 10 that downloaded itself on my computer while I was sleeping. 
+
+Another thing about ransomware: It morphs, producing an ever-growing malware continuum. By the time someone releases a ransomware phishing attack, the original program that created it already has started taking bits and pieces—sometimes from much older malware—to keep the programs designed to protect our networks hopping and skipping as they try to stop it. 
+
+For example, Microsoft on May 27 released a warning about a new ransomware called ZCryptor. It’s nice when someone comes up with a word that stimulates images of the Jurassic Era. Microsoft didn’t discover it. A security researcher identified only as “Jack,” who writes the MalwareForMe blog, was the first to report it. ZCryptor behaves like a worm, drilling across the connected network, searching for removable and network drives to duplicate itself throughout the system. 
+
+You can live through a ransomware attack. Just make sure your data is backed up, and recognize that ransomware usually requires the enduser to initiate the download. If the purveyor of the display refuses to take any clickable action, then he or she makes it hard for ransomware to download its nefarious code and receives an opportunity to resolve the attack. 
+
+Phishing is the leading cause of successful ransomware heists. So, how do you save your computer when that notorious ransom note shows up on your screen or when you recognize that your computer has been compromised? 
+
+One user opined that, when confronted with ransomware, just do a hard shutdown without clicking on any of the buttons a person demands. 
+
+What can you do to protect yourself? First and foremost, back up your data. If you are hit by ransomware, most likely it is going to start encrypting your data immediately. So don’t click. If we refuse to start the ransomware process, then we have time to rid ourselves of the malware before it starts, but one of the primary tools needed is to have data backed up. 
+
+If data is backed up, then it is also best to have it versioned. This gives you an opportunity to reload an earlier data version. I prefer the disconnected backups with a couple of specific thumb drives for specific data—such as manuscripts.        
+
+Here are some basic things that can be done to reduce your risk of falling victim to ransomware as well as phishing, malware, viruses and worms. If you have any additional common-sense actions, please share them:
+
+—Turn off pop-ups.
+
+—Ignore sites that announce a needed update to a program that you may or may not have on your computer.
+
+—Never, ever open a zip file.
+
+—Never, ever open a file from a suspicious email, even if the email is supposedly from someone you know. It is phishing, and usually there are several other unknown addresses on the email. 
+
+—Make sure your backup files are up-to-date. This is critical. You can always erase your programs and reprogram your computer, but if you lose all your data, then it’s like starting nursery school again.
+
+—In Windows, go to the control panel/system/system protection, and make sure your system restore is alive, active, well and operating. 
+
+—Have an up-to-date antivirus security system such as McAfee, Norton or another.
+
+—Use a modern web browser, and configure it to erase web history and cookies once you close it.
+
+I would welcome any additional recommendations for this checklist from readers. Let me know what you think about how to stop ransomware or recover from it without paying the bitcoins. If your company has a program designed to defeat ransomware, I would enjoy hearing about it. 
+
+David E. Meadows is a retired U.S. Navy captain and the author of the Sixth Fleet series, along with Seawolf, Joint Task Force Liberia, Tomcat, Final Run and other action-adventure novels. He is currently working on a nonfiction effort titled Red Crown, Charger Horse and the Cryptologic Tide.
+
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

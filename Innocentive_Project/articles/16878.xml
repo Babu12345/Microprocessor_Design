@@ -1,0 +1,26 @@
+<article>
+  <type>blog</type>
+  <title>Closing the Computer-Human Gap in Object Recognition</title>
+  <author>Julianne Simpson</author>
+  <date>November 2, 2016</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>News Briefs</tag>
+    <tag>Sandia National Laboratories</tag>
+  </tags>
+  <abstract>Over the next five years, Sandia National Laboratories will oversee the brain replication work of three university-led teams who aim to close the computer-human gap in object recognition.</abstract>
+  <text>Over the next five years, Sandia National Laboratories will oversee the brain replication work of three university-led teams who aim to close the computer-human gap in object recognition. An advanced computer may beat experts in chess, but a computer algorithm trained only on pictures of red apples cannot recognize that a green apple is still an apple.
+
+The Intelligence Advanced Research Projects Activity (IARPA)—the intelligence community’s version of DARPA—this year launched the Machine Intelligence from Cortical Networks (MICrONS) project, part of President Barack Obama’s BRAIN Initiative.
+
+The three university teams, which include Carnegie Mellon University and the Wyss Institute for Biologically Inspired Engineering at Harvard University; Harvard University; and Baylor College of Medicine, the Allen Institute for Brain Science and Princeton University, will map the complex circuitry in the visual cortex, where the brain makes sense of visual input from the eyes.
+
+By understanding how human brains see patterns and classify objects, researchers hope to improve how computer algorithms do the same. Such advances could improve how applications help find patterns in huge data sets and even lead to national security and intelligence applications.
+
+Researchers from Sandia, led by Frances Chance, a computational neuroscientist, will test the resulting algorithms to see whether the brain-inspired algorithms actually perform like human brains. At the end of five years, the teams will pick a difficult, real-world task, like creating captions for photos, to show off their individual algorithm’s strengths.</text>
+  <imgalttext>
+    <img>Sandia National Laboratories will oversee the brain-replication work of three teams who aim to map, understand and mathematically recreate visual processing in the brain.</img>
+  </imgalttext>
+</article>

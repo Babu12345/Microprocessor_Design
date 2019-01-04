@@ -1,0 +1,40 @@
+<article>
+  <type>article</type>
+  <title>Rescinding DISA's Cloud Broker Role To Speed Up Process</title>
+  <author>Sandra Jontz</author>
+  <date>September 23, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+  </departments>
+  <tags>
+    <tag>DISA</tag>
+    <tag>cloud</tag>
+    <tag>CIO</tag>
+    <tag>Pentagon</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>Having a single agency act as the cloud broker for the whole of the U.S. Defense Department's migration to commercial cloud services slowed the process too much, prompting a policy change to divvy up the duties among the services, says the department's acting chief information officer.</abstract>
+  <text>Having a single agency act as the cloud broker for the whole of the U.S. Defense Department's migration to commercial cloud services slowed the process too much, prompting a policy change to divvy up the duties among the services, says the department's acting chief inform?ation officer (CIO).
+
+“The current status is [the Defense Information Systems Agency] DISA is still officially the cloud broker, because the memo is not out,” acting CIO Terry Halvorsen said Tuesday during a media roundtable discussion. “But we are going to make changes to DISA’s cloud broker role. The memo should be out by the end of October, maybe even a little sooner.
+
+“Here’s what the intent of the memo is going to do: I think … we have not moved out into the cloud fast enough,” Halvorsen continued. “One of the things we’re going to change, to give us more opportunities to move faster, is to let the military departments do their own acquisitions of the cloud services, and not have to funnel that through one agency, in this case, DISA.”
+
+One part of the Defense Department’s migration from internal cloud services to commercial, however, includes reviewing security requirements so more commercial cloud providers might break into the market. As such, the department has set in motion five pilot programs officials anticipate will provide answers in the use of commercial cloud services. Two of the studies are with Amazon, Halvorsen said. “Amazon is, right now, the only vendor that is initially approved for level 3 and 4 data. … There are some vendors that are right on the edge for getting approval for level 3 and 4, but they are not [approved] yet. I can’t give you that list until they’re done.”
+
+The Defense Department has six security classifications for all its data: Level 1 is unclassified and approved for general public release, and some commercial cloud companies already service some of this data; level 2 is unclassified limited access, which is not covered by regulations, but is data in which the mission owner seeks to protect using access controls; levels 3 through 5 are controlled unclassified information (CUI), such as personally identifiable information, protected health information and for official use only; and finally level 6 is classified up to secret.
+
+DISA will remain in a lead role to approve security plans for each of the military department’s commercial cloud endeavors, Halvorsen stated. “And the [services] will have to provide DISA and my office with their plans … so we are aware of what’s going on.”
+
+It’s a balancing act between security and cost savings.
+
+“My supposition, my belief, is that moving into the commercial cloud … will be less expensive,” Halvorsen said. “We should be able to adopt and [have a] more agile environment if we do that. What we will be doing is collecting the facts to see if, in fact, that is the case, that we are saving money, that we are more agile and we are able to take advantage of what is happening in the commercial sector with respect to cloud costs.”
+
+DISA, though no longer the cloud broker, will remain an integral part of a process, he said.
+
+Each of the services will submit a business case analysis for cloud service providers, which will be used in making cloud decisions, among other information technology and cyber investment decisions, he added. Part of the services' submissions and consideration must always include discussion of a DISA cloud option.
+
+DISA enacted its milCloud offering, a “government-offered service, if you will, but it’s built off of commercially competed contracts leveraging commercial products,” says DISA’s Chief Information Officer Dave Bennett. “It’s not a militarized instance. It’s a commercially competed, put together solution commercial contracts for manpower.”</text>
+  <imgalttext>
+  </imgalttext>
+</article>

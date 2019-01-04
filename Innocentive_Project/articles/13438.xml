@@ -1,0 +1,32 @@
+<article>
+  <type>blog</type>
+  <title>Signal Corps is Here to Stay</title>
+  <author>George I. Seffers</author>
+  <date>September 9, 2014</date>
+  <departments>
+    <department>Defense Operations</department>
+    <department>Cyber</department>
+    <department>Event Coverage</department>
+    <department>AFCEA</department>
+  </departments>
+  <tags>
+    <tag>Army network</tag>
+    <tag>TechNet Augusta 2014</tag>
+  </tags>
+  <abstract>The U.S. Army is standing up a cyber brigade and considering a cyber branch, which has some questioning the future of the services Signal Corps, but the Signal Corps will survive, Lt. Gen. Robert Ferrell, USA, the service’s chief information officer, said during a luncheon keynote speech at the AFCEA TechNet Augusta 2014 conference.</abstract>
+  <text>The U.S. Army is standing up a cyber brigade and considering a cyber branch, which has some questioning the future of the service's Signal Corps, but the Signal Corps will survive, Lt. Gen. Robert Ferrell, USA, the service’s chief information officer, said during a luncheon keynote speech at the AFCEA TechNet Augusta 2014 conference, Augusta, Georgia. “The Signal Corps will be enduring. It will not be going away,” Gen. Ferrell said. “You’re still going to be required to build, operate and defend the network. Without the network, without the Signal Corps, you will not have cyberspace operations. You will not have command and control of your formations.”
+
+The Army is laying out an aggressive and ambitious path toward the network of 2025. That path includes eliminating data centers and moving services to the Defense Information Systems Agency’s data centers. The service has eliminated about 52 percent of its network and is projecting billions of dollars in savings in enterprise services, capacity and security.
+
+Part of that future vision includes substantially beefing up broadband availability. Today’s network backbone runs about 10 gigabytes, the general reported. That will be increased to 100 gigabytes, and each Army post, camp and station will also see a substantial increase. That process already is underway through a pilot project with the Army, Defense Information Systems Agency and the department’s chief information officer.
+
+“If you look at the posts, camps and stations—take Fort Hood as an example—they have two pipes. On Fort Hood, each pipe runs at about 600 megabytes. Each camp, post and station is moving them from 600 megabytes to at least 10 gigabytes,” Gen. Ferrell reported. “Three weeks ago, we actually increased the bandwidth at Joint Base San Antonio to 10 gigabytes.”
+
+The bandwidth at Fort Sam Houston, Texas, also has been upgraded. The pilot project tackles security and will depend in large part on eliminating TLA (Top Level Architecture) stacks and moving to Joint Regional Security Stacks. “If you look at the network today, we have over 700 TLA stacks in the global network. Part of this initiative will be taking out all 700 TLA stacks and replacing them with 23 Joint Regional Security Stacks,” he said. “At the end of September, we are going to be flipping the switch to pass both Air Force and Army data over the same network.”
+
+The program is expected to reach initial operating capability in Wiesbaden, Germany, in November, and two stacks will be completed in Southwest Asia by December. Additionally, the military services are closing data centers and moving services to the Defense Information Systems Agency’s cloud computing infrastructure, and the Army is leading the way, the general says. The Army has closed down about 270 data centers, shut down more than 1,500 servers and killed off about 1100 apps, he reported.
+
+The service also has completed the move to enterprise email services and is now looking for ways to shrink the footprint of tactical operations centers (TOCs). “We’re looking at the iPhones and iPads, and we’re trying to consolidate the common operating environment within the TOCs to an iPad-like environment,” Gen. Ferrell said.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

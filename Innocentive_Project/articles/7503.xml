@@ -1,0 +1,15 @@
+<article>
+  <type>blog</type>
+  <title>"Careless" Users Undermine Cyber Security</title>
+  <author>Robert K. Ackerman</author>
+  <date>November 3, 2010</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>MILCOM10</tag>
+  </tags>
+  <abstract>Some security measures may subtract instead of add.</abstract>
+  <text>Common security practices are full of holes that could be exploited by malevolent cybernauts, according to one MILCOM 2010 Tuesday afternoon panelist. Eric Rescoria, founder of RTFM, told a large audience at a cybersecurity panel that many routine security operations may increase the threat to a network. "Users are careless, installing software from untrusted sources," Rescoria said. "How many download over TLS [transport layer security] or check hashes? Also, many operators never change the keys even after employees leave." Most of the network attacks observed today are "fairly primitive," he continued. "Taking down the Internet is easy; it happens semi-regularly by accident." And, security experts are not even using the strongest measures available. One well-known security firm uses 70 bits of security for 1024-bit keys. In the pipeline are 128 bits and beyond, he added.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

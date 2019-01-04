@@ -1,0 +1,20 @@
+<article>
+  <type>blog</type>
+  <title>Data Collectors Increase Intelligence</title>
+  <author/>
+  <date>June 27, 2013</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>Robotics</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract></abstract>
+  <text>Robots slightly shorter than the average human may be able to connect portions of the offline world to the online world digitally. Knightscope Incorporated will soon be testing the K5 and K10 robots, which can autonomously prowl through large areas and small spaces, collecting significant amounts of data from their immediate surroundings. Applications include perimeter surveillance of military bases and inspection of power plants.
+	An integrated machine operating system autonomously guides each robot through defined boundary conditions; the sensor operating system collects data from the immediate surroundings. During beta testing scheduled for the end of this year, this data will be fed into the company’s network operations center. Use of the robots will be offered to customers through a machine-as-a-service subscription business model.
+	The K5 and K10 feature omnidirectional cameras, microphones, optical character recognition, thermal imaging and air quality detection.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

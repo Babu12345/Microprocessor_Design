@@ -1,0 +1,23 @@
+<article>
+  <type>blog</type>
+  <title>Back to the Drawing Board or Back to the Future?</title>
+  <author>Beverly Schaeffer</author>
+  <date>September 9, 2011</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>Clinger-Cohen Act of 1996</tag>
+    <tag>cloud computing</tag>
+    <tag>Government Accountability Office</tag>
+    <tag>IaaS</tag>
+    <tag>Information Technology Architecture</tag>
+    <tag>Information Technology Management Reform Act of 1996</tag>
+    <tag>ITMRA</tag>
+    <tag>PaaS</tag>
+    <tag>SIGNAL Magazine</tag>
+  </tags>
+  <abstract>According to the author of this year's second-to-last installment on cloud computing, it would behoove the U.S. Defense Department to take a pass on its past approach to enterprise architecture, and instead focus on PaaS-platform-as-a-service-cloud computing.</abstract>
+  <text>It's been slow going for Defense Department IT since the Clinger-Cohen Act of 1996 mandated creating the Information Technology Architecture. In 1999, the Federal Chief Information Officers Council defined the Federal Enterprise Architecture (FEA). It's now 2011, and according to a Government Accountability Office report, the enterprise architecture methodology still has not deployed. In his viewpoint article "About Face" in this issue of SIGNAL Magazine, Paul A. Strassmann examines this stalemate, noting that the Defense Department spent millions of dollars on an enterprise architecture development that held only limited value. None of the three military departments have yet demonstrated any commitments to deploy an architecture needed to manage development, maintenance and implementation of systems. Senior defense technology executives cite budget limitations, and no time frame has been set for a FEA. The department touted enterprise systems, but these seem to have only enjoyed success in commercial firms. The results of this inaction range from excessive project fragmentation, to technology incompatibilities, to operations that were contract-specific rather than enterprise-integrating. Is it still possible to run with the original Clinger-Cohen mandates, or is it time to scrap the status quo for a brand-new approach? According to Strassmann, it's the latter. The rapid development in delivery of IT as a shared service-cloud computing-has provided new options that enable the Defense Department to start redirecting its IT policies. What is needed now, Strassmann declares, is a FEA2-an architecture for placing platform-as-a-service (PaaS) as the core around which to reorganize the conduct of IT. FEA2 is an evolutionary-not a preset-process, with a planning horizon of at least 10 years. Instead of FEA1 trying to direct how thousands of separate projects would run, FEA2 would define how to set up a handful of PaaS cloud services. Programs would be managed as unified, tightly coupled ventures. FEA2 would concentrate on quarter-by-quarter migration to guide rapid progression from current legacy code to eventual arrival in the PaaS environment. Security services will be embedded primarily inside each PaaS, then updated in a small number of software assets. PaaS would exclude application codes and applications-related data. Highly defined standard interface protocols would control the separation of PaaS from applications. FEA2 will require strict adherence to open standards to assure interoperability across PaaS clouds. It will avoid the pitfall of proprietary systems and resulting silos. FEA2 will maintain portability and security, and customers' application code will not be altered when hosted in the PaaS cloud. All of this is possible, according to Strassmann, with a redirection of Defense Department IT to a new architecture. And, by focusing on PaaS services, the department can overcome its budget limitations while freeing funds for attaining information superiority. What are your thoughts on cloud computing? Do you see it as a viable option for the Defense Department over the next 10 years? Share your thoughts here.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

@@ -1,0 +1,31 @@
+<article>
+  <type>blog</type>
+  <title>Government Framework Offers Cybersecurity</title>
+  <author>Beverly Mowery Cooper</author>
+  <date>June 6, 2016</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>Cisco</tag>
+    <tag>National Institute of Standards and Technology</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>A security framework established by the U.S. National Institute of Standards and Technology (NIST) is serving as a template for protecting networks using a threat-centric approach.</abstract>
+  <text>A security framework established by the U.S. National Institute of Standards and Technology (NIST) is serving as a template for protecting networks using a threat-centric approach. The framework establishes five core functions in sequential order, and they are applicable across all network sectors.
+
+The five core functions are Identify, Protect, Detect, Respond and Recover. Some of them can be bundled as part of an overall cybersecurity program, which is an approach already being adopted by commercial security providers.
+
+One model, developed by Cisco, aligns the five functions into three groups based on event timing. Identify and Protect are grouped as part of a “before” element that encompasses activities prior to a cyber attack. “Before” engages three operations: discover, enforce and harden. These prepare the network for a digital onslaught.
+
+The Detect core function is the only one in the second element, tabbed “during.” Its stand-alone status reflects its key activities: detect, block and defend. In the event of a cyber attack, these three actions would be key to ensuring the network withstands the attack and survives to the greatest degree possible.
+
+The Respond and Recover core functions finish the grouping in the “after” phase. At this point, the attack is over or winding down, and the network must deal with its aftereffects. The “after” element comprises three activities: scope, contain and remediate. These actions would restore operations, mitigate effects and prevent future recurrences.
+
+This threat-centric approach outlined by NIST is designed to be scalable to any size organization, including large government agencies. NIST states its cybersecurity framework comprises standards, guidelines and practices to promote the protection of the critical infrastructure. “The prioritized, flexible, repeatable and cost-effective approach of the framework helps owners and operators of critical infrastructure to manage cybersecurity-related risk,” according to a NIST statement.
+
+Join us for an online event on June 14, 2:00 p.m., EDT,  to learn more about Cisco’s model.</text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

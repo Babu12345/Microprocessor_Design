@@ -1,0 +1,27 @@
+<article>
+  <type>article</type>
+  <title>Shifting Numbers Cast Doubt on Federal Data Center Consolidation</title>
+  <author>Henry S. Kenyon</author>
+  <date>July 26, 2013</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cloud computing</tag>
+    <tag>data management</tag>
+  </tags>
+  <abstract>Government officials now admit they underestimated the scope and complexity of the federal data center realm.
+ </abstract>
+  <text>Recent government initiatives to trim the number of data centers in the federal government have been beset by unforeseen delays in meeting target goals. Key among these challenges is the realization that the number of data centers is actually much larger than originally thought. Testifying before the House Committee on Oversight and Government Reform on July 25, the heads of several federal oversight agencies discussed why ongoing efforts have faltered and disagreed with the committee’s interpretation of the situation.
+	The Office of Management and Budget (OMB) grossly underestimated the number of data centers, said Rep. John Mica (R-FL). He added that adding that current savings have been minimal—some $3 billion out of a promised savings of $310 billion. Mica noted that various attempts to streamline government information technology resources since 2003 have not been very successful. Over the last decade, these failed investments have cost the government some $9 billion dollars. An additional $102 billion in ongoing information technology investments currently is at risk, he said.
+	One of the Obama administration’s major information technology efforts, data center consolidation, has raised many questions—such as what is the exact definition of a data center. Another issue has been the precise number of data centers in the federal government. One initial review by the Government Accountability Office (GAO) found some 3,000 data centers across the government, but a subsequent GAO audit found the number to be 7,100.
+	Despite the ambiguity with overall numbers, the government has made headway with closing data centers, said David A. Powner, director of information technology management issues at the General Services Administration (GSA). The government has already shut down 400 data centers, with an additional 400 to close by the end of the fiscal year in September. He noted that the Defense Department plans to save $575 million in the 2014 fiscal year alone through information technology consolidation.
+	While the most recent GAO audit found some 7,100 data centers, the government does not really know how many data centers it has, Powner told the committee. As for the current number being the final tally, “I wouldn’t put money on it,” he said.
+	The Obama administration’s plans call for saving $1.2 billion through information technology reforms. Of this money, some $300 million will come from data center closings, while the rest of the savings will be derived from other methods such as investing and applying new technologies, said Steven VanRoekel, the OMB’s acting deputy director for management and federal chief information officer.
+	Fewer data centers also will improve the government’s cybersecurity stance because they present less of a target area, VanRoekel told the committee. The exact final number of data centers will depend on the agency and its security requirements and processing needs. For example, he noted that the Department of Homeland Security plans to reduce its assets down to three core data centers.
+	Even with the shifting numbers on data centers, the existing count is important because there has never been an attempt to count the number of federal data centers, said David McClure, associate administrator of the GSA’s Office of Citizen Services and Innovative Technologies. “The federal government for the first time has an accurate count of its data centers,” he said.
+	The GSA is working with the OMB and the Chief Information Officer (CIO) Council on the data center consolidation effort. The GSA has developed a new tool to help agencies identify and select their core data centers. The tool defines several criteria as key attributes for core data centers, such as power usage effectiveness; the agency’s ability to calculate a cost of operating system per hour score, based on established criteria; and at least 40 percent of the software systems in the center must be virtualized. The tool also allows agencies to compare their data centers against other agencies, he said. 
+ </text>
+  <imgalttext>
+  </imgalttext>
+</article>

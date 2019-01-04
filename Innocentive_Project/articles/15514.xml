@@ -1,0 +1,33 @@
+<article>
+  <type>blog</type>
+  <title>Robot Adds New Twist to NIST</title>
+  <author>Maryann Lawlor</author>
+  <date>December 1, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>NIST</tag>
+    <tag>Robotics</tag>
+    <tag>robots</tag>
+    <tag>antennas</tag>
+    <tag>high frequency communications</tag>
+    <tag>remote sensors</tag>
+    <tag>radar</tag>
+  </tags>
+  <abstract>The National Institute of Standards and Technology (NIST) has created a robotic arm that is being used to measure the properties of antennas rapidly and accurately. The robot, formally named the Configurable Robotic Millimeter-Wave Antenna facility, may be the ultimate innovation.
+
+ </abstract>
+  <text>The National Institute of Standards and Technology (NIST) has created a robotic arm that is being used to measure the properties of antennas rapidly and accurately. The robot, formally named the Configurable Robotic Millimeter-Wave Antenna facility, may be the ultimate innovation, extending measurements to higher frequencies while characterizing antennas faster and more easily than previous NIST facilities. 
+
+“We designed this system to address a need in the antenna community for high-precision and configurable scanning at short, millimeter wavelengths,” Joshua Gordon, lead researcher, says. “Past systems haven’t been as complete as they need to be. The robot allows us to explore many ways of doing measurements. There’s a lot of configurability and an extremely high level of repeatability.”
+
+The six-axis robot can twist into unusual positions to measure the properties of a test antenna up to 2 meters (6.6 feet) in diameter positioned on a hexapod stage. Like a high-tech form of a game of Twister, a laser tracker monitors and records the positions used for fine correction of robot postures to ensure the necessary precision.
+
+The robotic arm can handle up to 70 pounds and can measure antenna properties in almost any user-definable pattern, including the three popular paths: spherical, planar and cylindrical. The method uses complex mathematical models to determine antenna properties and calculate performance at long distances—where it counts—by using data collected indoors close to the antenna, where it’s easier to acquire accurate readings.
+
+Antennas are used in advanced communications, remote sensing for weather prediction and climate monitoring, imaging systems and radar. The robot has been validated and NIST customers are using it.</text>
+  <imgalttext>
+    <img>A robot may be the ultimate innovation, extending measurements to higher frequencies while characterizing antennas faster and more easily than previous NIST facilities.</img>
+  </imgalttext>
+</article>

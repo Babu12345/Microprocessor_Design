@@ -1,0 +1,58 @@
+<article>
+  <type>article</type>
+  <title>Intelligence Plans Its Own Internet of Things</title>
+  <author>Robert K. Ackerman</author>
+  <date>January 1, 2015</date>
+  <departments>
+    <department>Intelligence</department>
+  </departments>
+  <tags>
+    <tag>IARPA</tag>
+    <tag>Cybersecurity</tag>
+  </tags>
+  <abstract>The U.S. intelligence community is moving toward a hypernetwork of sensors and data collectors that ultimately will constitute an Internet of Things for the community and its customers. If it is successful, the intelligence community would have more data, processed into more knowledge, available more quickly and with greater fidelity for operators and decision makers.</abstract>
+  <text>The U.S. intelligence community is moving toward a hypernetwork of sensors and data collectors that ultimately will constitute an Internet of Things for the community and its customers. If it is successful, the intelligence community would have more data, processed into more knowledge, available more quickly and with greater fidelity for operators and decision makers.
+
+For the intelligence community, the Internet of Things (IoT) takes the same approach as that of the commercial world, but it substitutes sensors and other data collection devices for consumer electronics. An intelligence IoT could comprise physical sensors, control devices, multipurpose communications and processing equipment and user interfaces, for example.
+
+While the intelligence IoT would draw technologies and capabilities from its commercial namesake, significant differences would exist. And, some intelligence technology experts are not convinced their IoT will come together as advertised.
+
+Chris Reed, program manager at the Intelligence Advanced Research Projects Activity (IARPA), observes that many compelling visions exist about networking large numbers of devices. “We can all imagine the benefits of being able to make better decisions and have predictions based on having access to a richer and denser set of data about ourselves—the physical and the social environments,” he declares.
+
+“We’re looking at being able to have a set of technologies that will allow us to make better decisions and if the [IoT] is the right way to do that,” Reed says. “We certainly see a lot of low-cost sensors being deployed these days. If we can find the right set of technologies that will help us get from those sensors to better decisions, then that would be something we’d be interested in.”
+
+But, Reed emphasizes, as an engineer he sees significant hurdles that would prevent these benefits from coming to pass. Ensuring security, protecting privacy, enabling interoperability at the application level and aggregating information from the devices all loom as issues to be overcome. Above all, the top challenge may be to make more reliable decisions based on information from a larger set of devices. “What if we do get access to such a large amount of this data?” he asks.
+
+Reed defines the challenge as three concerns: fidelity, fitness and finding. For fidelity, more data does not mean better data, he points out. And questions remain about the quality of data available from large-scale networks of connected devices. Different types of sensors bring different types of degradation in data quality.
+
+In terms of fitness, no one can predict future uses for current procurements, Reed says. Missions change, and collection technology may need to serve a different purpose than originally intended. He suggests incrementally building new capability to support evolving missions. This will require interoperability at the application layer so the community can take advantage of new capabilities that would do a better job of meeting current requirements while being able to address new missions as they arise. Adding new devices or data types that are redundant to what already exists might lead to overconfidence, he observes. And incorrect data could spawn bad decisions.
+
+For the finding challenge, Reed addresses a longtime struggle: identifying and discovering where the correct information resides in a complex network. This challenge will increase in difficulty with ephemeral data that is distributed and transactional. “If we can find more effective ways to find high-fidelity data that is fitted to future missions, we will have come a long way to unlocking the value of these devices,” he offers.
+
+Reed notes that IARPA launched a project known as Reliable Inference with Missing, Masked, Malfunctioning or Malicious Sensors, or RIM4S. Research conducted at UCLA explored how these four types of degradations could be characterized and compensated, particularly in terms of how large-scale and diverse sensor networks best could improve decision making.
+
+Reed relates that this research was applied to three different application areas: cognitive radio, wireless and utility modeling. The project showed practical ways in which principled decisions could be made based on the diverse set of faults—even if no one knows in advance which specific fault is present in the data. The effort demonstrated that users could learn degradation types from the raw data, and Reed notes that the algorithms developed in the project had some practical efficiencies in real-world use.
+
+Having interoperability is key, and Reed states that interoperability does exist substantially at lower levels. Even at some higher levels, networking protocols interoperate well for moving data between devices and gateways. However, the applications running on a network may not interoperate, which can leave similar and nearby devices in different systems unable to connect. The information would have to be cleared by a cloud service provider.
+
+Reed will not speculate on the best solution to this interoperability challenge, although he states that a large amount of ongoing innovative research efforts may address this problem. Two he cites as promising are work from the RIM4S project and from ETH Zurich, a university that has been funded by the European Union and the Swiss government to pursue opportunistic crowdsourcing and activity and context recognition from diverse sensor networks.
+
+Also, a Defense Advanced Research Projects Agency (DARPA) program known as RadioMap is examining how to take advantage of untapped capabilities in military radios. Reed notes that military radios continuously sense the radio frequency (RF) environment during their operation, and researchers are seeking to exploit that RF-sensing capability to provide timely location-dependent frequency spectrum information.
+
+A related capability that Reed and his colleagues are interested in is wearable technology. One of its promises is the delivery of direct, persistent sensing of the wearer and his or her environment, he notes. While that is the intended application for many of these wearable devices, his group would like to approach the capability from a scientific standpoint. Key issues include the specific signatures observable and how unique and reliable those signatures are, as well as if these signatures can be used for more effective trials of complex social science problems, he notes.
+
+As with nearly all IARPA activities, the agency wants to tap academia and the private sector for related expertise. “Industry is actively involved in this topic, and we’d be foolish not to cast our net wide looking for the solutions to these challenges,” he emphasizes.
+
+“What is different [about the IoT in intelligence] is the variety of types of sensing devices that are present,” Reed offers. “Some of those sensors will be of pretty low quality. They may not be available all the times we want them to be available.
+
+“So, although the end mission is still the same, we are looking at different ways at the collection side to try to obtain the same information we have sought in the past,” he imparts.
+
+Privacy is a concern as IARPA moves toward its IoT. Reed notes that the organization has a broad agency announcement public solicitation that seeks approaches to enable “signal collection systems to conduct more effective targeted information acquisition rather than bulk collection.” The solicitation also seeks tools to identify and mask signal streams and records that contain personal information to avoid unauthorized collection and dissemination, he emphasizes.
+
+Success at developing an intelligence IoT will allow the community to satisfy multiple objectives and achieve a lower deployment cost, Reed offers. Again, however, this is contingent on overcoming some technological hurdles. “Until we really address some of these key technical challenges, then we will not be able to obtain all of that value,” he declares.
+
+Reed continues that IARPA is seeking good ideas on meeting these technical challenges. “I am optimistic, but it’s optimism that it will take a lot of work to realize that optimism,” he says.</text>
+  <imgalttext>
+    <img>A soldier with the 3rd Infantry Division monitors activity from an unmanned aerial vehicle. Warfighters and decision makers may have access to better information more rapidly if the intelligence community is able to realize its goal of an intelligence Internet of Things.</img>
+  </imgalttext>
+</article>

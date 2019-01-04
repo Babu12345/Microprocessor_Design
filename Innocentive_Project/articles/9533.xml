@@ -1,0 +1,18 @@
+<article>
+  <type>blog</type>
+  <title>The Past, Present and Future Network</title>
+  <author>Rita Boland</author>
+  <date>May 8, 2012</date>
+  <departments>
+  </departments>
+  <tags>
+    <tag>DISA 2012</tag>
+    <tag>Gen. Hawkins</tag>
+    <tag>Juniper Networks</tag>
+    <tag>Event Coverage</tag>
+  </tags>
+  <abstract>Dr. Pradeep Sindhu, vice chairman, chief technology officer and founder of Juniper Networks, tells the audience at the 2012 DISA Mission Partnership Conference about how the network has changed and what the future holds.</abstract>
+  <text>The last 10 years brought huge changes to information technology (IT) and the next decade will bring many more, according to Dr. Pradeep Sindhu, vice chairman, chief technology officer and founder of Juniper Networks. "[We are] in a world where networking is playing an increasingly important part of IT," he stated during his presentation at the 2012 Defense Information Systems Agency (DISA) Mission Partner Conference. Sindhu identified four fundamental principles for network infrastructure through 2022: a small set of common building blocks; centralize when possible, distribute when necessary; automate everything that can be automated; and increase the rate of open innovation. He also said that networks should not be divided vertically into applications, but horizontally in layers of silicon, systems, software and innovation ecosystem. By having these fewer configurations, training will be easier. Training is a major concern voiced by DISA Director Lt. Gen. Ronnie D. Hawkins, Jr., USAF. Examples of changes to the network since 2002 include virtualization, which Sindhu says allows people to use physical resources more efficiently and dynamically, wireless, mobile workers and the apps explosion. He also referenced the prevalence of "bring-your-own-device" situations in the workplace, service providers making revenue from new Internet protocol data services instead of voice and the cloud hype finally turning to reality. Another topic covered by Sindhu involves the enterprise network. He explained that in such a network, managers must determine centrally and one time who can access what resources and then ensure that those decisions are employed uniformly. In addition, Sindu believes it is finally possible to have a universal edge to the network. Exponential traffic growth and new apps are  challenges to service provider economics, he added.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

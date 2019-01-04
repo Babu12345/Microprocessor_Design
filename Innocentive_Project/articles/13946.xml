@@ -1,0 +1,27 @@
+<article>
+  <type>blog</type>
+  <title>Cybersecurity Center of Excellence Seeks Input on Securing Medical Devices</title>
+  <author>George I. Seffers</author>
+  <date>December 23, 2014</date>
+  <departments>
+    <department>Cyber</department>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>National Institute of Standards and Technology</tag>
+    <tag>cyber</tag>
+    <tag>News Briefs</tag>
+  </tags>
+  <abstract>The National Cybersecurity Center of Excellence outlines a threat to medical devices and launches a search for solutions.</abstract>
+  <text>The National Cybersecurity Center of Excellence (NCCoE) is inviting comments on a draft project to secure medical devices known as networked infusion pumps, which convey fluids, drugs and nutrients into patients' bloodstreams. Hospitals are increasingly using the devices and connecting them to a central system, which makes them more vulnerable to cyberthreats.
+
+A networked infusion pump can allow centralized control of the device’s programming as well as automated cross checks against pharmacy records and patient data to ensure the right dose of fluids or medication are delivered at the right time to the right patient. 
+
+The effort is a collaboration between the NCCoE at the National Institute of Standards and Technology and the Technological Leadership Institute at the University of Minnesota. Minnesota-based providers of services, manufacturers and medical device industry associations helped to draft a use case, which provides a technical description of the challenge of securing the devices and describes desired characteristics for solutions. 
+
+The draft use case identifies the people and systems that interact with infusion pumps, defines their interactions, performs a risk assessment, identifies applicable security technologies and provides an example method or implementation to secure the system. 
+
+After the use case is finalized, the NCCoE will invite organizations to participate in developing a practice guide, or a collection of the materials and information needed to deploy an example solution of off-the-shelf products that address the technical security problems. The guide will describe the hardware, software and configurations the project used to address the issues presented in this use case so that others can replicate the approach.</text>
+  <imgalttext>
+  </imgalttext>
+</article>

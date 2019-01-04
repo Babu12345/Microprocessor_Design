@@ -1,0 +1,66 @@
+<article>
+  <type>article</type>
+  <title>Demand Swells for Critical Infrastructure Training</title>
+  <author>George I. Seffers</author>
+  <date>January 1, 2017</date>
+  <departments>
+    <department>Homeland Security</department>
+  </departments>
+  <tags>
+    <tag>DHS</tag>
+    <tag>Department of Homeland Security</tag>
+    <tag>critical infrastructure</tag>
+  </tags>
+  <abstract>The U.S. government is expanding and enhancing training on how to protect the nation’s critical infrastructure from both cyber and physical attacks.</abstract>
+  <text>The U.S. government is expanding and enhancing training on how to protect the nation’s critical infrastructure from both cyber and physical attacks. 
+
+For more than a decade, the U.S. Department of Homeland Security (DHS) has offered a wide array of free training programs to government and private-sector infrastructure owners and operators. Critical infrastructure provides the essential services that underpin American society and serves as the backbone of the nation’s economy, security and health. It includes defense, transportation, finance, communications and other sectors.
+
+A mix of web-based independent study and instructor-led courses is designed to develop the knowledge and skills needed to implement critical infrastructure security and resilience activities. The unclassified courses are open to all U.S. operators, engineers and security professionals who play a role in securing the country’s infrastructure. The courses also are sometimes open to select international participants.
+
+Over the years, however, department officials have seen a steady increase in demand and now are offering more courses and developing additional formats, such as CDs and game-based technology for active shooter preparedness training.
+
+In the cyber arena, DHS officials intend to provide more courses involving blue and red teaming. The training allows students to attack and defend networks associated with industrial control systems related to power, transportation, water, gas and other vital assets. “The infrastructure that runs our country has become increasingly dependent on cyber systems,” explains Marty Edwards, director of the department’s Industrial Control Systems Cyber Emergency Response Team. “Almost every infrastructure now in one way or another is totally dependent on these very specialized computing platforms that provide the command and control functionality.”
+
+The DHS team offers a multiday, instructor-led course once a month at an isolated Department of Energy facility owned by the Idaho National Laboratory in Idaho Falls, Idaho. This year, the team intends to provide 18 classes, or one every three weeks. “Continuing resolution notwithstanding, we are scaling that up somewhat,” Edwards reports.
+
+He adds that the DHS continually adapts to keep up with demand. “We’re overprescribed by at least double. We get twice as many requests as we’re able to fulfill, so we’re simply trying to meet the increase in demand,” Edwards says.
+
+The cyber training facility replicates the networking environment of an industrial control system, including physical tanks, pumps, breakers, switches and even email servers. After several days of specific courseware and exercises to gain familiarity with the environment, students participate in an all-day red and blue team exercise. “The blue team is tasked with keeping a chemical plant running, complete with all of its industrial control system environment. There are tanks pumping a chemical, dihydrogen monoxide, around in circles,” Edwards says, pointing out that dihydrogen monoxide is actually water. “An electrical grid supplies power to the facility. The red team is tasked with stealing corporate secrets, causing mischief and shutting the plant down, if possible.” 
+
+Students are given free rein to attack or defend the network as they see fit. “Within the training scenario, everything is basically on the table. The students can bring their own tools. We have seen, for example, crafty spear-phishing messages and social engineering types of attacks within the training scenario to try to extract information from the opposite team,” Edwards reports. 
+
+Occasionally, students spring surprises. “We had industrial control system professionals who actually brought their own industrial control system hardware to set up as a honey pot to distract the red team into a nonvaluable target area. We were surprised people showed up with boxes of their own hardware to play with,” Edwards reveals.
+
+DHS officials continually update the training to include current and emerging threats as well. “We are teaching our students how to defend against modern malware series, such as the BlackEnergy malware, which of course played a role in the attacks on Ukraine. We try to keep the training scenarios very relevant to what the current threat landscape looks like,” Edwards says.
+
+Training is only one part of the mission for the DHS industrial control systems team. The team members also perform field-based assessments of cybersecurity risks to the nation’s critical infrastructure. “Whether it’s a private-sector company that owns critical infrastructure or a public department or an agency at the federal, state, local, tribal or territorial level, or another entity such as the Defense Department, we will work with them and send subject matter experts who are very well-trained and respected in their fields to do an evaluation or an assessment of the cybersecurity posture of that system,” Edwards says.
+
+In addition, the team will deploy experts to help law enforcement investigate a malware infection, determine how it happened and help spread the word. “Sometimes, an attack or a malware infection in one company or one sector could infect the broader critical infrastructure. We try to do a good job of information sharing ... so that we can inoculate the overall critical infrastructure,” Edwards says.
+
+It is not clear which sector sees the most attacks, but some call for help more than others. “Energy and manufacturing seem to be repeat customers of ours. I’m not sure if that correlates to their being targeted more often or if they’re, for example, more mature and better able to detect the infection or the intrusion,” Edwards suggests.
+
+Of course, digital threats are not the only concern for the department. It also is enhancing its training on physical threats to the critical infrastructure. Bob Kolasky, DHS deputy assistant secretary for infrastructure protection, describes the training as part of the department’s “capacity building efforts.” 
+
+Web-based video training as well as instructor-led courses cover chemicals, dams, emergency services and nuclear reactors, materials and waste. “We’ve been focused on where we see the biggest gaps and the most requests from owners and operators. Among the things we’ve done training on is countering improvised explosive devices (IEDs); awareness and detection of materials that can be used for bomb making; some training around defeating vehicle-borne IEDs; and active shooter preparedness,” Kolasky says. 
+
+The active shooter courses, which the DHS has provided since about 2011, have become some of the most popular offerings, he adds. “We just went through a significant upgrade of our active shooter preparedness training,” Kolasky says. Originally, the training was focused on reacting to a shooting scenario. Now, it includes options for preventing active shooters, keeping employees informed and recovering from these incidents. 
+
+The department also has had some of its active shooter training materials translated into multiple languages and is exploring ways to help people with disabilities during active shooter events. “Those improvements have been ongoing. That has been one of our biggest expansions,” Kolasky states.
+
+To help meet the growing demand for active shooter preparedness training, he reports, the DHS Science and Technology Directorate is developing a game-based solution. It should be available this year or next, Kolasky says.
+
+His team also offers business continuity training and has created a CD that uses a “TurboTax-like approach” to help organizations more effectively develop plans.
+
+Additionally, Kolasky stresses the need to train the private sector to be aware of bomb-making efforts. “We’re seeing, unfortunately, overseas a lot of interest in using IEDs and bringing in explosive precursors—easy-to-acquire materials. We’re trying to get out the message to those folks who have or sell these materials that a little is no big deal, but a lot could cause harm,” he says, adding that his team also focuses on training for suspicious activity reporting.
+
+Over the years, DHS courses have evolved to take a “train the trainer” approach that helps meet demand. Officials initially traveled around the country training “people on the front lines of protecting infrastructure,” Kolasky recalls. “But we quickly realized that our capacity to do that was exceeded by the demand.” 
+
+In response, the department started helping organizations establish internal training programs. “It is more effective to actually train a corporation on how to set up a training program ... or to train state governments, for example, on how to build a bomb-making awareness program rather than go out and do our own training with hardware stores and agricultural vendors,” he says.
+
+Despite such changes, it still is difficult for the department to keep up with demand. “We ask folks to put together requests for additional resources based on evidence, and they always show us that there is a lot of unmet need,” Kolasky says.</text>
+  <imgalttext>
+    <img>The U.S. Department of Homeland Security offers free training designed to help protect the nation’s critical infrastructure, including the electrical grid.</img>
+    <img>A significant power generator, Hoover Dam is considered part of the nation’s critical infrastructure. Much of that infrastructure may be vulnerable to either cyber or physical attacks.</img>
+  </imgalttext>
+</article>

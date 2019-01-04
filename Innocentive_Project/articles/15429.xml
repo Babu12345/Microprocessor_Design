@@ -1,0 +1,51 @@
+<article>
+  <type>blog</type>
+  <title>Crypto and The Imitation Game</title>
+  <author>Justin Marston</author>
+  <date>November 4, 2015</date>
+  <departments>
+    <department>Technology</department>
+  </departments>
+  <tags>
+    <tag>cryptography</tag>
+    <tag>Encryption</tag>
+    <tag>guest bloggers</tag>
+  </tags>
+  <abstract>Cryptography is an old game of secrecy with a storied history that millennia later, secures information in the digital age. Encryption, or the conversion of data into another form, plays a critical role in cryptography, with encryption algorithms protecting data on numerous devices across many networks. As many ways as there are to protect information, however, there are also those willing to crack the code.</abstract>
+  <text>You’re trying to break the German Enigma machine. … It’s the greatest encryption device in history, and the Germans use it for all major communications. If the Allies broke Enigma—well, this would turn into a very short war indeed. … One hundred and fifty nine million million million possible Enigma settings. All we had to do was try each one. —Alan Turing in The Imitation Game (Weinstein Company, 2014)
+
+Cryptography is an old game of secrecy with a storied history that millennia later, secures information in the digital age. Encryption, or the conversion of data into another form, plays a critical role in cryptography, with encryption algorithms protecting data on numerous devices across many networks. As many ways as there are to protect information, however, there are also those willing to crack the code.
+
+Which brings us to how encryption can be broken. Some answers might be offered by Alan Turing, one of the founders of modern computing, and lessons highlighted in our blog-featured film, loosely based on the mastermind. Consider the following key components:  
+
+Operators: People who use cryptographic systems
+	Secrets: Something both parties know but don’t tell anyone else
+	Algorithms: Mathematical functions used to encrypt and decrypt data
+	Entropy: A measure of randomness
+	Obfuscation: Hiding encrypted payloads
+	System: Encryption systems typically have to run on computers
+Operator laziness often can introduce patterns or flaws that help cryptanalysis attackers “solve the puzzle.” In The Imitation Game, Helen (one of the decoder Wrens) explains to Turing and his team that each German operator tip-taps messages slightly differently, with one operator using a discernable, repeated pattern. Today, operators still cause problems by failing to patch their systems or improperly store crypto keys. Modern systems try to include better technical safeguards in their design so user error has less potential to cause problems.
+
+In The Imitation Game, the shared secret was the configuration of the rotors in the Enigma, an electromechanical rotator machine Germans used to encode messages. Once the Allies knew the rotor position, they could decrypt every message. Today, secrets are typically random character blocks, or crypto keys, transmitted and stored digitally. The greater the number of possible values these character blocks can take, the harder to guess the crypto key used to unlock content. Considering that a four-digit credit card PIN has 10,000 possible values, its entropy is low.
+
+Another cryptographic system challenge is choosing an algorithm. One weakness of the Enigma machine was that it substituted letters with other letters, making it easier for analysts to find patterns. In The Imitation Game, the weather reports went out at 6 a.m. and included the words “weather” and “Heil Hitler.” Modern cryptographic algorithms are much more robust and less susceptible to pattern analysis, however many of these algorithms are open source, relying purely on the strength of the keys to ensure secrecy.
+
+Entropy measures randomness in a system, which might have a theoretical maximum number of values. But if some of the values are ignored or there is a probability function that makes some values more likely than others, this skews the numbers and makes a brute force attack easier. 
+
+The Germans tried obfuscation during WWII by creating many networks, but it did not work well. The primary example of obfuscation today comes from steganography, or concealing information within nonsecret text or data. It has less to do with encryption and more to do with hiding encrypted data in other objects, such as noise in images. 
+
+An advantage of the Enigma was its status as a state machine, or glorified calculator. The Allies couldn’t hack into the Nazi’s Enigma server and steal encryption keys, though they often tried to capture German military assets. Today, encryption systems typically run on computers, plagued by weaknesses that do not relate to the encryption itself.
+
+Some of the techniques used by the Defense Department and other agencies to improve cryptographic security include: hardware key storage to keep encryption keys in secure elements from which they can’t be removed; moving encryption operations to separate computer systems, such as hardware security modules (HSMs); cryptographic cards in servers; TrustZone mode in Android devices; and ensuring good entropy in random number generation.
+
+Computing systems now feature cryptographic functions often externalized into services offered by the underlying platform so developers are not forced to “bring your own crypto.”  Thin client architectures such as Hypori’s ACE Platform offload cryptographic functions to the remote access platform, negating the need to assure the cryptographic implementations used by the individual mobile apps.
+
+Encryption is at the heart of protecting the world’s most critical systems. Banking, healthcare, government and defense all rely on commercial encryption to safeguard sensitive information. If, or perhaps we might say when, someone develops a scalable, working quantum computer, we might see a “cryptogeddon” with operators suddenly able to read all traffic as easily as British intelligence could read German messages encrypted with Enigma.
+
+Perhaps one of the most striking observations from the Enigma story is that after the war, German cryptographers revealed they knew Enigma was breakable, but assumed the Allies would not go to the massive effort of breaking it. In the final analysis, cracking Enigma had a significant impact on the outcome of World War II.
+
+Justin Marston is CEO and co-founder of Hypori. He holds multiple patents, is a published author and holds a master’s degree in chemistry from Durham University. This is the third in a series of blogs Marston will pen on key issues, uniquely paralleling movie themes in each. He already tackled attestation and derived credentials. Future blogs will address data at rest, mobile malware and privacy.  </text>
+  <imgalttext>
+    <img></img>
+  </imgalttext>
+</article>

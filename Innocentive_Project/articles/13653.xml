@@ -1,0 +1,38 @@
+<article>
+  <type>article</type>
+  <title>Insider Threats Could Rise as Hackers Troll Social Media</title>
+  <author>Sandra Jontz</author>
+  <date>October 10, 2014</date>
+  <departments>
+    <department>Cyber</department>
+  </departments>
+  <tags>
+    <tag>cyber defense</tag>
+    <tag>Hacker</tag>
+    <tag>SIGNAL Online Exclusives</tag>
+  </tags>
+  <abstract>The recent rash of cyber attacks on major U.S. companies has drawn renewed focus on network vulnerabilities, both in commercial and governmental sectors, and not just on external attackers but on potentially more ominous threats posed by insiders. Hackers are looking for self-identified privileged users who broadcast on social media sites their career positions.</abstract>
+  <text>The recent rash of cyber attacks on major U.S. companies has drawn renewed focus on network vulnerabilities, both in commercial and governmental sectors, and not just on external attackers but on potentially more ominous threats posed by insiders.
+
+A fundamental challenge for experts tasked with combating malicious insiders is that the insiders understand an organization’s vulnerabilities firsthand and how to exploit them, according to a Department of Homeland Security report on the dangers of insider threats on critical infrastructure. “They present a special category of organizational concern because their trusted position allows them to circumvent many of the institution’s defenses, which typically are directed outward,” according to a portion of the 158-page report released in December and titled “National Risk Estimate: Risks to U.S. Critical Infrastructure from Insider Threat.”
+
+The malicious insider threat is complex and dynamic, and it affects all realms of public and private domains in all 16 critical infrastructure sectors, from commercial facilities to communications, dams, defense, energy, food and financial services, the report states.
+
+People with privileged access to networks pose “the most widely exploited weaknesses in relation to most of the attacks you hear about today,” says Ken Ammon, chief strategy officer of Xceedium Inc., a network security software company that provides privileged identity and access management solutions.
+
+Ammon predicts an uptick in targeted attacks on privileged users as hackers sweep through social media sites such as LinkedIn, trolling for users who identify themselves as system administrators and employees of governmental agencies. “They’re crafting very specific campaigns to grab control of that person’s credentials because they know ahead of time there is a very, very good chance the person has elevated rights and will give them the keys to the castle.”
+
+Seventy-three percent of privileged users feel empowered to access all the information they can view, according to a study conducted by Ponemon Institute LLC and commissioned by Raytheon Company. The report, released in May, also reveals that 65 percent of privileged users access sensitive or confidential data out of curiosity, and 54 percent say their assigned access rights go beyond users’ responsibilities.
+
+Two major factors complicate officials’ efforts to predict the likelihood of malicious insider attacks: the challenge of identifying and predicting stressors or triggers that can cause a trusted employee to become a malicious actor; and the lack of detailed and reliable empirical data on insider breaches and attacks that can be shared across the full spectrum of critical infrastructure owners and operators, according to the DHS report.
+
+But not all vulnerabilities are exploited by nefarious attackers alone, Ammon cautions. “Many of the cases where the credentials are being hijacked, the users are unaware that somebody has assumed their role,” Ammon offers. “Without the appropriate systems internally, it goes undetected. It looks as if this person is just doing their job, when if you had the appropriate systems in place, you’d know that this person was logged in from three different continents at the same time and trying to access systems they have no business trying to access.”
+
+More and more agencies are making the shift to zero-trust models, in essence, giving employees the least set of privileges necessary to conduct missions. “If you don’t enforce a zero-trust model on those users, you really open yourself up, not only for nefarious activity within the organization, but for targeted nation-state exploitation, which I think everyone sees is becoming quite prevalent and is very successful,” Ammon says.
+
+Part of the DHS’ analysis included a blistering assessment of the migration toward cloud services, which “increases risk because of increased opportunities for remote access to critical systems,” the report states. “The subject matter experts agreed that malicious ‘cloud’ use scenarios are frightening because potential impacts could extend well beyond the cyber realm into the physical, for example, in the case of cyber-initiated chemical or biological attacks. Over the next 20 years, there will be numerous technological advances that will affect U.S. critical infrastructure whose potential security vulnerabilities will need to be evaluated before fielding on a wide scale. Unfortunately, technology moves quickly, and malicious actors are likely to quickly leverage it to suit their needs.”
+
+Threats aren’t inherent to insider employees alone but posed also by business connections, contractors, third-party vendors and foreign partner nations, the DHS report states.</text>
+  <imgalttext>
+  </imgalttext>
+</article>
